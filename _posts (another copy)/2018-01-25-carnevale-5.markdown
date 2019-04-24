@@ -1,0 +1,12 @@
+---
+author: carlotta
+comments: true
+date: 2018-01-25 13:54:29+00:00
+layout: post
+link: http://pilde.net/blog/?p=6912
+slug: carnevale-5
+title: Carnevale
+wordpress_id: 6912
+---
+
+![carnevale](http://pilde.net/blog/wp-content/uploads/2018/02/carnevale.png)

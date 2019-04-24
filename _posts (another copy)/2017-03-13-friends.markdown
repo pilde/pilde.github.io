@@ -1,0 +1,16 @@
+---
+author: carlotta
+comments: true
+date: 2017-03-13 11:23:26+00:00
+layout: post
+link: http://pilde.net/blog/?p=6326
+slug: friends
+title: Friends
+wordpress_id: 6326
+categories:
+- Amici
+---
+
+Auguri a tutte le amiche :)
+
+![friends](http://pilde.net/blog/wp-content/uploads/2017/05/friends.jpg)

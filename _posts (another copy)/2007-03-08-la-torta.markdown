@@ -1,0 +1,16 @@
+---
+author: carlotta
+comments: true
+date: 2007-03-08 08:06:05+00:00
+layout: post
+link: http://pilde.net/blog/?p=213
+slug: la-torta
+title: La torta
+wordpress_id: 213
+categories:
+- Eventi
+---
+
+Non ho ben capito perchè tutti la mangiavano ed io ho potuto solo imbrattarmi un pochino le mani, però mi sa che in futuro le cose cambieranno ... "noi siamo piccoli, ma cresceremo e allora virgola" ...
+
+![torta.jpg](http://pilde.net/blog/wp-content/uploads/2007/03/torta.jpg)

@@ -1,0 +1,16 @@
+---
+author: carlotta
+comments: true
+date: 2013-05-30 13:10:25+00:00
+layout: post
+link: http://pilde.net/blog/?p=3788
+slug: sdentata
+title: Sdentata!
+wordpress_id: 3788
+categories:
+- Presentazione
+---
+
+Sono caduti tutti e due!!
+
+[![sdentata](http://pilde.net/blog/wp-content/uploads/2013/05/sdentata.jpg)](http://pilde.net/blog/wp-content/uploads/2013/05/sdentata.jpg)

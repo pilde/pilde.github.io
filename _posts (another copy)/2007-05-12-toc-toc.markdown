@@ -1,0 +1,16 @@
+---
+author: carlotta
+comments: true
+date: 2007-05-12 06:16:18+00:00
+layout: post
+link: http://pilde.net/blog/?p=279
+slug: toc-toc
+title: Toc Toc
+wordpress_id: 279
+categories:
+- Presentazione
+---
+
+Per entrare nella mia cameretta, dovete bussare la coccinella di Nathalie... dicono mi somigli. Ciao
+
+![coccinella.JPG](http://pilde.net/blog/wp-content/uploads/2007/05/coccinella.JPG)

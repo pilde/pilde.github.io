@@ -1,0 +1,17 @@
+---
+author: andrea
+comments: true
+date: 2006-09-24 11:25:31+00:00
+layout: post
+link: http://pilde.net/blog/?p=12
+slug: eccoci
+title: Eccoci ... 007...
+wordpress_id: 12
+categories:
+- Presentazione
+---
+
+![](http://pilde.net/blog/wp-content/uploads/2006/09/dscn2206.JPG)
+
+
+
