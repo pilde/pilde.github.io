@@ -14,7 +14,8 @@ categories:
 
 **17/03** ore 00.00 finalmente si parte per la montagna! Viaggio di notte per essere a Cervinia alle 8 del mattino....con una bella sorpresa.... ziaaaaaa
 
-![zia_1](http://pilde.net/blog/wp-content/uploads/2019/04/zia_1.png)
+
+![zia_1]({{ baseurl }}/uploads/2019/04/zia_1.png)
 
 
 Noleggiamo tutto e prendiamo la cabinovia per Plain Maison insieme a Morghi e zia![morghi](http://pilde.net/blog/wp-content/uploads/2019/04/morghi.png)
