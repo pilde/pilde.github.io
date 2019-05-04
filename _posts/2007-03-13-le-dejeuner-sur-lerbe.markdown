@@ -15,7 +15,7 @@ In occasione del compleanno di Nathalie, la mamma della mia amica Popì, siamo s
 
 
 
-![colosseo1.jpg](http://pilde.net/blog/wp-content/uploads/2007/03/colosseo1.jpg)
+![colosseo1.jpg]({{baseurl}}/uploads/2007/03/colosseo1.jpg)
 
 
 
@@ -25,12 +25,12 @@ e poi abbiamo pranzato su un bel prato di margherite.Ha tutto un altro sapore la
 
 
 
-![colosseo2.jpg](http://pilde.net/blog/wp-content/uploads/2007/03/colosseo2.jpg)
+![colosseo2.jpg]({{baseurl}}/uploads/2007/03/colosseo2.jpg)
 
 
 
 
-![colosseo4.jpg](http://pilde.net/blog/wp-content/uploads/2007/03/colosseo4.jpg)
+![colosseo4.jpg]({{baseurl}}/uploads/2007/03/colosseo4.jpg)
 
 
 

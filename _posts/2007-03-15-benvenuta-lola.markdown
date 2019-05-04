@@ -13,7 +13,7 @@ categories:
 
 Un'altra amichetta... ma chi ci fermerà quando usciremo tutte insieme!!!
 
-![lola.jpg](http://pilde.net/blog/wp-content/uploads/2007/03/lola.jpg)
+![lola.jpg]({{baseurl}}/uploads/2007/03/lola.jpg)
 
 
 

@@ -15,15 +15,15 @@ M&P vanno alla fiera della piccola editoria da soli....infatti Mati sta male da 
 
 Quest'anno la fiera la fanno dentro la Nuvola di Fuxas! Entriamo insieme all'attore Riccardo Rossi, a cui compriamo il biglietto online mentre siamo in fila....simpatico!
 
-![nuvola1](http://pilde.net/blog/wp-content/uploads/2019/01/nuvola1.jpg)
+![nuvola1]({{baseurl}}/uploads/2019/01/nuvola1.jpg)
 
 
- ![nuvola3](http://pilde.net/blog/wp-content/uploads/2019/01/nuvola3.jpg)
+ ![nuvola3]({{baseurl}}/uploads/2019/01/nuvola3.jpg)
 
 
 E conosciamo anche Michele, un tipo figo, bravo fumettista a quanto pare :D
 
-![zero](http://pilde.net/blog/wp-content/uploads/2019/01/zero.png)
+![zero]({{baseurl}}/uploads/2019/01/zero.png)
 
 
 

@@ -13,7 +13,7 @@ categories:
 
 Secondo il Sistema Internazionale, alla soglia dei miei 10 mesi, sono alta 75 cm e peso 8,2 Kg!
 
-![macchina.jpg](http://pilde.net/blog/wp-content/uploads/2007/07/macchina.jpg)
+![macchina.jpg]({{baseurl}}/uploads/2007/07/macchina.jpg)
 
 
 

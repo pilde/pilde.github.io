@@ -13,7 +13,7 @@ categories:
 
 .... ha i suoi vantaggi
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/12/piramide.jpg)
+[![]({{baseurl}}/uploads/2008/12/piramide.jpg)
 
 
 ](http://None)

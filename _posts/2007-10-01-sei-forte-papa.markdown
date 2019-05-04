@@ -14,7 +14,7 @@ categories:
 Evviva! Il mio P ha vinto il concorso da ricercatore alla Sapienza!
 Finalmente un dipendente della pubblica amministrazione!
 Sei troppo forte papà!
-![papi.JPG](http://pilde.net/blog/wp-content/uploads/2007/10/papi.JPG)
+![papi.JPG]({{baseurl}}/uploads/2007/10/papi.JPG)
 
 
 

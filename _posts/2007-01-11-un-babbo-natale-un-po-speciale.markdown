@@ -13,7 +13,7 @@ categories:
 
 Ciao, ecco la mia gemellina Toporosa in versione Babbo Natale!Carina vero?
 
-![alessia_natale.jpg](http://pilde.net/blog/wp-content/uploads/2007/01/alessia_natale.jpg)
+![alessia_natale.jpg]({{baseurl}}/uploads/2007/01/alessia_natale.jpg)
 
 
 

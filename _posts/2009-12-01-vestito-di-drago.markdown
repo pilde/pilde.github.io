@@ -11,7 +11,7 @@ categories:
 - Giochi
 ---
 
-![](http://pilde.net/blog/wp-content/uploads/2009/12/coccodrillo.jpg)
+![]({{baseurl}}/uploads/2009/12/coccodrillo.jpg)
 
 
 

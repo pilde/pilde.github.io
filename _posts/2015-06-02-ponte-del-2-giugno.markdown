@@ -16,62 +16,62 @@ Un anticipo di vacanza con questo lungo ponte! Andiamo in campagna dai nonni.
 
 Passiamo una bella giornata di relax alle terme, e ci raggiunge anche Flavio.
 
-[![mati_terme](http://pilde.net/blog/wp-content/uploads/2015/09/mati_terme.jpg)
+[![mati_terme]({{baseurl}}/uploads/2015/09/mati_terme.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/mati_terme.jpg)
+]({{baseurl}}/uploads/2015/09/mati_terme.jpg)
 
 
-[![m&m_terme](http://pilde.net/blog/wp-content/uploads/2015/09/mm_terme.jpg)
+[![m&m_terme]({{baseurl}}/uploads/2015/09/mm_terme.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/mm_terme.jpg)
+]({{baseurl}}/uploads/2015/09/mm_terme.jpg)
 
 
 E poi andiamo a visitare il bellissimo Giardino dei Tarocchi insieme alle nostre amichette Alessia e Anita.
 
-[![tarocchi_bimbe](http://pilde.net/blog/wp-content/uploads/2015/09/tarocchi_bimbe.jpg)
+[![tarocchi_bimbe]({{baseurl}}/uploads/2015/09/tarocchi_bimbe.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/tarocchi_bimbe.jpg)
+]({{baseurl}}/uploads/2015/09/tarocchi_bimbe.jpg)
 
 
-[![tarocchi_io&mati](http://pilde.net/blog/wp-content/uploads/2015/09/tarocchi_iomati.jpg)
+[![tarocchi_io&mati]({{baseurl}}/uploads/2015/09/tarocchi_iomati.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/tarocchi_iomati.jpg)
+]({{baseurl}}/uploads/2015/09/tarocchi_iomati.jpg)
 
 
- [![tarocchi_lory&ani](http://pilde.net/blog/wp-content/uploads/2015/09/tarocchi_loryani.jpg)
+ [![tarocchi_lory&ani]({{baseurl}}/uploads/2015/09/tarocchi_loryani.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/tarocchi_loryani.jpg)
+]({{baseurl}}/uploads/2015/09/tarocchi_loryani.jpg)
 
 
- [![tarocchi_mati&nonna](http://pilde.net/blog/wp-content/uploads/2015/09/tarocchi_matinonna.jpg)
+ [![tarocchi_mati&nonna]({{baseurl}}/uploads/2015/09/tarocchi_matinonna.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/tarocchi_matinonna.jpg)
+]({{baseurl}}/uploads/2015/09/tarocchi_matinonna.jpg)
 
 
- [![tarocchi_mati](http://pilde.net/blog/wp-content/uploads/2015/09/tarocchi_mati.jpg)
+ [![tarocchi_mati]({{baseurl}}/uploads/2015/09/tarocchi_mati.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/tarocchi_mati.jpg)
+]({{baseurl}}/uploads/2015/09/tarocchi_mati.jpg)
 
 
- [![tarocchi_meggy&ale](http://pilde.net/blog/wp-content/uploads/2015/09/tarocchi_meggyale.jpg)
+ [![tarocchi_meggy&ale]({{baseurl}}/uploads/2015/09/tarocchi_meggyale.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/tarocchi_meggyale.jpg)
+]({{baseurl}}/uploads/2015/09/tarocchi_meggyale.jpg)
 
 
 Torniamo a casa con una nuova inquilina.... Athena! Che ne dici Spartaco ... è simpatica??
 
-[![sparty&atena](http://pilde.net/blog/wp-content/uploads/2015/09/spartyatena.png)
+[![sparty&atena]({{baseurl}}/uploads/2015/09/spartyatena.png)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/spartyatena.png)
+]({{baseurl}}/uploads/2015/09/spartyatena.png)
 
 
 

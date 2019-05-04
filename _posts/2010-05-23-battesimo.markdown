@@ -14,14 +14,14 @@ categories:
 
 una giornata speciale per la piccola alessia e i suoi genitori!
 
-![](http://pilde.net/blog/wp-content/uploads/2010/05/battesimo.jpg)
+![]({{baseurl}}/uploads/2010/05/battesimo.jpg)
 
 
 
 
 e poi tutti a giocare!
 
-![](http://pilde.net/blog/wp-content/uploads/2010/05/bimbe.jpg)
+![]({{baseurl}}/uploads/2010/05/bimbe.jpg)
 
 
 

@@ -13,7 +13,7 @@ categories:
 
 a tutti gli amici...vicini e lontani!
 
-![natale.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/natale.jpg)
+![natale.jpg]({{baseurl}}/uploads/2007/12/natale.jpg)
 
 
 

@@ -14,20 +14,20 @@ categories:
 
 Si sa, la vita del pizzettaro è dura, mentre tutti si divertono e mangiano, lui lavora indefesso ...
 
-[![](http://pilde.net/blog/wp-content/uploads/2012/01/pizza1.jpg)
+[![]({{baseurl}}/uploads/2012/01/pizza1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2012/01/pizza1.jpg)
+]({{baseurl}}/uploads/2012/01/pizza1.jpg)
 
 
 
 
 e come vedete, Lorenzo, il nostro meglio pizzarolo de li castelli, non si risparmia. Infatti il risultato è eccellente
 
-[![](http://pilde.net/blog/wp-content/uploads/2012/01/pizza2.jpg)
+[![]({{baseurl}}/uploads/2012/01/pizza2.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2012/01/pizza2.jpg)
+]({{baseurl}}/uploads/2012/01/pizza2.jpg)
 
 
 
@@ -90,10 +90,10 @@ impastare il tutto nel contenitore e lavorare il tutto per almeno 15 minuti con 
 regolare la miscela di farina e acqua per ottenere la giusta consistenza attenzione se troppo dura e' complicato renderla soffice. conviene mantenere 2 pugni di miscela separati per aggiungerla successivamente.
 lasciare lievitare l'impasto per almeno due ore coperto da un telo di stoffa in ambiente con tempertura non inferiore a 20 gradi
 
-[![](http://pilde.net/blog/wp-content/uploads/2012/01/pizza3.jpg)
+[![]({{baseurl}}/uploads/2012/01/pizza3.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2012/01/pizza3.jpg)
+]({{baseurl}}/uploads/2012/01/pizza3.jpg)
 
 
 

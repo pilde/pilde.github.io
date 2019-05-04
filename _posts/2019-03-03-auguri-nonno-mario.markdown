@@ -14,31 +14,31 @@ categories:
 
 Per il compleanno di nonno Mario una bella festa in campagna con un pò di amici e il primo tentativo di peka di agnello!!
 
-![mario](http://pilde.net/blog/wp-content/uploads/2019/03/mario.png)
+![mario]({{baseurl}}/uploads/2019/03/mario.png)
 
 
- ![peka](http://pilde.net/blog/wp-content/uploads/2019/03/peka.png)
+ ![peka]({{baseurl}}/uploads/2019/03/peka.png)
 
 
-le ragazze giocano e torturano Olmo ![meggy&lally](http://pilde.net/blog/wp-content/uploads/2019/03/meggylally.png)
+le ragazze giocano e torturano Olmo ![meggy&lally]({{baseurl}}/uploads/2019/03/meggylally.png)
 
 
  e raccolgono i finocchi
 
-![finocchi](http://pilde.net/blog/wp-content/uploads/2019/03/finocchi.png)
+![finocchi]({{baseurl}}/uploads/2019/03/finocchi.png)
 
 
 
 
-un ottimo e abbondante pranzo![nonni_2](http://pilde.net/blog/wp-content/uploads/2019/03/nonni_2.png)
+un ottimo e abbondante pranzo![nonni_2]({{baseurl}}/uploads/2019/03/nonni_2.png)
 
 
 
 
-e infine la torta!![Mario_2](http://pilde.net/blog/wp-content/uploads/2019/03/Mario_2.png)
+e infine la torta!![Mario_2]({{baseurl}}/uploads/2019/03/Mario_2.png)
 
 
-![Mati&Mario](http://pilde.net/blog/wp-content/uploads/2019/03/MatiMario.png)
+![Mati&Mario]({{baseurl}}/uploads/2019/03/MatiMario.png)
 
 
 

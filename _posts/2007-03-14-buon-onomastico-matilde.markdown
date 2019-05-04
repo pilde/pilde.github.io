@@ -16,7 +16,7 @@ Ciao Matilde ! La mia mamma ha letto sul calendario che oggi è S. Matilde!! Per
 
 . Io ci sono stata ed è stato proprio bellissimo ...tante luci, suoni, colori e mentre la giostra girava mi potevo impicciare di tutto hihihi :-D
 
-![giostra.jpg](http://pilde.net/blog/wp-content/uploads/2007/03/giostra.jpg)
+![giostra.jpg]({{baseurl}}/uploads/2007/03/giostra.jpg)
 
 
 
@@ -25,7 +25,7 @@ Io intanto ti mando un bacione e un abbraccio grande grande :-D Tanti auguri !!!
 
 p.s. Auguri anche dai miei MeP
 
-![alessia-marzo-2007-097_bis.jpg](http://pilde.net/blog/wp-content/uploads/2007/03/alessia-marzo-2007-097_bis.jpg)
+![alessia-marzo-2007-097_bis.jpg]({{baseurl}}/uploads/2007/03/alessia-marzo-2007-097_bis.jpg)
 
 
 

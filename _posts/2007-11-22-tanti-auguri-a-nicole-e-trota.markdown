@@ -13,12 +13,12 @@ categories:
 
 ciao amici mille auguri per i vostri compleanni! 
 
-![nilole2.jpg](http://pilde.net/blog/wp-content/uploads/2007/11/nilole2.jpg)
+![nilole2.jpg]({{baseurl}}/uploads/2007/11/nilole2.jpg)
 
 
 
 
-![trota.jpg](http://pilde.net/blog/wp-content/uploads/2007/11/trota.jpg)
+![trota.jpg]({{baseurl}}/uploads/2007/11/trota.jpg)
 
 
 

@@ -18,7 +18,7 @@ Poi ho invitato i nonni a cena e gliel'ho regalato!Sono proprio una nipotina spe
 
 
 
-![nonni.jpg](http://pilde.net/blog/wp-content/uploads/2007/10/nonni.jpg)
+![nonni.jpg]({{baseurl}}/uploads/2007/10/nonni.jpg)
 
 
 

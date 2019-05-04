@@ -13,14 +13,14 @@ categories:
 
 La giornata di domenica è iniziata con un cielo grigio e la pioggia...che sonno! 
 
-![sonnacchioso.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/sonnacchioso.jpg)
+![sonnacchioso.jpg]({{baseurl}}/uploads/2007/12/sonnacchioso.jpg)
 
 
 
 
 M ha fatto l'abero di Natale con tante lucine colorate e nonno Mario mi ha regalato un igloo... 
 
-![igloo.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/igloo.jpg)
+![igloo.jpg]({{baseurl}}/uploads/2007/12/igloo.jpg)
 
 
 
@@ -32,14 +32,14 @@ Visto il tempaccio ho deciso di invitare Ludovica, Emilia e Lucia a giocare con 
 
 Con Ludo abbiamo fatto il girotondo e giocato con gli stivali di gomma..
 
-![ludo.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/ludo.jpg)
+![ludo.jpg]({{baseurl}}/uploads/2007/12/ludo.jpg)
 
 
 
 
 mentre mimì stava seduta come un pascià sulla mia poltroncina, e Lulù tentava di fare i suoi primi passi da sola!
 
-![mimi.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/mimi.jpg)
+![mimi.jpg]({{baseurl}}/uploads/2007/12/mimi.jpg)
 
 
 

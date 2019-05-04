@@ -13,7 +13,7 @@ categories:
 
 tanti auguri per il tuo compleanno!
 
-![fiori2.jpg](http://pilde.net/blog/wp-content/uploads/2008/03/fiori2.jpg)
+![fiori2.jpg]({{baseurl}}/uploads/2008/03/fiori2.jpg)
 
 
 

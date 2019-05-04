@@ -14,50 +14,50 @@ categories:
 
 Un pò esauste da questa vacanza itinierante, la nostra meta sono le Marche, dove ci aspettano zii, nonni, la bionna Maria, Cate e tantissimi amici!
 
-![](http://pilde.net/blog/wp-content/uploads/2010/09/betta_maria.jpg)
+![]({{baseurl}}/uploads/2010/09/betta_maria.jpg)
 
 
 
 
-Abbiamo fatto tantissime cose: passeggiate al piscibetto ![](http://pilde.net/blog/wp-content/uploads/2010/09/passeggiate.jpg)
+Abbiamo fatto tantissime cose: passeggiate al piscibetto ![]({{baseurl}}/uploads/2010/09/passeggiate.jpg)
 
 
 
 
 con merende lungo il fiume e in cima al monte
 
-![](http://pilde.net/blog/wp-content/uploads/2010/09/fiume1.jpg)
+![]({{baseurl}}/uploads/2010/09/fiume1.jpg)
 
 
 
 
-tante bolle di sapone![](http://pilde.net/blog/wp-content/uploads/2010/09/bolle_sapone1.jpg)
+tante bolle di sapone![]({{baseurl}}/uploads/2010/09/bolle_sapone1.jpg)
 
 
 
 
 tante risate con Cate e Saretta
 
-![](http://pilde.net/blog/wp-content/uploads/2010/09/mati_cate.jpg)
+![]({{baseurl}}/uploads/2010/09/mati_cate.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2010/09/saretta.jpg)
+![]({{baseurl}}/uploads/2010/09/saretta.jpg)
 
 
 
 
 e poi è venuto a trovarci anche Raymond!
 
-![](http://pilde.net/blog/wp-content/uploads/2010/09/raymond1.jpg)
+![]({{baseurl}}/uploads/2010/09/raymond1.jpg)
 
 
 
 
 Grazie papy che ci hai sopportate, come solo tu sai fare, mentre mamma era al lavoro!
 
-![](http://pilde.net/blog/wp-content/uploads/2010/09/papy.jpg)
+![]({{baseurl}}/uploads/2010/09/papy.jpg)
 
 
 

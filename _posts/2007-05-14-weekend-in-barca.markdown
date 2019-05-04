@@ -16,26 +16,26 @@ Che bello finalmente anche io ho fatto un giro su Rolabagna! Mi hanno messo un c
 
 
 ! :D
-![lago_mem.JPG](http://pilde.net/blog/wp-content/uploads/2007/05/lago_mem.JPG)
+![lago_mem.JPG]({{baseurl}}/uploads/2007/05/lago_mem.JPG)
 
 
 
 
 ...e poi al timone c'erano capitan Gianluca e il mio papà !
 
-![lago_peg2.jpg](http://pilde.net/blog/wp-content/uploads/2007/05/lago_peg2.jpg)
+![lago_peg2.jpg]({{baseurl}}/uploads/2007/05/lago_peg2.jpg)
 
 
 
 
 La zia Pina e il piccolo Flavio nella pancia invece si sono goduti il sole e gli schizzi d'acqua!
 
-![zia_pina.JPG](http://pilde.net/blog/wp-content/uploads/2007/05/zia_pina.JPG)
+![zia_pina.JPG]({{baseurl}}/uploads/2007/05/zia_pina.JPG)
 
 
 
 
-![lagomem2.JPG](http://pilde.net/blog/wp-content/uploads/2007/05/lagomem2.JPG)
+![lagomem2.JPG]({{baseurl}}/uploads/2007/05/lagomem2.JPG)
 
 
 
@@ -44,14 +44,14 @@ Domenica mattina siamo stati a fare colazione col pedalò con Bruno e Noemi (che
 
 
 
-![lago_ben.JPG](http://pilde.net/blog/wp-content/uploads/2007/05/lago_ben.JPG)
+![lago_ben.JPG]({{baseurl}}/uploads/2007/05/lago_ben.JPG)
 
 
 
 
 e nel pomeriggio sono venuti a trovarmi tantissimi amici: Sophie, Nicole, LulÃ¹, Ludovica, Emilia e ho conosciuto Teresa.
 
-![lago_risata.jpg](http://pilde.net/blog/wp-content/uploads/2007/05/lago_risata.jpg)
+![lago_risata.jpg]({{baseurl}}/uploads/2007/05/lago_risata.jpg)
 
 
 

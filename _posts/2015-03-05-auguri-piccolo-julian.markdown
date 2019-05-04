@@ -12,10 +12,10 @@ categories:
 - Compleanni
 ---
 
-Un abbraccio grandissimo per il tuo primo compleanno!!![![julian](http://pilde.net/blog/wp-content/uploads/2015/03/julian1.png)
+Un abbraccio grandissimo per il tuo primo compleanno!!![![julian]({{baseurl}}/uploads/2015/03/julian1.png)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/03/julian1.png)
+]({{baseurl}}/uploads/2015/03/julian1.png)
 
 
 

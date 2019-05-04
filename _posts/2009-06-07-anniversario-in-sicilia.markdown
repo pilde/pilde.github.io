@@ -20,14 +20,14 @@ Per il primo anniversario di matrimonio di M&P siamo tornati in sicilia.Abbiamo 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2009/06/matteo1.jpg)
+![]({{baseurl}}/uploads/2009/06/matteo1.jpg)
 
 
 
 
 La loro casa ha tanti angoletti che mi piacciono....
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/06/scale.jpg)
+[![]({{baseurl}}/uploads/2009/06/scale.jpg)
 
 
 ](http://None)
@@ -37,7 +37,7 @@ La loro casa ha tanti angoletti che mi piacciono....
 
 e una piscina grande, che ancora non è finita, dove però mi sono divertita a giocare! Mamma e Annagloria sono state sempre a chiaccherare...chissà quante cose avevano da raccontarsi!
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/06/matteo_marghe.jpg)
+[![]({{baseurl}}/uploads/2009/06/matteo_marghe.jpg)
 
 
 ](http://None)
@@ -51,7 +51,7 @@ Abbiamo avuto qualche imprevisto di salute, tra la tosse la febbre e il catarro 
 
 Comunque la nostra vacanza è proseguita con nonna Lilli e nonno Gianni alla Masseria sul mare, dove si sta sempre bene e si dimentica tutto il resto!
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/06/casetta.jpg)
+[![]({{baseurl}}/uploads/2009/06/casetta.jpg)
 
 
 ](http://None)
@@ -67,7 +67,7 @@ Comunque la nostra vacanza è proseguita con nonna Lilli e nonno Gianni alla Ma
 
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/06/grano.jpg)
+[![]({{baseurl}}/uploads/2009/06/grano.jpg)
 
 
 ](http://None)
@@ -77,12 +77,12 @@ Comunque la nostra vacanza è proseguita con nonna Lilli e nonno Gianni alla Ma
 
 Siamo stati in spiaggia, ma l'acqua era fredda fredda...tanto che anche nonna ha esitato a fare il bagno!
 
-![](http://pilde.net/blog/wp-content/uploads/2009/06/alsole.jpg)
+![]({{baseurl}}/uploads/2009/06/alsole.jpg)
 
 
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/06/alsole_pemarghe.jpg)
+[![]({{baseurl}}/uploads/2009/06/alsole_pemarghe.jpg)
 
 
 ](http://None)
@@ -97,7 +97,7 @@ Marghe ed io ci siamo fatte delle belle passeggiate sulla spiaggia, abbiamo gioc
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2009/06/passeggiata.jpg)
+![]({{baseurl}}/uploads/2009/06/passeggiata.jpg)
 
 
 
@@ -105,7 +105,7 @@ Marghe ed io ci siamo fatte delle belle passeggiate sulla spiaggia, abbiamo gioc
 [](http://None)
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/06/nonno2.jpg)
+[![]({{baseurl}}/uploads/2009/06/nonno2.jpg)
 
 
 ](http://None)
@@ -121,7 +121,7 @@ Marghe ed io ci siamo fatte delle belle passeggiate sulla spiaggia, abbiamo gioc
 
  abbiamo mangiato la granita, rigorosamente alla mandorla, con la brioches
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/06/granita.jpg)
+[![]({{baseurl}}/uploads/2009/06/granita.jpg)
 
 
 ](http://None)
@@ -134,7 +134,7 @@ E poi, prima di partire, siamo stati a trovare Michela e Giovanni a Rondè (mmm
 
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/06/paperelle.jpg)
+[![]({{baseurl}}/uploads/2009/06/paperelle.jpg)
 
 
 ](http://None)
@@ -142,7 +142,7 @@ E poi, prima di partire, siamo stati a trovare Michela e Giovanni a Rondè (mmm
 
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/06/ronde.jpg)
+[![]({{baseurl}}/uploads/2009/06/ronde.jpg)
 
 
 ](http://None)
@@ -155,7 +155,7 @@ ARRIVEDUAR all'anno prossimo sicilia :)
 
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/06/arriveduar.jpg)
+[![]({{baseurl}}/uploads/2009/06/arriveduar.jpg)
 
 
 ](http://None)
@@ -163,7 +163,7 @@ ARRIVEDUAR all'anno prossimo sicilia :)
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2009/06/blog.jpg)
+![]({{baseurl}}/uploads/2009/06/blog.jpg)
 
 
 

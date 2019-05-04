@@ -14,14 +14,14 @@ categories:
 
 Evviva!!!! Finalmente Margherita inizia a fare i suoi primi disegni antropomorfi!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/06/family_marghe.jpg)
+![]({{baseurl}}/uploads/2012/06/family_marghe.jpg)
 
 
 
 
 anche se il tema preferito sono gli animali....
 
-![](http://pilde.net/blog/wp-content/uploads/2012/06/disegno_balena.jpg)
+![]({{baseurl}}/uploads/2012/06/disegno_balena.jpg)
 
 
 
@@ -31,7 +31,7 @@ E invece Matilde fa un disegno sul nostro viaggio a Firenze ... tutta la famigli
 
 !
 
-![](http://pilde.net/blog/wp-content/uploads/2012/06/bici_disegno_mati.jpg)
+![]({{baseurl}}/uploads/2012/06/bici_disegno_mati.jpg)
 
 
 

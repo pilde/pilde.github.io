@@ -28,7 +28,7 @@ Margherita (Barbabella)
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2012/02/mascherine11.jpg)
+![]({{baseurl}}/uploads/2012/02/mascherine11.jpg)
 
 
 
@@ -41,7 +41,7 @@ poi Flavio (Super-F)
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2012/02/super_f.jpg)
+![]({{baseurl}}/uploads/2012/02/super_f.jpg)
 
 
 
@@ -51,14 +51,14 @@ e Martina (pirata)
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2012/02/martina_pirata.jpg)
+![]({{baseurl}}/uploads/2012/02/martina_pirata.jpg)
 
 
 
 
 bye bye
 
-![](http://pilde.net/blog/wp-content/uploads/2012/02/mascherine_bside.jpg)
+![]({{baseurl}}/uploads/2012/02/mascherine_bside.jpg)
 
 
 

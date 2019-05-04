@@ -13,7 +13,7 @@ categories:
 
 Ciao Matilde !!! Volevo mandare un salutone grande grande a te e ai tuoi MeP...e poi vi volevo anche far vedere il mio nuovo look ...hihihi...che ne pensate ? Aspetto i vostri pareri
 
-![alessia-ciucci.jpg](http://pilde.net/blog/wp-content/uploads/2007/03/alessia-ciucci.jpg)
+![alessia-ciucci.jpg]({{baseurl}}/uploads/2007/03/alessia-ciucci.jpg)
 
 
 

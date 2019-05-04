@@ -13,7 +13,7 @@ categories:
 
 Margherita si era addormentata per la sua festa di compleanno ... ma si è svegliata giusto in tempo per la torta!
 
-![](http://pilde.net/blog/wp-content/uploads/2009/09/torta.jpg)
+![]({{baseurl}}/uploads/2009/09/torta.jpg)
 
 
 

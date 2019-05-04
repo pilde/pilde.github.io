@@ -17,7 +17,7 @@ Bellissima città e nonostante la pioggia l'abbiamo girata in lungo e in largo, 
 
 'Aspetta che sento cosa fanno le bimbe' ...
 
-![](http://pilde.net/blog/wp-content/uploads/2012/02/telefono.jpg)
+![]({{baseurl}}/uploads/2012/02/telefono.jpg)
 
 
 
@@ -26,28 +26,28 @@ Bellissima città e nonostante la pioggia l'abbiamo girata in lungo e in largo, 
 
 E così ce ne andiamo anche a Viareggio per vedere la famosa sfilata dei carri capitanata da Burlamacco.
 
-![](http://pilde.net/blog/wp-content/uploads/2012/02/burlamacco.jpg)
+![]({{baseurl}}/uploads/2012/02/burlamacco.jpg)
 
 
 
 
 Ovviamente ogni cosa ci fa pensare a loro.... soprattutto il carro con il T-Rex e i Velociraptor... 'bimbe sareste impazzite'!!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/02/dinosauri.jpg)
+![]({{baseurl}}/uploads/2012/02/dinosauri.jpg)
 
 
 
 
 Ma ci sono anche tanti spunti comico-amari sulla nostra povera italia ... la fuga di cervelli con il caro Leonardo che ci saluta
 
-![](http://pilde.net/blog/wp-content/uploads/2012/02/cervelli2.jpg)
+![]({{baseurl}}/uploads/2012/02/cervelli2.jpg)
 
 
 
 
 la nave dell'europa che affonda e il Berlusca che si chiede 'ma dove è la crisi?'
 
-![](http://pilde.net/blog/wp-content/uploads/2012/02/nave.jpg)
+![]({{baseurl}}/uploads/2012/02/nave.jpg)
 
 
 

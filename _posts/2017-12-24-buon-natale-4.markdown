@@ -9,7 +9,7 @@ title: Buon Natale
 wordpress_id: 6843
 ---
 
-![natale](http://pilde.net/blog/wp-content/uploads/2018/02/natale.png)
+![natale]({{baseurl}}/uploads/2018/02/natale.png)
 
 
 

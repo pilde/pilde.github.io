@@ -15,7 +15,7 @@ categories:
 
 Siamo già a carnevale... e nonna Franca ci ha fatto i vestitini da Trilly! Così siamo andati a sfoggiarli al porto di Ostia insieme a Sofia, Marco, Flavio e Alessia. 
 
-![](http://pilde.net/blog/wp-content/uploads/2011/02/mati_sofi_maschere.jpg)
+![]({{baseurl}}/uploads/2011/02/mati_sofi_maschere.jpg)
 
 
 
@@ -28,7 +28,7 @@ che bel tigrotto! (Margherita invece ha ancora i segni della brutta botta che ha
 
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/02/marghe_marco.jpg)
+[![]({{baseurl}}/uploads/2011/02/marghe_marco.jpg)
 
 
 ](http://None)
@@ -38,7 +38,7 @@ che bel tigrotto! (Margherita invece ha ancora i segni della brutta botta che ha
 
 C'erano anche le giostrine...
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/02/giostrine.jpg)
+[![]({{baseurl}}/uploads/2011/02/giostrine.jpg)
 
 
 ](http://None)
@@ -48,7 +48,7 @@ C'erano anche le giostrine...
 
 ma noi ci siamo divertiti di più a giocare con Monica!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/02/porto_monichina.jpg)
+[![]({{baseurl}}/uploads/2011/02/porto_monichina.jpg)
 
 
 ](http://None)

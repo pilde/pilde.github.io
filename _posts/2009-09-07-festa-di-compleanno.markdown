@@ -18,42 +18,42 @@ La mia prima festa di compleanno (perchè quest'anno il compleanno lo festegger�
 
 Abbiamo gonfiato i palloncini
 
-![](http://pilde.net/blog/wp-content/uploads/2009/09/palloncini.jpg)
+![]({{baseurl}}/uploads/2009/09/palloncini.jpg)
 
 
 
 
 abbiamo giocato in giardino con una macchinetta buffa che faceva le bolle
 
-![](http://pilde.net/blog/wp-content/uploads/2009/09/bolle.jpg)
+![]({{baseurl}}/uploads/2009/09/bolle.jpg)
 
 
 
 
 poi abbiamo soffiato sulla candelina
 
-![](http://pilde.net/blog/wp-content/uploads/2009/09/soffio.jpg)
+![]({{baseurl}}/uploads/2009/09/soffio.jpg)
 
 
 
 
 e aperto i regali...ma eravamo tutte interessate ad uno in particolare...una meravigliosa cucina!
 
-![](http://pilde.net/blog/wp-content/uploads/2009/09/regalo.jpg)
+![]({{baseurl}}/uploads/2009/09/regalo.jpg)
 
 
 
 
 che è piaciuta tanto anche a Marghe!!
 
-![](http://pilde.net/blog/wp-content/uploads/2009/09/cucina.jpg)
+![]({{baseurl}}/uploads/2009/09/cucina.jpg)
 
 
 
 
 A fine serata, un pò stanche, Sophie ed io ci siamo rifugiate in un posto tranquillo
 
-![](http://pilde.net/blog/wp-content/uploads/2009/09/scatolone.jpg)
+![]({{baseurl}}/uploads/2009/09/scatolone.jpg)
 
 
 

@@ -13,13 +13,13 @@ categories:
 
 Oggi facciamo il passaggio di cintura!
 
-![judo](http://pilde.net/blog/wp-content/uploads/2019/03/judo.png)
+![judo]({{baseurl}}/uploads/2019/03/judo.png)
 
 
 Evviva ho la mia nuova cintura gialla! (che è quella di zia Giorgia quando faceva Judo!)
 
 
- ![cintura](http://pilde.net/blog/wp-content/uploads/2019/03/cintura.png)
+ ![cintura]({{baseurl}}/uploads/2019/03/cintura.png)
 
 
 

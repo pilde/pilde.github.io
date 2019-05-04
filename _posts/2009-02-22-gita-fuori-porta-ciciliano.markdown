@@ -19,7 +19,7 @@ In attesa della festicciola di compleanno di Giulia siamo stati a visitare un pa
 [](http://None)
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/02/mati_red.jpg)
+[![]({{baseurl}}/uploads/2009/02/mati_red.jpg)
 
 
 ](http://None)
@@ -27,7 +27,7 @@ In attesa della festicciola di compleanno di Giulia siamo stati a visitare un pa
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2009/02/marghe_velluto.jpg)
+![]({{baseurl}}/uploads/2009/02/marghe_velluto.jpg)
 
 
 

@@ -13,14 +13,14 @@ categories:
 
 Mi piace imitare gli animali! La ranocchia
 
-![ranocchia.jpg](http://pilde.net/blog/wp-content/uploads/2008/02/ranocchia.jpg)
+![ranocchia.jpg]({{baseurl}}/uploads/2008/02/ranocchia.jpg)
 
 
 
 
 e la farfallina
 
-![farfallina.jpg](http://pilde.net/blog/wp-content/uploads/2008/02/farfallina.jpg)
+![farfallina.jpg]({{baseurl}}/uploads/2008/02/farfallina.jpg)
 
 
 

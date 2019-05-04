@@ -14,7 +14,7 @@ categories:
 
 La festa di compleanno di Stella è l'ultima occasione goliardica per vederci tutti insieme. E ci siamo divertiti tantissimo con autoscontri
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/06/autoscontri.jpg)
+[![]({{baseurl}}/uploads/2011/06/autoscontri.jpg)
 
 
 ](http://None)
@@ -24,7 +24,7 @@ La festa di compleanno di Stella è l'ultima occasione goliardica per vederci tu
 
 giostre
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/06/barchetta_giostre.jpg)
+[![]({{baseurl}}/uploads/2011/06/barchetta_giostre.jpg)
 
 
 ](http://None)
@@ -34,7 +34,7 @@ giostre
 
 gare di kart
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/06/mati_kart.jpg)
+[![]({{baseurl}}/uploads/2011/06/mati_kart.jpg)
 
 
 ](http://None)
@@ -44,7 +44,7 @@ gare di kart
 
 e torta tutti insime
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/06/torta_stella.jpg)
+[![]({{baseurl}}/uploads/2011/06/torta_stella.jpg)
 
 
 ](http://None)
@@ -56,7 +56,7 @@ e torta tutti insime
 
 Marzia, Giova, Nicco, Flavio, Giulio, Genti, Valerio, che casino che abbiamo fatto al ristorante!!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/06/pizza.jpg)
+[![]({{baseurl}}/uploads/2011/06/pizza.jpg)
 
 
 ](http://None)

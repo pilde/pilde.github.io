@@ -17,21 +17,21 @@ Poichè non sono proprio al massimo della forma (tosse, naso moccioloso, congiun
  non siamo partiti con Ronzinante come volevamo ma siamo stati a zonzo a fare qualche gita fuori porta.
 Siamo stati al mare in una bella giornata di sole, a camminare sulla spiaggia evitando le onde...
 
-![marep.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/marep.jpg)
+![marep.jpg]({{baseurl}}/uploads/2007/12/marep.jpg)
 
 
 
 
 Poi a Orvieto, dove ho provato la mia bicicletta e ho mangiato sulle scale del bellissimo duomo
 
-![orvieto.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/orvieto.jpg)
+![orvieto.jpg]({{baseurl}}/uploads/2007/12/orvieto.jpg)
 
 
 
 
 e a Napoli insieme a Mara e Lorenzo a vedere i presepi di S.Gregorio Armeno e a passeggiare per la città.
 
-![napoli.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/napoli.jpg)
+![napoli.jpg]({{baseurl}}/uploads/2007/12/napoli.jpg)
 
 
 

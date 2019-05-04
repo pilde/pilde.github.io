@@ -19,10 +19,10 @@ Però per arrivare dobbiamo superare un ostacolo, ci fermerà? ... macchè, cate
 
 Però che faticaccia, ora ci riposiamo un po'!
 
-[![](http://pilde.net/blog/wp-content/uploads/2010/03/mare_small.jpg)
+[![]({{baseurl}}/uploads/2010/03/mare_small.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2010/03/mare_small.jpg)
+]({{baseurl}}/uploads/2010/03/mare_small.jpg)
 
 
 

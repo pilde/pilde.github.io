@@ -13,7 +13,7 @@ categories:
 
 Ciao Tommaso mille e mille auguri per il tuo primo compleanno!
 
-![tommy1.jpg](http://pilde.net/blog/wp-content/uploads/2007/10/tommy1.jpg)
+![tommy1.jpg]({{baseurl}}/uploads/2007/10/tommy1.jpg)
 
 
 

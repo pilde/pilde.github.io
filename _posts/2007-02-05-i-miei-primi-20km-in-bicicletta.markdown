@@ -26,12 +26,12 @@ Che spasso! :)
 
 
 
-![carello1.jpg](http://pilde.net/blog/wp-content/uploads/2007/02/carello1.jpg)
+![carello1.jpg]({{baseurl}}/uploads/2007/02/carello1.jpg)
 
 
 
 
-![carello2.jpg](http://pilde.net/blog/wp-content/uploads/2007/02/carello2.jpg)
+![carello2.jpg]({{baseurl}}/uploads/2007/02/carello2.jpg)
 
 
 

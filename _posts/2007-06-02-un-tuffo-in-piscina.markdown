@@ -15,17 +15,17 @@ Domenica mattina sono andata in piscina con le mie amichette Nicole e Sophie.
 
 Ci siamo divertite con i tunnel e le palline e poi insieme alla mia insegnante Alessandra ho anche fatto il mio primo tuffo! Sono andata sott'acqua! Che forza!
 
-![piscina2.jpg](http://pilde.net/blog/wp-content/uploads/2007/06/piscina2.jpg)
+![piscina2.jpg]({{baseurl}}/uploads/2007/06/piscina2.jpg)
 
 
 
 
 Dopo la piscina siamo andate sull'altalena!
 
-![altalenas.jpg](http://pilde.net/blog/wp-content/uploads/2007/06/altalenas.jpg)
+![altalenas.jpg]({{baseurl}}/uploads/2007/06/altalenas.jpg)
 
 
-![altalenam.jpg](http://pilde.net/blog/wp-content/uploads/2007/06/altalenam.jpg)
+![altalenam.jpg]({{baseurl}}/uploads/2007/06/altalenam.jpg)
 
 
 

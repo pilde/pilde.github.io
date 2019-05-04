@@ -13,7 +13,7 @@ categories:
 
 Puntuale come un orologio ...dopo 15 giorni anche Marghe attaccata dal virus!
 
-![](http://pilde.net/blog/wp-content/uploads/2010/02/marghe_varicella.jpg)
+![]({{baseurl}}/uploads/2010/02/marghe_varicella.jpg)
 
 
 

@@ -12,19 +12,19 @@ categories:
 - Giochi
 ---
 
-Ancora fa caldo e si va al mare, a volare a Norma ![](http://pilde.net/blog/wp-content/uploads/2010/09/accappatoi.jpg)
+Ancora fa caldo e si va al mare, a volare a Norma ![]({{baseurl}}/uploads/2010/09/accappatoi.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2010/09/marghe_alessia.jpg)
+![]({{baseurl}}/uploads/2010/09/marghe_alessia.jpg)
 
 
 
 
 e in campagna
 
-![](http://pilde.net/blog/wp-content/uploads/2010/09/mati_fra1.jpg)
+![]({{baseurl}}/uploads/2010/09/mati_fra1.jpg)
 
 
 

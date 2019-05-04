@@ -14,40 +14,40 @@ categories:
 
 Siamo in trasferta al mare ... Marghe, Mati e i cugini Martina e Guido.
 
-[![image](http://pilde.net/blog/wp-content/uploads/2013/08/wpid-IMG_20130805_182428.jpg)
+[![image]({{baseurl}}/uploads/2013/08/wpid-IMG_20130805_182428.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/08/wpid-IMG_20130805_182428.jpg)
+]({{baseurl}}/uploads/2013/08/wpid-IMG_20130805_182428.jpg)
 
 
 
 
 Cenetta in camper
 
-[![image](http://pilde.net/blog/wp-content/uploads/2013/08/wpid-IMG_20130805_204301.jpg)
+[![image]({{baseurl}}/uploads/2013/08/wpid-IMG_20130805_204301.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/08/wpid-IMG_20130805_204301.jpg)
+]({{baseurl}}/uploads/2013/08/wpid-IMG_20130805_204301.jpg)
 
 
 
 
 Gelatino
 
-[![image](http://pilde.net/blog/wp-content/uploads/2013/08/wpid-IMG_20130805_214931.jpg)
+[![image]({{baseurl}}/uploads/2013/08/wpid-IMG_20130805_214931.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/08/wpid-IMG_20130805_214931.jpg)
+]({{baseurl}}/uploads/2013/08/wpid-IMG_20130805_214931.jpg)
 
 
 
 
 E dulcis in fundo ... Bagno di mezzanotte
 
-[![image](http://pilde.net/blog/wp-content/uploads/2013/08/wpid-IMG_20130805_230818.jpg)
+[![image]({{baseurl}}/uploads/2013/08/wpid-IMG_20130805_230818.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/08/wpid-IMG_20130805_230818.jpg)
+]({{baseurl}}/uploads/2013/08/wpid-IMG_20130805_230818.jpg)
 
 
 

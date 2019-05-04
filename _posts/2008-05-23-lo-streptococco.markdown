@@ -13,10 +13,10 @@ categories:
 
 Mi sono presa questo batterio  :( che mi ha fatto gonfiare una tonsilla come un palloncino, però ho oscultato il mio cuoricino ed era tutto OK!
 
-[![streptococco.jpg](http://pilde.net/blog/wp-content/uploads/2008/05/streptococco.jpg)
+[![streptococco.jpg]({{baseurl}}/uploads/2008/05/streptococco.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2008/05/streptococco.jpg)
+]({{baseurl}}/uploads/2008/05/streptococco.jpg)
 
 
 

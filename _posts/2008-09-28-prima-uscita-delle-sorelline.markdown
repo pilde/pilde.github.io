@@ -13,7 +13,7 @@ categories:
 
 Come nella migliore delle tradizioni della nostra piccola famiglia oggi siamo andati a fare colazione al bar e poi una bella passeggiata al porto di Ostia.
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/09/porto.jpg)
+[![]({{baseurl}}/uploads/2008/09/porto.jpg)
 
 
 ](http://None)
@@ -23,7 +23,7 @@ Come nella migliore delle tradizioni della nostra piccola famiglia oggi siamo an
 
 Io ho corso e ho giocato con i sassolini, mentre Margherita dormiva beata
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/09/marghe2.jpg)
+[![]({{baseurl}}/uploads/2008/09/marghe2.jpg)
 
 
 ](http://None)

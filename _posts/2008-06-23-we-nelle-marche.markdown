@@ -13,14 +13,14 @@ categories:
 
 Questo we sono stata a trovare la bionna Maria nelle marche e mi sono portata anche la bionna Maria di Roma. 
 
-![bionne.jpg](http://pilde.net/blog/wp-content/uploads/2008/06/bionne.jpg)
+![bionne.jpg]({{baseurl}}/uploads/2008/06/bionne.jpg)
 
 
 
 
 sono stata sul monte Cucco
 
-![cucco.jpg](http://pilde.net/blog/wp-content/uploads/2008/06/cucco.jpg)
+![cucco.jpg]({{baseurl}}/uploads/2008/06/cucco.jpg)
 
 
 
@@ -30,7 +30,7 @@ dove ho fatto una bella passeggiata nella faggeta e ho visto le mucche (e anche 
 
 
 
-![mucche.jpg](http://pilde.net/blog/wp-content/uploads/2008/06/mucche.jpg)
+![mucche.jpg]({{baseurl}}/uploads/2008/06/mucche.jpg)
 
 
 
@@ -40,7 +40,7 @@ e ho mangiato il coniglio in porchetta che ha fatto nonna Franca...SLURP! :)
 
 
 
-![coniglio.jpg](http://pilde.net/blog/wp-content/uploads/2008/06/coniglio.jpg)
+![coniglio.jpg]({{baseurl}}/uploads/2008/06/coniglio.jpg)
 
 
 

@@ -11,59 +11,59 @@ categories:
 - Eventi
 ---
 
-Questo 2015 è iniziato con tante cose da fare e delle giornate sempre belle e calde! Siamo andate a pattinare al lago di Castello [![pattini_lago](http://pilde.net/blog/wp-content/uploads/2015/01/pattini_lago.png)
+Questo 2015 è iniziato con tante cose da fare e delle giornate sempre belle e calde! Siamo andate a pattinare al lago di Castello [![pattini_lago]({{baseurl}}/uploads/2015/01/pattini_lago.png)
 
 
-![lago](http://pilde.net/blog/wp-content/uploads/2015/01/lago.png)
+![lago]({{baseurl}}/uploads/2015/01/lago.png)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/01/lago.png)
+]({{baseurl}}/uploads/2015/01/lago.png)
 
 
 siamo andate a conoscere Anna
 
-[![anna](http://pilde.net/blog/wp-content/uploads/2015/01/anna.png)
+[![anna]({{baseurl}}/uploads/2015/01/anna.png)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/01/anna.png)
+]({{baseurl}}/uploads/2015/01/anna.png)
 
 
 e a salutare Julian....che tra poco inizierà anche a camminare!
 
-[![julian2](http://pilde.net/blog/wp-content/uploads/2015/01/julian2.png)
+[![julian2]({{baseurl}}/uploads/2015/01/julian2.png)
 
 
-![julian](http://pilde.net/blog/wp-content/uploads/2015/01/julian.png)
+![julian]({{baseurl}}/uploads/2015/01/julian.png)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/01/julian.png)
+]({{baseurl}}/uploads/2015/01/julian.png)
 
 
 Mati e mamma sono andate a vedere 'Romeo&Giulietta', mentre mamma e Marghe sono andate a vedere 'Rapunzel'
 
-[![romeo&giulietta](http://pilde.net/blog/wp-content/uploads/2015/01/romeogiulietta.png)
+[![romeo&giulietta]({{baseurl}}/uploads/2015/01/romeogiulietta.png)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/01/romeogiulietta.png)
+]({{baseurl}}/uploads/2015/01/romeogiulietta.png)
 
 
 Poi abbiamo fatto tante ma tante coccole alle nostre miciotte
 
-[![miciotte](http://pilde.net/blog/wp-content/uploads/2015/01/miciotte.png)
+[![miciotte]({{baseurl}}/uploads/2015/01/miciotte.png)
 
 
-![micie_marghe](http://pilde.net/blog/wp-content/uploads/2015/01/micie_marghe.png)
+![micie_marghe]({{baseurl}}/uploads/2015/01/micie_marghe.png)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/01/micie_marghe.png)
+]({{baseurl}}/uploads/2015/01/micie_marghe.png)
 
 
 e siamo anche uscite a cena fuori con Nospa, Fracassa e Nonna Papera!
 
-[![marghe_nospa](http://pilde.net/blog/wp-content/uploads/2015/01/marghe_nospa.png)
+[![marghe_nospa]({{baseurl}}/uploads/2015/01/marghe_nospa.png)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/01/marghe_nospa.png)
+]({{baseurl}}/uploads/2015/01/marghe_nospa.png)
 
 
 Siamo andate a Norma e Nospa ci ha fatto provare le sellette del parapendio...che forza!

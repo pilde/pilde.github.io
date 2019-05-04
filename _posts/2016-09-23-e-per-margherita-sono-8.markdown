@@ -14,25 +14,25 @@ categories:
 
 Prima di andare a scuola spegniamo la candelina....auguri Meggy!!!
 
-![23_mattina](http://pilde.net/blog/wp-content/uploads/2016/10/23_mattina.png)
+![23_mattina]({{baseurl}}/uploads/2016/10/23_mattina.png)
 
 
 Poi invitiamo un pò di amichette a giocare
 
-![23_giochi](http://pilde.net/blog/wp-content/uploads/2016/10/23_giochi.png)
+![23_giochi]({{baseurl}}/uploads/2016/10/23_giochi.png)
 
 
- ![23_bimbe](http://pilde.net/blog/wp-content/uploads/2016/10/23_bimbe.png)
+ ![23_bimbe]({{baseurl}}/uploads/2016/10/23_bimbe.png)
 
 
 poi cena e torta
 
-![23_torta_bimbe](http://pilde.net/blog/wp-content/uploads/2016/10/23_torta_bimbe.png)
+![23_torta_bimbe]({{baseurl}}/uploads/2016/10/23_torta_bimbe.png)
 
 
 e infine pigiama party! Film alle 23.30 e poi chiacchere fino a notte inoltrata! Alle 7.30 erano tutti svegli!!!
 
-![23_pigiama](http://pilde.net/blog/wp-content/uploads/2016/10/23_pigiama.png)
+![23_pigiama]({{baseurl}}/uploads/2016/10/23_pigiama.png)
 
 
 

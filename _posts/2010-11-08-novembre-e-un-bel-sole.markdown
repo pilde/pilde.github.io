@@ -16,35 +16,35 @@ Questo mese autunnale è iniziato con un bellissimo e caldo sole...e siamo andat
 
 Che abbuffata di pescetto!
 
-![](http://pilde.net/blog/wp-content/uploads/2010/11/pranzo_mare.jpg)
+![]({{baseurl}}/uploads/2010/11/pranzo_mare.jpg)
 
 
 
 
 Poi abbiamo giocato in spiaggia
 
-![](http://pilde.net/blog/wp-content/uploads/2010/11/mare_castelli.jpg)
+![]({{baseurl}}/uploads/2010/11/mare_castelli.jpg)
 
 
 
 
 e Marghe si è pure fatta il bagno cadendo in acqua mentre correva sulla riva!
 
-![](http://pilde.net/blog/wp-content/uploads/2010/11/mare_marghe.jpg)
+![]({{baseurl}}/uploads/2010/11/mare_marghe.jpg)
 
 
 
 
 abbiamo giocato tutto il giorno!
 
-![](http://pilde.net/blog/wp-content/uploads/2010/11/mare_altalena.jpg)
+![]({{baseurl}}/uploads/2010/11/mare_altalena.jpg)
 
 
 
 
 Domenica è venuta anche a trovarci alessia e siamo andate ai giochini insieme
 
-![](http://pilde.net/blog/wp-content/uploads/2010/11/parco_alessia.jpg)
+![]({{baseurl}}/uploads/2010/11/parco_alessia.jpg)
 
 
 

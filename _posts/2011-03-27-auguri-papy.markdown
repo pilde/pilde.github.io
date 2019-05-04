@@ -18,7 +18,7 @@ categories:
 
 Un bacio grande ..... MMMMMA!!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/03/bacio.jpg)
+[![]({{baseurl}}/uploads/2011/03/bacio.jpg)
 
 
 ](http://None)

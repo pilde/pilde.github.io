@@ -13,7 +13,7 @@ categories:
 
 Stamattina ho abbracciato la mia mamma stringendole le manine intorno al collo e le ho dato un bacio sulla guancia ...pure con lo schiocco!
 
-![troppotenera.jpg](http://pilde.net/blog/wp-content/uploads/2007/11/troppotenera.jpg)
+![troppotenera.jpg]({{baseurl}}/uploads/2007/11/troppotenera.jpg)
 
 
 

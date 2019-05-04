@@ -17,21 +17,21 @@ Sabato, mentre P girava per gli aereoporti di iraklion e atene, io sono stata a 
 .
 Poi dato che la giornata era bellissima siamo state a fare una passeggiata al parco della Caffarella.
 
-![cicia1.jpg](http://pilde.net/blog/wp-content/uploads/2007/10/cicia1.jpg)
+![cicia1.jpg]({{baseurl}}/uploads/2007/10/cicia1.jpg)
 
 
 
 
 Ho visto i cavalli e tantissime pecore con gli agnellini
 
-![pecore.jpg](http://pilde.net/blog/wp-content/uploads/2007/10/pecore.jpg)
+![pecore.jpg]({{baseurl}}/uploads/2007/10/pecore.jpg)
 
 
 
 
 e poi ho fatto tante corse per i vialetti del parco.
 
-![corse.jpg](http://pilde.net/blog/wp-content/uploads/2007/10/corse.jpg)
+![corse.jpg]({{baseurl}}/uploads/2007/10/corse.jpg)
 
 
 

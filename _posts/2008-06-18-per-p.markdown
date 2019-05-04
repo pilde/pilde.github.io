@@ -15,7 +15,7 @@ ciao papone,
 questo post lo dedico a te e a tutto il bene che ti voglio!
 Sono un pò avara di baci, è vero, ma quanto mi piace coccolarmi con te!
 
-![iopapabn.jpg](http://pilde.net/blog/wp-content/uploads/2008/06/iopapabn.jpg)
+![iopapabn.jpg]({{baseurl}}/uploads/2008/06/iopapabn.jpg)
 
 
 

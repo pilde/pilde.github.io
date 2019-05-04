@@ -12,14 +12,14 @@ categories:
 ---
 
 Sono andata a trovare la mia sbinonna nelle Marche.
-![nonna.jpg](http://pilde.net/blog/wp-content/uploads/2007/04/nonna.jpg)
+![nonna.jpg]({{baseurl}}/uploads/2007/04/nonna.jpg)
 
 
 
 
 Abbiamo fatto mille passeggiate e quei monti sono proprio belli, però il sole mi da un pochino fastidio e dunque MeP mi hanno comperato gli occhiali... moooolto diva!
 
-![osole.jpg](http://pilde.net/blog/wp-content/uploads/2007/04/osole.jpg)
+![osole.jpg]({{baseurl}}/uploads/2007/04/osole.jpg)
 
 
 
@@ -29,21 +29,21 @@ La camminata mi ha stancata e mi sono riposata sul prato di nonna Maria tra le m
 
 
 
-![margherite.jpg](http://pilde.net/blog/wp-content/uploads/2007/04/margherite.jpg)
+![margherite.jpg]({{baseurl}}/uploads/2007/04/margherite.jpg)
 
 
 
 
 Però il sole era davvero troppo e allora ecco il mio cappellino.
 
-![cappello.jpg](http://pilde.net/blog/wp-content/uploads/2007/04/cappello.jpg)
+![cappello.jpg]({{baseurl}}/uploads/2007/04/cappello.jpg)
 
 
 
 
 Comunque non dimetichiamoci che era Pasqua e allora ecco il mio approccio all'uovo... per il momento è troppo grande, ma ricordatevi ... _noi siamo piccoli, ma cresceremo ..._
 
-![uovo.jpg](http://pilde.net/blog/wp-content/uploads/2007/04/uovo.jpg)
+![uovo.jpg]({{baseurl}}/uploads/2007/04/uovo.jpg)
 
 
 

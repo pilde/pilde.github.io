@@ -18,10 +18,10 @@ Questo (finalmente!!)
 
 La mattina M si fa delle belle camminate nella riserva della Bufalara
 
-![sabaudia_1](http://pilde.net/blog/wp-content/uploads/2018/06/sabaudia_1.jpg)
+![sabaudia_1]({{baseurl}}/uploads/2018/06/sabaudia_1.jpg)
 
 
- ![sabaudia_2](http://pilde.net/blog/wp-content/uploads/2018/06/sabaudia_2.jpg)
+ ![sabaudia_2]({{baseurl}}/uploads/2018/06/sabaudia_2.jpg)
 
 
 poi tutti in spiaggia ... e niente ha potuto fermare i bambini dal trascorrere tutto il we in acqua (forse qualche ustione)
@@ -29,36 +29,36 @@ poi tutti in spiaggia ... e niente ha potuto fermare i bambini dal trascorrere t
 
  !!
 
-![sabaudia_4](http://pilde.net/blog/wp-content/uploads/2018/06/sabaudia_4.jpg)
+![sabaudia_4]({{baseurl}}/uploads/2018/06/sabaudia_4.jpg)
 
 
- ![sabaudia_5](http://pilde.net/blog/wp-content/uploads/2018/06/sabaudia_5.jpg)
+ ![sabaudia_5]({{baseurl}}/uploads/2018/06/sabaudia_5.jpg)
 
 
 La sera di sabato ci acchittiamo
 
-![sabaudia_6](http://pilde.net/blog/wp-content/uploads/2018/06/sabaudia_6.jpg)
+![sabaudia_6]({{baseurl}}/uploads/2018/06/sabaudia_6.jpg)
 
 
 e tutti a cena a Terracina da Sara! Si accende il BBQ e gli hamburger sono strepitosi!
 
-![sabaudia_8](http://pilde.net/blog/wp-content/uploads/2018/06/sabaudia_8.jpg)
+![sabaudia_8]({{baseurl}}/uploads/2018/06/sabaudia_8.jpg)
 
 
- ![sabaudia_9](http://pilde.net/blog/wp-content/uploads/2018/06/sabaudia_9.jpg)
+ ![sabaudia_9]({{baseurl}}/uploads/2018/06/sabaudia_9.jpg)
 
 
- e infine la torta! Auguri Marco!!!![sabaudia_10](http://pilde.net/blog/wp-content/uploads/2018/06/sabaudia_10.jpg)
+ e infine la torta! Auguri Marco!!!![sabaudia_10]({{baseurl}}/uploads/2018/06/sabaudia_10.jpg)
 
 
 La domenica un pò di delta fanno su e giù sulla riva mentre Meggy legge imperterrita il suo libro!
 
-![sabaudia_7](http://pilde.net/blog/wp-content/uploads/2018/06/sabaudia_7.jpg)
+![sabaudia_7]({{baseurl}}/uploads/2018/06/sabaudia_7.jpg)
 
 
 Arriveduar!
 
-![sabaudia_3](http://pilde.net/blog/wp-content/uploads/2018/06/sabaudia_3.jpg)
+![sabaudia_3]({{baseurl}}/uploads/2018/06/sabaudia_3.jpg)
 
 
 

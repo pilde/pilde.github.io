@@ -26,7 +26,7 @@ Che forza! :)
 
 
 
-![girello_scalata.JPG](http://pilde.net/blog/wp-content/uploads/2007/04/girello_scalata.JPG)
+![girello_scalata.JPG]({{baseurl}}/uploads/2007/04/girello_scalata.JPG)
 
 
 

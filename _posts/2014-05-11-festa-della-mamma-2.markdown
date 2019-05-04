@@ -13,18 +13,18 @@ categories:
 
 Mai festa della mamma fù più bella! Auguri, poesie e regalini appena sveglia e poi pic-nic con gli amici al campetto di molara
 
-[![campetto2](http://pilde.net/blog/wp-content/uploads/2014/05/campetto2.jpg)
+[![campetto2]({{baseurl}}/uploads/2014/05/campetto2.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/05/campetto2.jpg)
+]({{baseurl}}/uploads/2014/05/campetto2.jpg)
 
 
 e dopo qualche gonfiaggio con poco vento ....
 
-[![campetto3_manica](http://pilde.net/blog/wp-content/uploads/2014/05/campetto3_manica.jpg)
+[![campetto3_manica]({{baseurl}}/uploads/2014/05/campetto3_manica.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/05/campetto3_manica.jpg)
+]({{baseurl}}/uploads/2014/05/campetto3_manica.jpg)
 
 
 un bel voletto (grazie Mara!!)
@@ -35,10 +35,10 @@ un bel voletto (grazie Mara!!)
 
 .... tutti i bimbi affascinati .... 'sembravi una winx!!!' :D:D
 
-[![wings](http://pilde.net/blog/wp-content/uploads/2014/05/wings.jpg)
+[![wings]({{baseurl}}/uploads/2014/05/wings.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/05/wings.jpg)
+]({{baseurl}}/uploads/2014/05/wings.jpg)
 
 
 

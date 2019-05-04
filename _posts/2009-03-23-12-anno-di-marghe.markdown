@@ -13,7 +13,7 @@ categories:
 
 Auguri sorellina per il tuo mezzo anno!!
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/03/complemese.jpg)
+[![]({{baseurl}}/uploads/2009/03/complemese.jpg)
 
 
 ](http://None)
@@ -23,7 +23,7 @@ Auguri sorellina per il tuo mezzo anno!!
 
 ho colorato un bel fiore per te!
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/03/fiore.jpg)
+[![]({{baseurl}}/uploads/2009/03/fiore.jpg)
 
 
 ](http://None)

@@ -19,72 +19,72 @@ Questo mese di giugno abbiamo avuto tante cose da fare!Margherita ha fatto la re
 
 poi il saggio di psicomotricità
 
-[![marghe_psico1](http://pilde.net/blog/wp-content/uploads/2013/06/marghe_psico1.jpg)
+[![marghe_psico1]({{baseurl}}/uploads/2013/06/marghe_psico1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/06/marghe_psico1.jpg)
+]({{baseurl}}/uploads/2013/06/marghe_psico1.jpg)
 
 
 con diverse pause per abbracciare la maestra Annarita
 
-[![marghe_annarita](http://pilde.net/blog/wp-content/uploads/2013/06/marghe_annarita.jpg)
+[![marghe_annarita]({{baseurl}}/uploads/2013/06/marghe_annarita.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/06/marghe_annarita.jpg)
+]({{baseurl}}/uploads/2013/06/marghe_annarita.jpg)
 
 
-e l'amichetta Iolanda! [![marghe_iolanda](http://pilde.net/blog/wp-content/uploads/2013/06/marghe_iolanda.jpg)
+e l'amichetta Iolanda! [![marghe_iolanda]({{baseurl}}/uploads/2013/06/marghe_iolanda.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/06/marghe_iolanda.jpg)
+]({{baseurl}}/uploads/2013/06/marghe_iolanda.jpg)
 
 
 e poi infine una bella medaglia!
 
-[![medaglia](http://pilde.net/blog/wp-content/uploads/2013/06/medaglia.jpg)
+[![medaglia]({{baseurl}}/uploads/2013/06/medaglia.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/06/medaglia.jpg)
+]({{baseurl}}/uploads/2013/06/medaglia.jpg)
 
 
 e anche quello di Matilde
 
-[![psico_mati1](http://pilde.net/blog/wp-content/uploads/2013/06/psico_mati1.jpg)
+[![psico_mati1]({{baseurl}}/uploads/2013/06/psico_mati1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/06/psico_mati1.jpg)
+]({{baseurl}}/uploads/2013/06/psico_mati1.jpg)
 
 
 
 
-[![pscico_mati2](http://pilde.net/blog/wp-content/uploads/2013/06/pscico_mati2.jpg)
+[![pscico_mati2]({{baseurl}}/uploads/2013/06/pscico_mati2.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/06/pscico_mati2.jpg)
+]({{baseurl}}/uploads/2013/06/pscico_mati2.jpg)
 
 
 e un pò di succo per dissetarci!
 
-[![succhi](http://pilde.net/blog/wp-content/uploads/2013/06/succhi.jpg)
+[![succhi]({{baseurl}}/uploads/2013/06/succhi.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/06/succhi.jpg)
+]({{baseurl}}/uploads/2013/06/succhi.jpg)
 
 
 Poi M&P sono andati a vedere Matilde che faceva la cortigiana nel Rigoletto al teatro Valle!
 
-[![manifesto_rigoletto](http://pilde.net/blog/wp-content/uploads/2013/06/manifesto_rigoletto.jpg)
+[![manifesto_rigoletto]({{baseurl}}/uploads/2013/06/manifesto_rigoletto.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/06/manifesto_rigoletto.jpg)
+]({{baseurl}}/uploads/2013/06/manifesto_rigoletto.jpg)
 
 
 Che emozione sentire tutti i bambini cantare l'opera seduti in platea! Grazie maestra Claudia che hai realizzato questo bel progetto a scuola!
 
-[![teatro_valle](http://pilde.net/blog/wp-content/uploads/2013/06/teatro_valle.jpg)
+[![teatro_valle]({{baseurl}}/uploads/2013/06/teatro_valle.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/06/teatro_valle.jpg)
+]({{baseurl}}/uploads/2013/06/teatro_valle.jpg)
 
 
 La classe di Mati ha anche rappresentato l'Avaro nella recita finale.

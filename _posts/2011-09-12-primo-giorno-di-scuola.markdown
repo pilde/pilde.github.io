@@ -13,28 +13,28 @@ categories:
 
 12 settembre ore 9: primo giorno di scuola materna per Margherita!
 
-![](http://pilde.net/blog/wp-content/uploads/2011/10/scuola2.jpg)
+![]({{baseurl}}/uploads/2011/10/scuola2.jpg)
 
 
 
 
 all'inizio è un pò imbronciata, ma dopo entrata in classe trova un cassetto pieno di animali ed è felicissima!
 
-![](http://pilde.net/blog/wp-content/uploads/2011/10/scuola3.jpg)
+![]({{baseurl}}/uploads/2011/10/scuola3.jpg)
 
 
 
 
 Matilde, ormai veterana della materna, saluta con un pò di tristezza i compagni che quest'anno vanno in prima elementare
 
-![](http://pilde.net/blog/wp-content/uploads/2011/10/scuola1.jpg)
+![]({{baseurl}}/uploads/2011/10/scuola1.jpg)
 
 
 
 
 e si coccola com mapi!
 
-![](http://pilde.net/blog/wp-content/uploads/2011/10/scuola4.jpg)
+![]({{baseurl}}/uploads/2011/10/scuola4.jpg)
 
 
 

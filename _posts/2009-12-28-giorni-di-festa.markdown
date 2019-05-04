@@ -15,14 +15,14 @@ Ecco cosa abbiamo fatto in questi giorni di festa: il 24 sera abbiamo avuto tutt
 
 c'era anche Caterina
 
-![](http://pilde.net/blog/wp-content/uploads/2010/01/iocate.jpg)
+![]({{baseurl}}/uploads/2010/01/iocate.jpg)
 
 
 
 
 e la mia sorellina Marghe
 
-![](http://pilde.net/blog/wp-content/uploads/2010/01/marghe_natale_rid.jpg)
+![]({{baseurl}}/uploads/2010/01/marghe_natale_rid.jpg)
 
 
 
@@ -32,12 +32,12 @@ e la mia sorellina Marghe
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2009/12/bicimati.jpg)
+![]({{baseurl}}/uploads/2009/12/bicimati.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2009/12/bicimarghe.jpg)
+![]({{baseurl}}/uploads/2009/12/bicimarghe.jpg)
 
 
 poi abbiamo tormentato Morgan (quella macchia nera sotto di noi è lui!)
@@ -45,19 +45,19 @@ poi abbiamo tormentato Morgan (quella macchia nera sotto di noi è lui!)
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2009/12/morgan.jpg)
+![]({{baseurl}}/uploads/2009/12/morgan.jpg)
 
 
 
 
 e infine il 27 al mare a Ostia dove abbiamo giocato con la sabbia e Morgan si è fatto il bagno!
 
-![](http://pilde.net/blog/wp-content/uploads/2009/12/maremm.jpg)
+![]({{baseurl}}/uploads/2009/12/maremm.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2009/12/morgan_mare.jpg)
+![]({{baseurl}}/uploads/2009/12/morgan_mare.jpg)
 
 
 

@@ -13,14 +13,14 @@ categories:
 
 Mamish mi ha fatto questa foto domenica ...
 
-![](http://pilde.net/blog/wp-content/uploads/2012/09/mati_white.jpg)
+![]({{baseurl}}/uploads/2012/09/mati_white.jpg)
 
 
 
 
 e si è ricordata di questa che risale a 4 anni fa ....stesso posto stesso periodo ....
 
-![](http://pilde.net/blog/wp-content/uploads/2012/09/principessa11.jpg)
+![]({{baseurl}}/uploads/2012/09/principessa11.jpg)
 
 
 

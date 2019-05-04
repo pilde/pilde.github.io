@@ -17,7 +17,7 @@ so che siete in messico a divertirvi ma mi mancate.
 
 vi mando un grande bacio
 
-![ninna.jpg](http://pilde.net/blog/wp-content/uploads/2007/01/ninna.jpg)
+![ninna.jpg]({{baseurl}}/uploads/2007/01/ninna.jpg)
 
 
 

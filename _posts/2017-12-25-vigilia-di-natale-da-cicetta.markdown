@@ -13,22 +13,22 @@ categories:
 
 Come da tradizione....
 
-![natale_5](http://pilde.net/blog/wp-content/uploads/2018/02/natale_5.png)
+![natale_5]({{baseurl}}/uploads/2018/02/natale_5.png)
 
 
- ![natale_4](http://pilde.net/blog/wp-content/uploads/2018/02/natale_4.png)
+ ![natale_4]({{baseurl}}/uploads/2018/02/natale_4.png)
 
 
- ![natale_1](http://pilde.net/blog/wp-content/uploads/2017/12/natale_1.png)
+ ![natale_1]({{baseurl}}/uploads/2017/12/natale_1.png)
 
 
- ![natale_3](http://pilde.net/blog/wp-content/uploads/2018/02/natale_3.png)
+ ![natale_3]({{baseurl}}/uploads/2018/02/natale_3.png)
 
 
- ![natale_2](http://pilde.net/blog/wp-content/uploads/2017/12/natale_2.png)
+ ![natale_2]({{baseurl}}/uploads/2017/12/natale_2.png)
 
 
- ![natale_all](http://pilde.net/blog/wp-content/uploads/2018/02/natale_all.png)
+ ![natale_all]({{baseurl}}/uploads/2018/02/natale_all.png)
 
 
 e quest'anno per la prima volta siamo anche riusciti ad arrivare al dolce senza esplodere!!!

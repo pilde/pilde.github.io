@@ -13,49 +13,49 @@ categories:
 
 stiamo scoprendo che la nostra città è proprio bella e ci piace girarla..
 
-![](http://pilde.net/blog/wp-content/uploads/2010/12/passeggio.jpg)
+![]({{baseurl}}/uploads/2010/12/passeggio.jpg)
 
 
 
 
 fontana di trevi
 
-![](http://pilde.net/blog/wp-content/uploads/2010/12/fontana_trevi.jpg)
+![]({{baseurl}}/uploads/2010/12/fontana_trevi.jpg)
 
 
 
 
 piazza s. pietro ...
 
-![](http://pilde.net/blog/wp-content/uploads/2010/12/famili_spietro2.jpg)
+![]({{baseurl}}/uploads/2010/12/famili_spietro2.jpg)
 
 
 
 
 'mamma dov'è l'albero??'
 
-![](http://pilde.net/blog/wp-content/uploads/2010/12/marghe.jpg)
+![]({{baseurl}}/uploads/2010/12/marghe.jpg)
 
 
 
 
 piazza navona ...che buona la mela caramellata
 
-![](http://pilde.net/blog/wp-content/uploads/2011/01/mela.jpg)
+![]({{baseurl}}/uploads/2011/01/mela.jpg)
 
 
 
 
 e guarda come è pieno il fiume!
 
-![](http://pilde.net/blog/wp-content/uploads/2011/01/testoline.jpg)
+![]({{baseurl}}/uploads/2011/01/testoline.jpg)
 
 
 
 
 lo sapete che Nospa è comodo da cavalcare!
 
-![](http://pilde.net/blog/wp-content/uploads/2011/01/cavalluccio_con_nospa.jpg)
+![]({{baseurl}}/uploads/2011/01/cavalluccio_con_nospa.jpg)
 
 
 

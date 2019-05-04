@@ -19,7 +19,7 @@ Siamo ormai alle porte del Natale e la passeggiata a Piazza Navona è di rito, p
 
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/12/ziag.jpg)
+[![]({{baseurl}}/uploads/2008/12/ziag.jpg)
 
 
 ](http://None)
@@ -34,14 +34,14 @@ Siamo ormai alle porte del Natale e la passeggiata a Piazza Navona è di rito, p
 
 Mi ha incuriosito un signore che mangiava una spada
 
-![](http://pilde.net/blog/wp-content/uploads/2008/12/spada.jpg)
+![]({{baseurl}}/uploads/2008/12/spada.jpg)
 
 
 
 
 E non poteva mancare anche la pizza bianca di Campo dei Fiori
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/12/pizza.jpg)
+[![]({{baseurl}}/uploads/2008/12/pizza.jpg)
 
 
 ](http://None)
@@ -51,7 +51,7 @@ E non poteva mancare anche la pizza bianca di Campo dei Fiori
 
 C'erano anche i nonni con Margherita
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/12/argentina.jpg)
+[![]({{baseurl}}/uploads/2008/12/argentina.jpg)
 
 
 ](http://None)
@@ -61,7 +61,7 @@ C'erano anche i nonni con Margherita
 
 e Atzuko
 
-![](http://pilde.net/blog/wp-content/uploads/2008/12/navona.jpg)
+![]({{baseurl}}/uploads/2008/12/navona.jpg)
 
 
 

@@ -16,7 +16,7 @@ Quali migliori mascot dei 'paranormali' (www.paranormali.net)
 
  se non due bimbi addormentati in decollo sotto la giacca del club?
 
-![decollo1_scalata.JPG](http://pilde.net/blog/wp-content/uploads/2007/04/decollo1_scalata.JPG)
+![decollo1_scalata.JPG]({{baseurl}}/uploads/2007/04/decollo1_scalata.JPG)
 
 
 

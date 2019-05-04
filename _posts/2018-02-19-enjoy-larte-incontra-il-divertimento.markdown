@@ -16,22 +16,22 @@ categories:
 
 Questa mostra di arte contemporanea è divertentissima!
 
-![enjoy1](http://pilde.net/blog/wp-content/uploads/2018/02/enjoy1.png)
+![enjoy1]({{baseurl}}/uploads/2018/02/enjoy1.png)
 
 
- ![enj2](http://pilde.net/blog/wp-content/uploads/2018/02/enj2.png)
+ ![enj2]({{baseurl}}/uploads/2018/02/enj2.png)
 
 
- ![enj3](http://pilde.net/blog/wp-content/uploads/2018/02/enj3.png)
+ ![enj3]({{baseurl}}/uploads/2018/02/enj3.png)
 
 
- ![enj4](http://pilde.net/blog/wp-content/uploads/2018/02/enj4.png)
+ ![enj4]({{baseurl}}/uploads/2018/02/enj4.png)
 
 
- ![enj5](http://pilde.net/blog/wp-content/uploads/2018/02/enj5.png)
+ ![enj5]({{baseurl}}/uploads/2018/02/enj5.png)
 
 
- ![enj6](http://pilde.net/blog/wp-content/uploads/2018/02/enj6.png)
+ ![enj6]({{baseurl}}/uploads/2018/02/enj6.png)
 
 
 

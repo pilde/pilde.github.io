@@ -16,20 +16,20 @@ Beh! ...era ormai tempo di completare il regalo per la Barsotti's family (o sare
 
  e dunque stamattina ho aiutato quel pigrone di papà.
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/10/matisse1.jpg)
+[![]({{baseurl}}/uploads/2008/10/matisse1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2008/10/matisse1.jpg)
+]({{baseurl}}/uploads/2008/10/matisse1.jpg)
 
 
 
 
 Mi sono sentita molto matisse ... il gattino degli aristogatti !!!
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/10/matisse.jpeg)
+[![]({{baseurl}}/uploads/2008/10/matisse.jpeg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2008/10/matisse.jpeg)
+]({{baseurl}}/uploads/2008/10/matisse.jpeg)
 
 
 

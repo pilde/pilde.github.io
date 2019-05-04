@@ -13,7 +13,7 @@ categories:
 
 La mia sorellina è soprannominata Paciocchi perchè è una bella cicciona.....ma è bellissima, non trovate?
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/11/paciocchi.jpg)
+[![]({{baseurl}}/uploads/2008/11/paciocchi.jpg)
 
 
 ](http://None)

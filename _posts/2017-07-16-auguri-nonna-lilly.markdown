@@ -13,10 +13,10 @@ categories:
 
 Per il compleanno di nonna siamo tutti insieme a Sassoferrato!
 
-![nonnaLilly_1](http://pilde.net/blog/wp-content/uploads/2017/07/nonnaLilly_1.png)
+![nonnaLilly_1]({{baseurl}}/uploads/2017/07/nonnaLilly_1.png)
 
 
-![nonna_2](http://pilde.net/blog/wp-content/uploads/2017/07/nonna_2.png)
+![nonna_2]({{baseurl}}/uploads/2017/07/nonna_2.png)
 
 
 

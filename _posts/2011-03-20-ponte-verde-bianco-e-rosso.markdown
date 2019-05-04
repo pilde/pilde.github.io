@@ -16,7 +16,7 @@ categories:
 
 Ci siamo presi 4 giorni di ponte e siamo stati in giro per prati! Qui da Alessia
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/03/pranzo_alessia.jpg)
+[![]({{baseurl}}/uploads/2011/03/pranzo_alessia.jpg)
 
 
 ](http://None)
@@ -26,7 +26,7 @@ Ci siamo presi 4 giorni di ponte e siamo stati in giro per prati! Qui da Alessia
 
 a giocare con la sua tartaruga
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/03/tartaruga_alessia.jpg)
+[![]({{baseurl}}/uploads/2011/03/tartaruga_alessia.jpg)
 
 
 ](http://None)
@@ -36,7 +36,7 @@ a giocare con la sua tartaruga
 
 e qui alla Caffarella con Anna
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/03/prato.jpg)
+[![]({{baseurl}}/uploads/2011/03/prato.jpg)
 
 
 ](http://None)
@@ -46,7 +46,7 @@ e qui alla Caffarella con Anna
 
 che carina con le margherite sulle orecchie!!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/03/anna.jpg)
+[![]({{baseurl}}/uploads/2011/03/anna.jpg)
 
 
 ](http://None)

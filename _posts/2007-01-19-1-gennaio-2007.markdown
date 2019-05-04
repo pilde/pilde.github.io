@@ -19,18 +19,18 @@ vi racconto la mia prima giornata del 2007 :)
 
 Dopo aver ballato fino a tardi col mio papà  la notte di capodanno ed essermi fatta coccolare dalla mia mamma appena sveglia, siamo stati, insieme ad annagloria e nic, a fare una passeggiata a 1700 m sull'Etna!Che bello, passare dal mare alla montagna in così poco tempo...e poi c'era tantissima neve e un panorama bellissimo, faceva caldo e lo zio nic mi ha tirata con lo slittino!Mi sono divertita tantissimo a fare delle discese spericolate e ho anche fatto qualche passetto sulla neve!
 
-![ballo.jpg](http://pilde.net/blog/wp-content/uploads/2007/01/ballo.jpg)
+![ballo.jpg]({{baseurl}}/uploads/2007/01/ballo.jpg)
 
 
-![coccole.jpg](http://pilde.net/blog/wp-content/uploads/2007/01/coccole.jpg)
+![coccole.jpg]({{baseurl}}/uploads/2007/01/coccole.jpg)
 
 
 
 
-![neve2.jpg](http://pilde.net/blog/wp-content/uploads/2007/01/neve2.jpg)
+![neve2.jpg]({{baseurl}}/uploads/2007/01/neve2.jpg)
 
 
-![neve1.jpg](http://pilde.net/blog/wp-content/uploads/2007/01/neve1.jpg)
+![neve1.jpg]({{baseurl}}/uploads/2007/01/neve1.jpg)
 
 
 

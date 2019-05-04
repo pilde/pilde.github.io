@@ -12,10 +12,10 @@ categories:
 - Eventi
 ---
 
-![sophienicole.jpg](http://pilde.net/blog/wp-content/uploads/2008/07/sophienicole.jpg)
+![sophienicole.jpg]({{baseurl}}/uploads/2008/07/sophienicole.jpg)
 
 
-  ![logo_en.jpg](http://pilde.net/blog/wp-content/uploads/2008/07/logo_en.jpg)
+  ![logo_en.jpg]({{baseurl}}/uploads/2008/07/logo_en.jpg)
 
 
 
@@ -26,28 +26,28 @@ Nathalie era bellissima, P ha detto che era elegante e soave come una vestale! (
 
 
 
-![nathpapa.jpg](http://pilde.net/blog/wp-content/uploads/2008/07/nathpapa.jpg)
+![nathpapa.jpg]({{baseurl}}/uploads/2008/07/nathpapa.jpg)
 
 
 
 
 e lo sposo era raggiante! Sophie invece era assonnata!
 
-![nath_enrico.jpg](http://pilde.net/blog/wp-content/uploads/2008/07/nath_enrico.jpg)
+![nath_enrico.jpg]({{baseurl}}/uploads/2008/07/nath_enrico.jpg)
 
 
 
 
 Nel parco della 'Ziaccia' siamo arrivati insieme a Mara e Lory
 
-![cancello.jpg](http://pilde.net/blog/wp-content/uploads/2008/07/cancello.jpg)
+![cancello.jpg]({{baseurl}}/uploads/2008/07/cancello.jpg)
 
 
 
 
 e noi bimbi abbiamo giocato tantissimo perchè avevamo ben 3 animatrici tutte per noi, e a me hanno regalato un gatto
 
-![gatto1.jpg](http://pilde.net/blog/wp-content/uploads/2008/07/gatto1.jpg)
+![gatto1.jpg]({{baseurl}}/uploads/2008/07/gatto1.jpg)
 
 
 

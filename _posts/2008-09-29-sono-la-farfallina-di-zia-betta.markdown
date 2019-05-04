@@ -11,15 +11,15 @@ categories:
 - Presentazione
 ---
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/09/disegnoziabetta_small.jpg)
+[![]({{baseurl}}/uploads/2008/09/disegnoziabetta_small.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2008/09/disegnoziabetta_small.jpg)
+]({{baseurl}}/uploads/2008/09/disegnoziabetta_small.jpg)
 
 
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/09/marghe.jpg)
+[![]({{baseurl}}/uploads/2008/09/marghe.jpg)
 
 
 ](http://None)

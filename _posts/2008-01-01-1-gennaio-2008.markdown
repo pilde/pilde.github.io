@@ -13,14 +13,14 @@ categories:
 
 BUON 2008 a tutti!
 
-![codini.jpg](http://pilde.net/blog/wp-content/uploads/2008/01/codini.jpg)
+![codini.jpg]({{baseurl}}/uploads/2008/01/codini.jpg)
 
 
 
 
 Oggi sono stata a pranzo dalla "bionna" e poi insieme abbiamo fatto una bella passeggiata al parco della Caffarella.
 
-![bionna.jpg](http://pilde.net/blog/wp-content/uploads/2008/01/bionna.jpg)
+![bionna.jpg]({{baseurl}}/uploads/2008/01/bionna.jpg)
 
 
 

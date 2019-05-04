@@ -18,7 +18,7 @@ Oggi pomeriggio è nata la mia cuginetta Maria Ginevra!
 
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/04/fiocco_rosa.jpg)
+[![]({{baseurl}}/uploads/2009/04/fiocco_rosa.jpg)
 
 
 ](http://None)

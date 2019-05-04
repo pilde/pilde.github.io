@@ -13,7 +13,7 @@ categories:
 
 Lui è Morgan, il cagnetto di zia Giorgia!E' bellissimo vero?
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/02/morgan.jpg)
+[![]({{baseurl}}/uploads/2009/02/morgan.jpg)
 
 
 ](http://None)
@@ -26,7 +26,7 @@ e mordicchia sempre zia con quei dentini aguzzi!Non vedo l'ora di conoscerlo :)
 
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/02/mordo.jpg)
+[![]({{baseurl}}/uploads/2009/02/mordo.jpg)
 
 
 ](http://None)

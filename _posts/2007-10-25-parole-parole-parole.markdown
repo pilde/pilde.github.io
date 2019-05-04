@@ -20,7 +20,7 @@ nonno, nonna, zio (zia non lo so ancora dire!)
 
 .... più tutte quelle che cerco di ripetere quando le sento!
 
-![io.jpg](http://pilde.net/blog/wp-content/uploads/2007/10/io.jpg)
+![io.jpg]({{baseurl}}/uploads/2007/10/io.jpg)
 
 
 

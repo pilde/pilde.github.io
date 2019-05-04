@@ -13,17 +13,17 @@ categories:
 
 Buon compleanno amore mio... da una "splendida" stanza d'albergo a Bruxelless... e non è un pesce d'aprile!
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/03/brux-300x299.jpg)
+[![]({{baseurl}}/uploads/2009/03/brux-300x299.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2009/03/brux.jpg)
+]({{baseurl}}/uploads/2009/03/brux.jpg)
 
 
 
 
 e io a casa festeggio con le amiche e Matilde
 
-![](http://pilde.net/blog/wp-content/uploads/2009/10/compleanno.jpg)
+![]({{baseurl}}/uploads/2009/10/compleanno.jpg)
 
 
 

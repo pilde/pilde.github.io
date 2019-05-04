@@ -14,33 +14,33 @@ categories:
 Questo we sono stata in piscina e ho imparato a fare tante cose:
 i tuffi dal bordo della vasca
 
-![tuffo1.jpg](http://pilde.net/blog/wp-content/uploads/2008/07/tuffo1.jpg)
+![tuffo1.jpg]({{baseurl}}/uploads/2008/07/tuffo1.jpg)
 
 
 
 
 a stare a galla, ma tenuta da M
 
-![tuffi2.jpg](http://pilde.net/blog/wp-content/uploads/2008/07/tuffi2.jpg)
+![tuffi2.jpg]({{baseurl}}/uploads/2008/07/tuffi2.jpg)
 
 
 
 
 a battere i piedini e fare la schiuma
 
-![tuffi3.jpg](http://pilde.net/blog/wp-content/uploads/2008/07/tuffi3.jpg)
+![tuffi3.jpg]({{baseurl}}/uploads/2008/07/tuffi3.jpg)
 
 
 
 
-![tuffi4.jpg](http://pilde.net/blog/wp-content/uploads/2008/07/tuffi4.jpg)
+![tuffi4.jpg]({{baseurl}}/uploads/2008/07/tuffi4.jpg)
 
 
 
 
 poi sono venute anche zia Betta e Caterina
 
-![cate_piscina.jpg](http://pilde.net/blog/wp-content/uploads/2008/07/cate_piscina.jpg)
+![cate_piscina.jpg]({{baseurl}}/uploads/2008/07/cate_piscina.jpg)
 
 
 

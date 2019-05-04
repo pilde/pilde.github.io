@@ -15,7 +15,7 @@ Oggi mamma è tornata in palestra mentre papà ed io discorrevamo al bar in sua 
 
 Invece sabato scorso papà ha fatto  un voletto.
 
-![volo1.jpg](http://pilde.net/blog/wp-content/uploads/2006/11/volo1.jpg)
+![volo1.jpg]({{baseurl}}/uploads/2006/11/volo1.jpg)
 
 
 

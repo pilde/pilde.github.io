@@ -11,12 +11,12 @@ categories:
 - Amici
 ---
 
-Che bello oggi siamo andate a costruire le torri insieme a Sofia ![](http://pilde.net/blog/wp-content/uploads/2011/01/amiche_giochi.jpg)
+Che bello oggi siamo andate a costruire le torri insieme a Sofia ![]({{baseurl}}/uploads/2011/01/amiche_giochi.jpg)
 
 
 e poi ci siamo anche mangiate un bel piattone di patatine fritte!
 
-![](http://pilde.net/blog/wp-content/uploads/2011/01/bimbe_patatine.jpg)
+![]({{baseurl}}/uploads/2011/01/bimbe_patatine.jpg)
 
 
 

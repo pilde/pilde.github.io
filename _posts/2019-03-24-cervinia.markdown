@@ -14,22 +14,21 @@ categories:
 
 **17/03** ore 00.00 finalmente si parte per la montagna! Viaggio di notte per essere a Cervinia alle 8 del mattino....con una bella sorpresa.... ziaaaaaa
 
-
-![zia_1]({{ baseurl }}/uploads/2019/04/zia_1.png)
-
-
-Noleggiamo tutto e prendiamo la cabinovia per Plain Maison insieme a Morghi e zia![morghi](http://pilde.net/blog/wp-content/uploads/2019/04/morghi.png)
+![zia_1]({{baseurl}}/uploads/2019/04/zia_1.png)
 
 
- ![zia_2](http://pilde.net/blog/wp-content/uploads/2019/04/zia_2.png)
+Noleggiamo tutto e prendiamo la cabinovia per Plain Maison insieme a Morghi e zia![morghi]({{baseurl}}/uploads/2019/04/morghi.png)
+
+
+ ![zia_2]({{baseurl}}/uploads/2019/04/zia_2.png)
 
 
 Facciamo la nostra prima sciata insieme a Silvano a Cervinia, la mitica pista 7, la Ventina, lunga 11km!
 
-![17_silvo](http://pilde.net/blog/wp-content/uploads/2019/04/17_silvo.png)
+![17_silvo]({{baseurl}}/uploads/2019/04/17_silvo.png)
 
 
-e guarda un pò .... ecco anche i Bianchin sulle piste!!! ![17_gruppone](http://pilde.net/blog/wp-content/uploads/2019/04/17_gruppone.png)
+e guarda un pò .... ecco anche i Bianchin sulle piste!!! ![17_gruppone]({{baseurl}}/uploads/2019/04/17_gruppone.png)
 
 
 **18/03 **oggi invece c'è molto vento e le piste di Cervinia e Zermatt sono chiuse. Così prendiamo la macchina e andiamo a Valtournanche insieme a Prisca (ECCOI)
@@ -38,18 +37,18 @@ e guarda un pò .... ecco anche i Bianchin sulle piste!!! ![17_gruppone](http://
 . Qui essendo protetto dal vento si scia! Giornata alla scoperta delle piste, con pranzo in baita!**
 **
 
-![18_panorma](http://pilde.net/blog/wp-content/uploads/2019/04/18_panorma.jpg)
+![18_panorma]({{baseurl}}/uploads/2019/04/18_panorma.jpg)
 
 
 
 
-![18_valtour](http://pilde.net/blog/wp-content/uploads/2019/04/18_valtour.jpg)
+![18_valtour]({{baseurl}}/uploads/2019/04/18_valtour.jpg)
 
 
 **19/03 **finalmente siamo tutti insieme oggi! Che bel gruppone!**
 **
 
-![gruppone_CRI](http://pilde.net/blog/wp-content/uploads/2019/04/gruppone_CRI.jpg)
+![gruppone_CRI]({{baseurl}}/uploads/2019/04/gruppone_CRI.jpg)
 
 
 il sole, niente vento, niente nuvole, freddo (-12)
@@ -57,16 +56,16 @@ il sole, niente vento, niente nuvole, freddo (-12)
 
   .... le piste sono tutte nostreeee
 
-![19_seggiovia](http://pilde.net/blog/wp-content/uploads/2019/04/19_seggiovia.jpg)
+![19_seggiovia]({{baseurl}}/uploads/2019/04/19_seggiovia.jpg)
 
 
 con il maestoso Cervino (4478m)
 
 
- ![20_bimbi](http://pilde.net/blog/wp-content/uploads/2019/04/20_bimbi.jpg)
+ ![20_bimbi]({{baseurl}}/uploads/2019/04/20_bimbi.jpg)
 
 
- ![19_family](http://pilde.net/blog/wp-content/uploads/2019/04/19_family.jpg)
+ ![19_family]({{baseurl}}/uploads/2019/04/19_family.jpg)
 
 
 e lo splendente Plateau Rosa (3500m)
@@ -74,42 +73,42 @@ e lo splendente Plateau Rosa (3500m)
 
 
 
-![19_plato_rosa](http://pilde.net/blog/wp-content/uploads/2019/04/19_plato_rosa.jpg)
+![19_plato_rosa]({{baseurl}}/uploads/2019/04/19_plato_rosa.jpg)
 
 
 stop per panino e bombardino
 
-![19_bombardino](http://pilde.net/blog/wp-content/uploads/2019/04/19_bombardino.jpg)
+![19_bombardino]({{baseurl}}/uploads/2019/04/19_bombardino.jpg)
 
 
 
 
-![19_gruppo_ragazzi](http://pilde.net/blog/wp-content/uploads/2019/04/19_gruppo_ragazzi.png)
+![19_gruppo_ragazzi]({{baseurl}}/uploads/2019/04/19_gruppo_ragazzi.png)
 
 
 
 
 e si riparte
 
-![io](http://pilde.net/blog/wp-content/uploads/2019/04/io.jpg)
+![io]({{baseurl}}/uploads/2019/04/io.jpg)
 
 
-**20-21/03**: : la nostra vacanza procede alla grande con tanto sole, sciate, baite, relax pomeridiani dopo-sci e serate tranquille a casa!![20_bimbi](http://pilde.net/blog/wp-content/uploads/2019/03/20_bimbi.jpg)
+**20-21/03**: : la nostra vacanza procede alla grande con tanto sole, sciate, baite, relax pomeridiani dopo-sci e serate tranquille a casa!![20_bimbi]({{baseurl}}/uploads/2019/03/20_bimbi.jpg)
 
 
-anche qualche birretta!!! :D ![20_birra](http://pilde.net/blog/wp-content/uploads/2019/03/20_birra.jpg)
+anche qualche birretta!!! :D ![20_birra]({{baseurl}}/uploads/2019/03/20_birra.jpg)
 
 
- ![20_giu&cri](http://pilde.net/blog/wp-content/uploads/2019/03/20_giucri.png)
+ ![20_giu&cri]({{baseurl}}/uploads/2019/03/20_giucri.png)
 
 
- ![20_family](http://pilde.net/blog/wp-content/uploads/2019/03/20_family.jpg)
+ ![20_family]({{baseurl}}/uploads/2019/03/20_family.jpg)
 
 
- ![20_io&mati](http://pilde.net/blog/wp-content/uploads/2019/03/20_iomati.png)
+ ![20_io&mati]({{baseurl}}/uploads/2019/03/20_iomati.png)
 
 
- come stanca questa vacanza!!![21_dami](http://pilde.net/blog/wp-content/uploads/2019/03/21_dami.jpg)
+ come stanca questa vacanza!!![21_dami]({{baseurl}}/uploads/2019/03/21_dami.jpg)
 
 
 **22/03**: i Bianchin ripartono (sob)
@@ -117,57 +116,57 @@ anche qualche birretta!!! :D ![20_birra](http://pilde.net/blog/wp-content/upload
 
  e mati e papo prendono lo snowboard!
 
-![22_mati_papo_snow](http://pilde.net/blog/wp-content/uploads/2019/03/22_mati_papo_snow.jpg)
+![22_mati_papo_snow]({{baseurl}}/uploads/2019/03/22_mati_papo_snow.jpg)
 
 
- ![22_mati_snow](http://pilde.net/blog/wp-content/uploads/2019/03/22_mati_snow.jpg)
+ ![22_mati_snow]({{baseurl}}/uploads/2019/03/22_mati_snow.jpg)
 
 
 
 
 a pranzo ci fermiamo nella baita super chic di Plan Torrette, per una polenta e un pò di belle foto
 
-![22_love1](http://pilde.net/blog/wp-content/uploads/2019/03/22_love1.jpg)
+![22_love1]({{baseurl}}/uploads/2019/03/22_love1.jpg)
 
 
- ![22_love6](http://pilde.net/blog/wp-content/uploads/2019/03/22_love6.jpg)
+ ![22_love6]({{baseurl}}/uploads/2019/03/22_love6.jpg)
 
 
 **23/03**: il nostro ultimo giorno....si va a Zermatt, in Svizzera!
 
-![23_zermatt_flag](http://pilde.net/blog/wp-content/uploads/2019/03/23_zermatt_flag.jpg)
+![23_zermatt_flag]({{baseurl}}/uploads/2019/03/23_zermatt_flag.jpg)
 
 
-Il cervino visto da qui è ancora più bello! ![23_zermatt_cervino2](http://pilde.net/blog/wp-content/uploads/2019/03/23_zermatt_cervino2.jpg)
+Il cervino visto da qui è ancora più bello! ![23_zermatt_cervino2]({{baseurl}}/uploads/2019/03/23_zermatt_cervino2.jpg)
 
 
- ![23_zermatt_cervino](http://pilde.net/blog/wp-content/uploads/2019/03/23_zermatt_cervino.jpg)
+ ![23_zermatt_cervino]({{baseurl}}/uploads/2019/03/23_zermatt_cervino.jpg)
 
 
 le piste sono larghissime e poco affollate, arriviamo fino agli chalet in legno
 
-![23_zermatt](http://pilde.net/blog/wp-content/uploads/2019/03/23_zermatt.jpg)
+![23_zermatt]({{baseurl}}/uploads/2019/03/23_zermatt.jpg)
 
 
 e non può mancare la sosta al villaggio di Igloo
 
-![23_zermatt_igloo1](http://pilde.net/blog/wp-content/uploads/2019/03/23_zermatt_igloo1.png)
+![23_zermatt_igloo1]({{baseurl}}/uploads/2019/03/23_zermatt_igloo1.png)
 
 
- ![23_zermatt_igloo2](http://pilde.net/blog/wp-content/uploads/2019/03/23_zermatt_igloo2.png)
-
-
-
-
-![igloo](http://pilde.net/blog/wp-content/uploads/2019/03/igloo.jpg)
+ ![23_zermatt_igloo2]({{baseurl}}/uploads/2019/03/23_zermatt_igloo2.png)
 
 
 
 
-e il bar fashion con i cuscinoni!![23_zermatt_igloo3](http://pilde.net/blog/wp-content/uploads/2019/03/23_zermatt_igloo3.png)
+![igloo]({{baseurl}}/uploads/2019/03/igloo.jpg)
 
 
- ![23_zermatt_noi](http://pilde.net/blog/wp-content/uploads/2019/03/23_zermatt_noi.png)
+
+
+e il bar fashion con i cuscinoni!![23_zermatt_igloo3]({{baseurl}}/uploads/2019/03/23_zermatt_igloo3.png)
+
+
+ ![23_zermatt_noi]({{baseurl}}/uploads/2019/03/23_zermatt_noi.png)
 
 
 prendiamo anche il trenino a cremagliera della fine dell'800 che porta in cima al Gornergrat (3130m)
@@ -175,10 +174,10 @@ prendiamo anche il trenino a cremagliera della fine dell'800 che porta in cima a
 
 , la seconda più alta d'Europa
 
-![cremagliera](http://pilde.net/blog/wp-content/uploads/2019/03/cremagliera.png)
+![cremagliera]({{baseurl}}/uploads/2019/03/cremagliera.png)
 
 
-Aurevoir bellissime montagne! ![23_zermatt_panorama](http://pilde.net/blog/wp-content/uploads/2019/03/23_zermatt_panorama.jpg)
+Aurevoir bellissime montagne! ![23_zermatt_panorama]({{baseurl}}/uploads/2019/03/23_zermatt_panorama.jpg)
 
 
 

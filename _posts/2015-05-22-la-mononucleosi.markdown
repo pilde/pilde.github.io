@@ -13,10 +13,10 @@ categories:
 
 Dopo un anno in cui hanno resistito a qualunque malanno, chiudiamo con la mononucleosi! Povera meggy! :(
 
-[![mononucleosi](http://pilde.net/blog/wp-content/uploads/2015/09/mononucleosi.jpg)
+[![mononucleosi]({{baseurl}}/uploads/2015/09/mononucleosi.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/mononucleosi.jpg)
+]({{baseurl}}/uploads/2015/09/mononucleosi.jpg)
 
 
 

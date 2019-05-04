@@ -12,83 +12,83 @@ categories:
 - viaggi
 ---
 
-E' finita la scuola!! L'8 giugno partono con i nonni alla volta della liguria. [![castelletto](http://pilde.net/blog/wp-content/uploads/2015/09/castelletto.png)
+E' finita la scuola!! L'8 giugno partono con i nonni alla volta della liguria. [![castelletto]({{baseurl}}/uploads/2015/09/castelletto.png)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/castelletto.png)
+]({{baseurl}}/uploads/2015/09/castelletto.png)
 
 
-Sono una bella combriccola di bambini in paese! Sergio e Vieri,Viola, Beniamino...e il divertimento non manca![![fontana](http://pilde.net/blog/wp-content/uploads/2015/09/fontana.png)
+Sono una bella combriccola di bambini in paese! Sergio e Vieri,Viola, Beniamino...e il divertimento non manca![![fontana]({{baseurl}}/uploads/2015/09/fontana.png)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/fontana.png)
+]({{baseurl}}/uploads/2015/09/fontana.png)
 
 
- [![lig_mare](http://pilde.net/blog/wp-content/uploads/2015/09/lig_mare.png)
+ [![lig_mare]({{baseurl}}/uploads/2015/09/lig_mare.png)
 
 
-![bside](http://pilde.net/blog/wp-content/uploads/2015/09/bside.jpg)
+![bside]({{baseurl}}/uploads/2015/09/bside.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/bside.jpg)
+]({{baseurl}}/uploads/2015/09/bside.jpg)
 
 
-E anche zia le porta a cavallo, ad arrimpicare, in giro per boschi! [![mati_arrampicata](http://pilde.net/blog/wp-content/uploads/2015/09/mati_arrampicata.png)
+E anche zia le porta a cavallo, ad arrimpicare, in giro per boschi! [![mati_arrampicata]({{baseurl}}/uploads/2015/09/mati_arrampicata.png)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/mati_arrampicata.png)
+]({{baseurl}}/uploads/2015/09/mati_arrampicata.png)
 
 
-[![cavallo](http://pilde.net/blog/wp-content/uploads/2015/09/cavallo.jpg)
+[![cavallo]({{baseurl}}/uploads/2015/09/cavallo.jpg)
 
 
-![piscina](http://pilde.net/blog/wp-content/uploads/2015/06/piscina.jpg)
+![piscina]({{baseurl}}/uploads/2015/06/piscina.jpg)
 
 
-![terrazzo2](http://pilde.net/blog/wp-content/uploads/2015/09/terrazzo2.png)
+![terrazzo2]({{baseurl}}/uploads/2015/09/terrazzo2.png)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/terrazzo2.png)
+]({{baseurl}}/uploads/2015/09/terrazzo2.png)
 
 
- [![zia&morghi](http://pilde.net/blog/wp-content/uploads/2015/09/ziamorghi.png)
+ [![zia&morghi]({{baseurl}}/uploads/2015/09/ziamorghi.png)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/ziamorghi.png)
+]({{baseurl}}/uploads/2015/09/ziamorghi.png)
 
 
 M&P nel frattempo si dedicano a qualche passione .... e affogano il dispiacere nel vino!!!
 
-[![atterraggio](http://pilde.net/blog/wp-content/uploads/2015/06/atterraggio.jpg)
+[![atterraggio]({{baseurl}}/uploads/2015/06/atterraggio.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/06/atterraggio.jpg)
+]({{baseurl}}/uploads/2015/06/atterraggio.jpg)
 
 
-[![cenetta](http://pilde.net/blog/wp-content/uploads/2015/06/cenetta.jpg)
+[![cenetta]({{baseurl}}/uploads/2015/06/cenetta.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/06/cenetta.jpg)
+]({{baseurl}}/uploads/2015/06/cenetta.jpg)
 
 
-[![latina](http://pilde.net/blog/wp-content/uploads/2015/06/latina.jpg)
+[![latina]({{baseurl}}/uploads/2015/06/latina.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/06/latina.jpg)
+]({{baseurl}}/uploads/2015/06/latina.jpg)
 
 
-[![tramonto](http://pilde.net/blog/wp-content/uploads/2015/06/tramonto1.jpg)
+[![tramonto]({{baseurl}}/uploads/2015/06/tramonto1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/06/tramonto1.jpg)
+]({{baseurl}}/uploads/2015/06/tramonto1.jpg)
 
 
 Dai che ci rivediamo presto!!!
 
-[![meggy](http://pilde.net/blog/wp-content/uploads/2015/09/meggy.png)
+[![meggy]({{baseurl}}/uploads/2015/09/meggy.png)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/meggy.png)
+]({{baseurl}}/uploads/2015/09/meggy.png)
 
 
 

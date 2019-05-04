@@ -14,19 +14,19 @@ categories:
 
 per i due anni di Ivan siamo stati ad un Indian Party!!
 
-![](http://pilde.net/blog/wp-content/uploads/2010/05/ivantorta.jpg)
+![]({{baseurl}}/uploads/2010/05/ivantorta.jpg)
 
 
 
 
 abbiamo giocato e mangiato tante cose buone. marghe e il festeggiato sembrano molto affiatati!
 
-![](http://pilde.net/blog/wp-content/uploads/2010/05/ivanmarghe.jpg)
+![]({{baseurl}}/uploads/2010/05/ivanmarghe.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2010/05/ivanmarghe21.jpg)
+![]({{baseurl}}/uploads/2010/05/ivanmarghe21.jpg)
 
 
 

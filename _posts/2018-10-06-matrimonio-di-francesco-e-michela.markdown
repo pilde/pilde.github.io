@@ -13,21 +13,21 @@ categories:
 
 Per la serie piccoli dottorandi crescono ... e anche Francesco alla fine si è sposato! E mica in un posto qualunque....nella bellissima abbazia di Fossanova
 
-![fossanova_2](http://pilde.net/blog/wp-content/uploads/2018/11/fossanova_2.png)
+![fossanova_2]({{baseurl}}/uploads/2018/11/fossanova_2.png)
 
 
- ![fossanova_1](http://pilde.net/blog/wp-content/uploads/2018/11/fossanova_1.png)
+ ![fossanova_1]({{baseurl}}/uploads/2018/11/fossanova_1.png)
 
 
- ![fossanova_3](http://pilde.net/blog/wp-content/uploads/2018/11/fossanova_3.png)
+ ![fossanova_3]({{baseurl}}/uploads/2018/11/fossanova_3.png)
 
 
 TANTISSIMI AUGURI ragazzi!!!!
 
-![sabaudia_1](http://pilde.net/blog/wp-content/uploads/2018/11/sabaudia_1.jpg)
+![sabaudia_1]({{baseurl}}/uploads/2018/11/sabaudia_1.jpg)
 
 
- ![noi](http://pilde.net/blog/wp-content/uploads/2018/11/noi.jpg)
+ ![noi]({{baseurl}}/uploads/2018/11/noi.jpg)
 
 
 

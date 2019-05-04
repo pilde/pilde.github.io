@@ -17,35 +17,35 @@ Nella giornata della festa dei nonni ...un piccolo tributo alla loro pazienza, 
 
 nonna Lilli
 
-![](http://pilde.net/blog/wp-content/uploads/2009/09/nonna_lilli.jpg)
+![]({{baseurl}}/uploads/2009/09/nonna_lilli.jpg)
 
 
 
 
 nonna Franca
 
-![](http://pilde.net/blog/wp-content/uploads/2009/09/nonnafranca1.jpg)
+![]({{baseurl}}/uploads/2009/09/nonnafranca1.jpg)
 
 
 
 
 bionna Maria
 
-![](http://pilde.net/blog/wp-content/uploads/2009/09/nonna_bionna.jpg)
+![]({{baseurl}}/uploads/2009/09/nonna_bionna.jpg)
 
 
 
 
 nonno Mario
 
-![](http://pilde.net/blog/wp-content/uploads/2009/09/nonnomario.jpg)
+![]({{baseurl}}/uploads/2009/09/nonnomario.jpg)
 
 
 
 
 nonno Gianni
 
-![](http://pilde.net/blog/wp-content/uploads/2009/10/nonno_g.jpg)
+![]({{baseurl}}/uploads/2009/10/nonno_g.jpg)
 
 
 

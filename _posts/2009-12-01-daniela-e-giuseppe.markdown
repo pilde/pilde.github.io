@@ -13,7 +13,7 @@ categories:
 
 Finalmente sono venuti a trovarci nella casa nuova!!!
 
-![](http://pilde.net/blog/wp-content/uploads/2009/12/daniela.jpg)
+![]({{baseurl}}/uploads/2009/12/daniela.jpg)
 
 
 

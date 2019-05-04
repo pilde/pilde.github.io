@@ -13,10 +13,10 @@ categories:
 
 ... non ci si annoia mai ...
 
-![pattini1](http://pilde.net/blog/wp-content/uploads/2016/06/pattini1.jpg)
+![pattini1]({{baseurl}}/uploads/2016/06/pattini1.jpg)
 
 
- ![pattini2](http://pilde.net/blog/wp-content/uploads/2016/06/pattini2.jpg)
+ ![pattini2]({{baseurl}}/uploads/2016/06/pattini2.jpg)
 
 
 

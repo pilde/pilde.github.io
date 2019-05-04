@@ -13,7 +13,7 @@ categories:
 
 In una bella confusione di canti delle maestre e urla dei bimbi più piccoli la mia capoccetta rossa con le trecce dondolava a ritmo di jingle bells!
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/12/recita.jpg)
+[![]({{baseurl}}/uploads/2008/12/recita.jpg)
 
 
 ](http://None)

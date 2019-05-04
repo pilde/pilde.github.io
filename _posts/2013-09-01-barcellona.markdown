@@ -15,102 +15,102 @@ Il nostro quinto scambio casa è con un'allegra famiglia di Barcellona! E questa
 
 **24: **si parte con l'aereo....ognuno con la sua valigia
 
-[![partenza](http://pilde.net/blog/wp-content/uploads/2013/10/partenza.jpg)
+[![partenza]({{baseurl}}/uploads/2013/10/partenza.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/partenza.jpg)
+]({{baseurl}}/uploads/2013/10/partenza.jpg)
 
 
-La casa a Barcellona è molto bella e in centro, dietro il mercato della Boqueria. Pranziamo e poi due passi al mercato, pieno di frutta coloratissima [![mercato](http://pilde.net/blog/wp-content/uploads/2013/10/mercato.jpg)
+La casa a Barcellona è molto bella e in centro, dietro il mercato della Boqueria. Pranziamo e poi due passi al mercato, pieno di frutta coloratissima [![mercato]({{baseurl}}/uploads/2013/10/mercato.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/mercato.jpg)
+]({{baseurl}}/uploads/2013/10/mercato.jpg)
 
 
 e succhi e ghiaccioli di tutti i tipi!
 
-[![succhi](http://pilde.net/blog/wp-content/uploads/2013/10/succhi.jpg)
+[![succhi]({{baseurl}}/uploads/2013/10/succhi.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/succhi.jpg)
+]({{baseurl}}/uploads/2013/10/succhi.jpg)
 
 
 poi andiamo a Palau Guell. Le bimbe hanno il loro primo approccio con Gaudì e con l'aiuto delle audio guide apprezzano molto di più la visita!
 
-[![audio_guida_marghe](http://pilde.net/blog/wp-content/uploads/2013/10/audio_guida_marghe.jpg)
+[![audio_guida_marghe]({{baseurl}}/uploads/2013/10/audio_guida_marghe.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/audio_guida_marghe.jpg)
+]({{baseurl}}/uploads/2013/10/audio_guida_marghe.jpg)
 
 
 Poi tutti sul tetto, pieno di comignoli effetto alberi di una foresta incantata!
 
-[![palau_guell](http://pilde.net/blog/wp-content/uploads/2013/10/palau_guell.jpg)
+[![palau_guell]({{baseurl}}/uploads/2013/10/palau_guell.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/palau_guell.jpg)
+]({{baseurl}}/uploads/2013/10/palau_guell.jpg)
 
 
 A seguire visitiamo la zona del porto
 
-[![pesci](http://pilde.net/blog/wp-content/uploads/2013/10/pesci.jpg)
+[![pesci]({{baseurl}}/uploads/2013/10/pesci.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/pesci.jpg)
+]({{baseurl}}/uploads/2013/10/pesci.jpg)
 
 
 vicino alla statua di Cristoforo Colombo
 
-[![mati_leone](http://pilde.net/blog/wp-content/uploads/2013/10/mati_leone.jpg)
+[![mati_leone]({{baseurl}}/uploads/2013/10/mati_leone.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/mati_leone.jpg)
+]({{baseurl}}/uploads/2013/10/mati_leone.jpg)
 
 
 **25**: Visita alla Sagrada Familia! Imponente, affascinante, mistica!
 
-[![sagrada](http://pilde.net/blog/wp-content/uploads/2013/10/sagrada.jpg)
+[![sagrada]({{baseurl}}/uploads/2013/10/sagrada.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/sagrada.jpg)
+]({{baseurl}}/uploads/2013/10/sagrada.jpg)
 
 
 
 
-[![souvenir](http://pilde.net/blog/wp-content/uploads/2013/10/souvenir.jpg)
+[![souvenir]({{baseurl}}/uploads/2013/10/souvenir.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/souvenir.jpg)
+]({{baseurl}}/uploads/2013/10/souvenir.jpg)
 
 
 Iniziamo il gioco di questa vacanza: P ha avuto la brillante idea di comprare un block-notes ciascuna per scrivere e disegnare le emozioni....e funziona!
 
 Qui le buffe guglie della Sagrada
 
-[![guglie_sagrada](http://pilde.net/blog/wp-content/uploads/2013/10/guglie_sagrada1.jpg)
+[![guglie_sagrada]({{baseurl}}/uploads/2013/10/guglie_sagrada1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/guglie_sagrada1.jpg)
+]({{baseurl}}/uploads/2013/10/guglie_sagrada1.jpg)
 
 
-e il disegno di Mati[![guglia_disegno_mati](http://pilde.net/blog/wp-content/uploads/2013/10/guglia_disegno_mati.jpg)
+e il disegno di Mati[![guglia_disegno_mati]({{baseurl}}/uploads/2013/10/guglia_disegno_mati.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/guglia_disegno_mati.jpg)
+]({{baseurl}}/uploads/2013/10/guglia_disegno_mati.jpg)
 
 
 Pranziamo in un bistrò difronte alla Pedrera, e poi entriamo a visitarla
 
-[![audio_guida](http://pilde.net/blog/wp-content/uploads/2013/10/audio_guida.jpg)
+[![audio_guida]({{baseurl}}/uploads/2013/10/audio_guida.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/audio_guida.jpg)
+]({{baseurl}}/uploads/2013/10/audio_guida.jpg)
 
 
- [![lapedrera](http://pilde.net/blog/wp-content/uploads/2013/10/lapedrera.jpg)
+ [![lapedrera]({{baseurl}}/uploads/2013/10/lapedrera.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/lapedrera.jpg)
+]({{baseurl}}/uploads/2013/10/lapedrera.jpg)
 
 
 Torniamo a casa a piedi attraversando Diagonal. Relax e poi a cena fuori a base di paella e 'fideua'(una paella con degli spaghetti)
@@ -118,102 +118,102 @@ Torniamo a casa a piedi attraversando Diagonal. Relax e poi a cena fuori a base 
 
 .
 
-**26:** oggi piove! Andiamo al MACBA, il museo di arte moderna. [![museo_arte_moderna](http://pilde.net/blog/wp-content/uploads/2013/10/museo_arte_moderna.jpg)
+**26:** oggi piove! Andiamo al MACBA, il museo di arte moderna. [![museo_arte_moderna]({{baseurl}}/uploads/2013/10/museo_arte_moderna.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/museo_arte_moderna.jpg)
+]({{baseurl}}/uploads/2013/10/museo_arte_moderna.jpg)
 
 
-[![disegni](http://pilde.net/blog/wp-content/uploads/2013/10/disegni.jpg)
+[![disegni]({{baseurl}}/uploads/2013/10/disegni.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/disegni.jpg)
+]({{baseurl}}/uploads/2013/10/disegni.jpg)
 
 
 dove le bimbe disegnano i loro capolavori, come 'Caos di oro e argento' ! e cena con le Tapas!
 
 **27**:** **mattina alla Fondazione Mirò
 
-[![mati_mirò](http://pilde.net/blog/wp-content/uploads/2013/10/mati_mirò.jpg)
+[![mati_mirò]({{baseurl}}/uploads/2013/10/mati_mirò.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/mati_mirò.jpg)
+]({{baseurl}}/uploads/2013/10/mati_mirò.jpg)
 
 
 mhhhhh....figo! Anche questi li disegnamo!
 
-[![museo_disegni](http://pilde.net/blog/wp-content/uploads/2013/10/museo_disegni.jpg)
+[![museo_disegni]({{baseurl}}/uploads/2013/10/museo_disegni.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/museo_disegni.jpg)
+]({{baseurl}}/uploads/2013/10/museo_disegni.jpg)
 
 
 e sulla terrazza buffe sculture ....e buffi personaggi!
 
-[![miro_andrea](http://pilde.net/blog/wp-content/uploads/2013/10/miro_andrea.jpg)
+[![miro_andrea]({{baseurl}}/uploads/2013/10/miro_andrea.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/miro_andrea.jpg)
+]({{baseurl}}/uploads/2013/10/miro_andrea.jpg)
 
 
-[![miro_carlotta](http://pilde.net/blog/wp-content/uploads/2013/10/miro_carlotta1.jpg)
+[![miro_carlotta]({{baseurl}}/uploads/2013/10/miro_carlotta1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/miro_carlotta1.jpg)
+]({{baseurl}}/uploads/2013/10/miro_carlotta1.jpg)
 
 
 passeggiata per i giardini del Montjuic
 
-[![ninfee](http://pilde.net/blog/wp-content/uploads/2013/10/ninfee.jpg)
+[![ninfee]({{baseurl}}/uploads/2013/10/ninfee.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/ninfee.jpg)
+]({{baseurl}}/uploads/2013/10/ninfee.jpg)
 
 
-[![rete](http://pilde.net/blog/wp-content/uploads/2013/10/rete.jpg)
+[![rete]({{baseurl}}/uploads/2013/10/rete.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/rete.jpg)
+]({{baseurl}}/uploads/2013/10/rete.jpg)
 
 
 Stasera le bimbe stanno con i nonni e M&P si regalano un concerto a Casa Batlò!
 
 
-[![concerto_batlo](http://pilde.net/blog/wp-content/uploads/2013/10/concerto_batlo.jpg)
+[![concerto_batlo]({{baseurl}}/uploads/2013/10/concerto_batlo.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/concerto_batlo.jpg)
+]({{baseurl}}/uploads/2013/10/concerto_batlo.jpg)
 
 
 **28**: mattinata di shopping nel quartiere del Barrio Gotico, e S.Maria del Mar.
 
 
-[![marghe_occhiali](http://pilde.net/blog/wp-content/uploads/2013/10/marghe_occhiali.jpg)
+[![marghe_occhiali]({{baseurl}}/uploads/2013/10/marghe_occhiali.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/marghe_occhiali.jpg)
+]({{baseurl}}/uploads/2013/10/marghe_occhiali.jpg)
 
 
-[![mati_occhiali](http://pilde.net/blog/wp-content/uploads/2013/10/mati_occhiali.jpg)
+[![mati_occhiali]({{baseurl}}/uploads/2013/10/mati_occhiali.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/mati_occhiali.jpg)
+]({{baseurl}}/uploads/2013/10/mati_occhiali.jpg)
 
 
 tutti insieme
 
-[![tutti](http://pilde.net/blog/wp-content/uploads/2013/10/tutti1.jpg)
+[![tutti]({{baseurl}}/uploads/2013/10/tutti1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/tutti1.jpg)
+]({{baseurl}}/uploads/2013/10/tutti1.jpg)
 
 
 
 
-[![nonno_bimbe_cartapesta](http://pilde.net/blog/wp-content/uploads/2013/10/nonno_bimbe_cartapesta.jpg)
+[![nonno_bimbe_cartapesta]({{baseurl}}/uploads/2013/10/nonno_bimbe_cartapesta.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/nonno_bimbe_cartapesta.jpg)
+]({{baseurl}}/uploads/2013/10/nonno_bimbe_cartapesta.jpg)
 
 
 e pranzo con tapas e cerveca! (zumo per le bimbe!)
@@ -221,172 +221,172 @@ e pranzo con tapas e cerveca! (zumo per le bimbe!)
 
 
 
-[![tapas](http://pilde.net/blog/wp-content/uploads/2013/10/tapas.jpg)
+[![tapas]({{baseurl}}/uploads/2013/10/tapas.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/tapas.jpg)
+]({{baseurl}}/uploads/2013/10/tapas.jpg)
 
 
-[![tapas_io_mamma](http://pilde.net/blog/wp-content/uploads/2013/10/tapas_io_mamma.jpg)
+[![tapas_io_mamma]({{baseurl}}/uploads/2013/10/tapas_io_mamma.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/tapas_io_mamma.jpg)
+]({{baseurl}}/uploads/2013/10/tapas_io_mamma.jpg)
 
 
 Relax a Parco della Ciuttadella
 
-[![scimmia](http://pilde.net/blog/wp-content/uploads/2013/10/scimmia1.jpg)
+[![scimmia]({{baseurl}}/uploads/2013/10/scimmia1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/scimmia1.jpg)
+]({{baseurl}}/uploads/2013/10/scimmia1.jpg)
 
 
 tra mammut
 
-[![mammut](http://pilde.net/blog/wp-content/uploads/2013/10/mammut.jpg)
+[![mammut]({{baseurl}}/uploads/2013/10/mammut.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/mammut.jpg)
+]({{baseurl}}/uploads/2013/10/mammut.jpg)
 
 
 e gechi!
 
-[![geco_marghe](http://pilde.net/blog/wp-content/uploads/2013/10/geco_marghe.jpg)
+[![geco_marghe]({{baseurl}}/uploads/2013/10/geco_marghe.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/geco_marghe.jpg)
+]({{baseurl}}/uploads/2013/10/geco_marghe.jpg)
 
 
 e poi ancora passeggiate per questa bellissima città. Entriamo nella Cattedrale, dove nel chiostro ci sono delle oche....
 
-[![oche_cattedrale](http://pilde.net/blog/wp-content/uploads/2013/10/oche_cattedrale.jpg)
+[![oche_cattedrale]({{baseurl}}/uploads/2013/10/oche_cattedrale.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/oche_cattedrale.jpg)
+]({{baseurl}}/uploads/2013/10/oche_cattedrale.jpg)
 
 
 .... e le disegnano: Mapi
 
-[![oche_P](http://pilde.net/blog/wp-content/uploads/2013/10/oche_P.jpg)
+[![oche_P]({{baseurl}}/uploads/2013/10/oche_P.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/oche_P.jpg)
+]({{baseurl}}/uploads/2013/10/oche_P.jpg)
 
 
 Mati
 
-[![oche_mati](http://pilde.net/blog/wp-content/uploads/2013/10/oche_mati.jpg)
+[![oche_mati]({{baseurl}}/uploads/2013/10/oche_mati.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/oche_mati.jpg)
+]({{baseurl}}/uploads/2013/10/oche_mati.jpg)
 
 
 Marghe
 
-[![oche_marghe](http://pilde.net/blog/wp-content/uploads/2013/10/oche_marghe.jpg)
+[![oche_marghe]({{baseurl}}/uploads/2013/10/oche_marghe.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/oche_marghe.jpg)
+]({{baseurl}}/uploads/2013/10/oche_marghe.jpg)
 
 
 Ci fermiamo in strada ad ascoltare un gruppo di ragazzi molto bravi che cantano e suonano.
 
 **29**: I nonni sono partiti, e noi andiamo a visitare il bellissimo museo Cosmo Caixa. All'ingresso i due barbuti alla reception non ci danno retta....chissà perchè!!!!
 
-[![einstein](http://pilde.net/blog/wp-content/uploads/2013/10/einstein.jpg)
+[![einstein]({{baseurl}}/uploads/2013/10/einstein.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/einstein.jpg)
+]({{baseurl}}/uploads/2013/10/einstein.jpg)
 
 
  Il museo è bellissimo, con un enorme albero al centro
 
-[![museo_caixa](http://pilde.net/blog/wp-content/uploads/2013/10/museo_caixa.jpg)
+[![museo_caixa]({{baseurl}}/uploads/2013/10/museo_caixa.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/museo_caixa.jpg)
+]({{baseurl}}/uploads/2013/10/museo_caixa.jpg)
 
 
 è pieno di esperimenti da fare
 
-[![luce](http://pilde.net/blog/wp-content/uploads/2013/10/luce.jpg)
+[![luce]({{baseurl}}/uploads/2013/10/luce.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/luce.jpg)
+]({{baseurl}}/uploads/2013/10/luce.jpg)
 
 
-e un acquario enorme[![acquario](http://pilde.net/blog/wp-content/uploads/2013/10/acquario.jpg)
+e un acquario enorme[![acquario]({{baseurl}}/uploads/2013/10/acquario.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/acquario.jpg)
+]({{baseurl}}/uploads/2013/10/acquario.jpg)
 
 
 ... allo shop M non resiste al pupazzetto della carie! Che dolore!!!
 
-[![carie](http://pilde.net/blog/wp-content/uploads/2013/10/carie.jpg)
+[![carie]({{baseurl}}/uploads/2013/10/carie.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/carie.jpg)
+]({{baseurl}}/uploads/2013/10/carie.jpg)
 
 
 e ad avere il mondo ai suoi piedi!
 
-[![mondo_piedi](http://pilde.net/blog/wp-content/uploads/2013/10/mondo_piedi.jpg)
+[![mondo_piedi]({{baseurl}}/uploads/2013/10/mondo_piedi.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/mondo_piedi.jpg)
+]({{baseurl}}/uploads/2013/10/mondo_piedi.jpg)
 
 
 **30**: Oggi si va in bici! Prima al museo di Picasso e poi al mare! Percorriamo tutta la zona del Porto Olimpico
 
-[![pesce](http://pilde.net/blog/wp-content/uploads/2013/10/pesce.jpg)
+[![pesce]({{baseurl}}/uploads/2013/10/pesce.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/pesce.jpg)
+]({{baseurl}}/uploads/2013/10/pesce.jpg)
 
 
 e facciamo anche il bagno e giochiamo sulla spiaggia!
 
-[![corde_MM](http://pilde.net/blog/wp-content/uploads/2013/10/corde_MM.jpg)
+[![corde_MM]({{baseurl}}/uploads/2013/10/corde_MM.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/corde_MM.jpg)
+]({{baseurl}}/uploads/2013/10/corde_MM.jpg)
 
 
-[![corde](http://pilde.net/blog/wp-content/uploads/2013/10/corde.jpg)
+[![corde]({{baseurl}}/uploads/2013/10/corde.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/corde.jpg)
+]({{baseurl}}/uploads/2013/10/corde.jpg)
 
 
 Un pò di riposo....quanti Km in bici! Bravissime cucciole!
 
-[![relax](http://pilde.net/blog/wp-content/uploads/2013/10/relax.jpg)
+[![relax]({{baseurl}}/uploads/2013/10/relax.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/relax.jpg)
+]({{baseurl}}/uploads/2013/10/relax.jpg)
 
 
 Tornando verso il porto vecchio e la barcelloneta troviamo un signore che ci fa fare le bolle di sapone giganti!
 
-[![marghe_bolla_sapone](http://pilde.net/blog/wp-content/uploads/2013/10/marghe_bolla_sapone.jpg)
+[![marghe_bolla_sapone]({{baseurl}}/uploads/2013/10/marghe_bolla_sapone.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/marghe_bolla_sapone.jpg)
+]({{baseurl}}/uploads/2013/10/marghe_bolla_sapone.jpg)
 
 
-[![mati_bolla_sapone](http://pilde.net/blog/wp-content/uploads/2013/10/mati_bolla_sapone.jpg)
+[![mati_bolla_sapone]({{baseurl}}/uploads/2013/10/mati_bolla_sapone.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/mati_bolla_sapone.jpg)
+]({{baseurl}}/uploads/2013/10/mati_bolla_sapone.jpg)
 
 
 A fine giornata .... dai Marghe, dai Mapi, che lumaconi!!!
 
-[![bici_PMM](http://pilde.net/blog/wp-content/uploads/2013/10/bici_PMM.jpg)
+[![bici_PMM]({{baseurl}}/uploads/2013/10/bici_PMM.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/bici_PMM.jpg)
+]({{baseurl}}/uploads/2013/10/bici_PMM.jpg)
 
 
 Torniamo a casa sfiniti!
@@ -396,64 +396,64 @@ Torniamo a casa sfiniti!
 
  lo dedichiamo a Gaudì e andiamo a vedere il suo ennesimo capolavoro, Park Guell
 
-[![park_guell_logo](http://pilde.net/blog/wp-content/uploads/2013/10/park_guell_logo.jpg)
+[![park_guell_logo]({{baseurl}}/uploads/2013/10/park_guell_logo.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/park_guell_logo.jpg)
+]({{baseurl}}/uploads/2013/10/park_guell_logo.jpg)
 
 
 fortuna che c'è la scala mobile per arrivare!
 
-[![scala_mobile](http://pilde.net/blog/wp-content/uploads/2013/10/scala_mobile.jpg)
+[![scala_mobile]({{baseurl}}/uploads/2013/10/scala_mobile.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/scala_mobile.jpg)
+]({{baseurl}}/uploads/2013/10/scala_mobile.jpg)
 
 
 però ne vale proprio la pena! E' stupendo!
 
-[![park_guell2](http://pilde.net/blog/wp-content/uploads/2013/10/park_guell2.jpg)
+[![park_guell2]({{baseurl}}/uploads/2013/10/park_guell2.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/park_guell2.jpg)
+]({{baseurl}}/uploads/2013/10/park_guell2.jpg)
 
 
 tutte queste maioliche colorate!
 
-[![park_guell](http://pilde.net/blog/wp-content/uploads/2013/10/park_guell.jpg)
+[![park_guell]({{baseurl}}/uploads/2013/10/park_guell.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/park_guell.jpg)
+]({{baseurl}}/uploads/2013/10/park_guell.jpg)
 
 
 e un geco!
 
-[![mati_geco](http://pilde.net/blog/wp-content/uploads/2013/10/mati_geco.jpg)
+[![mati_geco]({{baseurl}}/uploads/2013/10/mati_geco.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/mati_geco.jpg)
+]({{baseurl}}/uploads/2013/10/mati_geco.jpg)
 
 
 si fanno anche buffi incontri....
 
-[![alieno](http://pilde.net/blog/wp-content/uploads/2013/10/alieno.jpg)
+[![alieno]({{baseurl}}/uploads/2013/10/alieno.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/alieno.jpg)
+]({{baseurl}}/uploads/2013/10/alieno.jpg)
 
 
-[![park_guell3](http://pilde.net/blog/wp-content/uploads/2013/10/park_guell3.jpg)
+[![park_guell3]({{baseurl}}/uploads/2013/10/park_guell3.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/park_guell3.jpg)
+]({{baseurl}}/uploads/2013/10/park_guell3.jpg)
 
 
 Arrivederci Barcellona! E' stata davvero una vacanza fantastica!!
 
-[![bimbe](http://pilde.net/blog/wp-content/uploads/2013/10/bimbe.jpg)
+[![bimbe]({{baseurl}}/uploads/2013/10/bimbe.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/bimbe.jpg)
+]({{baseurl}}/uploads/2013/10/bimbe.jpg)
 
 
 

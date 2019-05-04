@@ -13,19 +13,19 @@ categories:
 
 I bimbi ci accolgono in palestra e ci fanno ascoltare tante poesie e canti di natale!
 
-![classe.](http://pilde.net/blog/wp-content/uploads/2013/01/classe..jpg)
+![classe.]({{baseurl}}/uploads/2013/01/classe..jpg)
 
 
 poi si va su in classe e .... sorpresa.... arriva Babbo Natale a portare i regali ai bambini e alle maestre!
 
-![babbo_natale](http://pilde.net/blog/wp-content/uploads/2013/01/babbo_natale.jpg)
+![babbo_natale]({{baseurl}}/uploads/2013/01/babbo_natale.jpg)
 
 
 
 
 Ma questo Babbo Natale non vi ricorda qualcuno??
 
-![andrea_BN](http://pilde.net/blog/wp-content/uploads/2013/01/andrea_BN.jpg)
+![andrea_BN]({{baseurl}}/uploads/2013/01/andrea_BN.jpg)
 
 
 

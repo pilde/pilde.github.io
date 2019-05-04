@@ -12,10 +12,10 @@ categories:
 ---
 
 Cari amici, in attesa che nasca la mia sorellina, P ha fatto il calco della pancia di M.
-[![dscf4384-copy.jpg](http://pilde.net/blog/wp-content/uploads/2008/09/dscf4384-copy.jpg)
+[![dscf4384-copy.jpg]({{baseurl}}/uploads/2008/09/dscf4384-copy.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2008/09/dscf4384-copy.jpg)
+]({{baseurl}}/uploads/2008/09/dscf4384-copy.jpg)
 
 
 

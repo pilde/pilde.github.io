@@ -16,7 +16,7 @@ categories:
 
 Nell'afa romana Margherita fa le prime nuotate con la ciambella
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/08/ciambella2.jpg)
+[![]({{baseurl}}/uploads/2009/08/ciambella2.jpg)
 
 
 ](http://None)
@@ -26,7 +26,7 @@ Nell'afa romana Margherita fa le prime nuotate con la ciambella
 
 e Matilde, che ormai è grande, si trucca insieme alla sua amichetta Emma
 
-![](http://pilde.net/blog/wp-content/uploads/2009/08/trucco.jpg)
+![]({{baseurl}}/uploads/2009/08/trucco.jpg)
 
 
 

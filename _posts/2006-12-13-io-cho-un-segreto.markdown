@@ -16,7 +16,7 @@ categories:
 
 
 
-![polena.jpg](http://pilde.net/blog/wp-content/uploads/2006/12/polena.jpg)
+![polena.jpg]({{baseurl}}/uploads/2006/12/polena.jpg)
 
 
 

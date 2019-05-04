@@ -11,7 +11,7 @@ categories:
 - Giochi
 ---
 
-![](http://pilde.net/blog/wp-content/uploads/2011/11/coccole.jpg)
+![]({{baseurl}}/uploads/2011/11/coccole.jpg)
 
 
 

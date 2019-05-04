@@ -16,7 +16,7 @@ una cicogna rosa per Mara e Lorenzo! Evviva!! una nuova amichetta! :)
 
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/01/cicogna.png)
+[![]({{baseurl}}/uploads/2009/01/cicogna.png)
 
 
 ](http://None)

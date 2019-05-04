@@ -16,7 +16,7 @@ Dopo questo divertente matrimonio siamo partiti per il viaggio di nozze con ronz
 
 . Da brava turista non mi mancava niente, cappellino, occhiali da sole e macchina fotografica
 
-![turista.jpg](http://pilde.net/blog/wp-content/uploads/2008/06/turista.jpg)
+![turista.jpg]({{baseurl}}/uploads/2008/06/turista.jpg)
 
 
 
@@ -27,42 +27,42 @@ Mi sono acculturata ad Agrigento nella valle dei templi, dove P mi ha raccontato
 
 
 
-![agrigento.jpg](http://pilde.net/blog/wp-content/uploads/2008/06/agrigento.jpg)
+![agrigento.jpg]({{baseurl}}/uploads/2008/06/agrigento.jpg)
 
 
 
 
 ho visitato Ragusa Ibla e il suo barocco
 
-![ragusa_ibla.jpg](http://pilde.net/blog/wp-content/uploads/2008/06/ragusa_ibla.jpg)
+![ragusa_ibla.jpg]({{baseurl}}/uploads/2008/06/ragusa_ibla.jpg)
 
 
 
 
 poi ho giocato tanto sulla spiaggia di S. Vito lo Capo 
 
-![svito1.jpg](http://pilde.net/blog/wp-content/uploads/2008/06/svito1.jpg)
+![svito1.jpg]({{baseurl}}/uploads/2008/06/svito1.jpg)
 
 
 
 
 ho visitato il duomo di Monreale dove c'era un mosaico tutto fatto di 'tessirine' d'oro che rappresentava la 'cabetta' di Noè con tutti gli animali
 
-![monreale.jpg](http://pilde.net/blog/wp-content/uploads/2008/06/monreale.jpg)
+![monreale.jpg]({{baseurl}}/uploads/2008/06/monreale.jpg)
 
 
 
 
 Siamo stati ad Erice che, quasi in un'atmosfera surreale, era avvolta dalla nebbia
 
-![erice.jpg](http://pilde.net/blog/wp-content/uploads/2008/06/erice.jpg)
+![erice.jpg]({{baseurl}}/uploads/2008/06/erice.jpg)
 
 
 
 
 e poi a Selinunte e a Segesta
 
-![teatro.jpg](http://pilde.net/blog/wp-content/uploads/2008/06/teatro.jpg)
+![teatro.jpg]({{baseurl}}/uploads/2008/06/teatro.jpg)
 
 
 

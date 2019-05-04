@@ -13,7 +13,7 @@ categories:
 
 La piccolina compie due anni !
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/05/alessia.jpg)
+[![]({{baseurl}}/uploads/2011/05/alessia.jpg)
 
 
 ](http://None)
@@ -23,7 +23,7 @@ La piccolina compie due anni !
 
 e noi la festeggiamo proprio per bene, con un tuffo in piscina
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/05/matidavide.jpg)
+[![]({{baseurl}}/uploads/2011/05/matidavide.jpg)
 
 
 ](http://None)
@@ -33,7 +33,7 @@ e noi la festeggiamo proprio per bene, con un tuffo in piscina
 
 un pò di corse sul prato
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/05/pallone.jpg)
+[![]({{baseurl}}/uploads/2011/05/pallone.jpg)
 
 
 ](http://None)
@@ -43,7 +43,7 @@ un pò di corse sul prato
 
 e una bellissima torta!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/05/torta_alessia.jpg)
+[![]({{baseurl}}/uploads/2011/05/torta_alessia.jpg)
 
 
 ](http://None)

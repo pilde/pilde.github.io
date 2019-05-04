@@ -11,7 +11,7 @@ categories:
 - Presentazione
 ---
 
-![](http://pilde.net/blog/wp-content/uploads/2006/09/ziagiorgia.JPG)
+![]({{baseurl}}/uploads/2006/09/ziagiorgia.JPG)
 
 
 

@@ -15,20 +15,20 @@ Sembra ieri quando vi tenevo in braccio accucciate a me con quella testolina pic
 
 Ancora adesso ci coccoliamo nel lettone e quando dormite profondamente mi piace annusarvi e baciarvi, il vostro odore e il vostro sorriso sono la cosa più bella del mondo!
 
-![](http://pilde.net/blog/wp-content/uploads/2009/09/marghe1.jpg)
+![]({{baseurl}}/uploads/2009/09/marghe1.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2009/09/marghe2.jpg)
+![]({{baseurl}}/uploads/2009/09/marghe2.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2009/09/mati11.jpg)
+![]({{baseurl}}/uploads/2009/09/mati11.jpg)
 
 
-![](http://pilde.net/blog/wp-content/uploads/2009/09/mati31.jpg)
+![]({{baseurl}}/uploads/2009/09/mati31.jpg)
 
 
 

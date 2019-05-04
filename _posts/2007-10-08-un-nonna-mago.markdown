@@ -13,14 +13,14 @@ categories:
 
 La mia testa che sbuca da un cesto? E' magia? 
 
-![cesto1.jpg](http://pilde.net/blog/wp-content/uploads/2007/10/cesto1.jpg)
+![cesto1.jpg]({{baseurl}}/uploads/2007/10/cesto1.jpg)
 
 
 
 
 naaaaaa .... svelato il mistero....è quella burlona della nonna Lilly che mi ha infilata nel cesto pakistano! 
 
-![cesto2.jpg](http://pilde.net/blog/wp-content/uploads/2007/10/cesto2.jpg)
+![cesto2.jpg]({{baseurl}}/uploads/2007/10/cesto2.jpg)
 
 
 

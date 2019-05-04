@@ -14,10 +14,10 @@ categories:
 
 Brave bimbe, che belle pagelle!
 
-![IMG_20170621_065919](http://pilde.net/blog/wp-content/uploads/2017/07/IMG_20170621_065919.jpg)
+![IMG_20170621_065919]({{baseurl}}/uploads/2017/07/IMG_20170621_065919.jpg)
 
 
- ![IMG_20170621_070234](http://pilde.net/blog/wp-content/uploads/2017/07/IMG_20170621_070234.jpg)
+ ![IMG_20170621_070234]({{baseurl}}/uploads/2017/07/IMG_20170621_070234.jpg)
 
 
 

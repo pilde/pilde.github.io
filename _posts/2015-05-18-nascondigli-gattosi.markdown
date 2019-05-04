@@ -13,28 +13,28 @@ categories:
 
 Pimpa ama nascondersi ovunque!!!!
 
-[![pimpa_2](http://pilde.net/blog/wp-content/uploads/2015/06/pimpa_2.jpg)
+[![pimpa_2]({{baseurl}}/uploads/2015/06/pimpa_2.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/06/pimpa_2.jpg)
+]({{baseurl}}/uploads/2015/06/pimpa_2.jpg)
 
 
- [![pimpa_1](http://pilde.net/blog/wp-content/uploads/2015/06/pimpa_1.jpg)
+ [![pimpa_1]({{baseurl}}/uploads/2015/06/pimpa_1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/06/pimpa_1.jpg)
+]({{baseurl}}/uploads/2015/06/pimpa_1.jpg)
 
 
- [![pimpa_3](http://pilde.net/blog/wp-content/uploads/2015/06/pimpa_3.jpg)
+ [![pimpa_3]({{baseurl}}/uploads/2015/06/pimpa_3.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/06/pimpa_3.jpg)
+]({{baseurl}}/uploads/2015/06/pimpa_3.jpg)
 
 
- [![pimpa_4](http://pilde.net/blog/wp-content/uploads/2015/06/pimpa_4.jpg)
+ [![pimpa_4]({{baseurl}}/uploads/2015/06/pimpa_4.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/06/pimpa_4.jpg)
+]({{baseurl}}/uploads/2015/06/pimpa_4.jpg)
 
 
 

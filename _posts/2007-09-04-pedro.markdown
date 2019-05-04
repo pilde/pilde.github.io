@@ -13,7 +13,7 @@ categories:
 
 Ho conosciuto Pedro il cagnetto di Bruno e Noemi ... Che tipo, c'è un gran feeling tra di noi, e anche P se la gode.
 
-![rimpicciolire.jpg](http://pilde.net/blog/wp-content/uploads/2007/09/rimpicciolire.jpg)
+![rimpicciolire.jpg]({{baseurl}}/uploads/2007/09/rimpicciolire.jpg)
 
 
 

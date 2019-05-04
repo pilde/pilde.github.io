@@ -16,21 +16,21 @@ categories:
 
 Il 24 sera mi sono vestita carina per il cenone della vigilia...
 
-![rosso.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/rosso.jpg)
+![rosso.jpg]({{baseurl}}/uploads/2007/12/rosso.jpg)
 
 
 
 
 poi verso mezzanotte a casa dei nonni è arrivato Babbo Natale. Io ancora mi spavento un pò quando lo vedo ma zia Betta dice che è simpatico e ha la panza come lei!
 
-![babbonatale.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/babbonatale.jpg)
+![babbonatale.jpg]({{baseurl}}/uploads/2007/12/babbonatale.jpg)
 
 
 
 
 Però mi ha portato tanti regali e mi sono divertita a scartarli.... 
 
-![regali.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/regali.jpg)
+![regali.jpg]({{baseurl}}/uploads/2007/12/regali.jpg)
 
 
 
@@ -42,7 +42,7 @@ tanti bei vestitini e cappelli e sciarpe, uno zaino per l'asilo, un bambolotto (
 
 Poi il 25 mattina zia betta e zio daniele mi hanno detto che Babbo Natale era passato anche da casa e mi aveva lasciato un regalo in terrazza....una bellissima altalena!
 
-![altalena.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/altalena.jpg)
+![altalena.jpg]({{baseurl}}/uploads/2007/12/altalena.jpg)
 
 
 

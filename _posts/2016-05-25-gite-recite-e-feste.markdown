@@ -17,65 +17,65 @@ Anche quest'anno la 4A partecipa al progetto Scuola Incanto e preparano la Cener
 
 
 
-![cenerentola1](http://pilde.net/blog/wp-content/uploads/2016/06/cenerentola1.jpg)
+![cenerentola1]({{baseurl}}/uploads/2016/06/cenerentola1.jpg)
 
 
-![cenerentola3](http://pilde.net/blog/wp-content/uploads/2016/06/cenerentola3.jpg)
+![cenerentola3]({{baseurl}}/uploads/2016/06/cenerentola3.jpg)
 
 
- ![mati_cenerella](http://pilde.net/blog/wp-content/uploads/2016/06/mati_cenerella.jpg)
+ ![mati_cenerella]({{baseurl}}/uploads/2016/06/mati_cenerella.jpg)
 
 
 Si festeggiano anche un pò di compleanni della classe
 
-![compl_stefani](http://pilde.net/blog/wp-content/uploads/2016/06/compl_stefani.png)
+![compl_stefani]({{baseurl}}/uploads/2016/06/compl_stefani.png)
 
 
- ![soft_m&m](http://pilde.net/blog/wp-content/uploads/2016/06/soft_mm.png)
+ ![soft_m&m]({{baseurl}}/uploads/2016/06/soft_mm.png)
 
 
 e si fanno le gite, a Castel Porziano la 4A e ad Agricoltura Nuova a fare il laboratorio 'dalla pecora al maglione' la 2B
 
-![gita_4A_castelporziano](http://pilde.net/blog/wp-content/uploads/2016/06/gita_4A_castelporziano.jpg)
+![gita_4A_castelporziano]({{baseurl}}/uploads/2016/06/gita_4A_castelporziano.jpg)
 
 
 
 
-![2B](http://pilde.net/blog/wp-content/uploads/2016/04/2B.jpg)
+![2B]({{baseurl}}/uploads/2016/04/2B.jpg)
 
 
 
 
 E poi i saggi di fine anno a scuola: musica
 
-![musica1](http://pilde.net/blog/wp-content/uploads/2016/04/musica1.png)
+![musica1]({{baseurl}}/uploads/2016/04/musica1.png)
 
 
- ![musica2](http://pilde.net/blog/wp-content/uploads/2016/04/musica2.png)
+ ![musica2]({{baseurl}}/uploads/2016/04/musica2.png)
 
 
 e motoria. La classe di Meggy forma la scritta 'umana'  GRAZIE MILLE
 
-![sport_marghe1](http://pilde.net/blog/wp-content/uploads/2016/04/sport_marghe1.png)
+![sport_marghe1]({{baseurl}}/uploads/2016/04/sport_marghe1.png)
 
 
- ![sport_marghe2](http://pilde.net/blog/wp-content/uploads/2016/04/sport_marghe2.png)
+ ![sport_marghe2]({{baseurl}}/uploads/2016/04/sport_marghe2.png)
 
 
- ![sport_marghe3](http://pilde.net/blog/wp-content/uploads/2016/04/sport_marghe3.png)
+ ![sport_marghe3]({{baseurl}}/uploads/2016/04/sport_marghe3.png)
 
 
 e quella di Mati gioca a TRIS
 
-![tris](http://pilde.net/blog/wp-content/uploads/2016/04/tris.png)
+![tris]({{baseurl}}/uploads/2016/04/tris.png)
 
 
- ![tris_medaglia](http://pilde.net/blog/wp-content/uploads/2016/04/tris_medaglia.png)
+ ![tris_medaglia]({{baseurl}}/uploads/2016/04/tris_medaglia.png)
 
 
 e infine ... gavettoni l'ultimo giorno di scuola!!!
 
-![gavettoni1](http://pilde.net/blog/wp-content/uploads/2016/05/gavettoni1.jpg)
+![gavettoni1]({{baseurl}}/uploads/2016/05/gavettoni1.jpg)
 
 
 

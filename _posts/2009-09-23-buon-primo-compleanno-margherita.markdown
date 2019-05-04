@@ -13,7 +13,7 @@ categories:
 
 Oggi la mia sorellina compie un anno...è proprio grande!
 
-![](http://pilde.net/blog/wp-content/uploads/2009/09/compleanno_marghe.jpg)
+![]({{baseurl}}/uploads/2009/09/compleanno_marghe.jpg)
 
 
 

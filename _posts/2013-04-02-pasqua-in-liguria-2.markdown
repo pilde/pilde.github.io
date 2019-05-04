@@ -16,135 +16,135 @@ Finalmente da zia e Morgan!! Quanto avete aspettato questa pasqua!!!
 
 Il tempo non è il massimo ma ci consente di fare delle belle passeggiate nel bosco
 
-[![bosco](http://pilde.net/blog/wp-content/uploads/2013/04/bosco.jpg)
+[![bosco]({{baseurl}}/uploads/2013/04/bosco.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/04/bosco.jpg)
+]({{baseurl}}/uploads/2013/04/bosco.jpg)
 
 
 
 
 raccogliendo asparagi
 
-[![asparagi](http://pilde.net/blog/wp-content/uploads/2013/04/asparagi.jpg)
+[![asparagi]({{baseurl}}/uploads/2013/04/asparagi.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/04/asparagi.jpg)
+]({{baseurl}}/uploads/2013/04/asparagi.jpg)
 
 
 e fossili di conchiglie!
 
-[![panorama](http://pilde.net/blog/wp-content/uploads/2013/04/panorama.jpg)
+[![panorama]({{baseurl}}/uploads/2013/04/panorama.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/04/panorama.jpg)
+]({{baseurl}}/uploads/2013/04/panorama.jpg)
 
 
 Un pò di classico struscio a Finale con partita a palla in piazza per le bimbe e aperitivo per i grandi!
 
-[![finale](http://pilde.net/blog/wp-content/uploads/2013/04/finale.jpg)
+[![finale]({{baseurl}}/uploads/2013/04/finale.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/04/finale.jpg)
+]({{baseurl}}/uploads/2013/04/finale.jpg)
 
 
 Poi l'immancabile colazione di pasqua con la scoccetta
 
-[![colazione_pasqua](http://pilde.net/blog/wp-content/uploads/2013/04/colazione_pasqua.jpg)
+[![colazione_pasqua]({{baseurl}}/uploads/2013/04/colazione_pasqua.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/04/colazione_pasqua.jpg)
+]({{baseurl}}/uploads/2013/04/colazione_pasqua.jpg)
 
 
 e Marghe che ancora non ha capito come si apre l'uovo!
 
-[![uovo](http://pilde.net/blog/wp-content/uploads/2013/04/uovo.jpg)
+[![uovo]({{baseurl}}/uploads/2013/04/uovo.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/04/uovo.jpg)
+]({{baseurl}}/uploads/2013/04/uovo.jpg)
 
 
 Una passeggiata 'in piazza' .... questa foto uguale identica ce l'avevamo anche io e zia Giorgia!!!
 
-[![chiesetta](http://pilde.net/blog/wp-content/uploads/2013/04/chiesetta1.jpg)
+[![chiesetta]({{baseurl}}/uploads/2013/04/chiesetta1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/04/chiesetta1.jpg)
+]({{baseurl}}/uploads/2013/04/chiesetta1.jpg)
 
 
-[![porta](http://pilde.net/blog/wp-content/uploads/2013/04/porta.jpg)
+[![porta]({{baseurl}}/uploads/2013/04/porta.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/04/porta.jpg)
+]({{baseurl}}/uploads/2013/04/porta.jpg)
 
 
-[![sisters](http://pilde.net/blog/wp-content/uploads/2013/04/sisters.jpg)
+[![sisters]({{baseurl}}/uploads/2013/04/sisters.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/04/sisters.jpg)
+]({{baseurl}}/uploads/2013/04/sisters.jpg)
 
 
-[![nonna](http://pilde.net/blog/wp-content/uploads/2013/04/nonna.jpg)
+[![nonna]({{baseurl}}/uploads/2013/04/nonna.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/04/nonna.jpg)
+]({{baseurl}}/uploads/2013/04/nonna.jpg)
 
 
 Pasquetta è anche il mio compleanno!!! Facciamo un bel picnic con gli avanzi pasquali in spiaggia!
 
-[![picnic](http://pilde.net/blog/wp-content/uploads/2013/04/picnic.jpg)
+[![picnic]({{baseurl}}/uploads/2013/04/picnic.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/04/picnic.jpg)
+]({{baseurl}}/uploads/2013/04/picnic.jpg)
 
 
 Giochiamo
 
-[![ponte](http://pilde.net/blog/wp-content/uploads/2013/04/ponte.jpg)
+[![ponte]({{baseurl}}/uploads/2013/04/ponte.jpg)
 
 
-![zia_spiaggia](http://pilde.net/blog/wp-content/uploads/2013/04/zia_spiaggia.jpg)
+![zia_spiaggia]({{baseurl}}/uploads/2013/04/zia_spiaggia.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/04/zia_spiaggia.jpg)
+]({{baseurl}}/uploads/2013/04/zia_spiaggia.jpg)
 
 
 e come corrono le bimbe e il ciccio!! Due passi sul molo
 
-[![sorelle_mare](http://pilde.net/blog/wp-content/uploads/2013/04/sorelle_mare.jpg)
+[![sorelle_mare]({{baseurl}}/uploads/2013/04/sorelle_mare.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/04/sorelle_mare.jpg)
+]({{baseurl}}/uploads/2013/04/sorelle_mare.jpg)
 
 
-[![nonni](http://pilde.net/blog/wp-content/uploads/2013/04/nonni.jpg)
+[![nonni]({{baseurl}}/uploads/2013/04/nonni.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/04/nonni.jpg)
+]({{baseurl}}/uploads/2013/04/nonni.jpg)
 
 
-acquistiamo anche dei bellissimi orecchini a forma di paperella per Matilde e fragola per Margherita[![orecchini](http://pilde.net/blog/wp-content/uploads/2013/04/orecchini.jpg)
+acquistiamo anche dei bellissimi orecchini a forma di paperella per Matilde e fragola per Margherita[![orecchini]({{baseurl}}/uploads/2013/04/orecchini.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/04/orecchini.jpg)
+]({{baseurl}}/uploads/2013/04/orecchini.jpg)
 
 
 
 
 PS: un grazie speciale a nonna Franca e nonna Maria che hanno fatto questo bellissimo collo di lana jamaicana per Morgan!!
 
-[![ciccio](http://pilde.net/blog/wp-content/uploads/2013/04/ciccio.jpg)
+[![ciccio]({{baseurl}}/uploads/2013/04/ciccio.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/04/ciccio.jpg)
+]({{baseurl}}/uploads/2013/04/ciccio.jpg)
 
 
 
 
-Arriveduar!!! [![passeggio](http://pilde.net/blog/wp-content/uploads/2013/04/passeggio.jpg)
+Arriveduar!!! [![passeggio]({{baseurl}}/uploads/2013/04/passeggio.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/04/passeggio.jpg)
+]({{baseurl}}/uploads/2013/04/passeggio.jpg)
 
 
 

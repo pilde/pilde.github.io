@@ -16,7 +16,7 @@ Oggi andiamo al laboratorio di maschere di carnevale e facciamo gli animali dei 
 
 
 
-![laboratorio](http://pilde.net/blog/wp-content/uploads/2013/02/laboratorio.jpg)
+![laboratorio]({{baseurl}}/uploads/2013/02/laboratorio.jpg)
 
 
 
@@ -32,7 +32,7 @@ uno scoiattolo e una volpe (forse)
 
 
 
-![maschere](http://pilde.net/blog/wp-content/uploads/2013/02/maschere.jpg)
+![maschere]({{baseurl}}/uploads/2013/02/maschere.jpg)
 
 
 
@@ -53,7 +53,7 @@ Come sto?
 
 
 
-![marghe_maschera](http://pilde.net/blog/wp-content/uploads/2013/02/marghe_maschera.jpg)
+![marghe_maschera]({{baseurl}}/uploads/2013/02/marghe_maschera.jpg)
 
 
 
@@ -66,7 +66,7 @@ Ci fermiamo a pranzo al ristorante bio della Valle dei Casali e dopo tutti sul p
 
 
 
-![valle_casali](http://pilde.net/blog/wp-content/uploads/2013/02/valle_casali.jpg)
+![valle_casali]({{baseurl}}/uploads/2013/02/valle_casali.jpg)
 
 
 C'e anche chi si dedica ad attività più bucolico-contadine....
@@ -74,7 +74,7 @@ C'e anche chi si dedica ad attività più bucolico-contadine....
 
 
 
-![annaffiatoio](http://pilde.net/blog/wp-content/uploads/2013/02/annaffiatoio.jpg)
+![annaffiatoio]({{baseurl}}/uploads/2013/02/annaffiatoio.jpg)
 
 
 

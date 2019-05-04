@@ -13,7 +13,7 @@ categories:
 
 All'asilo di Marghe tutte le mamme e i papà si sono impegnati a fare un bellissimo lavoretto per natale! Un guanto pazzerello che servirà a cantare insieme la filastrocca dei pirati del mar dei sargassi!
 
-![](http://pilde.net/blog/wp-content/uploads/2010/12/lavoretto_natale1.jpg)
+![]({{baseurl}}/uploads/2010/12/lavoretto_natale1.jpg)
 
 
 

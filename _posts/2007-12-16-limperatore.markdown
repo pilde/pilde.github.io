@@ -19,14 +19,14 @@ Bhè si l'imperatore Paolo ha sempre il suo fascino....e io non so resistere...g
 
 
 
-![paolo.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/paolo.jpg)
+![paolo.jpg]({{baseurl}}/uploads/2007/12/paolo.jpg)
 
 
 
 
 poi è troppo tenero, mi ha fatto giocare con tutti i suoi giochi e infatti siamo andati proprio d'accordo! Abbiamo anche fatto uno spuntino alle ore piccole a base di pera!
 
-![pera.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/pera.jpg)
+![pera.jpg]({{baseurl}}/uploads/2007/12/pera.jpg)
 
 
 

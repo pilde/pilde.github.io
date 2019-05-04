@@ -13,14 +13,14 @@ categories:
 
 ... e quante cose abbiamo fatto insieme!! Qui siamo in campagna!
 
-![](http://pilde.net/blog/wp-content/uploads/2011/03/zia_bimbe.jpg)
+![]({{baseurl}}/uploads/2011/03/zia_bimbe.jpg)
 
 
 
 
 che mangiata di pescetti fritti!!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/03/mati_zia.jpg)
+[![]({{baseurl}}/uploads/2011/03/mati_zia.jpg)
 
 
 ](http://None)
@@ -30,14 +30,14 @@ che mangiata di pescetti fritti!!
 
 poi una bella passeggiata al ruscello...hei Morgan che ne dici? ti tuffi?
 
-![](http://pilde.net/blog/wp-content/uploads/2011/03/con_morgan.jpg)
+![]({{baseurl}}/uploads/2011/03/con_morgan.jpg)
 
 
 
 
 eh si ...gli piace proprio l'acqua...
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/03/morgan_fiume.jpg)
+[![]({{baseurl}}/uploads/2011/03/morgan_fiume.jpg)
 
 
 ](http://None)
@@ -47,7 +47,7 @@ eh si ...gli piace proprio l'acqua...
 
 e giocare con la palla!!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/03/morgan_palla1.jpg)
+[![]({{baseurl}}/uploads/2011/03/morgan_palla1.jpg)
 
 
 ](http://None)

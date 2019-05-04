@@ -13,14 +13,14 @@ categories:
 
 Questo we a Sabaudia ho fatto il primo bagno della stagione!L'acqua era bella ma un pò fresca....
 
-![](http://pilde.net/blog/wp-content/uploads/2009/05/acqua_fredda.jpg)
+![]({{baseurl}}/uploads/2009/05/acqua_fredda.jpg)
 
 
 
 
 a Pedro invece piaceva tantissimo
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/05/bruno.jpg)
+[![]({{baseurl}}/uploads/2009/05/bruno.jpg)
 
 
 ](http://None)
@@ -30,7 +30,7 @@ a Pedro invece piaceva tantissimo
 
 Marghe ed io abbiamo giocato insieme con la sabbia
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/05/sabbia.jpg)
+[![]({{baseurl}}/uploads/2009/05/sabbia.jpg)
 
 
 ](http://None)
@@ -40,14 +40,14 @@ Marghe ed io abbiamo giocato insieme con la sabbia
 
 poi abbiamo fatto tutti il bagno!
 
-![](http://pilde.net/blog/wp-content/uploads/2009/05/tutti.jpg)
+![]({{baseurl}}/uploads/2009/05/tutti.jpg)
 
 
 
 
 A pranzo, mentre Marghe rosicchiava il finocchio
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/05/finocchio.jpg)
+[![]({{baseurl}}/uploads/2009/05/finocchio.jpg)
 
 
 ](http://None)
@@ -57,7 +57,7 @@ A pranzo, mentre Marghe rosicchiava il finocchio
 
 abbiamo fatto una bella mangiata di telline appena pescate!
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/05/telline.jpg)
+[![]({{baseurl}}/uploads/2009/05/telline.jpg)
 
 
 ](http://None)
@@ -67,7 +67,7 @@ abbiamo fatto una bella mangiata di telline appena pescate!
 
 ne vado proprio matta!
 
-![](http://pilde.net/blog/wp-content/uploads/2009/05/telline_mati.jpg)
+![]({{baseurl}}/uploads/2009/05/telline_mati.jpg)
 
 
 

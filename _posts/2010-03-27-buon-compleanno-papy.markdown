@@ -16,7 +16,7 @@ Le tue bimbe :)
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2010/03/compleanno_andrea_blog.jpg)
+![]({{baseurl}}/uploads/2010/03/compleanno_andrea_blog.jpg)
 
 
 

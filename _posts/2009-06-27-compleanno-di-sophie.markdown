@@ -16,7 +16,7 @@ Sophie ha compiuto 3 anni e ha fatto una bella festa! AUGURI :)
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2009/07/compleannosophie2.jpg)
+![]({{baseurl}}/uploads/2009/07/compleannosophie2.jpg)
 
 
 

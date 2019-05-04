@@ -13,35 +13,35 @@ categories:
 
 Approfittiamo del bel we primaverile per fare un pic-nic e passeggiata a villa Borghese con Alessia ...ovviamente non poteva mancare un giro sul risciò
 
-![](http://pilde.net/blog/wp-content/uploads/2012/03/riscio1.jpg)
+![]({{baseurl}}/uploads/2012/03/riscio1.jpg)
 
 
 
 
 Papy continuava a urlare che eravamo pericolosi...ed effettivamente guidava Matilde!!!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/03/riscio2.jpg)
+![]({{baseurl}}/uploads/2012/03/riscio2.jpg)
 
 
 
 
 Poi abbiamo fatto la scalinata di piazza di spagna
 
-![](http://pilde.net/blog/wp-content/uploads/2012/03/mmati.jpg)
+![]({{baseurl}}/uploads/2012/03/mmati.jpg)
 
 
 
 
 e un pò di foto tutti insieme
 
-![](http://pilde.net/blog/wp-content/uploads/2012/03/family.jpg)
+![]({{baseurl}}/uploads/2012/03/family.jpg)
 
 
 
 
 anche mara e lorenzo
 
-![](http://pilde.net/blog/wp-content/uploads/2012/03/tutti.jpg)
+![]({{baseurl}}/uploads/2012/03/tutti.jpg)
 
 
 

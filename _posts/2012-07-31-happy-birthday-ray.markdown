@@ -11,7 +11,7 @@ categories:
 - Compleanni
 ---
 
-![](http://pilde.net/blog/wp-content/uploads/2012/07/ray.jpg)
+![]({{baseurl}}/uploads/2012/07/ray.jpg)
 
 
 

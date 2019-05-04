@@ -18,7 +18,7 @@ Oggi io e mamma siamo state tutto il giorno insieme lasciando papà e Marghe a c
 
 Abbiamo preso la bici e siamo andate alla fermata del trenino! Quanto mi piace andare sul treno!
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/05/race0.jpg)
+[![]({{baseurl}}/uploads/2009/05/race0.jpg)
 
 
 ](http://None)
@@ -28,7 +28,7 @@ Abbiamo preso la bici e siamo andate alla fermata del trenino! Quanto mi piace a
 
 siamo scese al capolinea, ma a me sarebbe piaciuto fare ancora qualche fermata! E ci siamo ritrovate in mezzo a tantissime persone che correvano, passeggiavano, andavano in bici a Caracalla per la Race for the Cure. Dentro lo stadio ho saltato sul tappetone del salto in alto
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/05/race1.jpg)
+[![]({{baseurl}}/uploads/2009/05/race1.jpg)
 
 
 ](http://None)
@@ -38,7 +38,7 @@ siamo scese al capolinea, ma a me sarebbe piaciuto fare ancora qualche fermata! 
 
 e poi ho disegnato insieme a tanti altri bimbi
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/05/race2.jpg)
+[![]({{baseurl}}/uploads/2009/05/race2.jpg)
 
 
 ](http://None)
@@ -48,7 +48,7 @@ e poi ho disegnato insieme a tanti altri bimbi
 
 Faceva proprio caldo oggi!
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/05/race3.jpg)
+[![]({{baseurl}}/uploads/2009/05/race3.jpg)
 
 
 ](http://None)

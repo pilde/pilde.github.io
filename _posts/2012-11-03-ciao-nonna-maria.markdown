@@ -13,7 +13,7 @@ categories:
 
 ... amo ricordarti così, mentre cucini quelle cose buonissime che solo tu sapevi fare così bene, gli gnocchi, le verdure ripiene, le frittate, le polpette  ....
 
-![](http://pilde.net/blog/wp-content/uploads/2012/11/nonna_maria.jpg)
+![]({{baseurl}}/uploads/2012/11/nonna_maria.jpg)
 
 
 

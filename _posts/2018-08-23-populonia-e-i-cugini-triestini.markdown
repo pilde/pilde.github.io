@@ -14,13 +14,13 @@ categories:
 
 Sempre lungo la strada di casa ci fermiamo per trascorrere una giornata con zio Michele e la sua famiglia nella bella spiaggia di Baratti. La sera li raggiungiamo nel minuscolo ma meraviglioso borghetto di Populonia
 
-![populonia_1](http://pilde.net/blog/wp-content/uploads/2018/10/populonia_1.jpg)
+![populonia_1]({{baseurl}}/uploads/2018/10/populonia_1.jpg)
 
 
-la loro casetta è in un posto magico ![populonia_2](http://pilde.net/blog/wp-content/uploads/2018/10/populonia_2.jpg)
+la loro casetta è in un posto magico ![populonia_2]({{baseurl}}/uploads/2018/10/populonia_2.jpg)
 
 
- ![populonia_3](http://pilde.net/blog/wp-content/uploads/2018/10/populonia_3.jpg)
+ ![populonia_3]({{baseurl}}/uploads/2018/10/populonia_3.jpg)
 
 
 

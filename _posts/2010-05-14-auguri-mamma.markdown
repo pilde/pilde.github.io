@@ -12,10 +12,10 @@ categories:
 - Eventi
 ---
 
-[![](http://pilde.net/blog/wp-content/uploads/2010/05/festamamma_small.jpg)
+[![]({{baseurl}}/uploads/2010/05/festamamma_small.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2010/05/festamamma_small.jpg)
+]({{baseurl}}/uploads/2010/05/festamamma_small.jpg)
 
 
 

@@ -15,30 +15,30 @@ Oggi torneo di tennis all'Olgiata, anche se solo due giorni fa stavo con la febb
 
 Però stavolta ho la mascotte Olmetto che fa anche invasione di campo attirato dalle palline!
 
-![mati_olmo](http://pilde.net/blog/wp-content/uploads/2019/03/mati_olmo.png)
+![mati_olmo]({{baseurl}}/uploads/2019/03/mati_olmo.png)
 
 
- ![meggy_olmo](http://pilde.net/blog/wp-content/uploads/2019/03/meggy_olmo.png)
+ ![meggy_olmo]({{baseurl}}/uploads/2019/03/meggy_olmo.png)
 
 
 Già che siamo qui andiamo a fare due passi al Casale di Martignano, un posto bellissimo a bordo lago
 
-![lago](http://pilde.net/blog/wp-content/uploads/2019/03/lago.png)
+![lago]({{baseurl}}/uploads/2019/03/lago.png)
 
 
 Io gioco con Olmo, che si fa anche il bagno
 
-![lago_mati](http://pilde.net/blog/wp-content/uploads/2019/03/lago_mati.png)
+![lago_mati]({{baseurl}}/uploads/2019/03/lago_mati.png)
 
 
- ![olmo_lago](http://pilde.net/blog/wp-content/uploads/2019/03/olmo_lago.png)
+ ![olmo_lago]({{baseurl}}/uploads/2019/03/olmo_lago.png)
 
 
 
 
 mentre Meggy va a cavallo
 
-![cavallo1](http://pilde.net/blog/wp-content/uploads/2019/03/cavallo1.png)
+![cavallo1]({{baseurl}}/uploads/2019/03/cavallo1.png)
 
 
 

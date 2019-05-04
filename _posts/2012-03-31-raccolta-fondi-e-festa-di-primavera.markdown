@@ -16,49 +16,49 @@ Per la serie 'ogni occasione è bona pe magnà' .... ci vediamo tutti in campagn
 
 Ci si rilassa prima dell'arrivo degli amici
 
-![](http://pilde.net/blog/wp-content/uploads/2012/04/amaca.jpg)
+![]({{baseurl}}/uploads/2012/04/amaca.jpg)
 
 
 
 
 Si chiacchera
 
-![](http://pilde.net/blog/wp-content/uploads/2012/04/zie.jpg)
+![]({{baseurl}}/uploads/2012/04/zie.jpg)
 
 
 
 
 si colora
 
-![](http://pilde.net/blog/wp-content/uploads/2012/04/colori.jpg)
+![]({{baseurl}}/uploads/2012/04/colori.jpg)
 
 
 
 
 si gioca alla caccia al tesoro .... il primo indizio è nascosto vicino al camper ....
 
-![](http://pilde.net/blog/wp-content/uploads/2012/04/caccia_tesoro_salita.jpg)
+![]({{baseurl}}/uploads/2012/04/caccia_tesoro_salita.jpg)
 
 
 
 
 e il prossimo?
 
-![](http://pilde.net/blog/wp-content/uploads/2012/04/lettura_biglietti.jpg)
+![]({{baseurl}}/uploads/2012/04/lettura_biglietti.jpg)
 
 
 
 
 l'ha trovato Margherita!!!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/04/caccia_al_tesoro_marghe.jpg)
+![]({{baseurl}}/uploads/2012/04/caccia_al_tesoro_marghe.jpg)
 
 
 
 
 Poi la corsa nei sacchi
 
-![](http://pilde.net/blog/wp-content/uploads/2012/04/corsa_sacchi.jpg)
+![]({{baseurl}}/uploads/2012/04/corsa_sacchi.jpg)
 
 
 
@@ -68,14 +68,14 @@ la pentolaccia da rompere col bastone (in realtà era un canovaccio pieno di fog
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2012/04/pentolaccia.jpg)
+![]({{baseurl}}/uploads/2012/04/pentolaccia.jpg)
 
 
 
 
 e infine la torta!!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/04/torta1.jpg)
+![]({{baseurl}}/uploads/2012/04/torta1.jpg)
 
 
 

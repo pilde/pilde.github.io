@@ -13,11 +13,11 @@ categories:
 
 Oggi siamo contenti.
 
-Ci hanno scritto [questa](http://pilde.net/blog/wp-content/uploads/2007/05/lettera.pdf)
+Ci hanno scritto [questa]({{baseurl}}/uploads/2007/05/lettera.pdf)
 
 
  lettera per dirci che Budino è finalmente tornato in famiglia.
-![budino.jpg](http://pilde.net/blog/wp-content/uploads/2007/05/budino.jpg)
+![budino.jpg]({{baseurl}}/uploads/2007/05/budino.jpg)
 
 
 

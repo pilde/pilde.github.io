@@ -13,14 +13,14 @@ categories:
 
 Luci soffuse e natalizie, musica allegra ed entrano in campo le atlete Matilde e Margherita!!! Che emozione!!
 
-![ginnaste2](http://pilde.net/blog/wp-content/uploads/2012/12/ginnaste2.jpg)
+![ginnaste2]({{baseurl}}/uploads/2012/12/ginnaste2.jpg)
 
 
 
 
 Seguiamo tutta la lezione .... tra passi saltellati, rotolini, ponti, trave e tappeto elastico... e guardate un pò che bella spaccata fa Matilde! Un pò scomposta ... ma come inizio è perfetto!!
 
-![spaccata](http://pilde.net/blog/wp-content/uploads/2012/12/spaccata.jpg)
+![spaccata]({{baseurl}}/uploads/2012/12/spaccata.jpg)
 
 
 

@@ -13,26 +13,26 @@ categories:
 
 Oggi ricomincia la scuola! Margherita ritorna nella sua classe alla materna con gli amici che già conosce ed un pò di bimbi nuovi ...
 
-![](http://pilde.net/blog/wp-content/uploads/2012/11/scuola_marghe.jpg)
+![]({{baseurl}}/uploads/2012/11/scuola_marghe.jpg)
 
 
 .. anche se è un pò perplessa .... mi sa che si stava meglio in vacanza!!!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/11/scuola_marghe21.jpg)
+![]({{baseurl}}/uploads/2012/11/scuola_marghe21.jpg)
 
 
 
 
 mentre Matilde affronta il suo primo giorno alle elementari!!!! Che emozione ... per M&P!!!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/11/MPmati.jpg)
+![]({{baseurl}}/uploads/2012/11/MPmati.jpg)
 
 
 
 
 Prima si rivede con Stella che le comunica che non saranno nella stessa classe, peccato, ma tranquille, vi farete tanti nuovi amci
 
-![](http://pilde.net/blog/wp-content/uploads/2012/11/conStella.jpg)
+![]({{baseurl}}/uploads/2012/11/conStella.jpg)
 
 
 
@@ -42,19 +42,19 @@ e poi c'è l'accoglienza da parte dei grandi, che le mettono al collo un cavallu
 
  e le regalano una bellissima matita
 
-![](http://pilde.net/blog/wp-content/uploads/2012/11/benvenuta_mati.jpg)
+![]({{baseurl}}/uploads/2012/11/benvenuta_mati.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2012/11/benvenuti_scuola.jpg)
+![]({{baseurl}}/uploads/2012/11/benvenuti_scuola.jpg)
 
 
 
 
 e poi si sale tutti in classe! Sembra contenta ...
 
-![](http://pilde.net/blog/wp-content/uploads/2012/11/banco.jpg)
+![]({{baseurl}}/uploads/2012/11/banco.jpg)
 
 
 

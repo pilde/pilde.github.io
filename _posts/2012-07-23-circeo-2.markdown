@@ -16,14 +16,14 @@ E anche quest'anno andiamo un pò al Circeo con Mapy, zia Betta, Ray e Caterina.
 
 Come sempre tanti giochi in acqua
 
-![](http://pilde.net/blog/wp-content/uploads/2012/07/smorfie.jpg)
+![]({{baseurl}}/uploads/2012/07/smorfie.jpg)
 
 
 
 
 letture interessanti
 
-![](http://pilde.net/blog/wp-content/uploads/2012/07/letture.jpg)
+![]({{baseurl}}/uploads/2012/07/letture.jpg)
 
 
 
@@ -33,7 +33,7 @@ un pò di coccole da scimmietta (UH UH AH AH)
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2012/07/scimmietta.jpg)
+![]({{baseurl}}/uploads/2012/07/scimmietta.jpg)
 
 
 
@@ -43,54 +43,54 @@ e da scimmione (hihihihi)
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2012/07/sweet_moments.jpg)
+![]({{baseurl}}/uploads/2012/07/sweet_moments.jpg)
 
 
 
 
 nuotate sopra l'acqua
 
-![](http://pilde.net/blog/wp-content/uploads/2012/07/desy.jpg)
+![]({{baseurl}}/uploads/2012/07/desy.jpg)
 
 
 
 
 a pelo d'acqua
 
-![](http://pilde.net/blog/wp-content/uploads/2012/07/pelo.jpg)
+![]({{baseurl}}/uploads/2012/07/pelo.jpg)
 
 
 
 
 e sotto!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/07/sottacqua2.jpg)
+![]({{baseurl}}/uploads/2012/07/sottacqua2.jpg)
 
 
 
 
 E poi anche le giostre!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/07/trenino.jpg)
+![]({{baseurl}}/uploads/2012/07/trenino.jpg)
 
 
 
 
 e la piscina di palline!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/07/piscina_palline.jpg)
+![]({{baseurl}}/uploads/2012/07/piscina_palline.jpg)
 
 
 
 
 E poi arriva anche mamish! Siamo propio belli vero??
 
-![](http://pilde.net/blog/wp-content/uploads/2012/07/family_rocks.jpg)
+![]({{baseurl}}/uploads/2012/07/family_rocks.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2012/07/family_sand.jpg)
+![]({{baseurl}}/uploads/2012/07/family_sand.jpg)
 
 
 

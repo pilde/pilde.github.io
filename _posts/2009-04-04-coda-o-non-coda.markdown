@@ -16,14 +16,14 @@ categories:
 
 questo è il problema! Mamma dice che sembro una selvaggia con i capelli sciolti e disordinati
 
-![](http://pilde.net/blog/wp-content/uploads/2009/04/no_coda.jpg)
+![]({{baseurl}}/uploads/2009/04/no_coda.jpg)
 
 
 
 
 mentre invece con la coda sono tanto bella! Voi che ne dite?
 
-![](http://pilde.net/blog/wp-content/uploads/2009/04/si_coda2.jpg)
+![]({{baseurl}}/uploads/2009/04/si_coda2.jpg)
 
 
 

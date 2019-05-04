@@ -16,21 +16,21 @@ Si inizia con il saggio di ginnastica a scuola, dove i bimbi eseguono dei percor
 
 Ed ecco le medaglie
 
-![](http://pilde.net/blog/wp-content/uploads/2012/05/saggio_ginnastica.jpg)
+![]({{baseurl}}/uploads/2012/05/saggio_ginnastica.jpg)
 
 
 
 
 poi la recita a scuola: una bellissima storia in cui tutti i bimbi 'regrediscono e poi si evolvono' per trascorrere un giorno nella preistoria insieme al loro amico 'guance nere', al triceratopo squitty e al terribile t-rex 'denti aguzzi'! Tutto merito dello scenziato 'dottor tutto so' che ha costruito una fantastica macchina del tempo....
 
-![](http://pilde.net/blog/wp-content/uploads/2012/05/saggio_marghe1.jpg)
+![]({{baseurl}}/uploads/2012/05/saggio_marghe1.jpg)
 
 
 
 
 che belle bimbe preistoriche!!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/05/recita_mati.jpg)
+![]({{baseurl}}/uploads/2012/05/recita_mati.jpg)
 
 
 

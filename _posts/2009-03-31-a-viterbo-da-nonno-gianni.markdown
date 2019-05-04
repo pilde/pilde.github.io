@@ -13,14 +13,14 @@ categories:
 
 Oggi niente asilo, vado in campagna! Ho raccolto la legna per la stufa con nonno
 
-![](http://pilde.net/blog/wp-content/uploads/2009/04/vit_legna.jpg)
+![]({{baseurl}}/uploads/2009/04/vit_legna.jpg)
 
 
 
 
 poi ho giocato con nonna e Marghe
 
-![](http://pilde.net/blog/wp-content/uploads/2009/04/vit_nonna.jpg)
+![]({{baseurl}}/uploads/2009/04/vit_nonna.jpg)
 
 
 
@@ -33,7 +33,7 @@ e ho messo in fila i cinghialetti (gli unici rimasti con tutte e 4 le zampe!)
 [](http://None)
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/04/vit_cinghiale.jpg)
+[![]({{baseurl}}/uploads/2009/04/vit_cinghiale.jpg)
 
 
 ](http://None)

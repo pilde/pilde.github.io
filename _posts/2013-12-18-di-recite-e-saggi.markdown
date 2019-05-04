@@ -14,32 +14,32 @@ categories:
 
 Marghe ha fatto la recita con i canti di Natale a scuola
 
-[![recita_marghe](http://pilde.net/blog/wp-content/uploads/2014/01/recita_marghe1.jpg)
+[![recita_marghe]({{baseurl}}/uploads/2014/01/recita_marghe1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/01/recita_marghe1.jpg)
+]({{baseurl}}/uploads/2014/01/recita_marghe1.jpg)
 
 
 e Mati la lezione aperta di ginnastica in palestra
 
-[![spaccata](http://pilde.net/blog/wp-content/uploads/2014/01/spaccata.jpg)
+[![spaccata]({{baseurl}}/uploads/2014/01/spaccata.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/01/spaccata.jpg)
+]({{baseurl}}/uploads/2014/01/spaccata.jpg)
 
 
 che bel gruppone!
 
-[![gruppo_ginn](http://pilde.net/blog/wp-content/uploads/2014/01/gruppo_ginn.jpg)
+[![gruppo_ginn]({{baseurl}}/uploads/2014/01/gruppo_ginn.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/01/gruppo_ginn.jpg)
+]({{baseurl}}/uploads/2014/01/gruppo_ginn.jpg)
 
 
-[![mati_ginn](http://pilde.net/blog/wp-content/uploads/2014/01/mati_ginn.jpg)
+[![mati_ginn]({{baseurl}}/uploads/2014/01/mati_ginn.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/01/mati_ginn.jpg)
+]({{baseurl}}/uploads/2014/01/mati_ginn.jpg)
 
 
 

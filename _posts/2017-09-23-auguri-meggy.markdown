@@ -13,21 +13,21 @@ categories:
 
 Per il compleanno di Meggy iniziamo con una sorpresa....zia Giorgia a Roma!
 
-![zia](http://pilde.net/blog/wp-content/uploads/2017/10/zia.jpg)
+![zia]({{baseurl}}/uploads/2017/10/zia.jpg)
 
 
 
 
 poi una bella festa a casa con tutti i miei amici
 
-![torta_meggy](http://pilde.net/blog/wp-content/uploads/2017/10/torta_meggy.jpg)
+![torta_meggy]({{baseurl}}/uploads/2017/10/torta_meggy.jpg)
 
 
 
 
 con tanti regali, tra cui un serpentone gigante dentro una scatola piena di palloncini con delle bellissime dediche
 
-![palloncino](http://pilde.net/blog/wp-content/uploads/2017/10/palloncino.jpg)
+![palloncino]({{baseurl}}/uploads/2017/10/palloncino.jpg)
 
 
 
@@ -39,13 +39,13 @@ Dopo la festa un pò di amichette si fermano a dormire....siamo 11....anzi 12 (t
 
 . Un bel film e poi tutti sui materassini a chiaccherare fino a notte fonda!
 
-![filmetto](http://pilde.net/blog/wp-content/uploads/2017/10/filmetto.jpg)
+![filmetto]({{baseurl}}/uploads/2017/10/filmetto.jpg)
 
 
- ![letti](http://pilde.net/blog/wp-content/uploads/2017/10/letti.jpg)
+ ![letti]({{baseurl}}/uploads/2017/10/letti.jpg)
 
 
-![pesce](http://pilde.net/blog/wp-content/uploads/2017/09/pesce.jpg)
+![pesce]({{baseurl}}/uploads/2017/09/pesce.jpg)
 
 
 

@@ -13,38 +13,38 @@ categories:
 
 i topi volano ....
 
-![pulce1](http://pilde.net/blog/wp-content/uploads/2016/07/pulce1.png)
+![pulce1]({{baseurl}}/uploads/2016/07/pulce1.png)
 
 
- ![norma1](http://pilde.net/blog/wp-content/uploads/2016/07/norma1.jpg)
+ ![norma1]({{baseurl}}/uploads/2016/07/norma1.jpg)
 
 
- ![ninfa](http://pilde.net/blog/wp-content/uploads/2016/07/ninfa.png)
+ ![ninfa]({{baseurl}}/uploads/2016/07/ninfa.png)
 
 
- ![atterraggio](http://pilde.net/blog/wp-content/uploads/2016/07/atterraggio.png)
+ ![atterraggio]({{baseurl}}/uploads/2016/07/atterraggio.png)
 
 
 
 
-![love](http://pilde.net/blog/wp-content/uploads/2016/07/love.png)
+![love]({{baseurl}}/uploads/2016/07/love.png)
 
 
 
 
 vanno in piscina
 
-![nospa](http://pilde.net/blog/wp-content/uploads/2016/07/nospa.png)
+![nospa]({{baseurl}}/uploads/2016/07/nospa.png)
 
 
 giocano a tennis
 
-![tennis](http://pilde.net/blog/wp-content/uploads/2016/07/tennis.png)
+![tennis]({{baseurl}}/uploads/2016/07/tennis.png)
 
 
 ..... come soffriamo!!!
 
-![top](http://pilde.net/blog/wp-content/uploads/2016/07/top.png)
+![top]({{baseurl}}/uploads/2016/07/top.png)
 
 
 

@@ -16,10 +16,10 @@ Da oggi il blog è di Matilde e Margherita ... siamo sorelle ;-)
 
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/09/oldblog1.png)
+[![]({{baseurl}}/uploads/2008/09/oldblog1.png)
 
 
-](http://pilde.net/blog/wp-content/uploads/2008/09/oldblog1.png)
+]({{baseurl}}/uploads/2008/09/oldblog1.png)
 
 
 

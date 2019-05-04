@@ -11,7 +11,7 @@ categories:
 - Eventi
 ---
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/01/natale_mati.jpg)
+[![]({{baseurl}}/uploads/2009/01/natale_mati.jpg)
 
 
 ](http://None)
@@ -19,7 +19,7 @@ categories:
 
 Stasera a casa dei nonni è passato Babbo Natale e ha portato a Caterina e a me un pallone pieno di regali
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/01/natale_cate.jpg)
+[![]({{baseurl}}/uploads/2009/01/natale_cate.jpg)
 
 
 ](http://None)
@@ -29,7 +29,7 @@ Stasera a casa dei nonni è passato Babbo Natale e ha portato a Caterina e a me 
 
 nel mio c'era il cellulare, l'orologio e le ciabatte di winnie!
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/01/euforia.jpg)
+[![]({{baseurl}}/uploads/2009/01/euforia.jpg)
 
 
 ](http://None)
@@ -39,7 +39,7 @@ nel mio c'era il cellulare, l'orologio e le ciabatte di winnie!
 
 Anche Marghe ha ricevuto tanti regalini, ma le piaceva il mio cellulare!
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/01/cellulare.jpg)
+[![]({{baseurl}}/uploads/2009/01/cellulare.jpg)
 
 
 ](http://None)
@@ -49,7 +49,7 @@ Anche Marghe ha ricevuto tanti regalini, ma le piaceva il mio cellulare!
 
 Il pranzo di Natale l'abbiamo passato in compagnia di Atzuko e zio Alessandro
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/01/zioalessandro.jpg)
+[![]({{baseurl}}/uploads/2009/01/zioalessandro.jpg)
 
 
 ](http://None)

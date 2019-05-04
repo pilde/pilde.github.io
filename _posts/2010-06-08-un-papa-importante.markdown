@@ -13,7 +13,7 @@ categories:
 
 Oggi papy è stato premiato per un suo progetto e ha anche incontrato il presidente Napolitano al Quirinale ... quando l'ho visto gli ho detto 'Papy ma come ti sei vestito?' ...non sono abituata a vederlo così elegante...ma era bellissimo!!
 
-![](http://pilde.net/blog/wp-content/uploads/2010/06/premio_resize.jpg)
+![]({{baseurl}}/uploads/2010/06/premio_resize.jpg)
 
 
 

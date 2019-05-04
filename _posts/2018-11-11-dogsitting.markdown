@@ -13,27 +13,27 @@ categories:
 
 I nonni ci lasciano Olmo per il weekend per la prima volta! Sabato mattina ce lo portiamo in Caffarella e si diverte nelle pozze d'acqua e a correre con gli altri cani
 
-![caffa_1](http://pilde.net/blog/wp-content/uploads/2018/12/caffa_1.png)
+![caffa_1]({{baseurl}}/uploads/2018/12/caffa_1.png)
 
 
 ci vediamo anche con Cloe per un gelato
 
-![baby_1](http://pilde.net/blog/wp-content/uploads/2018/12/baby_1.png)
+![baby_1]({{baseurl}}/uploads/2018/12/baby_1.png)
 
 
 la sera è talmente stanco che non riesce ad alzarsi dal divano!!
 
-![baby_2](http://pilde.net/blog/wp-content/uploads/2018/12/baby_2.png)
+![baby_2]({{baseurl}}/uploads/2018/12/baby_2.png)
 
 
 Domenica altra passeggiatona, meno country però, al centro commerciale Happio per provare il nuovo ristorante KFC, ma al sole sulla terrazza!
 
-![baby_3](http://pilde.net/blog/wp-content/uploads/2018/12/baby_3.png)
+![baby_3]({{baseurl}}/uploads/2018/12/baby_3.png)
 
 
 
 
-![kfc](http://pilde.net/blog/wp-content/uploads/2018/12/kfc.png)
+![kfc]({{baseurl}}/uploads/2018/12/kfc.png)
 
 
 

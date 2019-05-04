@@ -16,23 +16,23 @@ Il 24 agosto in queste zone c'è stato un fortissimo terremoto di magnitudo 6.0 
 
 In mattinata prendiamo la seggiovia che parte dal paese e arriva sul monte Tilia.
 
-![seggiovia](http://pilde.net/blog/wp-content/uploads/2016/12/seggiovia.png)
+![seggiovia]({{baseurl}}/uploads/2016/12/seggiovia.png)
 
 
 
 
-qui sù il paesaggio è molto suggestivo e la camminata facile, lungo il fianco della montagna![tilia2](http://pilde.net/blog/wp-content/uploads/2016/12/Tilia2.jpg)
+qui sù il paesaggio è molto suggestivo e la camminata facile, lungo il fianco della montagna![tilia2]({{baseurl}}/uploads/2016/12/Tilia2.jpg)
 
 
- ![tilia1](http://pilde.net/blog/wp-content/uploads/2016/12/Tilia1.jpg)
+ ![tilia1]({{baseurl}}/uploads/2016/12/Tilia1.jpg)
 
 
 arriviamo fino alla torre che sovrasta il paese
 
-![torre](http://pilde.net/blog/wp-content/uploads/2016/12/torre.jpg)
+![torre]({{baseurl}}/uploads/2016/12/torre.jpg)
 
 
- ![tilia3](http://pilde.net/blog/wp-content/uploads/2016/12/tilia3-1.jpg)
+ ![tilia3]({{baseurl}}/uploads/2016/12/tilia3-1.jpg)
 
 
 
@@ -48,14 +48,14 @@ La sera inizia a piovere....ma non ci scoraggiamo....a noi basta un buon panino 
 
 La mattina successiva c'è un sole stupendo, facciamo colazione in paese, con cornetto alla patata ovviamente, e un pò di spesa girovagando per le bancarelle. Poi data la folla che inizia ad arrivare scappiamo al lago di Piediluco.
 
-![lago2](http://pilde.net/blog/wp-content/uploads/2016/12/lago2.jpg)
+![lago2]({{baseurl}}/uploads/2016/12/lago2.jpg)
 
 
 
 
 Pic nic al sole bordo lago!
 
-![lago](http://pilde.net/blog/wp-content/uploads/2016/12/lago.jpg)
+![lago]({{baseurl}}/uploads/2016/12/lago.jpg)
 
 
 

@@ -21,7 +21,7 @@ Tralasciando il peso (sono uno scricciolo, o come dice M un topo secco)
 
 
 , rido come una matta quando la sbinonna fa l'altalena con me, infilo le chiavi nella toppa della porta per uscire, appena si nomina il bagnetto corro subito alla mia vasca, ballo e corro sul posto, faccio delle smorfie da grande,gioco a nascondino e acchiapparella e so dire 'bau', 'brum-brum' e 'pappa'.
-![fontanella.jpg](http://pilde.net/blog/wp-content/uploads/2007/09/fontanella.jpg)
+![fontanella.jpg]({{baseurl}}/uploads/2007/09/fontanella.jpg)
 
 
 

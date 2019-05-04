@@ -17,19 +17,19 @@ categories:
 
 La mitica colazione di Pasqua alla marchigiana... uova, corallina, pizze dolci e salate, formaggi....
 
-![](http://pilde.net/blog/wp-content/uploads/2011/05/colazione_pasqua.jpg)
+![]({{baseurl}}/uploads/2011/05/colazione_pasqua.jpg)
 
 
 
 
-e l'uovo di pasqua...che Marghe ancora non ha capito come si apre!! ![](http://pilde.net/blog/wp-content/uploads/2011/05/marghe_uovo.jpg)
+e l'uovo di pasqua...che Marghe ancora non ha capito come si apre!! ![]({{baseurl}}/uploads/2011/05/marghe_uovo.jpg)
 
 
 
 
 E per smaltire il tutto... grandi passeggiate al Piscibetto
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/05/bosco.jpg)
+[![]({{baseurl}}/uploads/2011/05/bosco.jpg)
 
 
 ](http://None)
@@ -39,7 +39,7 @@ E per smaltire il tutto... grandi passeggiate al Piscibetto
 
 con cugininetti e cuginoni
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/05/cuginoni.jpg)
+[![]({{baseurl}}/uploads/2011/05/cuginoni.jpg)
 
 
 ](http://None)
@@ -49,7 +49,7 @@ con cugininetti e cuginoni
 
 Insomma eravamo proprio un bel gruppone!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/05/gruppone_bosco.jpg)
+[![]({{baseurl}}/uploads/2011/05/gruppone_bosco.jpg)
 
 
 ](http://None)
@@ -59,7 +59,7 @@ Insomma eravamo proprio un bel gruppone!
 
 Ci siamo fatti tante risate
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/05/cicia_mati.jpg)
+[![]({{baseurl}}/uploads/2011/05/cicia_mati.jpg)
 
 
 ](http://None)
@@ -67,7 +67,7 @@ Ci siamo fatti tante risate
 
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/05/mati_mamma.jpg)
+[![]({{baseurl}}/uploads/2011/05/mati_mamma.jpg)
 
 
 ](http://None)
@@ -77,7 +77,7 @@ Ci siamo fatti tante risate
 
 e girotondi
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/05/cuginetti.jpg)
+[![]({{baseurl}}/uploads/2011/05/cuginetti.jpg)
 
 
 ](http://None)
@@ -87,7 +87,7 @@ e girotondi
 
 e ho anche imparato a fare il ponte! Guardate come sono brava??!!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/05/ponte.jpg)
+[![]({{baseurl}}/uploads/2011/05/ponte.jpg)
 
 
 ](http://None)

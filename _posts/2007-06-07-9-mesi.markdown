@@ -19,7 +19,7 @@ Oggi è il mio complemese...ma uno di quelli importanti!Finalmente posso dire ch
 Auguri Augurissimi anche alla mia gemellina Toporosa sdentata! :)
 
 
-![9mesi.jpg](http://pilde.net/blog/wp-content/uploads/2007/06/9mesi.jpg)
+![9mesi.jpg]({{baseurl}}/uploads/2007/06/9mesi.jpg)
 
 
 

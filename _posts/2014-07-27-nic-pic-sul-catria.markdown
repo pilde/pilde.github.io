@@ -14,40 +14,40 @@ categories:
 
 Anche se il tempo non è stato dei migliori ci ha permesso di fare un bel pic-nic sul monte Catria
 
-[![catria_bimbe](http://pilde.net/blog/wp-content/uploads/2014/08/catria_bimbe.jpg)
+[![catria_bimbe]({{baseurl}}/uploads/2014/08/catria_bimbe.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/08/catria_bimbe.jpg)
+]({{baseurl}}/uploads/2014/08/catria_bimbe.jpg)
 
 
-[![catria_tutti](http://pilde.net/blog/wp-content/uploads/2014/08/catria_tutti.jpg)
+[![catria_tutti]({{baseurl}}/uploads/2014/08/catria_tutti.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/08/catria_tutti.jpg)
+]({{baseurl}}/uploads/2014/08/catria_tutti.jpg)
 
 
 con noi c'era anche Sara, zia Betta, Caterina e i nonni!
 
-[![kiss_B&C](http://pilde.net/blog/wp-content/uploads/2014/10/kiss_BC.jpg)
+[![kiss_B&C]({{baseurl}}/uploads/2014/10/kiss_BC.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/10/kiss_BC.jpg)
+]({{baseurl}}/uploads/2014/10/kiss_BC.jpg)
 
 
 
 
 Ci siamo sbaciucchiati tutti
 
-[![kiss](http://pilde.net/blog/wp-content/uploads/2014/10/kiss.jpg)
+[![kiss]({{baseurl}}/uploads/2014/10/kiss.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/10/kiss.jpg)
+]({{baseurl}}/uploads/2014/10/kiss.jpg)
 
 
- [![kiss2](http://pilde.net/blog/wp-content/uploads/2014/10/kiss2.jpg)
+ [![kiss2]({{baseurl}}/uploads/2014/10/kiss2.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/10/kiss2.jpg)
+]({{baseurl}}/uploads/2014/10/kiss2.jpg)
 
 
 
@@ -56,10 +56,10 @@ Ci siamo sbaciucchiati tutti
 
 e infine un ottimo panino....pre temporale!
 
-[![pic-nic](http://pilde.net/blog/wp-content/uploads/2014/10/pic-nic.jpg)
+[![pic-nic]({{baseurl}}/uploads/2014/10/pic-nic.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/10/pic-nic.jpg)
+]({{baseurl}}/uploads/2014/10/pic-nic.jpg)
 
 
 

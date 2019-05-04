@@ -16,23 +16,23 @@ Oggi il centro di Roma è chiuso per questa manifestazione podistica, la DJ 10, 
 
 Pronti alla partenza....tutti con le magliette "corallo"
 
-![dj_1](http://pilde.net/blog/wp-content/uploads/2017/12/dj_1.png)
+![dj_1]({{baseurl}}/uploads/2017/12/dj_1.png)
 
 
- ![dj_2](http://pilde.net/blog/wp-content/uploads/2017/12/dj_2.png)
+ ![dj_2]({{baseurl}}/uploads/2017/12/dj_2.png)
 
 
-C'è chi la fa veramente di corsa....grandissime Mati e Meggy ![dj_3](http://pilde.net/blog/wp-content/uploads/2017/12/dj_3.png)
+C'è chi la fa veramente di corsa....grandissime Mati e Meggy ![dj_3]({{baseurl}}/uploads/2017/12/dj_3.png)
 
 
 e chi si fa la passeggiata con pausa cappuccino e cornetto all'info point
 
-![dj_4](http://pilde.net/blog/wp-content/uploads/2017/12/dj_4.png)
+![dj_4]({{baseurl}}/uploads/2017/12/dj_4.png)
 
 
 Ma alla fine all'arrivo ci ritroviamo tutti....pure con le medaglie!
 
-![dj_6](http://pilde.net/blog/wp-content/uploads/2017/12/dj_6.png)
+![dj_6]({{baseurl}}/uploads/2017/12/dj_6.png)
 
 
 

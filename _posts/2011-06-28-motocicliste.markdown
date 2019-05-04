@@ -13,7 +13,7 @@ categories:
 
 Margheeeee non andare così veloce!!!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/06/moto.jpg)
+[![]({{baseurl}}/uploads/2011/06/moto.jpg)
 
 
 ](http://None)

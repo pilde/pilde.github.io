@@ -14,10 +14,10 @@ categories:
 Oggi vi faccio vedere alcune foto della mia vita quotidiana....
 quando faccio il bagnetto P mi fa il ciuffo impazzito insaponato
 
-[![ciuffo.jpg](http://pilde.net/blog/wp-content/uploads/2008/05/ciuffo.jpg)
+[![ciuffo.jpg]({{baseurl}}/uploads/2008/05/ciuffo.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2008/05/ciuffo.jpg)
+]({{baseurl}}/uploads/2008/05/ciuffo.jpg)
 
 
 
@@ -27,30 +27,30 @@ poi ogni tanto quando mi sveglio la mattina presto mi coccolo nel lettone... e m
 
 
 
-[![pennichella.jpg](http://pilde.net/blog/wp-content/uploads/2008/05/pennichella.jpg)
+[![pennichella.jpg]({{baseurl}}/uploads/2008/05/pennichella.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2008/05/pennichella.jpg)
+]({{baseurl}}/uploads/2008/05/pennichella.jpg)
 
 
 
 
 quando vado da zia Betta dò il latte a Caterina, cercando sempre di sbaciucchiarla
 
-[![caterina.jpg](http://pilde.net/blog/wp-content/uploads/2008/05/caterina.jpg)
+[![caterina.jpg]({{baseurl}}/uploads/2008/05/caterina.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2008/05/caterina.jpg)
+]({{baseurl}}/uploads/2008/05/caterina.jpg)
 
 
 
 
 e dulcis in fundo....adoro il gelato biscotto!
 
-[![gelato.jpg](http://pilde.net/blog/wp-content/uploads/2008/05/gelato.jpg)
+[![gelato.jpg]({{baseurl}}/uploads/2008/05/gelato.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2008/05/gelato.jpg)
+]({{baseurl}}/uploads/2008/05/gelato.jpg)
 
 
 

@@ -13,7 +13,7 @@ categories:
 
 Grande Mati che arriva seconda alla corsa campestre categoria "ragazze"
 
-![corsa](http://pilde.net/blog/wp-content/uploads/2017/12/corsa.png)
+![corsa]({{baseurl}}/uploads/2017/12/corsa.png)
 
 
 e bravissimo Flavio che arriva 1 nella categoria "cadetti".

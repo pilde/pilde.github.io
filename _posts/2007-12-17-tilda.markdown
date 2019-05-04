@@ -17,7 +17,7 @@ E poi so anche disegnare! :)
 
 
 
-![lavagna.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/lavagna.jpg)
+![lavagna.jpg]({{baseurl}}/uploads/2007/12/lavagna.jpg)
 
 
 

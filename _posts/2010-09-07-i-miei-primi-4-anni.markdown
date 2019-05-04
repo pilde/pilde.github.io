@@ -12,7 +12,7 @@ categories:
 - Presentazione
 ---
 
-![](http://pilde.net/blog/wp-content/uploads/2010/09/matilde_blog.jpg)
+![]({{baseurl}}/uploads/2010/09/matilde_blog.jpg)
 
 
 

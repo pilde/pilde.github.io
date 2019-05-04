@@ -13,7 +13,7 @@ categories:
 
 Tanti auguri nonna!!!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/04/compleanno_nonnafranca.jpg)
+[![]({{baseurl}}/uploads/2011/04/compleanno_nonnafranca.jpg)
 
 
 ](http://None)

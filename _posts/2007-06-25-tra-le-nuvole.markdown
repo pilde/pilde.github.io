@@ -16,7 +16,7 @@ Domenica mattina, 8.40, passo il check in senza problemi (strano avevo del liqui
 
 ....ed eccomi sull'aereo in direzione sud verso catania!Ho chiaccherato con il mio vicino di poltrona, ho bevuto l'acqua in decollo e poi sono sprofondata nel sonno fino all'atterraggio!
 
-![volo.JPG](http://pilde.net/blog/wp-content/uploads/2007/07/volo.JPG)
+![volo.JPG]({{baseurl}}/uploads/2007/07/volo.JPG)
 
 
 

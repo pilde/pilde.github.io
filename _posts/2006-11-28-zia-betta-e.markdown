@@ -13,7 +13,7 @@ categories:
 
 Lei è zia Betta, ma chi mi sta facendo la foto? ... è proprio brutto!!!
 
-![bettaemati.jpg](http://pilde.net/blog/wp-content/uploads/2006/11/bettaemati.jpg)
+![bettaemati.jpg]({{baseurl}}/uploads/2006/11/bettaemati.jpg)
 
 
 

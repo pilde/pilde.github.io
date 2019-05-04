@@ -14,34 +14,34 @@ categories:
 
 La passione dell'anno è la cucina non c'è dubbio .... ma altro che masterchef .... guardate che squadra!!!
 
-[![cuoci_smorfie](http://pilde.net/blog/wp-content/uploads/2014/06/cuoci_smorfie.jpg)
+[![cuoci_smorfie]({{baseurl}}/uploads/2014/06/cuoci_smorfie.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/06/cuoci_smorfie.jpg)
+]({{baseurl}}/uploads/2014/06/cuoci_smorfie.jpg)
 
 
 e come sono abili con le fruste
 
-[![cuochi_fruste](http://pilde.net/blog/wp-content/uploads/2014/06/cuochi_fruste.jpg)
+[![cuochi_fruste]({{baseurl}}/uploads/2014/06/cuochi_fruste.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/06/cuochi_fruste.jpg)
+]({{baseurl}}/uploads/2014/06/cuochi_fruste.jpg)
 
 
 e i pirottini
 
-[![cuochi_impasto](http://pilde.net/blog/wp-content/uploads/2014/06/cuochi_impasto.jpg)
+[![cuochi_impasto]({{baseurl}}/uploads/2014/06/cuochi_impasto.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/06/cuochi_impasto.jpg)
+]({{baseurl}}/uploads/2014/06/cuochi_impasto.jpg)
 
 
 E infine un ottimo plumcake, bruciacchiato dallo chef, e il diploma di piccolo cuoco!
 
-[![cuochi_diploma](http://pilde.net/blog/wp-content/uploads/2014/06/cuochi_diploma.jpg)
+[![cuochi_diploma]({{baseurl}}/uploads/2014/06/cuochi_diploma.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/06/cuochi_diploma.jpg)
+]({{baseurl}}/uploads/2014/06/cuochi_diploma.jpg)
 
 
 

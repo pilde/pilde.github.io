@@ -15,19 +15,19 @@ E' arrivato finalmente il momento tanto atteso da M&P ... andare in giro in bici
 
 Usciamo da casa, gli ultimi ritocchi
 
-![](http://pilde.net/blog/wp-content/uploads/2011/10/bici1.jpg)
+![]({{baseurl}}/uploads/2011/10/bici1.jpg)
 
 
 
 
 e via nel parco della caffarella
 
-![](http://pilde.net/blog/wp-content/uploads/2011/10/bici2.jpg)
+![]({{baseurl}}/uploads/2011/10/bici2.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2011/10/burlone.jpg)
+![]({{baseurl}}/uploads/2011/10/burlone.jpg)
 
 
 

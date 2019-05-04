@@ -22,14 +22,14 @@ Il genio creativo-pratico di nonna Franca ha ideato e prodotto in poche ore ques
 
 Cate-mela: rotonda e avventuriera
 
-![](http://pilde.net/blog/wp-content/uploads/2009/02/mela.jpg)
+![]({{baseurl}}/uploads/2009/02/mela.jpg)
 
 
 
 
 Marghe-marghe: romantica ma un pò addormentata
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/02/fiore3.jpg)
+[![]({{baseurl}}/uploads/2009/02/fiore3.jpg)
 
 
 ](http://None)
@@ -39,7 +39,7 @@ Marghe-marghe: romantica ma un pò addormentata
 
 Mati-maia: classica e peperina
 
-![](http://pilde.net/blog/wp-content/uploads/2009/02/ape.jpg)
+![]({{baseurl}}/uploads/2009/02/ape.jpg)
 
 
 
@@ -52,7 +52,7 @@ Siamo andati al pontile di Ostia: c'erano tantissimi bimbi in maschera e abbiamo
 
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/02/alice.jpg)
+[![]({{baseurl}}/uploads/2009/02/alice.jpg)
 
 
 ](http://None)
@@ -68,7 +68,7 @@ Siamo andati al pontile di Ostia: c'erano tantissimi bimbi in maschera e abbiamo
 
 Io mi sono divertita a spruzzare le stelle filanti spray....
 
- [![](http://pilde.net/blog/wp-content/uploads/2009/02/spray.jpg)
+ [![]({{baseurl}}/uploads/2009/02/spray.jpg)
 
 
 ](http://None)
@@ -78,7 +78,7 @@ Io mi sono divertita a spruzzare le stelle filanti spray....
 
 .....oooops forse devo perfezionare la mira!
 
-![](http://pilde.net/blog/wp-content/uploads/2009/02/spray2.jpg)
+![]({{baseurl}}/uploads/2009/02/spray2.jpg)
 
 
 

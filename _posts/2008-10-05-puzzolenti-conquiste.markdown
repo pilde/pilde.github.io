@@ -33,10 +33,10 @@ Sono una bimbetta piuttosto sveglia, ma su almeno tre cose sono una pigrona:
 
 </td>
 
-<td >[![](http://pilde.net/blog/wp-content/uploads/2008/10/mondo-150x150.jpg)
+<td >[![]({{baseurl}}/uploads/2008/10/mondo-150x150.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2008/10/mondo.jpg)
+]({{baseurl}}/uploads/2008/10/mondo.jpg)
 
 
 

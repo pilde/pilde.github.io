@@ -13,7 +13,7 @@ categories:
 
 Oggi finalmente compio 18 mesi! Ormai sono proprio grande! 
 
-![miele.jpg](http://pilde.net/blog/wp-content/uploads/2008/03/miele.jpg)
+![miele.jpg]({{baseurl}}/uploads/2008/03/miele.jpg)
 
 
 

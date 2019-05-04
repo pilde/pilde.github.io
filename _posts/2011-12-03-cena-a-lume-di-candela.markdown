@@ -13,7 +13,7 @@ categories:
 
 E' saltata la luce, ma in realtà ci piace proprio quest'atmosfera!
 
-![](http://pilde.net/blog/wp-content/uploads/2011/12/cena_lume_candela.jpg)
+![]({{baseurl}}/uploads/2011/12/cena_lume_candela.jpg)
 
 
 

@@ -13,20 +13,20 @@ categories:
 
 Mentre io lavoro in quel di Atlanta voi siete a Buonconvento con Ronzinante... vabbè, ma la prossima volta non mi fregate :-D
 
-![immag074_1.jpg](http://pilde.net/blog/wp-content/uploads/2006/12/immag074_1.jpg)
+![immag074_1.jpg]({{baseurl}}/uploads/2006/12/immag074_1.jpg)
 
 
-[![immag076_1.jpg](http://pilde.net/blog/wp-content/uploads/2006/12/immag076_1.jpg)
+[![immag076_1.jpg]({{baseurl}}/uploads/2006/12/immag076_1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2006/12/immag076_1.jpg)
+]({{baseurl}}/uploads/2006/12/immag076_1.jpg)
 
 
 
 
 Atlanta è "sciapetta", ma Georgia Tech is amazing!!! Ogni volta che vengo negli Stati Uniti mi entusiasma l'enorme valore che qui danno all'innovazione e alla ricerca e mi infastidisce il "nostro" essere assoultamente inconsistenti. Per contro il cibo fa schifo... pollo fritto e salsette... come si dice, ariconsolamoce co' l'aglietto!!!
 
-![immag070_1.jpg](http://pilde.net/blog/wp-content/uploads/2006/12/immag070_1.jpg)
+![immag070_1.jpg]({{baseurl}}/uploads/2006/12/immag070_1.jpg)
 
 
 

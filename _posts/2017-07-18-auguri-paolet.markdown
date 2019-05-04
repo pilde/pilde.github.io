@@ -13,7 +13,7 @@ categories:
 
 Un bel tramonto sul mare dedicato ad un'amica speciale!
 
-![paolet](http://pilde.net/blog/wp-content/uploads/2017/07/paolet.png)
+![paolet]({{baseurl}}/uploads/2017/07/paolet.png)
 
 
 

@@ -13,7 +13,7 @@ categories:
 
 Auguri M&P
 
-![](http://pilde.net/blog/wp-content/uploads/2010/06/mp.jpg)
+![]({{baseurl}}/uploads/2010/06/mp.jpg)
 
 
 

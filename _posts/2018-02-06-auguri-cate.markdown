@@ -13,13 +13,13 @@ categories:
 
 Oggi è iniziata la settimana di festeggiamenti per il compleanno di Caterina! Uno slime party, una partita a paintball e la pizza di classe!!
 
-![cate2](http://pilde.net/blog/wp-content/uploads/2018/02/cate2.jpg)
+![cate2]({{baseurl}}/uploads/2018/02/cate2.jpg)
 
 
- ![cate1](http://pilde.net/blog/wp-content/uploads/2018/02/cate1.jpg)
+ ![cate1]({{baseurl}}/uploads/2018/02/cate1.jpg)
 
 
-Evviva le feste! ![cate_meggy](http://pilde.net/blog/wp-content/uploads/2018/02/cate_meggy.jpg)
+Evviva le feste! ![cate_meggy]({{baseurl}}/uploads/2018/02/cate_meggy.jpg)
 
 
 

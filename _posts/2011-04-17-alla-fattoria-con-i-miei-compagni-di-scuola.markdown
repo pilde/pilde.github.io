@@ -19,21 +19,21 @@ Oggi siamo andati nella fattoria dello zio di Stella a Trigoria. Che bel gruppo
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2011/04/fattoria_gruppone.jpg)
+![]({{baseurl}}/uploads/2011/04/fattoria_gruppone.jpg)
 
 
 
 
 'Che bel posto' ha detto Margherita, con tanti cavalli, capre, pulcini, cani! Abbiamo ingozzato di pane duro ed erba le caprette ....
 
-![](http://pilde.net/blog/wp-content/uploads/2011/04/caprette1.jpg)
+![]({{baseurl}}/uploads/2011/04/caprette1.jpg)
 
 
 
 
 abbiamo mangiato tutti insieme ...
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/04/fattoria_pranzo.jpg)
+[![]({{baseurl}}/uploads/2011/04/fattoria_pranzo.jpg)
 
 
 ](http://None)
@@ -46,7 +46,7 @@ abbiamo mangiato tutti insieme ...
 
 e giocato sul prato!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/04/combriccola.jpg)
+[![]({{baseurl}}/uploads/2011/04/combriccola.jpg)
 
 
 ](http://None)
@@ -56,7 +56,7 @@ e giocato sul prato!
 
 Siamo stati proprio bene.... arrivederci alla prossima avventura!
 
-![](http://pilde.net/blog/wp-content/uploads/2011/04/fattoria_blog1.jpg)
+![]({{baseurl}}/uploads/2011/04/fattoria_blog1.jpg)
 
 
 [](http://None)

@@ -11,22 +11,22 @@ categories:
 - Amici
 ---
 
-Torniamo a campeggiare alla fratta![![fratta_panorama](http://pilde.net/blog/wp-content/uploads/2015/09/fratta_panorama.jpg)
+Torniamo a campeggiare alla fratta![![fratta_panorama]({{baseurl}}/uploads/2015/09/fratta_panorama.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/fratta_panorama.jpg)
+]({{baseurl}}/uploads/2015/09/fratta_panorama.jpg)
 
 
- [![luciana](http://pilde.net/blog/wp-content/uploads/2015/09/luciana.jpg)
+ [![luciana]({{baseurl}}/uploads/2015/09/luciana.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/luciana.jpg)
+]({{baseurl}}/uploads/2015/09/luciana.jpg)
 
 
- [![tramonto](http://pilde.net/blog/wp-content/uploads/2015/09/tramonto.jpg)
+ [![tramonto]({{baseurl}}/uploads/2015/09/tramonto.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/tramonto.jpg)
+]({{baseurl}}/uploads/2015/09/tramonto.jpg)
 
 
 

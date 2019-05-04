@@ -14,22 +14,22 @@ categories:
 
 Quest'anno è una giornata ancora più piena... oltre al compleanno di Matilde oggi è stato il primo giorno d'asilo di Margherita.
 
-![](http://pilde.net/blog/wp-content/uploads/2009/09/asilo.jpg)
+![]({{baseurl}}/uploads/2009/09/asilo.jpg)
 
 
 
 
-[](http://pilde.net/blog/wp-content/uploads/2009/09/margheasilo.jpg)
+[]({{baseurl}}/uploads/2009/09/margheasilo.jpg)
 
 
 
 
 Auguri piccolette smorfiose!
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/09/mm.jpg)
+[![]({{baseurl}}/uploads/2009/09/mm.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2009/09/mm.jpg)
+]({{baseurl}}/uploads/2009/09/mm.jpg)
 
 
 

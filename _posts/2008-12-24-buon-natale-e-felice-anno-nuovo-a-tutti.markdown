@@ -11,7 +11,7 @@ categories:
 - Eventi
 ---
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/01/palle_natale.gif)
+[![]({{baseurl}}/uploads/2009/01/palle_natale.gif)
 
 
 ](http://None)

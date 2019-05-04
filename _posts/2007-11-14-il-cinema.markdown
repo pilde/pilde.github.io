@@ -14,7 +14,7 @@ categories:
 Wow che schermo gigantesco e quanti colori e suoni forti!
 Ieri sera sono stata a vedere 'Ratatouille', un cartone animato su un topolino che vuole fare il cuoco! 
 
-![ratatouille.jpg](http://pilde.net/blog/wp-content/uploads/2007/11/ratatouille.jpg)
+![ratatouille.jpg]({{baseurl}}/uploads/2007/11/ratatouille.jpg)
 
 
 
@@ -25,7 +25,7 @@ La prima parte del film dormivo, poi mi sono svegliata e in braccio a P ho guard
  ma per fortuna il film era alla fine!
 Dopo ho fatto delle belle corse lungo i corridoi illuminati.
 
-![cinema.jpg](http://pilde.net/blog/wp-content/uploads/2007/11/cinema.jpg)
+![cinema.jpg]({{baseurl}}/uploads/2007/11/cinema.jpg)
 
 
 

@@ -19,34 +19,34 @@ Ci sono anche Caterina, zia Betta e Sara con Catia e Ale!
 Il campeggio è molto carino e silenzioso, certo l'acqua del lago non è il massimo ma ci divertiamo tutti lo stesso, tra nuotate, tuffi, relax sui materassini, giochi di carte, giri in canoa (con il nuovo prototipo di vela)
 
 
- ...[![lago_tutti](http://pilde.net/blog/wp-content/uploads/2013/09/lago_tutti.jpg)
+ ...[![lago_tutti]({{baseurl}}/uploads/2013/09/lago_tutti.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/09/lago_tutti.jpg)
+]({{baseurl}}/uploads/2013/09/lago_tutti.jpg)
 
 
-[![lago_canoa](http://pilde.net/blog/wp-content/uploads/2013/09/lago_canoa1.jpg)
+[![lago_canoa]({{baseurl}}/uploads/2013/09/lago_canoa1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/09/lago_canoa1.jpg)
+]({{baseurl}}/uploads/2013/09/lago_canoa1.jpg)
 
 
-[![lago_canoa_carte](http://pilde.net/blog/wp-content/uploads/2013/09/lago_canoa_carte.jpg)
+[![lago_canoa_carte]({{baseurl}}/uploads/2013/09/lago_canoa_carte.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/09/lago_canoa_carte.jpg)
+]({{baseurl}}/uploads/2013/09/lago_canoa_carte.jpg)
 
 
-[![catia](http://pilde.net/blog/wp-content/uploads/2013/09/catia1.jpg)
+[![catia]({{baseurl}}/uploads/2013/09/catia1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/09/catia1.jpg)
+]({{baseurl}}/uploads/2013/09/catia1.jpg)
 
 
-[![mati](http://pilde.net/blog/wp-content/uploads/2013/09/mati.jpg)
+[![mati]({{baseurl}}/uploads/2013/09/mati.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/09/mati.jpg)
+]({{baseurl}}/uploads/2013/09/mati.jpg)
 
 
 

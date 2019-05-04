@@ -13,7 +13,7 @@ categories:
 
 In questi giorni ci facciamo delle dormite ....
 
-![](http://pilde.net/blog/wp-content/uploads/2011/12/ninne.jpg)
+![]({{baseurl}}/uploads/2011/12/ninne.jpg)
 
 
 

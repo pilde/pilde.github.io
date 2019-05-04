@@ -14,10 +14,10 @@ categories:
 
 Che divertente questa commedia! Ma sbaglio o ci sono molte facce note??
 
-![disaster2](http://pilde.net/blog/wp-content/uploads/2016/03/disaster2.jpg)
+![disaster2]({{baseurl}}/uploads/2016/03/disaster2.jpg)
 
 
- ![disaster](http://pilde.net/blog/wp-content/uploads/2016/03/disaster.jpg)
+ ![disaster]({{baseurl}}/uploads/2016/03/disaster.jpg)
 
 
 

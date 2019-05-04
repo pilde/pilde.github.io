@@ -14,16 +14,16 @@ categories:
 
 Merenda a tema a casa
 
-[![hallo1](http://pilde.net/blog/wp-content/uploads/2014/12/hallo1.jpg)
+[![hallo1]({{baseurl}}/uploads/2014/12/hallo1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/12/hallo1.jpg)
+]({{baseurl}}/uploads/2014/12/hallo1.jpg)
 
 
-e poi in giro a fare 'dolcetto scherzetto'! [![hallo2](http://pilde.net/blog/wp-content/uploads/2014/12/hallo2.jpg)
+e poi in giro a fare 'dolcetto scherzetto'! [![hallo2]({{baseurl}}/uploads/2014/12/hallo2.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/12/hallo2.jpg)
+]({{baseurl}}/uploads/2014/12/hallo2.jpg)
 
 
 

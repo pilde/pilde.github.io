@@ -13,7 +13,7 @@ categories:
 
 Oggi ho approfittato del bel sole e sono andata a fare due passi sull'Appia Antica! Certo sti romani la sapevano lunga....e amavano i 's. pietrini' ...le strade fatte da blocchetti di pietra incastrati perfettamente....
 
-![strada.jpg](http://pilde.net/blog/wp-content/uploads/2008/03/strada.jpg)
+![strada.jpg]({{baseurl}}/uploads/2008/03/strada.jpg)
 
 
 
@@ -23,14 +23,14 @@ Ho osservato molto attentamente la strada per non perdermi :)
 
 
 
-![sasso.jpg](http://pilde.net/blog/wp-content/uploads/2008/03/sasso.jpg)
+![sasso.jpg]({{baseurl}}/uploads/2008/03/sasso.jpg)
 
 
 
 
 ma per fortuna avevo 4 nonni che mi guidavano, un pò sulla bici, un pò a cavalluccio un pò a piedi ...
 
-![nonni.jpg](http://pilde.net/blog/wp-content/uploads/2008/03/nonni.jpg)
+![nonni.jpg]({{baseurl}}/uploads/2008/03/nonni.jpg)
 
 
 

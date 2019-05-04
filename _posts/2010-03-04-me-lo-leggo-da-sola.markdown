@@ -19,7 +19,7 @@ Matilde: ' No, me lo leggo da sola...'
 
 3 minuti dopo.....
 
-![](http://pilde.net/blog/wp-content/uploads/2010/03/dasola.jpg)
+![]({{baseurl}}/uploads/2010/03/dasola.jpg)
 
 
 

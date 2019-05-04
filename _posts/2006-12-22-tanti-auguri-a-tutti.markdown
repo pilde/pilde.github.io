@@ -11,7 +11,7 @@ categories:
 - Eventi
 ---
 
-![presepe.jpg](http://pilde.net/blog/wp-content/uploads/2006/12/presepe.jpg)
+![presepe.jpg]({{baseurl}}/uploads/2006/12/presepe.jpg)
 
 
 

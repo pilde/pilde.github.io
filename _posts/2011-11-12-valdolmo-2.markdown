@@ -13,42 +13,42 @@ categories:
 
 Questo we siamo andati a Valdolmo che zia Iole ha pronti 70Kg di carne per noi!! Eccoci la sera davanti al caminetto! Che relax!
 
-![](http://pilde.net/blog/wp-content/uploads/2011/11/valdolmo_caminetto.jpg)
+![]({{baseurl}}/uploads/2011/11/valdolmo_caminetto.jpg)
 
 
 
 
 Poi siamo andati a Fabriano ad aspettare Chiara e Davide alla mostra di funghi...
 
-![](http://pilde.net/blog/wp-content/uploads/2011/11/mostra_funghi.jpg)
+![]({{baseurl}}/uploads/2011/11/mostra_funghi.jpg)
 
 
 
 
 ecco le nostre firme ...
 
-![](http://pilde.net/blog/wp-content/uploads/2011/11/firme_funghi.jpg)
+![]({{baseurl}}/uploads/2011/11/firme_funghi.jpg)
 
 
 
 
 e poi tutti a mangiare le fettuccine ai funghi .. e nell'attesa si disegna ..
 
-![](http://pilde.net/blog/wp-content/uploads/2011/11/andrea_chiara.jpg)
+![]({{baseurl}}/uploads/2011/11/andrea_chiara.jpg)
 
 
 
 
 Poi tutti nella stalla e a raccogliere i funghi
 
-![](http://pilde.net/blog/wp-content/uploads/2011/11/funghi.jpg)
+![]({{baseurl}}/uploads/2011/11/funghi.jpg)
 
 
 
 
 E infine a casetta con una bella braciolata e un pò di coccole!
 
-![](http://pilde.net/blog/wp-content/uploads/2011/11/bacio_marghe_davide.jpg)
+![]({{baseurl}}/uploads/2011/11/bacio_marghe_davide.jpg)
 
 
 
@@ -66,7 +66,7 @@ Alla prossima vacanza tutti insieme (sempre con i miei dinosauri)
 
 !!
 
-![](http://pilde.net/blog/wp-content/uploads/2011/11/branco.jpg)
+![]({{baseurl}}/uploads/2011/11/branco.jpg)
 
 
 

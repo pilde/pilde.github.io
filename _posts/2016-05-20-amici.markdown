@@ -13,25 +13,25 @@ categories:
 
 ... sono sempre il passatempo preferito .. e con loro si condividono tante cose
 
-![mati&flavio](http://pilde.net/blog/wp-content/uploads/2016/06/matiflavio.jpg)
+![mati&flavio]({{baseurl}}/uploads/2016/06/matiflavio.jpg)
 
 
- ![laghetto1](http://pilde.net/blog/wp-content/uploads/2016/06/laghetto1.jpg)
+ ![laghetto1]({{baseurl}}/uploads/2016/06/laghetto1.jpg)
 
 
- ![brevetti1](http://pilde.net/blog/wp-content/uploads/2016/06/brevetti1.jpg)
+ ![brevetti1]({{baseurl}}/uploads/2016/06/brevetti1.jpg)
 
 
- ![amiche](http://pilde.net/blog/wp-content/uploads/2016/06/amiche-1.jpg)
+ ![amiche]({{baseurl}}/uploads/2016/06/amiche-1.jpg)
 
 
-![friends](http://pilde.net/blog/wp-content/uploads/2016/06/friends.jpg)
+![friends]({{baseurl}}/uploads/2016/06/friends.jpg)
 
 
- ![pizza](http://pilde.net/blog/wp-content/uploads/2016/06/pizza.jpg)
+ ![pizza]({{baseurl}}/uploads/2016/06/pizza.jpg)
 
 
- ![tarte](http://pilde.net/blog/wp-content/uploads/2016/06/tarte.jpg)
+ ![tarte]({{baseurl}}/uploads/2016/06/tarte.jpg)
 
 
 

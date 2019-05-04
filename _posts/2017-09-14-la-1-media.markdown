@@ -15,12 +15,12 @@ Sveglia prestissimo con lo stomaco che brontola....che sarà... forse emozione!
 
 Accompagnamo Marghe a scuola, oggi è il suo primo giorno di 4 elementare!
 
-![sisters](http://pilde.net/blog/wp-content/uploads/2017/09/sisters.png)
+![sisters]({{baseurl}}/uploads/2017/09/sisters.png)
 
 
 e poi nella mia nuova scuola. Aspettiamo la lettura delle classi.
 
-![amiche](http://pilde.net/blog/wp-content/uploads/2017/09/amiche.png)
+![amiche]({{baseurl}}/uploads/2017/09/amiche.png)
 
 
 

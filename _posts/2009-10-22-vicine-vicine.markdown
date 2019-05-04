@@ -13,14 +13,14 @@ categories:
 
 ... a colazione...
 
-![](http://pilde.net/blog/wp-content/uploads/2009/10/latte.jpg)
+![]({{baseurl}}/uploads/2009/10/latte.jpg)
 
 
 
 
 .... e nel lettone ....
 
-![](http://pilde.net/blog/wp-content/uploads/2009/10/vicine2.jpg)
+![]({{baseurl}}/uploads/2009/10/vicine2.jpg)
 
 
 

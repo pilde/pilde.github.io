@@ -16,7 +16,7 @@ Eccola qui ..
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2012/11/anita.jpg)
+![]({{baseurl}}/uploads/2012/11/anita.jpg)
 
 
 
@@ -34,7 +34,7 @@ Matilde dice che sei bellissima ... e ha proprio ragione!!
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2012/11/anita2.jpg)
+![]({{baseurl}}/uploads/2012/11/anita2.jpg)
 
 
 

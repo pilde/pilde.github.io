@@ -13,22 +13,22 @@ categories:
 
 Auguri nonnone....e tutti a pranzo al mare a festeggiare!!!
 
-[![nonno1](http://pilde.net/blog/wp-content/uploads/2015/04/nonno1.png)
+[![nonno1]({{baseurl}}/uploads/2015/04/nonno1.png)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/04/nonno1.png)
+]({{baseurl}}/uploads/2015/04/nonno1.png)
 
 
- [![nonno2](http://pilde.net/blog/wp-content/uploads/2015/04/nonno2.png)
+ [![nonno2]({{baseurl}}/uploads/2015/04/nonno2.png)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/04/nonno2.png)
+]({{baseurl}}/uploads/2015/04/nonno2.png)
 
 
-[![torta](http://pilde.net/blog/wp-content/uploads/2015/04/torta.png)
+[![torta]({{baseurl}}/uploads/2015/04/torta.png)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/04/torta.png)
+]({{baseurl}}/uploads/2015/04/torta.png)
 
 
 Brava zia Betta! Che bellissima torta!

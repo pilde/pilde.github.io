@@ -11,10 +11,10 @@ categories:
 - Presentazione
 ---
 
-[![](http://pilde.net/blog/wp-content/uploads/2012/01/maggie1.jpg)
+[![]({{baseurl}}/uploads/2012/01/maggie1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2012/01/maggie1.jpg)
+]({{baseurl}}/uploads/2012/01/maggie1.jpg)
 
 
 

@@ -13,10 +13,10 @@ categories:
 
 Sono caduti tutti e due!!
 
-[![sdentata](http://pilde.net/blog/wp-content/uploads/2013/05/sdentata.jpg)
+[![sdentata]({{baseurl}}/uploads/2013/05/sdentata.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/05/sdentata.jpg)
+]({{baseurl}}/uploads/2013/05/sdentata.jpg)
 
 
 

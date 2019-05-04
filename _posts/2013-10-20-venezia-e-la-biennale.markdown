@@ -13,101 +13,101 @@ categories:
 
 Questo we andiamo a Venezia con zia Betta e Caterina ad acculturarci alla Biennale d'arte!
 
-[![cartellone_rosso](http://pilde.net/blog/wp-content/uploads/2013/10/cartellone_rosso.jpg)
+[![cartellone_rosso]({{baseurl}}/uploads/2013/10/cartellone_rosso.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/cartellone_rosso.jpg)
+]({{baseurl}}/uploads/2013/10/cartellone_rosso.jpg)
 
 
 La città è magica e le bimbe sono entusiaste dei canali, dei ponti, delle calli, dei campi, dei sottoporteghi ... e stupite perchè non ci sono nè strade nè macchine!
 
-[![ponte1](http://pilde.net/blog/wp-content/uploads/2013/10/ponte1.jpg)
+[![ponte1]({{baseurl}}/uploads/2013/10/ponte1.jpg)
 
 
-![ponte](http://pilde.net/blog/wp-content/uploads/2013/10/ponte.jpg)
+![ponte]({{baseurl}}/uploads/2013/10/ponte.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/ponte.jpg)
+]({{baseurl}}/uploads/2013/10/ponte.jpg)
 
 
-[![darsena](http://pilde.net/blog/wp-content/uploads/2013/10/darsena.jpg)
+[![darsena]({{baseurl}}/uploads/2013/10/darsena.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/darsena.jpg)
+]({{baseurl}}/uploads/2013/10/darsena.jpg)
 
 
-[![M&M&M](http://pilde.net/blog/wp-content/uploads/2013/10/MMM.jpg)
+[![M&M&M]({{baseurl}}/uploads/2013/10/MMM.jpg)
 
 
-![fascino_canali](http://pilde.net/blog/wp-content/uploads/2013/10/fascino_canali.jpg)
+![fascino_canali]({{baseurl}}/uploads/2013/10/fascino_canali.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/fascino_canali.jpg)
+]({{baseurl}}/uploads/2013/10/fascino_canali.jpg)
 
 
 Certo il ponte più affascinante è quello dei 'sospiri', la sua storia le incuriosisce molto!
 
-[![ponte_sospiri](http://pilde.net/blog/wp-content/uploads/2013/10/ponte_sospiri.jpg)
+[![ponte_sospiri]({{baseurl}}/uploads/2013/10/ponte_sospiri.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/ponte_sospiri.jpg)
+]({{baseurl}}/uploads/2013/10/ponte_sospiri.jpg)
 
 
 E poi le gondole....che belle...e che romantiche!
 
-[![gondole_M&P](http://pilde.net/blog/wp-content/uploads/2013/10/gondole_MP.jpg)
+[![gondole_M&P]({{baseurl}}/uploads/2013/10/gondole_MP.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/gondole_MP.jpg)
+]({{baseurl}}/uploads/2013/10/gondole_MP.jpg)
 
 
 A Venezia si corre senza pericoli
 
-[![marghe](http://pilde.net/blog/wp-content/uploads/2013/10/marghe.jpg)
+[![marghe]({{baseurl}}/uploads/2013/10/marghe.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/marghe.jpg)
+]({{baseurl}}/uploads/2013/10/marghe.jpg)
 
 
 si sale sui pozzi
 
-[![pozzo](http://pilde.net/blog/wp-content/uploads/2013/10/pozzo.jpg)
+[![pozzo]({{baseurl}}/uploads/2013/10/pozzo.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/pozzo.jpg)
+]({{baseurl}}/uploads/2013/10/pozzo.jpg)
 
 
 ci si riposa quando si è stanchi
 
-[![bar](http://pilde.net/blog/wp-content/uploads/2013/10/bar.jpg)
+[![bar]({{baseurl}}/uploads/2013/10/bar.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/bar.jpg)
+]({{baseurl}}/uploads/2013/10/bar.jpg)
 
 
 
 
-[![B&C](http://pilde.net/blog/wp-content/uploads/2013/10/BC.jpg)
+[![B&C]({{baseurl}}/uploads/2013/10/BC.jpg)
 
 
-![marghe_papy](http://pilde.net/blog/wp-content/uploads/2013/10/marghe_papy.jpg)
+![marghe_papy]({{baseurl}}/uploads/2013/10/marghe_papy.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/marghe_papy.jpg)
+]({{baseurl}}/uploads/2013/10/marghe_papy.jpg)
 
 
 si trovano buffi giochi da fare
 
-[![costruzioni_prima](http://pilde.net/blog/wp-content/uploads/2013/10/costruzioni_prima.jpg)
+[![costruzioni_prima]({{baseurl}}/uploads/2013/10/costruzioni_prima.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/costruzioni_prima.jpg)
+]({{baseurl}}/uploads/2013/10/costruzioni_prima.jpg)
 
 
-[![costruzioni_dopo](http://pilde.net/blog/wp-content/uploads/2013/10/costruzioni_dopo.jpg)
+[![costruzioni_dopo]({{baseurl}}/uploads/2013/10/costruzioni_dopo.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/costruzioni_dopo.jpg)
+]({{baseurl}}/uploads/2013/10/costruzioni_dopo.jpg)
 
 
 e strane statue ( o strane bambine??)
@@ -115,134 +115,134 @@ e strane statue ( o strane bambine??)
 
 
 
-[![statua](http://pilde.net/blog/wp-content/uploads/2013/10/statua.jpg)
+[![statua]({{baseurl}}/uploads/2013/10/statua.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/statua.jpg)
+]({{baseurl}}/uploads/2013/10/statua.jpg)
 
 
 ottimi biscottini zuccherosi
 
-[![biscotti](http://pilde.net/blog/wp-content/uploads/2013/10/biscotti.jpg)
+[![biscotti]({{baseurl}}/uploads/2013/10/biscotti.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/biscotti.jpg)
+]({{baseurl}}/uploads/2013/10/biscotti.jpg)
 
 
 ... e poi non manca mai lo spritz con panini caldi e sfiziosi!
 
-[![spritz](http://pilde.net/blog/wp-content/uploads/2013/10/spritz.jpg)
+[![spritz]({{baseurl}}/uploads/2013/10/spritz.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/spritz.jpg)
+]({{baseurl}}/uploads/2013/10/spritz.jpg)
 
 
 Ma adesso si va alla **Biennale**!
 
-[![profili](http://pilde.net/blog/wp-content/uploads/2013/10/profili.jpg)
+[![profili]({{baseurl}}/uploads/2013/10/profili.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/profili.jpg)
+]({{baseurl}}/uploads/2013/10/profili.jpg)
 
 
 Giriamo per i padiglioni, ovviamente con cartina alla mano....per segnare tutto quello che vediamo ...
 
-[![mappa](http://pilde.net/blog/wp-content/uploads/2013/10/mappa.jpg)
+[![mappa]({{baseurl}}/uploads/2013/10/mappa.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/mappa.jpg)
+]({{baseurl}}/uploads/2013/10/mappa.jpg)
 
 
 Iniziamo dal prato di rose
 
-[![rose](http://pilde.net/blog/wp-content/uploads/2013/10/rose.jpg)
+[![rose]({{baseurl}}/uploads/2013/10/rose.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/rose.jpg)
+]({{baseurl}}/uploads/2013/10/rose.jpg)
 
 
 poi le luci psichedeliche
 
-[![luci_prima](http://pilde.net/blog/wp-content/uploads/2013/10/luci_prima.jpg)
+[![luci_prima]({{baseurl}}/uploads/2013/10/luci_prima.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/luci_prima.jpg)
+]({{baseurl}}/uploads/2013/10/luci_prima.jpg)
 
 
-[![luci](http://pilde.net/blog/wp-content/uploads/2013/10/luci.jpg)
+[![luci]({{baseurl}}/uploads/2013/10/luci.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/luci.jpg)
+]({{baseurl}}/uploads/2013/10/luci.jpg)
 
 
 le composizioni di sedie
 
-[![sedie](http://pilde.net/blog/wp-content/uploads/2013/10/sedie.jpg)
+[![sedie]({{baseurl}}/uploads/2013/10/sedie.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/sedie.jpg)
+]({{baseurl}}/uploads/2013/10/sedie.jpg)
 
 
 la stanza degli specchi e quella del buio pesto
 
-[![M&meggy_specchio](http://pilde.net/blog/wp-content/uploads/2013/10/Mmeggy_specchio.jpg)
+[![M&meggy_specchio]({{baseurl}}/uploads/2013/10/Mmeggy_specchio.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/Mmeggy_specchio.jpg)
+]({{baseurl}}/uploads/2013/10/Mmeggy_specchio.jpg)
 
 
 
 
-[![B&C_specchio](http://pilde.net/blog/wp-content/uploads/2013/10/BC_specchio.jpg)
+[![B&C_specchio]({{baseurl}}/uploads/2013/10/BC_specchio.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/BC_specchio.jpg)
+]({{baseurl}}/uploads/2013/10/BC_specchio.jpg)
 
 
 la barca rivestita di azulejos
 
-[![padiglione_portoghese](http://pilde.net/blog/wp-content/uploads/2013/10/padiglione_portoghese.jpg)
+[![padiglione_portoghese]({{baseurl}}/uploads/2013/10/padiglione_portoghese.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/padiglione_portoghese.jpg)
+]({{baseurl}}/uploads/2013/10/padiglione_portoghese.jpg)
 
 
 con all'interno un 'mare' fatto all'uncinetto!
 
-[![pesci](http://pilde.net/blog/wp-content/uploads/2013/10/pesci1.jpg)
+[![pesci]({{baseurl}}/uploads/2013/10/pesci1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/pesci1.jpg)
+]({{baseurl}}/uploads/2013/10/pesci1.jpg)
 
 
-[![tutti](http://pilde.net/blog/wp-content/uploads/2013/10/tutti2.jpg)
+[![tutti]({{baseurl}}/uploads/2013/10/tutti2.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/tutti2.jpg)
+]({{baseurl}}/uploads/2013/10/tutti2.jpg)
 
 
 ... insomma sono proprio MATTI questi artisti!!
 
 Anche se pure i veneziani .... in quanto a scorci artistici....
 
-[![panni_stesi](http://pilde.net/blog/wp-content/uploads/2013/10/panni_stesi.jpg)
+[![panni_stesi]({{baseurl}}/uploads/2013/10/panni_stesi.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/panni_stesi.jpg)
+]({{baseurl}}/uploads/2013/10/panni_stesi.jpg)
 
 
-[![barca](http://pilde.net/blog/wp-content/uploads/2013/10/barca.jpg)
+[![barca]({{baseurl}}/uploads/2013/10/barca.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/barca.jpg)
+]({{baseurl}}/uploads/2013/10/barca.jpg)
 
 
 Ciao Venezia ... alla prossima!!
 
-[![mascherine](http://pilde.net/blog/wp-content/uploads/2013/10/mascherine.jpg)
+[![mascherine]({{baseurl}}/uploads/2013/10/mascherine.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/mascherine.jpg)
+]({{baseurl}}/uploads/2013/10/mascherine.jpg)
 
 
 

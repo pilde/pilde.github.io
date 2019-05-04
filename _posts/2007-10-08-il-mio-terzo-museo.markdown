@@ -16,14 +16,14 @@ Domenica con MeP, nonno Gianni e zia Giorgia sono stata al Palazzo delle Esposiz
 
 , di Kubrick e di Ceroli. C'era un'affascinante installazione di Ceroli piena di mucchi di polveri coloratissime, non so come hanno fatto a trattenermi dal correre lì in mezzo ed impiastricciarmi tutte le manine con quei colori!
 
-![museo.jpg](http://pilde.net/blog/wp-content/uploads/2007/10/museo.jpg)
+![museo.jpg]({{baseurl}}/uploads/2007/10/museo.jpg)
 
 
 
 
 Poi P e zia mi hanno regalato dei libri bellissimi, uno con il toro da mordicchiare e uno con tanti colori e forme che uscivano fuori dalle pagine!
 
-![zia1.jpg](http://pilde.net/blog/wp-content/uploads/2007/10/zia1.jpg)
+![zia1.jpg]({{baseurl}}/uploads/2007/10/zia1.jpg)
 
 
 

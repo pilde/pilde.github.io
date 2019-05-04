@@ -15,21 +15,21 @@ categories:
 E' davvero incredibile, ancora giornate di sole e caldo!E allora io ne approfitto...
 Sono andata al parco della caffarella con Aurora e la sua mamma Nathalia,
 
-![nathalia.jpg](http://pilde.net/blog/wp-content/uploads/2006/11/nathalia.jpg)
+![nathalia.jpg]({{baseurl}}/uploads/2006/11/nathalia.jpg)
 
 
 
 
 al porto di ostia con MeP
 
-![volagu.jpg](http://pilde.net/blog/wp-content/uploads/2006/11/volagu.jpg)
+![volagu.jpg]({{baseurl}}/uploads/2006/11/volagu.jpg)
 
 
 
 
 al mare con Popì e Tommy
 
-![marebimbi.jpg](http://pilde.net/blog/wp-content/uploads/2006/11/marebimbi.jpg)
+![marebimbi.jpg]({{baseurl}}/uploads/2006/11/marebimbi.jpg)
 
 
 

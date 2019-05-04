@@ -11,7 +11,7 @@ categories:
 - Presentazione
 ---
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/02/scene-metropolitane.jpg)
+[![]({{baseurl}}/uploads/2009/02/scene-metropolitane.jpg)
 
 
 ](http://None)

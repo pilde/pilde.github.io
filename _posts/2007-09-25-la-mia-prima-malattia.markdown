@@ -17,7 +17,7 @@ categories:
 , ma per me è la prima!
 Ho avuto la febbre per 3 giorni e poi ieri mi sono spuntate tante bollicine rosse.Però non sono fastidiose e di sicuro non mi hanno fatto perdere la voglia di giocare,ridere e scherzare!
 
-![smorfia.jpg](http://pilde.net/blog/wp-content/uploads/2007/09/smorfia.jpg)
+![smorfia.jpg]({{baseurl}}/uploads/2007/09/smorfia.jpg)
 
 
 

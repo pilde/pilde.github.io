@@ -16,17 +16,17 @@ Mentre papà va a fare il maiale con Gianni (certo sono un pò inquietanti)
 
 
 
-![maiali](http://pilde.net/blog/wp-content/uploads/2018/02/maiali.png)
+![maiali]({{baseurl}}/uploads/2018/02/maiali.png)
 
 
- ![maiale_1](http://pilde.net/blog/wp-content/uploads/2018/02/maiale_1.png)
+ ![maiale_1]({{baseurl}}/uploads/2018/02/maiale_1.png)
 
 
 
 
 noi andiamo a trovare le nostre amiche Alessia e Anita! Ed incredibilmente mangiamo anche fuori....pazzesco siamo a gennaio...che sole!!!
 
-![befana_1](http://pilde.net/blog/wp-content/uploads/2018/02/befana_1.jpg)
+![befana_1]({{baseurl}}/uploads/2018/02/befana_1.jpg)
 
 
 

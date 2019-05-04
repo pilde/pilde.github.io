@@ -14,7 +14,7 @@ categories:
 
 Per il compleanno di Matilde andiamo tutti a Zoomarine con Flavio, Caterina, Marzia e Martina.
 
-![](http://pilde.net/blog/wp-content/uploads/2011/10/zoomarine.jpg)
+![]({{baseurl}}/uploads/2011/10/zoomarine.jpg)
 
 
 

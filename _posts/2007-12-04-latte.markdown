@@ -13,14 +13,14 @@ categories:
 
 Il biberon di latte la mattina è sacro, in vacanza 
 
-![lattect.JPG](http://pilde.net/blog/wp-content/uploads/2007/12/lattect.JPG)
+![lattect.JPG]({{baseurl}}/uploads/2007/12/lattect.JPG)
 
 
 
 
 come a casa, dove mi piace sdraiarmi sul mio bel tappeto peloso, guardare fuori dalla finestra e bere il latte sgambettando e giocando con i piedini per aria! Alla fine rimane solo una poltiglia di biscotti!
 
-![latte.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/latte.jpg)
+![latte.jpg]({{baseurl}}/uploads/2007/12/latte.jpg)
 
 
 

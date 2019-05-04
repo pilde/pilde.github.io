@@ -13,12 +13,12 @@ categories:
 
 ..come al solito ottima e abbondante magnata...e poi c'erano le mie amichette Sophie e Nicole e abbiamo giocato insieme a rincorrerci sotto il tavolo e a colorare gli animali di carta che faceva P.
 
-![conpopi.jpg](http://pilde.net/blog/wp-content/uploads/2007/10/conpopi.jpg)
+![conpopi.jpg]({{baseurl}}/uploads/2007/10/conpopi.jpg)
 
 
 
 
-![nicole.jpg](http://pilde.net/blog/wp-content/uploads/2007/10/nicole.jpg)
+![nicole.jpg]({{baseurl}}/uploads/2007/10/nicole.jpg)
 
 
 
@@ -28,7 +28,7 @@ Poi la zia Marotta ha spento le candeline...anche lei quest'anno ha festeggiato 
 
 
 
-![casamara.jpg](http://pilde.net/blog/wp-content/uploads/2007/10/casamara.jpg)
+![casamara.jpg]({{baseurl}}/uploads/2007/10/casamara.jpg)
 
 
 

@@ -13,33 +13,33 @@ categories:
 
 Oggi si festeggia al porto di Ostia! Anniversario dei nonni!!!
 
-![nonni](http://pilde.net/blog/wp-content/uploads/2018/11/nonni.jpg)
+![nonni]({{baseurl}}/uploads/2018/11/nonni.jpg)
 
 
 
 
-![papy_2](http://pilde.net/blog/wp-content/uploads/2018/10/papy_2.jpg)
+![papy_2]({{baseurl}}/uploads/2018/10/papy_2.jpg)
 
 
 
 
 e papone che porta il suo primo equipaggio da istruttore!!!
 
-![vela_4](http://pilde.net/blog/wp-content/uploads/2018/10/vela_4.jpg)
+![vela_4]({{baseurl}}/uploads/2018/10/vela_4.jpg)
 
 
- ![vela_3](http://pilde.net/blog/wp-content/uploads/2018/10/vela_3.jpg)
+ ![vela_3]({{baseurl}}/uploads/2018/10/vela_3.jpg)
 
 
-Rientro in porto![vela_1](http://pilde.net/blog/wp-content/uploads/2018/11/vela_1.jpg)
+Rientro in porto![vela_1]({{baseurl}}/uploads/2018/11/vela_1.jpg)
 
 
- ![vela_2](http://pilde.net/blog/wp-content/uploads/2018/11/vela_2.jpg)
+ ![vela_2]({{baseurl}}/uploads/2018/11/vela_2.jpg)
 
 
 Arriveduar
 
-![vela_5](http://pilde.net/blog/wp-content/uploads/2018/10/vela_5.jpg)
+![vela_5]({{baseurl}}/uploads/2018/10/vela_5.jpg)
 
 
 

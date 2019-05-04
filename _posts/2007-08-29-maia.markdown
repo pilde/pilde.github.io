@@ -15,7 +15,7 @@ Volevo fare un saluto speciale a Maia, una cagnetta tanto bella e dolce quanto s
 
 Adesso lei sta giocando con tanti altri cagnetti nel paradiso dei cani, ma rimarrà  sempre nei nostri cuori e in particolare in quello di zia Giorgia.
 
-![maia.jpg](http://pilde.net/blog/wp-content/uploads/2007/08/maia.jpg)
+![maia.jpg]({{baseurl}}/uploads/2007/08/maia.jpg)
 
 
 

@@ -13,24 +13,24 @@ categories:
 
 Ci è venuta a trovare Alessia per un tè in compagnia! Io e Marghe le abbiamo subito fatto provare il nostro mega cuscinone. Io mi buttavo sul cuscinone e lei rideva come una matta....e anche mamma Mara!
 
-![](http://pilde.net/blog/wp-content/uploads/2009/10/alessia11.jpg)
+![]({{baseurl}}/uploads/2009/10/alessia11.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2009/10/alessia2.jpg)
+![]({{baseurl}}/uploads/2009/10/alessia2.jpg)
 
 
 Visto come è cresciuta la piccola? sono prorio belle le nostre amiche vero?
 
-![](http://pilde.net/blog/wp-content/uploads/2009/10/mara.jpg)
+![]({{baseurl}}/uploads/2009/10/mara.jpg)
 
 
 
 
 E intanto anche Marghe inizia a tirarsi su in piedi da sola e a fare qualche passetto traballante! 
 
-![](http://pilde.net/blog/wp-content/uploads/2009/10/marghe_inpiedi.jpg)
+![]({{baseurl}}/uploads/2009/10/marghe_inpiedi.jpg)
 
 
 

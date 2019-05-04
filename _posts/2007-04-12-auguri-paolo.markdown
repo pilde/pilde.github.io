@@ -18,7 +18,7 @@ ciao amici, oggi Paolo (anche detto l'Imperatore)
 
 MILLE E MILLE AUGURI
 
-![paolo.JPG](http://pilde.net/blog/wp-content/uploads/2007/04/paolo.JPG)
+![paolo.JPG]({{baseurl}}/uploads/2007/04/paolo.JPG)
 
 
 

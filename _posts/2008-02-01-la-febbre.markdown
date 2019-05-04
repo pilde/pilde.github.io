@@ -14,7 +14,7 @@ categories:
 Ciao amici, scusate la latitanza ma sono stata male, ho avuto la febbre altissima, quasi 41, e poi si è scoperto che avevo le tonsille gonfie e un piccolo focolaio di bronchite. Ho preso per la prima volta l'antibiotico...ma non è male, è dolcissimo!
 Mi mancano tanto i miei amichetti della scuola, non vedo l'ora di tornare lunedì.
 
-![febbre.jpg](http://pilde.net/blog/wp-content/uploads/2008/02/febbre.jpg)
+![febbre.jpg]({{baseurl}}/uploads/2008/02/febbre.jpg)
 
 
 

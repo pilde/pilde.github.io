@@ -18,7 +18,7 @@ Siamo un bel gruppone della classe di Meggy!!
 
 Noi andiamo con Ronzinante e arriviamo presto....dai sbrigatevi che il fuoco è già acceso e si duella con le cibarie
 
-![brace](http://pilde.net/blog/wp-content/uploads/2017/12/brace.png)
+![brace]({{baseurl}}/uploads/2017/12/brace.png)
 
 
 
@@ -28,7 +28,7 @@ Pranzo con una leggerissima amatriciana fatta da Marco (ma perchè fai ancora l'
 
 
 
-![tavola](http://pilde.net/blog/wp-content/uploads/2017/12/tavola.png)
+![tavola]({{baseurl}}/uploads/2017/12/tavola.png)
 
 
 
@@ -37,13 +37,13 @@ e poi passeggiata per questa meravigliosa cittadina.
 
 Bimbi a zonzo
 
-![ragazzi](http://pilde.net/blog/wp-content/uploads/2017/12/ragazzi.png)
+![ragazzi]({{baseurl}}/uploads/2017/12/ragazzi.png)
 
 
-e genitori ![adulti](http://pilde.net/blog/wp-content/uploads/2017/12/adulti.png)
+e genitori ![adulti]({{baseurl}}/uploads/2017/12/adulti.png)
 
 
-![duomo](http://pilde.net/blog/wp-content/uploads/2017/12/duomo.png)
+![duomo]({{baseurl}}/uploads/2017/12/duomo.png)
 
 
 
@@ -57,12 +57,12 @@ Poi tutti a dormire ... un accampamento colorato e divertente. Noi torniamo al c
 
 La mattina dopo colazione nella piazza del duomo finalmente libera dalle bancarelle di San Martino, in un bel bar con i tavolini di Domiziani....come essere a casa!
 
-![colazione](http://pilde.net/blog/wp-content/uploads/2017/12/colazione.png)
+![colazione]({{baseurl}}/uploads/2017/12/colazione.png)
 
 
 Passeggiata tutti insieme nei giardini lungo le mura con una vista mozzafiato sulle montagne intorno ... e a sorpresa ... shopping tudertino!
 
-![meggy_emily](http://pilde.net/blog/wp-content/uploads/2017/11/meggy_emily.png)
+![meggy_emily]({{baseurl}}/uploads/2017/11/meggy_emily.png)
 
 
 

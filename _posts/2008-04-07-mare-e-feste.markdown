@@ -19,14 +19,14 @@ Questo sabato sono stata al mare con i nonni e Caterina, ma lei è stata sempre 
 
 
 
-![nonni_mare.jpg](http://pilde.net/blog/wp-content/uploads/2008/04/nonni_mare.jpg)
+![nonni_mare.jpg]({{baseurl}}/uploads/2008/04/nonni_mare.jpg)
 
 
 
 
 Tirava un pò di vento ma si stava bene
 
-![pilde.jpg](http://pilde.net/blog/wp-content/uploads/2008/04/pilde.jpg)
+![pilde.jpg]({{baseurl}}/uploads/2008/04/pilde.jpg)
 
 
 
@@ -36,35 +36,35 @@ Domenica invece sono stata ad Aprilia a casa di Pina, la gemellina della mia mam
 
 
 
-![primavera.jpg](http://pilde.net/blog/wp-content/uploads/2008/04/primavera.jpg)
+![primavera.jpg]({{baseurl}}/uploads/2008/04/primavera.jpg)
 
 
 
 
 C'è un bel prato dove ho giocato tanto insieme ad altri bimbi
 
-![palla.jpg](http://pilde.net/blog/wp-content/uploads/2008/04/palla.jpg)
+![palla.jpg]({{baseurl}}/uploads/2008/04/palla.jpg)
 
 
 
 
 ho mangiato le fragole con la panna...
 
-![primopiano.JPG](http://pilde.net/blog/wp-content/uploads/2008/04/primopiano.JPG)
+![primopiano.JPG]({{baseurl}}/uploads/2008/04/primopiano.JPG)
 
 
 
 
 e poi abbiamo anche spento le candeline su una bellissima torta di cocciolato!
 
-![torta.jpg](http://pilde.net/blog/wp-content/uploads/2008/04/torta.jpg)
+![torta.jpg]({{baseurl}}/uploads/2008/04/torta.jpg)
 
 
 
 
 Alla fine esausta dalla giornata di giochi sono crollata in braccio al mio papà
 
-![tuttietre.JPG](http://pilde.net/blog/wp-content/uploads/2008/04/tuttietre.JPG)
+![tuttietre.JPG]({{baseurl}}/uploads/2008/04/tuttietre.JPG)
 
 
 

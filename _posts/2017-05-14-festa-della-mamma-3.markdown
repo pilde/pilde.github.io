@@ -13,23 +13,23 @@ categories:
 
 Chissà perchè i fiori più belli sbocciano proprio per questa festa ....
 
-![dalie](http://pilde.net/blog/wp-content/uploads/2017/05/dalie.png)
+![dalie]({{baseurl}}/uploads/2017/05/dalie.png)
 
 
- ![giglio](http://pilde.net/blog/wp-content/uploads/2017/05/giglio.png)
+ ![giglio]({{baseurl}}/uploads/2017/05/giglio.png)
 
 
- ![rose](http://pilde.net/blog/wp-content/uploads/2017/05/rose.png)
+ ![rose]({{baseurl}}/uploads/2017/05/rose.png)
 
 
 
 
 . . . forse per rendere omaggio, nel modo più semplice, alle nostre meravigliose mamme!
 
-![mamma](http://pilde.net/blog/wp-content/uploads/2017/05/mamma.png)
+![mamma]({{baseurl}}/uploads/2017/05/mamma.png)
 
 
- ![franca](http://pilde.net/blog/wp-content/uploads/2017/05/franca.png)
+ ![franca]({{baseurl}}/uploads/2017/05/franca.png)
 
 
 

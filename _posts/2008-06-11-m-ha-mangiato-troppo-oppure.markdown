@@ -18,7 +18,7 @@ E' vero che la cucina siciliana è irresistibile e M non si è contenuta durante
 Lei dice che dentro c'è la mia sorellina e che nascerà a settembre....ma finchè non la vedo non ci credo! 
 Che 2008 pieno di novità amici!
 
-![pancione.jpg](http://pilde.net/blog/wp-content/uploads/2008/06/pancione.jpg)
+![pancione.jpg]({{baseurl}}/uploads/2008/06/pancione.jpg)
 
 
 

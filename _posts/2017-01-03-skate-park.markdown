@@ -13,36 +13,36 @@ categories:
 
 ... la nuova passione di Matilde ... lo skateboard ... e non solo!!!! Andiamo allo skate park ad Anagnina...pieno di ragazzi che saltano e fanno i trick e anche lei non se la cava affatto male!!
 
-[video width="1920" height="1080" mp4="http://pilde.net/blog/wp-content/uploads/2017/01/skate_bolla.mp4"][/video]
+[video width="1920" height="1080" mp4="{{baseurl}}/uploads/2017/01/skate_bolla.mp4"][/video]
 
-![mati&asia](http://pilde.net/blog/wp-content/uploads/2017/02/matiasia.png)
-
-
- ![gruppo](http://pilde.net/blog/wp-content/uploads/2017/02/gruppo.png)
+![mati&asia]({{baseurl}}/uploads/2017/02/matiasia.png)
 
 
- ![albero](http://pilde.net/blog/wp-content/uploads/2017/02/albero.png)
+ ![gruppo]({{baseurl}}/uploads/2017/02/gruppo.png)
+
+
+ ![albero]({{baseurl}}/uploads/2017/02/albero.png)
 
 
 
 
 sempre insieme a Dany
 
-![dany](http://pilde.net/blog/wp-content/uploads/2017/01/dany.png)
+![dany]({{baseurl}}/uploads/2017/01/dany.png)
 
 
 
 
 e poi dopo che fame!!
 
-![pasta](http://pilde.net/blog/wp-content/uploads/2017/01/pasta.png)
+![pasta]({{baseurl}}/uploads/2017/01/pasta.png)
 
 
 
 
 A casa si è anche costruita il porta skate!
 
-![porta_skate](http://pilde.net/blog/wp-content/uploads/2017/02/porta_skate.png)
+![porta_skate]({{baseurl}}/uploads/2017/02/porta_skate.png)
 
 
 

@@ -12,18 +12,18 @@ categories:
 ---
 
 Già è difficile usare il coltello e la forchetta... figuriamoci le bacchette!
-[![dsc00011.JPG](http://pilde.net/blog/wp-content/uploads/2008/04/dsc00011.JPG)
+[![dsc00011.JPG]({{baseurl}}/uploads/2008/04/dsc00011.JPG)
 
 
-](http://pilde.net/blog/wp-content/uploads/2008/04/dsc00011.JPG)
+]({{baseurl}}/uploads/2008/04/dsc00011.JPG)
 
 
 
 Però il mio nome è bello anche in cinese. 
-[![matilde.gif](http://pilde.net/blog/wp-content/uploads/2008/04/matilde.gif)
+[![matilde.gif]({{baseurl}}/uploads/2008/04/matilde.gif)
 
 
-](http://pilde.net/blog/wp-content/uploads/2008/04/matilde.gif)
+]({{baseurl}}/uploads/2008/04/matilde.gif)
 
 
 

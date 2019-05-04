@@ -14,10 +14,10 @@ categories:
 
 Ogni tanto riusciamo a vederti ... bhè almeno per festeggiarti! Polentata e torta....che vuoi di più?
 
-![giuliano_1](http://pilde.net/blog/wp-content/uploads/2018/12/giuliano_1.png)
+![giuliano_1]({{baseurl}}/uploads/2018/12/giuliano_1.png)
 
 
- ![giuliano_2](http://pilde.net/blog/wp-content/uploads/2018/12/giuliano_2.png)
+ ![giuliano_2]({{baseurl}}/uploads/2018/12/giuliano_2.png)
 
 
 

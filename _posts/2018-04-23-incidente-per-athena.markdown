@@ -15,7 +15,7 @@ La nostra cucciola Athena nelle sue ardite esplorazioni è caduta :(
 
 ma il veterianario ce l'ha "aggiustata" per bene! E dopo 3 settimane ha anche ripreso a mangiare. Forza Athena che ce la fai!
 
-![athe](http://pilde.net/blog/wp-content/uploads/2018/05/athe.jpg)
+![athe]({{baseurl}}/uploads/2018/05/athe.jpg)
 
 
 

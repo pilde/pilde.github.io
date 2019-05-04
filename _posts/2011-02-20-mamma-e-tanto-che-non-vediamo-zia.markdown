@@ -13,7 +13,7 @@ categories:
 
 ...così ho disegnato lei e Morgan nel bosco...
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/02/ziamorgan_blog.jpg)
+[![]({{baseurl}}/uploads/2011/02/ziamorgan_blog.jpg)
 
 
 ](http://None)

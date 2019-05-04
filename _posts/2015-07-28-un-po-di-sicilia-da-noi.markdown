@@ -15,62 +15,62 @@ Finalmente arrivano Annagloria, Matteo ed Edoardo!!!
 
 Li portiamo subito a Zoomarine, dove trascorriamo una divertentissima giornata tra giochi spericolati e tuffi in piscina!
 
-[![zoom1](http://pilde.net/blog/wp-content/uploads/2015/09/zoom1.jpg)
+[![zoom1]({{baseurl}}/uploads/2015/09/zoom1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/zoom1.jpg)
+]({{baseurl}}/uploads/2015/09/zoom1.jpg)
 
 
- [![scalinata](http://pilde.net/blog/wp-content/uploads/2015/09/scalinata.jpg)
+ [![scalinata]({{baseurl}}/uploads/2015/09/scalinata.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/scalinata.jpg)
+]({{baseurl}}/uploads/2015/09/scalinata.jpg)
 
 
 poi tutti al circeo a fare un pò di mare
 
-[![circeo](http://pilde.net/blog/wp-content/uploads/2015/09/circeo.jpg)
+[![circeo]({{baseurl}}/uploads/2015/09/circeo.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/circeo.jpg)
+]({{baseurl}}/uploads/2015/09/circeo.jpg)
 
 
- [![mare](http://pilde.net/blog/wp-content/uploads/2015/09/mare.jpg)
+ [![mare]({{baseurl}}/uploads/2015/09/mare.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/mare.jpg)
+]({{baseurl}}/uploads/2015/09/mare.jpg)
 
 
 e infine passeggiate romane
 
-[![mati&edo](http://pilde.net/blog/wp-content/uploads/2015/09/matiedo.jpg)
+[![mati&edo]({{baseurl}}/uploads/2015/09/matiedo.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/matiedo.jpg)
+]({{baseurl}}/uploads/2015/09/matiedo.jpg)
 
 
-[![barcaccia](http://pilde.net/blog/wp-content/uploads/2015/09/barcaccia.jpg)
+[![barcaccia]({{baseurl}}/uploads/2015/09/barcaccia.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/barcaccia.jpg)
+]({{baseurl}}/uploads/2015/09/barcaccia.jpg)
 
 
- [![pincio](http://pilde.net/blog/wp-content/uploads/2015/09/pincio.jpg)
+ [![pincio]({{baseurl}}/uploads/2015/09/pincio.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/pincio.jpg)
+]({{baseurl}}/uploads/2015/09/pincio.jpg)
 
 
- [![riscio](http://pilde.net/blog/wp-content/uploads/2015/09/riscio.jpg)
+ [![riscio]({{baseurl}}/uploads/2015/09/riscio.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/riscio.jpg)
+]({{baseurl}}/uploads/2015/09/riscio.jpg)
 
 
- [![roma1](http://pilde.net/blog/wp-content/uploads/2015/09/roma1.jpg)
+ [![roma1]({{baseurl}}/uploads/2015/09/roma1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/roma1.jpg)
+]({{baseurl}}/uploads/2015/09/roma1.jpg)
 
 
 Hei ragazzi siamo stati benissimo con voi! Tornate presto a trovarci!

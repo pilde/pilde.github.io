@@ -13,34 +13,34 @@ categories:
 
 Finalmente si riprende Ronzi e via al mare! Tutti a santa severa!Ma chi sono quelle 3 scimmie sotto la sabbia?
 
-[![3scimmie](http://pilde.net/blog/wp-content/uploads/2014/07/3scimmie.jpg)
+[![3scimmie]({{baseurl}}/uploads/2014/07/3scimmie.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/07/3scimmie.jpg)
+]({{baseurl}}/uploads/2014/07/3scimmie.jpg)
 
 
 Ahhhh adesso le riconosco!!
 
-[![3scimmie_fuori](http://pilde.net/blog/wp-content/uploads/2014/07/3scimmie_fuori.jpg)
+[![3scimmie_fuori]({{baseurl}}/uploads/2014/07/3scimmie_fuori.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/07/3scimmie_fuori.jpg)
+]({{baseurl}}/uploads/2014/07/3scimmie_fuori.jpg)
 
 
 E Giorgio?? Esce dal mare con una mega spigola
 
-[![giorgio](http://pilde.net/blog/wp-content/uploads/2014/07/giorgio.jpg)
+[![giorgio]({{baseurl}}/uploads/2014/07/giorgio.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/07/giorgio.jpg)
+]({{baseurl}}/uploads/2014/07/giorgio.jpg)
 
 
 che finisce tosto tosto su Mr BBQ!!! E anche questa volta risultato perfetto!!
 
-[![spigola](http://pilde.net/blog/wp-content/uploads/2014/07/spigola.jpg)
+[![spigola]({{baseurl}}/uploads/2014/07/spigola.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/07/spigola.jpg)
+]({{baseurl}}/uploads/2014/07/spigola.jpg)
 
 
 

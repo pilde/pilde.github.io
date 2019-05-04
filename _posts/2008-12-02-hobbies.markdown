@@ -13,14 +13,14 @@ categories:
 
 Da quando sono piccola mi piace usare le mani per fare tanti lavoretti, dalle pizze 
 
-![](http://pilde.net/blog/wp-content/uploads/2008/12/pizze.jpg)
+![]({{baseurl}}/uploads/2008/12/pizze.jpg)
 
 
 
 
 al carteggio
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/12/carteggiare.jpg)
+[![]({{baseurl}}/uploads/2008/12/carteggiare.jpg)
 
 
 ](http://None)
@@ -28,7 +28,7 @@ al carteggio
 
 mentre a Margherita piace dormire e ridere
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/12/marghe_risata.jpg)
+[![]({{baseurl}}/uploads/2008/12/marghe_risata.jpg)
 
 
 ](http://None)

@@ -20,14 +20,14 @@ Che serata ragazzi! Ho mangiato per la prima volta il cocomero e P mi ha anche f
 
 
 
-![mara.jpg](http://pilde.net/blog/wp-content/uploads/2007/06/mara.jpg)
+![mara.jpg]({{baseurl}}/uploads/2007/06/mara.jpg)
 
 
 
 
 poi abbiamo giocato a 'batti il cinque' con Lorenzo
 
-![batti.jpg](http://pilde.net/blog/wp-content/uploads/2007/06/batti.jpg)
+![batti.jpg]({{baseurl}}/uploads/2007/06/batti.jpg)
 
 
 
@@ -37,14 +37,14 @@ e infine esausta sono andata a casa in moto con Trota (non ditelo a MeP)
 
 
 
-![moto.jpg](http://pilde.net/blog/wp-content/uploads/2007/06/moto.jpg)
+![moto.jpg]({{baseurl}}/uploads/2007/06/moto.jpg)
 
 
 
 
 Stamattina invece ho fatto il bagnetto al mare! l'acqua era un po' freddina ma il mio papino mi stringeva forte forte e non avevo freddo, anzi ridevo...tanto per cambiare! :D
 
-![mare.jpg](http://pilde.net/blog/wp-content/uploads/2007/06/mare.jpg)
+![mare.jpg]({{baseurl}}/uploads/2007/06/mare.jpg)
 
 
 

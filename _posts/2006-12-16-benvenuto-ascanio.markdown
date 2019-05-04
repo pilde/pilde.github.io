@@ -14,7 +14,7 @@ categories:
 
 Finalmente n'omo tra sto branco de femmine... è nato Ascanio, pesa 3.35Kg e mamma e bambino stanno benissimo. Il padre, Lampa, non trova l'interruttore ... HIHIHIHIHI, mica ce n'ha uno solo!!!!
 
-![ascanio1.jpg](http://pilde.net/blog/wp-content/uploads/2006/12/ascanio1.jpg)
+![ascanio1.jpg]({{baseurl}}/uploads/2006/12/ascanio1.jpg)
 
 
 

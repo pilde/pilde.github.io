@@ -11,10 +11,10 @@ categories:
 - Presentazione
 ---
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/10/ronf.jpg)
+[![]({{baseurl}}/uploads/2008/10/ronf.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2008/10/ronf.jpg)
+]({{baseurl}}/uploads/2008/10/ronf.jpg)
 
 
 

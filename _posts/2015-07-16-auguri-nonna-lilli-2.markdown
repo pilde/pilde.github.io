@@ -16,16 +16,16 @@ Alla soglia dell'intervento (povera nonna anche lei con l'ernia)
 
  andiamo a festeggiare il compleanno!
 
-[![compl_nonna](http://pilde.net/blog/wp-content/uploads/2015/09/compl_nonna.jpg)
+[![compl_nonna]({{baseurl}}/uploads/2015/09/compl_nonna.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/compl_nonna.jpg)
+]({{baseurl}}/uploads/2015/09/compl_nonna.jpg)
 
 
- [![P&meggy](http://pilde.net/blog/wp-content/uploads/2015/09/Pmeggy.jpg)
+ [![P&meggy]({{baseurl}}/uploads/2015/09/Pmeggy.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/Pmeggy.jpg)
+]({{baseurl}}/uploads/2015/09/Pmeggy.jpg)
 
 
 

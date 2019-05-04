@@ -15,42 +15,42 @@ Che sorpresona che ci hanno fatto zia e Morgi! E' venuta all'uscita di scuola e 
 
 Abbiamo giocato un pò in giardino....e poi il we in campagna.
 
-![tappeto](http://pilde.net/blog/wp-content/uploads/2016/06/tappeto.jpg)
+![tappeto]({{baseurl}}/uploads/2016/06/tappeto.jpg)
 
 
- ![apericena](http://pilde.net/blog/wp-content/uploads/2016/06/apericena.jpg)
+ ![apericena]({{baseurl}}/uploads/2016/06/apericena.jpg)
 
 
- ![fiori](http://pilde.net/blog/wp-content/uploads/2016/06/fiori.jpg)
+ ![fiori]({{baseurl}}/uploads/2016/06/fiori.jpg)
 
 
 
 
 Oggi è la festa della mamma e andiao a visitare il centro Mouton delle Peonie
 
-![peonie1](http://pilde.net/blog/wp-content/uploads/2016/06/peonie1.jpg)
+![peonie1]({{baseurl}}/uploads/2016/06/peonie1.jpg)
 
 
- ![peonie3B&N](http://pilde.net/blog/wp-content/uploads/2016/06/peonie3BN.jpg)
+ ![peonie3B&N]({{baseurl}}/uploads/2016/06/peonie3BN.jpg)
 
 
- ![peonie2](http://pilde.net/blog/wp-content/uploads/2016/06/peonie2.jpg)
+ ![peonie2]({{baseurl}}/uploads/2016/06/peonie2.jpg)
 
 
- ![peonie4](http://pilde.net/blog/wp-content/uploads/2016/06/peonie4.jpg)
+ ![peonie4]({{baseurl}}/uploads/2016/06/peonie4.jpg)
 
 
- ![vasi](http://pilde.net/blog/wp-content/uploads/2016/06/vasi.jpg)
+ ![vasi]({{baseurl}}/uploads/2016/06/vasi.jpg)
 
 
 
 
 Che meraviglia! E poi pranziamo anche lì!
 
-![peonie5](http://pilde.net/blog/wp-content/uploads/2016/06/peonie5.jpg)
+![peonie5]({{baseurl}}/uploads/2016/06/peonie5.jpg)
 
 
- ![albero_papa](http://pilde.net/blog/wp-content/uploads/2016/06/albero_papa.jpg)
+ ![albero_papa]({{baseurl}}/uploads/2016/06/albero_papa.jpg)
 
 
 (si nonno Gianni....questo albero te lo compriamo!)
@@ -58,28 +58,28 @@ Che meraviglia! E poi pranziamo anche lì!
 
 
 
-![peonie6](http://pilde.net/blog/wp-content/uploads/2016/06/peonie6.jpg)
+![peonie6]({{baseurl}}/uploads/2016/06/peonie6.jpg)
 
 
 
 
 Il giorno dopo la Faggeta....che atmosfera....
 
-![faggeta2](http://pilde.net/blog/wp-content/uploads/2016/06/faggeta2.jpg)
+![faggeta2]({{baseurl}}/uploads/2016/06/faggeta2.jpg)
 
 
- ![faggeta1](http://pilde.net/blog/wp-content/uploads/2016/06/faggeta1.jpg)
+ ![faggeta1]({{baseurl}}/uploads/2016/06/faggeta1.jpg)
 
 
- ![tronco](http://pilde.net/blog/wp-content/uploads/2016/06/tronco.jpg)
+ ![tronco]({{baseurl}}/uploads/2016/06/tronco.jpg)
 
 
- ![bimbe](http://pilde.net/blog/wp-content/uploads/2016/06/bimbe.jpg)
+ ![bimbe]({{baseurl}}/uploads/2016/06/bimbe.jpg)
 
 
 E una cenetta per salutarci ... ma dai zia che ci rivediamo presto presto!
 
-![cena](http://pilde.net/blog/wp-content/uploads/2016/06/cena-1.jpg)
+![cena]({{baseurl}}/uploads/2016/06/cena-1.jpg)
 
 
 

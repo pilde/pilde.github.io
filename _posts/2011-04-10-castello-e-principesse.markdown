@@ -14,7 +14,7 @@ categories:
 
 Questo we la principessa era Sophie! Gurdate che bella!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/04/sophie.jpg)
+[![]({{baseurl}}/uploads/2011/04/sophie.jpg)
 
 
 ](http://None)
@@ -26,7 +26,7 @@ Era pronta per la sua gara di ginnastica e io sono andata a vederla fino a Civit
 
 Poi abbiamo dormito vicino al castello di Santa Severa. La mattina era tutto grigio... ma ci siamo fatte una bella partita a biliardino
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/04/biliardibo.jpg)
+[![]({{baseurl}}/uploads/2011/04/biliardibo.jpg)
 
 
 ](http://None)
@@ -36,7 +36,7 @@ Poi abbiamo dormito vicino al castello di Santa Severa. La mattina era tutto gri
 
 mentre Giorgio pescava .... e guardate un pò che cosa ha preso? 'Il pesce più grosso del mare' ha detto Marghe!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/04/gronco.jpg)
+[![]({{baseurl}}/uploads/2011/04/gronco.jpg)
 
 
 ](http://None)

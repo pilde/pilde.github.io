@@ -13,7 +13,7 @@ categories:
 
 Tanti aguri al nostro papone speciale, detto anche Mapy, col baffo alla panna e degli splendidi occhialini!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/03/mapy.jpg)
+![]({{baseurl}}/uploads/2012/03/mapy.jpg)
 
 
 

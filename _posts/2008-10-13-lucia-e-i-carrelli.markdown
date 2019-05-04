@@ -13,7 +13,7 @@ categories:
 
 Ho scoperto che anche Lucia ha la mia stessa passione per carrelli e passeggini!! Ciao amichetta alla prossima!
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/10/lucia.jpg)
+[![]({{baseurl}}/uploads/2008/10/lucia.jpg)
 
 
 ](http://None)

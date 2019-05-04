@@ -15,7 +15,7 @@ Ciao bimbe! Ce lo meritavamo proprio questo we soli soletti!
 
 Una bella passeggiata per la città in una giornata di sole...
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/05/budapest1.jpg)
+[![]({{baseurl}}/uploads/2011/05/budapest1.jpg)
 
 
 ](http://None)
@@ -28,7 +28,7 @@ una serata mondana con cenetta romantica a base di gulash e a guardare le stell
 
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/05/budapest2.jpg)
+[![]({{baseurl}}/uploads/2011/05/budapest2.jpg)
 
 
 ](http://None)
@@ -38,7 +38,7 @@ una serata mondana con cenetta romantica a base di gulash e a guardare le stell
 
 Poi fontane strane e pioggia
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/05/budapest3.jpg)
+[![]({{baseurl}}/uploads/2011/05/budapest3.jpg)
 
 
 ](http://None)
@@ -48,7 +48,7 @@ Poi fontane strane e pioggia
 
 e un ottimo dolcetto per scaldarsi
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/05/budapest4.jpg)
+[![]({{baseurl}}/uploads/2011/05/budapest4.jpg)
 
 
 ](http://None)
@@ -58,7 +58,7 @@ e un ottimo dolcetto per scaldarsi
 
 e infine tanto relax alle terme
 
-![](http://pilde.net/blog/wp-content/uploads/2011/05/budapest5.jpg)
+![]({{baseurl}}/uploads/2011/05/budapest5.jpg)
 
 
 

@@ -13,7 +13,7 @@ categories:
 
 Ieri sera è venuta a trovarmi la mia gemellina Toporosa! Dopo qualche 'piccola' incomprensione siamo andate d'amore e d'accordo e abbiamo giocato insieme! 
 
-![tr2.jpg](http://pilde.net/blog/wp-content/uploads/2008/09/tr2.jpg)
+![tr2.jpg]({{baseurl}}/uploads/2008/09/tr2.jpg)
 
 
 

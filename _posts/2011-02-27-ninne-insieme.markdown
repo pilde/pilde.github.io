@@ -13,7 +13,7 @@ categories:
 
 Ultimamente Marghe si sveglia la notte e mi chiama 'Vieni Mati', allora io le dico 'Meggy arrivo', scendo dal mio lettino a castello e la coccolo e poi ci riaddormentiamo insieme. 
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/02/ninne_insieme.jpg)
+[![]({{baseurl}}/uploads/2011/02/ninne_insieme.jpg)
 
 
 ](http://None)

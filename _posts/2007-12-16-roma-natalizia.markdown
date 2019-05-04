@@ -13,21 +13,21 @@ categories:
 
 Oggi sono stata in giro per roma. Faceva freddo ma si respirava una bella aria natalizia, era pieno di alberi di natale e luci colorate
 
-![roma1.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/roma1.jpg)
+![roma1.jpg]({{baseurl}}/uploads/2007/12/roma1.jpg)
 
 
 
 
 e a piazza Navona c'erano tantissime bancarelle e bimbi. MeP mi hanno messa su un cavallo della giostra ma io mi sono proprio arrabbiata....
 
-![giostra.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/giostra.jpg)
+![giostra.jpg]({{baseurl}}/uploads/2007/12/giostra.jpg)
 
 
 
 
 Poi abbiamo continuato a passeggiare, ho camminato proprio tantissimo! Quando mi sono stancata sono stata sulle spalle di papà.
 
-![roma2.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/roma2.jpg)
+![roma2.jpg]({{baseurl}}/uploads/2007/12/roma2.jpg)
 
 
 

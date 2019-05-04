@@ -13,10 +13,10 @@ categories:
 
 Tanti auguri per i tuoi 5 anni cucciola!!!
 
-[![margheritina](http://pilde.net/blog/wp-content/uploads/2013/09/margheritina1.jpg)
+[![margheritina]({{baseurl}}/uploads/2013/09/margheritina1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/09/margheritina1.jpg)
+]({{baseurl}}/uploads/2013/09/margheritina1.jpg)
 
 
 E per regalo una lezione di prova di equitazione (dove tu hai chiesto alla maestra  'quando andiamo al galoppo' e poi 'quando saltiamo gli ostacoli?' )
@@ -24,26 +24,26 @@ E per regalo una lezione di prova di equitazione (dove tu hai chiesto alla maest
 
 
 
-[![marghe_pony](http://pilde.net/blog/wp-content/uploads/2013/09/marghe_pony.jpg)
+[![marghe_pony]({{baseurl}}/uploads/2013/09/marghe_pony.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/09/marghe_pony.jpg)
+]({{baseurl}}/uploads/2013/09/marghe_pony.jpg)
 
 
 e prova anche Mati sul pony Caterina!
 
-[![mati_pony](http://pilde.net/blog/wp-content/uploads/2013/09/mati_pony.jpg)
+[![mati_pony]({{baseurl}}/uploads/2013/09/mati_pony.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/09/mati_pony.jpg)
+]({{baseurl}}/uploads/2013/09/mati_pony.jpg)
 
 
 E poi nel pomeriggio tanti amichetti a festeggiare il tuo compleanno!
 
-[![torta_marghe](http://pilde.net/blog/wp-content/uploads/2013/09/torta_marghe.jpg)
+[![torta_marghe]({{baseurl}}/uploads/2013/09/torta_marghe.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/09/torta_marghe.jpg)
+]({{baseurl}}/uploads/2013/09/torta_marghe.jpg)
 
 
 

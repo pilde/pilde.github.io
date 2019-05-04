@@ -13,7 +13,7 @@ categories:
 
 Una bella festa in campagna a casa di don Vittorio con la mia amichetta Sofia....
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/02/re_maschere.jpg)
+[![]({{baseurl}}/uploads/2009/02/re_maschere.jpg)
 
 
 ](http://None)
@@ -26,12 +26,12 @@ Una bella festa in campagna a casa di don Vittorio con la mia amichetta Sofia...
 
 e anche M&P si sono mascherati, da albero e da papavero
 
-![](http://pilde.net/blog/wp-content/uploads/2009/02/carne_family.jpg)
+![]({{baseurl}}/uploads/2009/02/carne_family.jpg)
 
 
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/02/mamma_mati1.jpg)
+[![]({{baseurl}}/uploads/2009/02/mamma_mati1.jpg)
 
 
 ](http://None)
@@ -39,7 +39,7 @@ e anche M&P si sono mascherati, da albero e da papavero
 
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/02/papa_marghe.jpg)
+[![]({{baseurl}}/uploads/2009/02/papa_marghe.jpg)
 
 
 ](http://None)

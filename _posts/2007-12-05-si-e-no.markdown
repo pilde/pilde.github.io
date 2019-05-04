@@ -20,7 +20,7 @@ Quando si è piccoli non si capisce bene la differenza tra quello che si può fa
 
 
  giocare dentro i cesti
-![no1.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/no1.jpg)
+![no1.jpg]({{baseurl}}/uploads/2007/12/no1.jpg)
 
 
 
@@ -28,7 +28,7 @@ Quando si è piccoli non si capisce bene la differenza tra quello che si può fa
 
 
 infilarsi le dita nel naso
-![no2.JPG](http://pilde.net/blog/wp-content/uploads/2007/12/no2.JPG)
+![no2.JPG]({{baseurl}}/uploads/2007/12/no2.JPG)
 
 
 
@@ -36,7 +36,7 @@ infilarsi le dita nel naso
 
 
 fare le linguacce
-![no3.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/no3.jpg)
+![no3.jpg]({{baseurl}}/uploads/2007/12/no3.jpg)
 
 
 
@@ -47,7 +47,7 @@ giocare con le borsette delle signore (e soprattutto guardare dentro)
 
 
 
-![no4.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/no4.jpg)
+![no4.jpg]({{baseurl}}/uploads/2007/12/no4.jpg)
 
 
 
@@ -55,7 +55,7 @@ giocare con le borsette delle signore (e soprattutto guardare dentro)
 
 
 rubare il ciuccio ai più piccoli
-![no5.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/no5.jpg)
+![no5.jpg]({{baseurl}}/uploads/2007/12/no5.jpg)
 
 
 
@@ -65,7 +65,7 @@ Mentre invece potete:
 
 
 suonare il flauto e l'ocarina
-![si1.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/si1.jpg)
+![si1.jpg]({{baseurl}}/uploads/2007/12/si1.jpg)
 
 
 
@@ -73,7 +73,7 @@ suonare il flauto e l'ocarina
 
 
 telefonare a zia
-![si2.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/si2.jpg)
+![si2.jpg]({{baseurl}}/uploads/2007/12/si2.jpg)
 
 
 
@@ -81,7 +81,7 @@ telefonare a zia
 
 
 mangiare i crackers
-![si3.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/si3.jpg)
+![si3.jpg]({{baseurl}}/uploads/2007/12/si3.jpg)
 
 
 

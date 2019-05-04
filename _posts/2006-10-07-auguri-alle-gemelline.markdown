@@ -13,10 +13,10 @@ categories:
 
 Esattamente un mese fa, il 7 settembre, arrivavamo in ospedale alla Fabia Mater. Ci hanno accomodato in una stanza del secondo piano. Entrando ci aspettavano Cristina e la piccola Alessia, per gli amici Toporosa. Toporosa era nata quel mattino. Di li a pochissimo sarebbe nata anche Matilde e nei giorni successivi le due neo-mamme e le due piccine avrebbero condiviso dei momenti importanti... avrebbero imparato a conoscersi.
 
-![copia-di-alessia-185.jpg](http://pilde.net/blog/wp-content/uploads/2006/10/copia-di-alessia-185.jpg)
+![copia-di-alessia-185.jpg]({{baseurl}}/uploads/2006/10/copia-di-alessia-185.jpg)
 
 
-![copia-di-dscn2191.JPG](http://pilde.net/blog/wp-content/uploads/2006/10/copia-di-dscn2191.JPG)
+![copia-di-dscn2191.JPG]({{baseurl}}/uploads/2006/10/copia-di-dscn2191.JPG)
 
 
 

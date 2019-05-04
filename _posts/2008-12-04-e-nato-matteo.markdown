@@ -11,7 +11,7 @@ categories:
 - Amici
 ---
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/12/matteo.jpg)
+[![]({{baseurl}}/uploads/2008/12/matteo.jpg)
 
 
 ](http://None)

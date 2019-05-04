@@ -18,7 +18,7 @@ BUON COMPLEANNO (scusa il ritardo :( )
 
 
 
-![mara1.jpg](http://pilde.net/blog/wp-content/uploads/2007/09/mara1.jpg)
+![mara1.jpg]({{baseurl}}/uploads/2007/09/mara1.jpg)
 
 
 

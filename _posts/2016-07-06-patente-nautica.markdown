@@ -15,7 +15,7 @@ L'avventura è iniziata quest'inverno con simpatiche serate in cui Nunzio cercav
 
 Ma oggi, dopo una brillante prova, diventano "capitani" Andrea, Marco ed Enrico!
 
-![barca](http://pilde.net/blog/wp-content/uploads/2016/07/barca.png)
+![barca]({{baseurl}}/uploads/2016/07/barca.png)
 
 
 

@@ -19,20 +19,20 @@ Ovviamente i più fashion sono i Vales :)
 
 
 
-![tennis_vintage_2](http://pilde.net/blog/wp-content/uploads/2018/06/tennis_vintage_2.png)
+![tennis_vintage_2]({{baseurl}}/uploads/2018/06/tennis_vintage_2.png)
 
 
  ma alla fine ci siamo divertiti tutti con quelle buffe racchette di legno!!
 
-![tennis_vintage_1](http://pilde.net/blog/wp-content/uploads/2018/06/tennis_vintage_1.png)
+![tennis_vintage_1]({{baseurl}}/uploads/2018/06/tennis_vintage_1.png)
 
 
  Il torneo lo vince la coppia Valerio-Mati!!!
 
-E poi tutti a cena ![tennis_vintage_4](http://pilde.net/blog/wp-content/uploads/2018/06/tennis_vintage_4.png)
+E poi tutti a cena ![tennis_vintage_4]({{baseurl}}/uploads/2018/06/tennis_vintage_4.png)
 
 
-BBQ con i fantstici arrosticini abruzzesi portati dalla maestra Anna!!! ![tennis_vintage_3](http://pilde.net/blog/wp-content/uploads/2018/06/tennis_vintage_3.png)
+BBQ con i fantstici arrosticini abruzzesi portati dalla maestra Anna!!! ![tennis_vintage_3]({{baseurl}}/uploads/2018/06/tennis_vintage_3.png)
 
 
 Arrivederci a settembre! Buona estate a tutti!

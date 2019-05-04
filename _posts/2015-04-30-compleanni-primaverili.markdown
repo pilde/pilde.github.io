@@ -13,50 +13,50 @@ categories:
 
 **Auguri** a Caterina che ha festeggiato 'al campo'
 
-[![compl_cate](http://pilde.net/blog/wp-content/uploads/2015/06/compl_cate.jpg)
+[![compl_cate]({{baseurl}}/uploads/2015/06/compl_cate.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/06/compl_cate.jpg)
+]({{baseurl}}/uploads/2015/06/compl_cate.jpg)
 
 
- [![andy_meggy](http://pilde.net/blog/wp-content/uploads/2015/06/andy_meggy.jpg)
+ [![andy_meggy]({{baseurl}}/uploads/2015/06/andy_meggy.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/06/andy_meggy.jpg)
+]({{baseurl}}/uploads/2015/06/andy_meggy.jpg)
 
 
- [![pentolaccia](http://pilde.net/blog/wp-content/uploads/2015/06/pentolaccia.jpg)
+ [![pentolaccia]({{baseurl}}/uploads/2015/06/pentolaccia.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/06/pentolaccia.jpg)
+]({{baseurl}}/uploads/2015/06/pentolaccia.jpg)
 
 
 a Sara che ha portato tutta la classe al soft air
 
-[![compl_Sara](http://pilde.net/blog/wp-content/uploads/2015/06/compl_Sara.jpg)
+[![compl_Sara]({{baseurl}}/uploads/2015/06/compl_Sara.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/06/compl_Sara.jpg)
+]({{baseurl}}/uploads/2015/06/compl_Sara.jpg)
 
 
- [![compl_Sara2](http://pilde.net/blog/wp-content/uploads/2015/06/compl_Sara2.jpg)
+ [![compl_Sara2]({{baseurl}}/uploads/2015/06/compl_Sara2.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/06/compl_Sara2.jpg)
+]({{baseurl}}/uploads/2015/06/compl_Sara2.jpg)
 
 
-ad Alessia con le sue smorfiosissime amiche!!!!![![compl_Alessia](http://pilde.net/blog/wp-content/uploads/2015/06/compl_Alessia.jpg)
+ad Alessia con le sue smorfiosissime amiche!!!!![![compl_Alessia]({{baseurl}}/uploads/2015/06/compl_Alessia.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/06/compl_Alessia.jpg)
+]({{baseurl}}/uploads/2015/06/compl_Alessia.jpg)
 
 
 e a papone!!!
 
-[![andy](http://pilde.net/blog/wp-content/uploads/2015/04/andy.jpg)
+[![andy]({{baseurl}}/uploads/2015/04/andy.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/04/andy.jpg)
+]({{baseurl}}/uploads/2015/04/andy.jpg)
 
 
 

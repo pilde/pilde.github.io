@@ -16,41 +16,41 @@ Oggi passeggiata in centro con M&P.... anzi in vespa :)
 
 
 
-![vespa](http://pilde.net/blog/wp-content/uploads/2019/01/vespa.png)
+![vespa]({{baseurl}}/uploads/2019/01/vespa.png)
 
 
 
 
 Passiamo per lo studio del famosissimo artigiano del legno Codognotto ... che ci regala le noci
 
-![codognotto](http://pilde.net/blog/wp-content/uploads/2019/01/codognotto.jpg)
+![codognotto]({{baseurl}}/uploads/2019/01/codognotto.jpg)
 
 
 poi piazza Navona, ahimè senza bancarelle nè mela caramellata ...SOB :( ma sempre stupenda
 
-![navona_2](http://pilde.net/blog/wp-content/uploads/2019/01/navona_2.jpg)
+![navona_2]({{baseurl}}/uploads/2019/01/navona_2.jpg)
 
 
- ![navona](http://pilde.net/blog/wp-content/uploads/2019/01/navona.jpg)
+ ![navona]({{baseurl}}/uploads/2019/01/navona.jpg)
 
 
 andamo a vedere la mostra DREAM al Chiostro del Bramante
 
-![chiostro](http://pilde.net/blog/wp-content/uploads/2019/01/chiostro.jpg)
+![chiostro]({{baseurl}}/uploads/2019/01/chiostro.jpg)
 
 
- ![dream_1](http://pilde.net/blog/wp-content/uploads/2019/01/dream_1.png)
+ ![dream_1]({{baseurl}}/uploads/2019/01/dream_1.png)
 
 
- ![dream_2](http://pilde.net/blog/wp-content/uploads/2019/01/dream_2.png)
+ ![dream_2]({{baseurl}}/uploads/2019/01/dream_2.png)
 
 
 e poi sempre passeggiando arriviamo a via Nazionale a vedere la mostra della Pixar
 
-![pixar_1](http://pilde.net/blog/wp-content/uploads/2019/01/pixar_1.png)
+![pixar_1]({{baseurl}}/uploads/2019/01/pixar_1.png)
 
 
- ![pixar_2](http://pilde.net/blog/wp-content/uploads/2019/01/pixar_2.png)
+ ![pixar_2]({{baseurl}}/uploads/2019/01/pixar_2.png)
 
 
 Oggi ci sono i musei in musica e assistiamo anche ad un divertente concerto di musiche dei cartoni animati.

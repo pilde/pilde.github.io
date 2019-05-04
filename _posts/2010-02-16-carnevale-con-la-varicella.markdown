@@ -14,12 +14,12 @@ categories:
 
 Niente festa di carnevale a scuola nè in giro per roma mascherata....ma in compenso un pò di bollicine di varicella! Però nonna Franca mi ha fatto un bellissimo vestito da principessa...tutto rosa!!!
 
-![](http://pilde.net/blog/wp-content/uploads/2010/02/carnevale.jpg)
+![]({{baseurl}}/uploads/2010/02/carnevale.jpg)
 
 
 ...e poi stare a casa non mi dispiace per niente... gioco e gioco e faccio la buffona!!
 
-![](http://pilde.net/blog/wp-content/uploads/2010/02/varicella2.jpg)
+![]({{baseurl}}/uploads/2010/02/varicella2.jpg)
 
 
 

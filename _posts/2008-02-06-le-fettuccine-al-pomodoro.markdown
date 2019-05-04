@@ -16,7 +16,7 @@ Sono proprio le mie preferite...e le mangio "da sola"... e si vede! :)
 
 
 
-![pomodoro.jpg](http://pilde.net/blog/wp-content/uploads/2008/02/pomodoro.jpg)
+![pomodoro.jpg]({{baseurl}}/uploads/2008/02/pomodoro.jpg)
 
 
 

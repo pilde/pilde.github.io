@@ -15,7 +15,7 @@ Oggi è un giorno importante! E' il mio primo giorno di asilo nido.
 
 Sono andata al 'Casale dei Piccoli' in bicicletta con MeP.
 
-![nido1.jpg](http://pilde.net/blog/wp-content/uploads/2007/09/nido1.jpg)
+![nido1.jpg]({{baseurl}}/uploads/2007/09/nido1.jpg)
 
 
 
@@ -24,7 +24,7 @@ Il posto mi piace, a parte un bel giardino fuori, dentro c'erano tantissimi gioc
 
 Ho giocato un po' con mamma, sotto lo sguardo vigile di papà ....
 
-![nido2.jpg](http://pilde.net/blog/wp-content/uploads/2007/09/nido2.jpg)
+![nido2.jpg]({{baseurl}}/uploads/2007/09/nido2.jpg)
 
 
 
@@ -33,7 +33,7 @@ Ho giocato un po' con mamma, sotto lo sguardo vigile di papà ....
 
 MeP sono andati a fare una passeggiata, ma io nemmeno me ne sono accorta....avevo troppe cose da fare!
 
-![nido3.jpg](http://pilde.net/blog/wp-content/uploads/2007/09/nido3.jpg)
+![nido3.jpg]({{baseurl}}/uploads/2007/09/nido3.jpg)
 
 
 

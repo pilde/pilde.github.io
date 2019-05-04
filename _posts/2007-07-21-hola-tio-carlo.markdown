@@ -13,12 +13,12 @@ categories:
 
 El primero dia que estoy con mi tio Carlo y ya se comio mi comida y mi yogurt. Pero todavia te quiero mucho!!!
 
-![dsc00869.JPG](http://pilde.net/blog/wp-content/uploads/2007/07/dsc00869.JPG)
+![dsc00869.JPG]({{baseurl}}/uploads/2007/07/dsc00869.JPG)
 
 
 
 
-![dsc00872.JPG](http://pilde.net/blog/wp-content/uploads/2007/07/dsc00872.JPG)
+![dsc00872.JPG]({{baseurl}}/uploads/2007/07/dsc00872.JPG)
 
 
 

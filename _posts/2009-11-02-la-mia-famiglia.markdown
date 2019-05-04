@@ -13,7 +13,7 @@ categories:
 
 io la vedo così....
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/11/famiglia.jpg)
+[![]({{baseurl}}/uploads/2009/11/famiglia.jpg)
 
 
 ](http://None)

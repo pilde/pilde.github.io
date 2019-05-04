@@ -13,7 +13,7 @@ categories:
 
 Secondo voi quale è il più felice? A me sembra di averli conquistati tutti e quattro :D
 
-![nonni.JPG](http://pilde.net/blog/wp-content/uploads/2006/10/nonni.JPG)
+![nonni.JPG]({{baseurl}}/uploads/2006/10/nonni.JPG)
 
 
 

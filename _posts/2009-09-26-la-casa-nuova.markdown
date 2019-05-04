@@ -54,12 +54,12 @@ Dopo le lunghe peripezie che vi sto per raccontare finalmente abbiamo la casa nu
 
 Questa è la casa PRIMA dei lavori....
 
-![](http://pilde.net/blog/wp-content/uploads/2009/09/casa1.jpg)
+![]({{baseurl}}/uploads/2009/09/casa1.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2009/09/casa2.jpg)
+![]({{baseurl}}/uploads/2009/09/casa2.jpg)
 
 
 

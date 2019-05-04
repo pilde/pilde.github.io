@@ -11,7 +11,7 @@ categories:
 - Amici
 ---
 
-![Buon-Natale2](http://pilde.net/blog/wp-content/uploads/2012/12/Buon-Natale2.gif)
+![Buon-Natale2]({{baseurl}}/uploads/2012/12/Buon-Natale2.gif)
 
 
 

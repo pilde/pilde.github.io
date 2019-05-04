@@ -13,13 +13,13 @@ categories:
 
 Finalmente ho conosciuto lo zio Nic e la zia Annagloria...mi stanno proprio simpatici, eppoi con loro ho fatto un sacco di cose nuove. Ho preso per la prima volta la metropolitana
 
-![ziaanni.jpg](http://pilde.net/blog/wp-content/uploads/2006/11/ziaanni.jpg)
+![ziaanni.jpg]({{baseurl}}/uploads/2006/11/ziaanni.jpg)
 
 
 
 Alla fine ero un pochino stanca e dunque ci siamo rilassati in riva al Tevere.
 
-![zionic.jpg](http://pilde.net/blog/wp-content/uploads/2006/11/zionic.jpg)
+![zionic.jpg]({{baseurl}}/uploads/2006/11/zionic.jpg)
 
 
 

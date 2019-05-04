@@ -14,7 +14,7 @@ categories:
 - Giochi
 ---
 
-![balu1.jpg](http://pilde.net/blog/wp-content/uploads/2006/11/balu1.jpg)
+![balu1.jpg]({{baseurl}}/uploads/2006/11/balu1.jpg)
 
 
 

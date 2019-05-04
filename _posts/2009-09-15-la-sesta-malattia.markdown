@@ -15,7 +15,7 @@ ha colpito anche Marghe all'inizio dell'asilo!!
 
 Febbrone da cavallo e bollicine....ma ormai è quasi passata!
 
-![](http://pilde.net/blog/wp-content/uploads/2009/09/sestam.jpg)
+![]({{baseurl}}/uploads/2009/09/sestam.jpg)
 
 
 

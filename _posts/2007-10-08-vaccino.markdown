@@ -14,7 +14,7 @@ categories:
 Stamattina M mi ha detto che dovevo fare il vaccino, ma io ho capito 'bacino' e le ho mandato un sonoro smack...e lei si è messa a ridere!
 Così dopo una passeggiata al mare con zia Giorgia ...
 
-![zia2.jpg](http://pilde.net/blog/wp-content/uploads/2007/10/zia2.jpg)
+![zia2.jpg]({{baseurl}}/uploads/2007/10/zia2.jpg)
 
 
 

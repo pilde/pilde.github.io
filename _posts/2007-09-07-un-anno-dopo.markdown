@@ -15,14 +15,14 @@ categories:
 
 Tanti auguri a me...tanti auguri a me!
 
-![compl2.jpg](http://pilde.net/blog/wp-content/uploads/2007/09/compl2.jpg)
+![compl2.jpg]({{baseurl}}/uploads/2007/09/compl2.jpg)
 
 
 
 
 Oggi ho festeggiato al nido con tanti bimbi e un trenino di candeline!Cercavo di acchiappare la fiamma con la manina e poi ho sbriciolato tutto il ciambellone in giro!Sono proprio una tempestina!
 
-![compl3.jpg](http://pilde.net/blog/wp-content/uploads/2007/09/compl3.jpg)
+![compl3.jpg]({{baseurl}}/uploads/2007/09/compl3.jpg)
 
 
 

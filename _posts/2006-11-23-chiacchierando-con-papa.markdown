@@ -11,10 +11,10 @@ categories:
 - Eventi
 ---
 
-[![chiacchiera](http://pilde.net/blog/wp-content/uploads/2006/11/click-2-listen-off.gif)
+[![chiacchiera]({{baseurl}}/uploads/2006/11/click-2-listen-off.gif)
 
 
-](http://pilde.net/blog/wp-content/uploads/2006/11/pilde3.mp3)
+]({{baseurl}}/uploads/2006/11/pilde3.mp3)
 
 
 

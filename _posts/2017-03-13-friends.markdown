@@ -16,7 +16,7 @@ Auguri a tutte le amiche :)
 
 
 
-![friends](http://pilde.net/blog/wp-content/uploads/2017/05/friends.jpg)
+![friends]({{baseurl}}/uploads/2017/05/friends.jpg)
 
 
 

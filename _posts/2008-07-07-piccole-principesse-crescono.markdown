@@ -16,7 +16,7 @@ M dice che sembro una principessina con questo vestito....però c'è un particol
 
 
 
-![principessa11.jpg](http://pilde.net/blog/wp-content/uploads/2008/07/principessa11.jpg)
+![principessa11.jpg]({{baseurl}}/uploads/2008/07/principessa11.jpg)
 
 
 

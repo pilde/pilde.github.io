@@ -14,7 +14,7 @@ categories:
 
 Oggi Marghe è andata per la prima volta da sola sull'altalena...e le è piaciuta!
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/04/altalena.jpg)
+[![]({{baseurl}}/uploads/2009/04/altalena.jpg)
 
 
 ](http://None)

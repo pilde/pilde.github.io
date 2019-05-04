@@ -13,7 +13,7 @@ categories:
 
 A casa nostra si vedono solo tre canali in tv: Rai YOYO, Cartoonito e MTV. I primi due ovviamente per i cartoni animati e il terzo per vedere 'Ginnaste-Vite Parallele' di cui sia Marghe che Mati, ma anche M&P, sono accaniti fan!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/07/ginnaste.jpg)
+![]({{baseurl}}/uploads/2012/07/ginnaste.jpg)
 
 
 

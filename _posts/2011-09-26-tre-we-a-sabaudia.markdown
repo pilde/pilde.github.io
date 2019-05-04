@@ -14,17 +14,17 @@ categories:
 
 Dato il poco mare di queste vacanze estive e l'insolito mese di settembre con temperature altissime ci prendiamo una bella abbronzatura a Sabaudia per ben tre we di fila!! Viene anche Flavio con la sua famiglia a passare una notte avventurosa in camper, e tanti amici di passaggio!
 
-![](http://pilde.net/blog/wp-content/uploads/2011/10/camper1.jpg)
+![]({{baseurl}}/uploads/2011/10/camper1.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2011/10/camper21.jpg)
+![]({{baseurl}}/uploads/2011/10/camper21.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2011/10/camper3.jpg)
+![]({{baseurl}}/uploads/2011/10/camper3.jpg)
 
 
 

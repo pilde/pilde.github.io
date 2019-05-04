@@ -18,10 +18,10 @@ E con questi 20 punti sono 8 in classifica (a parimerito con la 6 e 7)
 
 .
 
-![tennis_1](http://pilde.net/blog/wp-content/uploads/2019/03/tennis_1.png)
+![tennis_1]({{baseurl}}/uploads/2019/03/tennis_1.png)
 
 
- ![tennis_2](http://pilde.net/blog/wp-content/uploads/2019/03/tennis_2.png)
+ ![tennis_2]({{baseurl}}/uploads/2019/03/tennis_2.png)
 
 
 

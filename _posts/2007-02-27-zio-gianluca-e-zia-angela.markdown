@@ -14,7 +14,7 @@ categories:
 Ieri sera sono venuti a trovarmi e mi sono divertita un mondo.
 A prestissimo zietti.
 
-![gianang.jpg](http://pilde.net/blog/wp-content/uploads/2007/02/gianang.jpg)
+![gianang.jpg]({{baseurl}}/uploads/2007/02/gianang.jpg)
 
 
 

@@ -11,7 +11,7 @@ categories:
 - Compleanni
 ---
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/03/festa_caterina.jpg)
+[![]({{baseurl}}/uploads/2011/03/festa_caterina.jpg)
 
 
 ](http://None)

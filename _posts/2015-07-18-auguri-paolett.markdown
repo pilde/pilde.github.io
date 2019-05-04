@@ -13,16 +13,16 @@ categories:
 
 Nella calura di luglio..... anche la nostra Paoletta fa gli anni! Augurissimi....un pò bagnati!!
 
-[![doccia](http://pilde.net/blog/wp-content/uploads/2015/09/doccia.jpg)
+[![doccia]({{baseurl}}/uploads/2015/09/doccia.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/doccia.jpg)
+]({{baseurl}}/uploads/2015/09/doccia.jpg)
 
 
- [![paola](http://pilde.net/blog/wp-content/uploads/2015/09/paola.jpg)
+ [![paola]({{baseurl}}/uploads/2015/09/paola.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/paola.jpg)
+]({{baseurl}}/uploads/2015/09/paola.jpg)
 
 
 

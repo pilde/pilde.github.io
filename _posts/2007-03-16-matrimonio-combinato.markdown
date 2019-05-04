@@ -13,7 +13,7 @@ categories:
 
 Il papà di Paolo e il mio stanno combinando il nostro matrimonio.....
 
-![paolo.jpg](http://pilde.net/blog/wp-content/uploads/2007/03/paolo.jpg)
+![paolo.jpg]({{baseurl}}/uploads/2007/03/paolo.jpg)
 
 
 

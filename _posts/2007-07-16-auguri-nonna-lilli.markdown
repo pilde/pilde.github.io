@@ -15,7 +15,7 @@ Ciao nonnina,
 
 tanti auguri di buon compleanno!
 
-![nonna.jpg](http://pilde.net/blog/wp-content/uploads/2007/07/nonna.jpg)
+![nonna.jpg]({{baseurl}}/uploads/2007/07/nonna.jpg)
 
 
 

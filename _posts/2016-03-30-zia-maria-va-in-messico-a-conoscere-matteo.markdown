@@ -13,17 +13,17 @@ categories:
 
 Ciao zia...torna presto! E dai un bacio al nostro cuginetto messicano!
 
-![zia_maria](http://pilde.net/blog/wp-content/uploads/2016/06/zia_maria-1.jpg)
+![zia_maria]({{baseurl}}/uploads/2016/06/zia_maria-1.jpg)
 
 
 
 
 Eccoloooo.... quanto è bello ... il giorno del suo battesimo!!!
 
-![matteo1](http://pilde.net/blog/wp-content/uploads/2016/06/matteo1.jpg)
+![matteo1]({{baseurl}}/uploads/2016/06/matteo1.jpg)
 
 
- ![matteo2](http://pilde.net/blog/wp-content/uploads/2016/06/matteo2.jpg)
+ ![matteo2]({{baseurl}}/uploads/2016/06/matteo2.jpg)
 
 
 

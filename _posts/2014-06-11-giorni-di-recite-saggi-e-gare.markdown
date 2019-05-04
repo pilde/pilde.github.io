@@ -15,71 +15,71 @@ Giugno è sempre così....si raccolgono i frutti delle attività svolte durante 
 
 iniziamo con 'Il Barbiere di siviglia' al teatro Valle
 
-[![LOCANDINA-BARBIERE](http://pilde.net/blog/wp-content/uploads/2014/06/LOCANDINA-BARBIERE1.jpg)
+[![LOCANDINA-BARBIERE]({{baseurl}}/uploads/2014/06/LOCANDINA-BARBIERE1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/06/LOCANDINA-BARBIERE1.jpg)
+]({{baseurl}}/uploads/2014/06/LOCANDINA-BARBIERE1.jpg)
 
 
-[![barbiere1](http://pilde.net/blog/wp-content/uploads/2014/06/barbiere1.jpg)
+[![barbiere1]({{baseurl}}/uploads/2014/06/barbiere1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/06/barbiere1.jpg)
+]({{baseurl}}/uploads/2014/06/barbiere1.jpg)
 
 
-[![barbiere2](http://pilde.net/blog/wp-content/uploads/2014/06/barbiere2.jpg)
+[![barbiere2]({{baseurl}}/uploads/2014/06/barbiere2.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/06/barbiere2.jpg)
+]({{baseurl}}/uploads/2014/06/barbiere2.jpg)
 
 
-[![barbiere3](http://pilde.net/blog/wp-content/uploads/2014/06/barbiere3.jpg)
+[![barbiere3]({{baseurl}}/uploads/2014/06/barbiere3.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/06/barbiere3.jpg)
+]({{baseurl}}/uploads/2014/06/barbiere3.jpg)
 
 
 .... la lezione aperta di motoria di Marghe
 
-[![motoria_marghe1](http://pilde.net/blog/wp-content/uploads/2014/06/motoria_marghe1.jpg)
+[![motoria_marghe1]({{baseurl}}/uploads/2014/06/motoria_marghe1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/06/motoria_marghe1.jpg)
+]({{baseurl}}/uploads/2014/06/motoria_marghe1.jpg)
 
 
 .... la lezione aperta di motoria di Mati
 
-[![motoria_mati](http://pilde.net/blog/wp-content/uploads/2014/06/motoria_mati.jpg)
+[![motoria_mati]({{baseurl}}/uploads/2014/06/motoria_mati.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/06/motoria_mati.jpg)
+]({{baseurl}}/uploads/2014/06/motoria_mati.jpg)
 
 
 il saggio di musica di Matilde
 
-[![musica1](http://pilde.net/blog/wp-content/uploads/2014/06/musica1.jpg)
+[![musica1]({{baseurl}}/uploads/2014/06/musica1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/06/musica1.jpg)
+]({{baseurl}}/uploads/2014/06/musica1.jpg)
 
 
 e le gare di nuoto: Matilde dorso completo in 27.5 secondi nella vasca da 25 metri
 
-[![mati_piscina](http://pilde.net/blog/wp-content/uploads/2014/06/mati_piscina.jpg)
+[![mati_piscina]({{baseurl}}/uploads/2014/06/mati_piscina.jpg)
 
 
-![mati_gare](http://pilde.net/blog/wp-content/uploads/2014/06/mati_gare.jpg)
+![mati_gare]({{baseurl}}/uploads/2014/06/mati_gare.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/06/mati_gare.jpg)
+]({{baseurl}}/uploads/2014/06/mati_gare.jpg)
 
 
 e Margherita molto aggressive ...
 
-[![marghe_piscina](http://pilde.net/blog/wp-content/uploads/2014/06/marghe_piscina.jpg)
+[![marghe_piscina]({{baseurl}}/uploads/2014/06/marghe_piscina.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/06/marghe_piscina.jpg)
+]({{baseurl}}/uploads/2014/06/marghe_piscina.jpg)
 
 
  .... gambe dorso in vasca piccola!!

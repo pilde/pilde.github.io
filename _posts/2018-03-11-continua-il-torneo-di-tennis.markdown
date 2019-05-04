@@ -13,7 +13,7 @@ categories:
 
 ... dopo l'ennesimo annullamento per pioggia oggi si gioca.... nella bufera di vento ... e poi la pioggia.....niente...annullata! Ma io non mi scoraggio mai!!!
 
-![tennis](http://pilde.net/blog/wp-content/uploads/2018/03/tennis.png)
+![tennis]({{baseurl}}/uploads/2018/03/tennis.png)
 
 
 

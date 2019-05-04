@@ -13,7 +13,7 @@ categories:
 
 La settimana è iniziata con il matrimonio di Simone ed Eugenia, dove io e marghe sembravamo due principessine d'altri tempi
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/06/prato_mati.jpg)
+[![]({{baseurl}}/uploads/2009/06/prato_mati.jpg)
 
 
 ](http://None)
@@ -24,7 +24,7 @@ La settimana è iniziata con il matrimonio di Simone ed Eugenia, dove io e margh
 
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/06/marghe_prato_.jpg)
+[![]({{baseurl}}/uploads/2009/06/marghe_prato_.jpg)
 
 
 ](http://None)
@@ -36,7 +36,7 @@ poi ci siamo trasferiti a casa di zia Aldina a S.Felice, dove c'erano anche i no
 
 La mattina andiamo al mare in bicicletta con papà
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/06/mareinbici.jpg)
+[![]({{baseurl}}/uploads/2009/06/mareinbici.jpg)
 
 
 ](http://None)
@@ -46,7 +46,7 @@ La mattina andiamo al mare in bicicletta con papà
 
 giochiamo con la sabbia con nonno Mario che fa delle buche grandissime!
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/06/buche_nonno.jpg)
+[![]({{baseurl}}/uploads/2009/06/buche_nonno.jpg)
 
 
 ](http://None)
@@ -54,7 +54,7 @@ giochiamo con la sabbia con nonno Mario che fa delle buche grandissime!
 
 Cate ed io facciamo le smorfie a questo tempaccio che non è stato molto bello purtroppo
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/06/mare_smorfie.jpg)
+[![]({{baseurl}}/uploads/2009/06/mare_smorfie.jpg)
 
 
 ](http://None)
@@ -62,7 +62,7 @@ Cate ed io facciamo le smorfie a questo tempaccio che non è stato molto bello p
 
  poi torniamo a casa, ci riposiamo e dopo facciamo il bagno nella piscinetta tutte e tre insieme
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/06/piscintta.jpg)
+[![]({{baseurl}}/uploads/2009/06/piscintta.jpg)
 
 
 ](http://None)
@@ -72,7 +72,7 @@ Cate ed io facciamo le smorfie a questo tempaccio che non è stato molto bello p
 
 o andiamo al parco a giocare...e ci divertiamo tanto!
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/06/scivolo.jpg)
+[![]({{baseurl}}/uploads/2009/06/scivolo.jpg)
 
 
 ](http://None)

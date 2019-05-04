@@ -13,7 +13,7 @@ categories:
 
 "Secondo te, tutti i libri per bambini dovrebbero essere divertenti?" chiese la maestra. "Certo. I bambini non sono seri come gli adulti, e ridono volentieri"
 
-![libro_matilde.jpg](http://pilde.net/blog/wp-content/uploads/2008/04/libro_matilde.jpg)
+![libro_matilde.jpg]({{baseurl}}/uploads/2008/04/libro_matilde.jpg)
 
 
 

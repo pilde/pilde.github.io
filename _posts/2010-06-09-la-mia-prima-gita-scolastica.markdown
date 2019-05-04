@@ -19,7 +19,7 @@ Che emozione (più per M&P ovviamente)
 
 Tutti per mano e via...
 
-![](http://pilde.net/blog/wp-content/uploads/2010/06/saluti.jpg)
+![]({{baseurl}}/uploads/2010/06/saluti.jpg)
 
 
 
@@ -29,7 +29,7 @@ sul pullman :)
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2010/06/pulman.jpg)
+![]({{baseurl}}/uploads/2010/06/pulman.jpg)
 
 
 

@@ -13,14 +13,14 @@ categories:
 
 anche a gennaio è bellissimo! C'è chi si rilassa ..
 
-![](http://pilde.net/blog/wp-content/uploads/2012/01/mare_mati.jpg)
+![]({{baseurl}}/uploads/2012/01/mare_mati.jpg)
 
 
 
 
 e c'è chi ne rimane affascinato!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/01/mare_marghe.jpg)
+![]({{baseurl}}/uploads/2012/01/mare_marghe.jpg)
 
 
 

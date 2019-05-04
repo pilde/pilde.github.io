@@ -17,77 +17,77 @@ Anche quest'anno torniamo a Folgarida all'Hotel Gran Baita ... la signora Enza c
 
 
 
-![tutti_1](http://pilde.net/blog/wp-content/uploads/2017/05/tutti_1-1.png)
+![tutti_1]({{baseurl}}/uploads/2017/05/tutti_1-1.png)
 
 
 
 
 Luca si deve sempre distinguere....quest'anno una nuova tecnica di discesa delle nere con lo snow ... a pelle di leopardo!!!
 
-![scemi](http://pilde.net/blog/wp-content/uploads/2017/05/scemi.png)
+![scemi]({{baseurl}}/uploads/2017/05/scemi.png)
 
 
- ![girls_1](http://pilde.net/blog/wp-content/uploads/2017/05/girls_1.png)
+ ![girls_1]({{baseurl}}/uploads/2017/05/girls_1.png)
 
 
- ![gianni&fra](http://pilde.net/blog/wp-content/uploads/2017/05/giannifra.png)
+ ![gianni&fra]({{baseurl}}/uploads/2017/05/giannifra.png)
 
 
- ![io&fabio](http://pilde.net/blog/wp-content/uploads/2017/05/iofabio.png)
+ ![io&fabio]({{baseurl}}/uploads/2017/05/iofabio.png)
 
 
- ![noi](http://pilde.net/blog/wp-content/uploads/2017/05/noi.png)
+ ![noi]({{baseurl}}/uploads/2017/05/noi.png)
 
 
- ![family](http://pilde.net/blog/wp-content/uploads/2017/05/family.png)
+ ![family]({{baseurl}}/uploads/2017/05/family.png)
 
 
 
 
 E i bambini alternano sci e snow
 
-![snowboarders](http://pilde.net/blog/wp-content/uploads/2017/05/snowboarders.png)
+![snowboarders]({{baseurl}}/uploads/2017/05/snowboarders.png)
 
 
 
 
-![mati_snow_1](http://pilde.net/blog/wp-content/uploads/2017/05/mati_snow_1.png)
+![mati_snow_1]({{baseurl}}/uploads/2017/05/mati_snow_1.png)
 
 
- ![mati_snow_2](http://pilde.net/blog/wp-content/uploads/2017/05/mati_snow_2.png)
+ ![mati_snow_2]({{baseurl}}/uploads/2017/05/mati_snow_2.png)
 
 
 
 
-relax in bianco e nero![relax_b&w](http://pilde.net/blog/wp-content/uploads/2017/05/relax_bw.png)
+relax in bianco e nero![relax_b&w]({{baseurl}}/uploads/2017/05/relax_bw.png)
 
 
 Vita di albergo ... e gli immancabili compleanni (Caterina, Betta e quest'anno anche Simona! )
 
 
- ![giochi](http://pilde.net/blog/wp-content/uploads/2017/05/giochi.png)
+ ![giochi]({{baseurl}}/uploads/2017/05/giochi.png)
 
 
- ![compl_betta1](http://pilde.net/blog/wp-content/uploads/2017/05/compl_betta1-1.png)
+ ![compl_betta1]({{baseurl}}/uploads/2017/05/compl_betta1-1.png)
 
 
- ![compl_betta_2](http://pilde.net/blog/wp-content/uploads/2017/05/compl_betta_2.png)
+ ![compl_betta_2]({{baseurl}}/uploads/2017/05/compl_betta_2.png)
 
 
 e le premiazioni a fine gara
 
-![premiazione_meggy](http://pilde.net/blog/wp-content/uploads/2017/05/premiazione_meggy.png)
+![premiazione_meggy]({{baseurl}}/uploads/2017/05/premiazione_meggy.png)
 
 
- ![podio_mati](http://pilde.net/blog/wp-content/uploads/2017/05/podio_mati.png)
+ ![podio_mati]({{baseurl}}/uploads/2017/05/podio_mati.png)
 
 
- ![prima](http://pilde.net/blog/wp-content/uploads/2017/05/prima.png)
+ ![prima]({{baseurl}}/uploads/2017/05/prima.png)
 
 
 Arriveduar
 
-![io&mati](http://pilde.net/blog/wp-content/uploads/2017/05/iomati.png)
+![io&mati]({{baseurl}}/uploads/2017/05/iomati.png)
 
 
 

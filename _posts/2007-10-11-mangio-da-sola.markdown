@@ -13,7 +13,7 @@ categories:
 
 Con la mia forchettina nella mano sono riuscita ad infilzare e a mangiare la pasta col broccolo!
 
-![pappa_dasola.jpg](http://pilde.net/blog/wp-content/uploads/2007/10/pappa_dasola.jpg)
+![pappa_dasola.jpg]({{baseurl}}/uploads/2007/10/pappa_dasola.jpg)
 
 
 

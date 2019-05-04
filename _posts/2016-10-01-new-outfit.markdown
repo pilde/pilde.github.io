@@ -15,23 +15,23 @@ Piccole bimbe crescono....e tirano fuori la loro personalità...
 
 romantica e coccolona
 
-![meggy_outfit](http://pilde.net/blog/wp-content/uploads/2016/12/meggy_outfit.png)
+![meggy_outfit]({{baseurl}}/uploads/2016/12/meggy_outfit.png)
 
 
- ![meggy_pimpa](http://pilde.net/blog/wp-content/uploads/2016/12/meggy_pimpa.png)
+ ![meggy_pimpa]({{baseurl}}/uploads/2016/12/meggy_pimpa.png)
 
 
 
 
 urban e sportiva
 
-![mati_outfit](http://pilde.net/blog/wp-content/uploads/2016/12/mati_outfit.png)
+![mati_outfit]({{baseurl}}/uploads/2016/12/mati_outfit.png)
 
 
- ![mati_skate](http://pilde.net/blog/wp-content/uploads/2016/12/mati_skate.png)
+ ![mati_skate]({{baseurl}}/uploads/2016/12/mati_skate.png)
 
 
- ![mati_tennis](http://pilde.net/blog/wp-content/uploads/2016/12/mati_tennis.png)
+ ![mati_tennis]({{baseurl}}/uploads/2016/12/mati_tennis.png)
 
 
 

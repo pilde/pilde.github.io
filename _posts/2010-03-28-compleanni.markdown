@@ -16,21 +16,21 @@ Tra marzo e aprile si festeggiano tanti compleanni, e allora abbiamo deciso di f
 
 Ecco tutti i festeggiati davanti alle torte
 
-![](http://pilde.net/blog/wp-content/uploads/2010/05/compleanni.jpg)
+![]({{baseurl}}/uploads/2010/05/compleanni.jpg)
 
 
 
 
 mentre Margherita si dedica alle sue passioni: la bici e la pizza!
 
- ![](http://pilde.net/blog/wp-content/uploads/2010/05/marghe_arancio.jpg)
+ ![]({{baseurl}}/uploads/2010/05/marghe_arancio.jpg)
 
 
 
 
 e le bimbe grandi ...
 
-![](http://pilde.net/blog/wp-content/uploads/2010/05/3_scimmiette.jpg)
+![]({{baseurl}}/uploads/2010/05/3_scimmiette.jpg)
 
 
 

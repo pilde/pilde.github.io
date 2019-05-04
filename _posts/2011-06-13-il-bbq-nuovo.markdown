@@ -14,7 +14,7 @@ categories:
 
 Comprato e subito inaugurato
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/06/bbq.jpg)
+[![]({{baseurl}}/uploads/2011/06/bbq.jpg)
 
 
 ](http://None)
@@ -24,7 +24,7 @@ Comprato e subito inaugurato
 
 con un'ottima bruschetta e la carne della zia di Flavio...
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/06/bruschetta.jpg)
+[![]({{baseurl}}/uploads/2011/06/bruschetta.jpg)
 
 
 ](http://None)

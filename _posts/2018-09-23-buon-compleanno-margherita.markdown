@@ -16,32 +16,32 @@ E anche per Meggy la prima doppia cifra!
 
 Facciamo una bella festa in giardino con gli amici, prima si gioca
 
-![trampo](http://pilde.net/blog/wp-content/uploads/2018/10/trampo.jpg)
+![trampo]({{baseurl}}/uploads/2018/10/trampo.jpg)
 
 
 
 
-![biliardino](http://pilde.net/blog/wp-content/uploads/2018/10/biliardino.jpg)
+![biliardino]({{baseurl}}/uploads/2018/10/biliardino.jpg)
 
 
 
 
-![piramide](http://pilde.net/blog/wp-content/uploads/2018/10/piramide.jpg)
+![piramide]({{baseurl}}/uploads/2018/10/piramide.jpg)
 
 
-e poi la torta ...versione seria![friends](http://pilde.net/blog/wp-content/uploads/2018/10/friends.jpg)
+e poi la torta ...versione seria![friends]({{baseurl}}/uploads/2018/10/friends.jpg)
 
 
 
 
 e versione buffa
 
-![maschere](http://pilde.net/blog/wp-content/uploads/2018/10/maschere.jpg)
+![maschere]({{baseurl}}/uploads/2018/10/maschere.jpg)
 
 
 La sera cena con le schifezze del Mc Donald's e poi pigiama party!
 
-![cena_2](http://pilde.net/blog/wp-content/uploads/2018/10/cena_2.jpg)
+![cena_2]({{baseurl}}/uploads/2018/10/cena_2.jpg)
 
 
 
@@ -50,14 +50,14 @@ A mezzanotte le amiche improvvisano una torta fatta di caramelle per Meggy e poi
 
 La domenica invece andiamo a pranzo da Mara, così festeggiamo tutte due!
 
-![mara](http://pilde.net/blog/wp-content/uploads/2018/10/mara.jpg)
+![mara]({{baseurl}}/uploads/2018/10/mara.jpg)
 
 
 
 
 insomma pensandoci bene ... sto proprio diventando grande!
 
-![grande](http://pilde.net/blog/wp-content/uploads/2018/10/grande.jpg)
+![grande]({{baseurl}}/uploads/2018/10/grande.jpg)
 
 
 

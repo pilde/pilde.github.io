@@ -13,14 +13,14 @@ categories:
 
 Lo scorso fine settimana sono stata a Borgio Verezzi a trovare tutti gli amici della mia famiglia che l'anno scorso mi hanno vista dentro la pancia di mamma!Lucia, Luciano, Piera, Piero, Giuliano, Dea, Maurizio.
 
-![aprile_13.jpg](http://pilde.net/blog/wp-content/uploads/2007/05/aprile_13.jpg)
+![aprile_13.jpg]({{baseurl}}/uploads/2007/05/aprile_13.jpg)
 
 
 
 
 Un bacio grande a tutti!
 
-![aprile2.jpg](http://pilde.net/blog/wp-content/uploads/2007/05/aprile2.jpg)
+![aprile2.jpg]({{baseurl}}/uploads/2007/05/aprile2.jpg)
 
 
 

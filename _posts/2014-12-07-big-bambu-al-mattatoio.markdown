@@ -13,48 +13,48 @@ categories:
 
 Hanno costruito questa bellissima struttura di bambù al mattatoio...peccato non si possa più salire sopra!
 
-[![big_bamboo](http://pilde.net/blog/wp-content/uploads/2014/12/big_bamboo.jpg)
+[![big_bamboo]({{baseurl}}/uploads/2014/12/big_bamboo.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/12/big_bamboo.jpg)
+]({{baseurl}}/uploads/2014/12/big_bamboo.jpg)
 
 
- [![big_bamboo2](http://pilde.net/blog/wp-content/uploads/2014/12/big_bamboo2.jpg)
+ [![big_bamboo2]({{baseurl}}/uploads/2014/12/big_bamboo2.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/12/big_bamboo2.jpg)
+]({{baseurl}}/uploads/2014/12/big_bamboo2.jpg)
 
 
 è altissimaaaaaa
 
-[![big_bambu2](http://pilde.net/blog/wp-content/uploads/2014/12/big_bambu2.jpg)
+[![big_bambu2]({{baseurl}}/uploads/2014/12/big_bambu2.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/12/big_bambu2.jpg)
+]({{baseurl}}/uploads/2014/12/big_bambu2.jpg)
 
 
-allora ci arrampichiamo sugli ex recinti degli animali! [![mattatoio](http://pilde.net/blog/wp-content/uploads/2014/12/mattatoio.jpg)
+allora ci arrampichiamo sugli ex recinti degli animali! [![mattatoio]({{baseurl}}/uploads/2014/12/mattatoio.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/12/mattatoio.jpg)
+]({{baseurl}}/uploads/2014/12/mattatoio.jpg)
 
 
- [![palle](http://pilde.net/blog/wp-content/uploads/2014/12/palle.jpg)
+ [![palle]({{baseurl}}/uploads/2014/12/palle.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/12/palle.jpg)
+]({{baseurl}}/uploads/2014/12/palle.jpg)
 
 
- smorfiosetta![![marghe_smorfie](http://pilde.net/blog/wp-content/uploads/2014/12/marghe_smorfie.jpg)
+ smorfiosetta![![marghe_smorfie]({{baseurl}}/uploads/2014/12/marghe_smorfie.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/12/marghe_smorfie.jpg)
+]({{baseurl}}/uploads/2014/12/marghe_smorfie.jpg)
 
 
-  e 'mastro mati' con panino broccoli e salsiccia al mercato di testaccio! [![mastro_mati](http://pilde.net/blog/wp-content/uploads/2014/12/mastro_mati.jpg)
+  e 'mastro mati' con panino broccoli e salsiccia al mercato di testaccio! [![mastro_mati]({{baseurl}}/uploads/2014/12/mastro_mati.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/12/mastro_mati.jpg)
+]({{baseurl}}/uploads/2014/12/mastro_mati.jpg)
 
 
 

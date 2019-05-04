@@ -11,7 +11,7 @@ categories:
 - Presentazione
 ---
 
-![](http://pilde.net/blog/wp-content/uploads/2006/09/dscn2139.JPG)
+![]({{baseurl}}/uploads/2006/09/dscn2139.JPG)
 
 
  Ciao, mi chiamo Matilde. Quando MeP (Mamma e Papà )

@@ -14,60 +14,60 @@ categories:
 
 Finalmente inizia l'estate e ne approfittiamo per accamparci a Sperlonga, due camper e due tende! Che forza! Ci divertiamo al mare, chi con la 'canova'
 
-[![canova](http://pilde.net/blog/wp-content/uploads/2013/07/canova.jpg)
+[![canova]({{baseurl}}/uploads/2013/07/canova.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/07/canova.jpg)
+]({{baseurl}}/uploads/2013/07/canova.jpg)
 
 
 
 
-[![mati&sara_blog](http://pilde.net/blog/wp-content/uploads/2013/07/matisara_blog.jpg)
+[![mati&sara_blog]({{baseurl}}/uploads/2013/07/matisara_blog.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/07/matisara_blog.jpg)
+]({{baseurl}}/uploads/2013/07/matisara_blog.jpg)
 
 
 chi a fare castelli di sabbia
 
-[![mati_mare](http://pilde.net/blog/wp-content/uploads/2013/07/mati_mare.jpg)
+[![mati_mare]({{baseurl}}/uploads/2013/07/mati_mare.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/07/mati_mare.jpg)
+]({{baseurl}}/uploads/2013/07/mati_mare.jpg)
 
 
-[![sofia_sara_mare](http://pilde.net/blog/wp-content/uploads/2013/07/sofia_sara_mare.jpg)
+[![sofia_sara_mare]({{baseurl}}/uploads/2013/07/sofia_sara_mare.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/07/sofia_sara_mare.jpg)
+]({{baseurl}}/uploads/2013/07/sofia_sara_mare.jpg)
 
 
 chi a nuotare
 
-[![marghe_mare](http://pilde.net/blog/wp-content/uploads/2013/07/marghe_mare.jpg)
+[![marghe_mare]({{baseurl}}/uploads/2013/07/marghe_mare.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/07/marghe_mare.jpg)
+]({{baseurl}}/uploads/2013/07/marghe_mare.jpg)
 
 
 e poi stanchi e affamati tutti a tavola!!
 
 Grandi ....
 
-[![tavolata_grandi](http://pilde.net/blog/wp-content/uploads/2013/07/tavolata_grandi.jpg)
+[![tavolata_grandi]({{baseurl}}/uploads/2013/07/tavolata_grandi.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/07/tavolata_grandi.jpg)
+]({{baseurl}}/uploads/2013/07/tavolata_grandi.jpg)
 
 
 
 
 e piccine!
 
-[![tavolata_bimbe](http://pilde.net/blog/wp-content/uploads/2013/07/tavolata_bimbe.jpg)
+[![tavolata_bimbe]({{baseurl}}/uploads/2013/07/tavolata_bimbe.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/07/tavolata_bimbe.jpg)
+]({{baseurl}}/uploads/2013/07/tavolata_bimbe.jpg)
 
 
 

@@ -13,10 +13,10 @@ categories:
 
 Tanti auguri da Matilde e tutti noi
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/03/nathalie_smll.jpg)
+[![]({{baseurl}}/uploads/2011/03/nathalie_smll.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2011/03/nathalie_smll.jpg)
+]({{baseurl}}/uploads/2011/03/nathalie_smll.jpg)
 
 
 

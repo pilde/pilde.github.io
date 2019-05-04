@@ -20,15 +20,15 @@ ma quando diventerò grande faremo i conti : )
 
 
 
-![popi1.jpg](http://pilde.net/blog/wp-content/uploads/2007/01/popi1.jpg)
+![popi1.jpg]({{baseurl}}/uploads/2007/01/popi1.jpg)
 
 
-![popi2.jpg](http://pilde.net/blog/wp-content/uploads/2007/01/popi2.jpg)
+![popi2.jpg]({{baseurl}}/uploads/2007/01/popi2.jpg)
 
 
 
 
-![popi3.jpg](http://pilde.net/blog/wp-content/uploads/2007/01/popi3.jpg)
+![popi3.jpg]({{baseurl}}/uploads/2007/01/popi3.jpg)
 
 
 

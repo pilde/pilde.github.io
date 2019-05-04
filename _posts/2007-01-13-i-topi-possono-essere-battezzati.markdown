@@ -12,13 +12,13 @@ categories:
 ---
 
 Ciao Gemellina
-![battesimo.jpg](http://pilde.net/blog/wp-content/uploads/2007/01/battesimo.jpg)
+![battesimo.jpg]({{baseurl}}/uploads/2007/01/battesimo.jpg)
 
 
 
 E guardate un pò come era bella!!
 
-![battesimo_tr_flip_1.jpg](http://pilde.net/blog/wp-content/uploads/2007/01/battesimo_tr_flip_1.jpg)
+![battesimo_tr_flip_1.jpg]({{baseurl}}/uploads/2007/01/battesimo_tr_flip_1.jpg)
 
 
 

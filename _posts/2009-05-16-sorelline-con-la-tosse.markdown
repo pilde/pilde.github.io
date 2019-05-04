@@ -16,7 +16,7 @@ Marghe ed io ci siamo prese proprio una bella tosse! Però facciamo l'aerosol in
 
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/05/sorelline.jpg)
+[![]({{baseurl}}/uploads/2009/05/sorelline.jpg)
 
 
 ](http://None)

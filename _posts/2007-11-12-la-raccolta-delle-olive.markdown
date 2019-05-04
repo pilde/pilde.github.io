@@ -14,7 +14,7 @@ categories:
 Eh si, l'anno scorso ero nel marsupio mentre M raccoglieva le olive, ma quest'anno ho fatto da sola con le mie manine!
 Mi sono seduta sulla rete e ho staccato le olive da alcuni rametti....ho anche provato ad assaggiarle...ma non sono tanto buone, un pò amare! 
 
-![olive.jpg](http://pilde.net/blog/wp-content/uploads/2007/11/olive.jpg)
+![olive.jpg]({{baseurl}}/uploads/2007/11/olive.jpg)
 
 
 
@@ -24,14 +24,14 @@ In compenso ho raccolto e mangiato i ciclamini....quelli si che sono saporiti! :
 
 
 
-![ciclamini.jpg](http://pilde.net/blog/wp-content/uploads/2007/11/ciclamini.jpg)
+![ciclamini.jpg]({{baseurl}}/uploads/2007/11/ciclamini.jpg)
 
 
 
 
 Poi nonna Lilly ha cucinato un'ottima pasta con ceci e castagne...che sia nonna Franca che io abbiamo apprezzato tanto!
 
-![pasta.jpg](http://pilde.net/blog/wp-content/uploads/2007/11/pasta.jpg)
+![pasta.jpg]({{baseurl}}/uploads/2007/11/pasta.jpg)
 
 
 

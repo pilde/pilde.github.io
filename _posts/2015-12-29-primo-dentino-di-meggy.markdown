@@ -13,7 +13,7 @@ categories:
 
 Finalmente è caduto il primo dentino di Meggy!
 
-![dentino_meggy_2912](http://pilde.net/blog/wp-content/uploads/2016/03/dentino_meggy_2912.jpg)
+![dentino_meggy_2912]({{baseurl}}/uploads/2016/03/dentino_meggy_2912.jpg)
 
 
 

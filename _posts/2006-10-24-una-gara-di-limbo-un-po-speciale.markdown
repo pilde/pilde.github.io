@@ -16,12 +16,12 @@ Oggi sono andata a vedere una gara di limbo! Hei ma che avete capito?? I concorr
 
 e soprattutto il sonno che mi sono fatta sulla pancia di papà !
 
-![mamma.JPG](http://pilde.net/blog/wp-content/uploads/2006/10/mamma.JPG)
+![mamma.JPG]({{baseurl}}/uploads/2006/10/mamma.JPG)
 
 
 
 
-![papy_aerei.JPG](http://pilde.net/blog/wp-content/uploads/2006/10/papy_aerei.JPG)
+![papy_aerei.JPG]({{baseurl}}/uploads/2006/10/papy_aerei.JPG)
 
 
 

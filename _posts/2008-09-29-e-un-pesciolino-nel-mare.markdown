@@ -11,10 +11,10 @@ categories:
 - Amici
 ---
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/09/pesce2.jpg)
+[![]({{baseurl}}/uploads/2008/09/pesce2.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2008/09/pesce2.jpg)
+]({{baseurl}}/uploads/2008/09/pesce2.jpg)
 
 
 

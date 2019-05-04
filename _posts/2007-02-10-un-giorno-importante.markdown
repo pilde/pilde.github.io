@@ -17,14 +17,14 @@ oggi è un giorno importantissimo perchè ho fatto tante cose nuove.
 
 Stamattina sono stata in piscina con MeP.
 
-![piscina1.jpg](http://pilde.net/blog/wp-content/uploads/2007/02/piscina1.jpg)
+![piscina1.jpg]({{baseurl}}/uploads/2007/02/piscina1.jpg)
 
 
 
 
 Che bello tutta quell'acqua e i bimbi che mi guardavano e giocavano. Ho sguazzato come un pescetto per mezz'ora provando tutti gli stili ... pancia in su, in giù, morto a galla...!
 
-![piscina2.jpg](http://pilde.net/blog/wp-content/uploads/2007/02/piscina2.jpg)
+![piscina2.jpg]({{baseurl}}/uploads/2007/02/piscina2.jpg)
 
 
 
@@ -36,7 +36,7 @@ Poi quando mi sono svegliata ero affamatissima e ho mangiato per la prima volta 
 
 
 
-![pappa1.jpg](http://pilde.net/blog/wp-content/uploads/2007/02/pappa1.jpg)
+![pappa1.jpg]({{baseurl}}/uploads/2007/02/pappa1.jpg)
 
 
 

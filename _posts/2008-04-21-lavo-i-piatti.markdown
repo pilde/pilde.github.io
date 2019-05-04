@@ -17,10 +17,10 @@ P mi ha insegnato a lavare i piatti:
 
  si insaponano
 
-[![piatti.jpg](http://pilde.net/blog/wp-content/uploads/2008/04/piatti.jpg)
+[![piatti.jpg]({{baseurl}}/uploads/2008/04/piatti.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2008/04/piatti.jpg)
+]({{baseurl}}/uploads/2008/04/piatti.jpg)
 
 
 
@@ -29,10 +29,10 @@ P mi ha insegnato a lavare i piatti:
 
  si sciacquano
 
-[![piatti2.jpg](http://pilde.net/blog/wp-content/uploads/2008/04/piatti2.jpg)
+[![piatti2.jpg]({{baseurl}}/uploads/2008/04/piatti2.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2008/04/piatti2.jpg)
+]({{baseurl}}/uploads/2008/04/piatti2.jpg)
 
 
 

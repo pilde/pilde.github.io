@@ -13,7 +13,7 @@ categories:
 
 Mammina, anche se in ritardissimo ti faccio tanti auguri di compleanno...
 
-[![fiori.jpg](http://pilde.net/blog/wp-content/uploads/2007/04/fiori.jpg)
+[![fiori.jpg]({{baseurl}}/uploads/2007/04/fiori.jpg)
 
 
 

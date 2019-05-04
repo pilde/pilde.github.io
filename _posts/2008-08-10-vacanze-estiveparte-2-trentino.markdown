@@ -14,7 +14,7 @@ categories:
 
 Dopo un pò di mare ci voleva proprio la montagna . .
 
-![pippi.jpg](http://pilde.net/blog/wp-content/uploads/2008/08/pippi.jpg)
+![pippi.jpg]({{baseurl}}/uploads/2008/08/pippi.jpg)
 
 
 
@@ -25,73 +25,73 @@ Eravamo proprio un bel gruppone! E quante bimbe :)
 
 
 
-![mara_bimbe.jpg](http://pilde.net/blog/wp-content/uploads/2008/08/mara_bimbe.jpg)
+![mara_bimbe.jpg]({{baseurl}}/uploads/2008/08/mara_bimbe.jpg)
 
 
 
 
 Abbiamo fatto qualche passeggiata nei boschi, in riva ai laghetti e abbiamo visto tante mucche!
 
-![passeggiata.jpg](http://pilde.net/blog/wp-content/uploads/2008/08/passeggiata.jpg)
+![passeggiata.jpg]({{baseurl}}/uploads/2008/08/passeggiata.jpg)
 
 
 
 
-![gruppo.jpg](http://pilde.net/blog/wp-content/uploads/2008/08/gruppo.jpg)
+![gruppo.jpg]({{baseurl}}/uploads/2008/08/gruppo.jpg)
 
 
 
 
 ho scoperto che il paesaggio montano mi rilassa e mi incanata
 
-![riflessione.jpg](http://pilde.net/blog/wp-content/uploads/2008/08/riflessione.jpg)
+![riflessione.jpg]({{baseurl}}/uploads/2008/08/riflessione.jpg)
 
 
 
 
-![riflessioni2.jpg](http://pilde.net/blog/wp-content/uploads/2008/08/riflessioni2.jpg)
+![riflessioni2.jpg]({{baseurl}}/uploads/2008/08/riflessioni2.jpg)
 
 
 
 
 Ho fatto anche una passeggiata nello zaino con papà....ma io ..ehmm...ho dormito!
 
-![zaino.jpg](http://pilde.net/blog/wp-content/uploads/2008/08/zaino.jpg)
+![zaino.jpg]({{baseurl}}/uploads/2008/08/zaino.jpg)
 
 
 
 
 mi sono svegliata per bere in cima alla montagna!
 
-![acqua.jpg](http://pilde.net/blog/wp-content/uploads/2008/08/acqua.jpg)
+![acqua.jpg]({{baseurl}}/uploads/2008/08/acqua.jpg)
 
 
 
 
 Poi è arrivato il giorno tanto atteso delle nozze in malga! 
 
-![domani_sposi.jpg](http://pilde.net/blog/wp-content/uploads/2008/08/domani_sposi.jpg)
+![domani_sposi.jpg]({{baseurl}}/uploads/2008/08/domani_sposi.jpg)
 
 
 
 
 ed eccoci qui a 2000 metri, immersi nel verde e con un sole splendente!La sposa è pronta, con bouquet e cappellino!
 
-![mara_sposa.jpg](http://pilde.net/blog/wp-content/uploads/2008/08/mara_sposa.jpg)
+![mara_sposa.jpg]({{baseurl}}/uploads/2008/08/mara_sposa.jpg)
 
 
 
 
 e lo sposo e il sindaco la aspettano per la cerimonia nel bosco
 
-![cerimonia.jpg](http://pilde.net/blog/wp-content/uploads/2008/08/cerimonia.jpg)
+![cerimonia.jpg]({{baseurl}}/uploads/2008/08/cerimonia.jpg)
 
 
 
 
 Bellissimi vero?
 
-![maraelory_bn.jpg](http://pilde.net/blog/wp-content/uploads/2008/08/maraelory_bn.jpg)
+![maraelory_bn.jpg]({{baseurl}}/uploads/2008/08/maraelory_bn.jpg)
 
 
 

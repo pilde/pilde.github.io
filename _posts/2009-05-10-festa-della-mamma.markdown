@@ -13,7 +13,7 @@ categories:
 
 " Ma tu perchè sei nonna? " " Perchè tu sei la mia nipotina! "
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/05/festa_mamma.jpg)
+[![]({{baseurl}}/uploads/2009/05/festa_mamma.jpg)
 
 
 ](http://None)

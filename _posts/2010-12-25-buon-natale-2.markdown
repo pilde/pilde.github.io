@@ -14,7 +14,7 @@ categories:
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2011/01/pranzo_natale1.jpg)
+![]({{baseurl}}/uploads/2011/01/pranzo_natale1.jpg)
 
 
 

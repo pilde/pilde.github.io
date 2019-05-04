@@ -14,7 +14,7 @@ categories:
 
 Abbiamo avuto un'idea carina: fare un we ad ischia con i nonni, zia Betta e Caterina.
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/02/ischia.jpg)
+[![]({{baseurl}}/uploads/2011/02/ischia.jpg)
 
 
 ](http://None)
@@ -24,7 +24,7 @@ Abbiamo avuto un'idea carina: fare un we ad ischia con i nonni, zia Betta e Cate
 
 Peccato il tempaccio ....
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/02/aliscafo.jpg)
+[![]({{baseurl}}/uploads/2011/02/aliscafo.jpg)
 
 
 ](http://None)
@@ -34,7 +34,7 @@ Peccato il tempaccio ....
 
 che non ci ha permesso di fare molto... ma almeno siamo stati a mollo in piscina!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/02/piscina.jpg)
+[![]({{baseurl}}/uploads/2011/02/piscina.jpg)
 
 
 ](http://None)
@@ -44,7 +44,7 @@ che non ci ha permesso di fare molto... ma almeno siamo stati a mollo in piscina
 
 e ci siamo bevuti una buona cioccolata calda!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/02/baffi.jpg)
+[![]({{baseurl}}/uploads/2011/02/baffi.jpg)
 
 
 ](http://None)
@@ -54,7 +54,7 @@ e ci siamo bevuti una buona cioccolata calda!
 
 Ciao ISCHIA alla prossima..... magari in estate!!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/02/tartarughe.jpg)
+[![]({{baseurl}}/uploads/2011/02/tartarughe.jpg)
 
 
 ](http://None)

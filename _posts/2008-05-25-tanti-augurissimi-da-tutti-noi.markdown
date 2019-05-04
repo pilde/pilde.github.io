@@ -11,17 +11,17 @@ categories:
 - Amici
 ---
 
-[![sara.jpg](http://pilde.net/blog/wp-content/uploads/2008/05/sara.jpg)
+[![sara.jpg]({{baseurl}}/uploads/2008/05/sara.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2008/05/sara.jpg)
+]({{baseurl}}/uploads/2008/05/sara.jpg)
 
 
 
-[![alessia.jpg](http://pilde.net/blog/wp-content/uploads/2008/05/alessia.jpg)
+[![alessia.jpg]({{baseurl}}/uploads/2008/05/alessia.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2008/05/alessia.jpg)
+]({{baseurl}}/uploads/2008/05/alessia.jpg)
 
 
 

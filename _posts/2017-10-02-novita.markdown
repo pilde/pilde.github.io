@@ -16,7 +16,7 @@ Mi sono fatta i buchi alle orecchie, senza fare nemmeno un fiato! E poi nuovo ta
 
 
 
-![news](http://pilde.net/blog/wp-content/uploads/2017/11/news.jpg)
+![news]({{baseurl}}/uploads/2017/11/news.jpg)
 
 
 

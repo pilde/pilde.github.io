@@ -15,7 +15,7 @@ ciao Nasla,
 
 mille e mille auguri per i tuoi 16 anni! Ci vediamo al mare quest'estate!
 
-![nasla_scalata.jpg](http://pilde.net/blog/wp-content/uploads/2007/05/nasla_scalata.jpg)
+![nasla_scalata.jpg]({{baseurl}}/uploads/2007/05/nasla_scalata.jpg)
 
 
 

@@ -13,10 +13,10 @@ categories:
 
 Pizza di classe con le maestre Giovanna e Simonetta
 
-[![pizza_classe](http://pilde.net/blog/wp-content/uploads/2014/06/pizza_classe.jpg)
+[![pizza_classe]({{baseurl}}/uploads/2014/06/pizza_classe.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/06/pizza_classe.jpg)
+]({{baseurl}}/uploads/2014/06/pizza_classe.jpg)
 
 
 e la bellissima pagella: tutti 10 e un 9 in italiano ... così si impegna a scrivere meglio! ;)

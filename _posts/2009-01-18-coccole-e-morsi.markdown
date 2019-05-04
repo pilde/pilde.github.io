@@ -13,7 +13,7 @@ categories:
 
 Paciocchi è una coccolona e le piacciono i baci di mamma
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/01/coccole.jpg)
+[![]({{baseurl}}/uploads/2009/01/coccole.jpg)
 
 
 ](http://None)
@@ -23,7 +23,7 @@ Paciocchi è una coccolona e le piacciono i baci di mamma
 
 ma poi ogni tanto quando ha fame se la mangia!
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/01/morso.jpg)
+[![]({{baseurl}}/uploads/2009/01/morso.jpg)
 
 
 ](http://None)

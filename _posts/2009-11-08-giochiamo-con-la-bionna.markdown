@@ -13,7 +13,7 @@ categories:
 
 In questa domenica grigia e piovosa è venuta la bionna a rallegrarci.
 
-![](http://pilde.net/blog/wp-content/uploads/2009/11/bionna.jpg)
+![]({{baseurl}}/uploads/2009/11/bionna.jpg)
 
 
 
@@ -22,7 +22,7 @@ Abbiamo giocato con i chiodini e colorato. La bionna disegna sempre i vasi di fi
 
 Poi P ci ha preparato un'ottima polenta e sono venuti a pranzo anche zio Angelo e Leda...e quella mangiona di Marghe ha gradito!!
 
-![](http://pilde.net/blog/wp-content/uploads/2009/11/angelo.jpg)
+![]({{baseurl}}/uploads/2009/11/angelo.jpg)
 
 
 

@@ -16,7 +16,7 @@ Hei ecco perchè questi giorni ero un pò stranitella....è uscita fuori dalla m
 
 
 
-![dentino3.jpg](http://pilde.net/blog/wp-content/uploads/2007/02/dentino3.jpg)
+![dentino3.jpg]({{baseurl}}/uploads/2007/02/dentino3.jpg)
 
 
 

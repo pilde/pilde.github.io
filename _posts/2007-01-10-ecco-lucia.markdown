@@ -13,12 +13,12 @@ categories:
 
 Finalmente oggi ho conosciuto Lucia. Che carina, mi sa che faremo grandi cose insieme... intanto stasera ci mangiamo la prima pizza... vabbè col latte di mamma!!!
 
-![lucia.jpg](http://pilde.net/blog/wp-content/uploads/2007/01/lucia.jpg)
+![lucia.jpg]({{baseurl}}/uploads/2007/01/lucia.jpg)
 
 
 
 
-![matilde-e-lucia-007.jpg](http://pilde.net/blog/wp-content/uploads/2007/01/matilde-e-lucia-007.jpg)
+![matilde-e-lucia-007.jpg]({{baseurl}}/uploads/2007/01/matilde-e-lucia-007.jpg)
 
 
 

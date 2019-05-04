@@ -11,7 +11,7 @@ categories:
 - Eventi
 ---
 
-Oggi è il primo complemese di Margherita!E lei si sta chiedendo chi è questo capellone che la sbaciucchia![![](http://pilde.net/blog/wp-content/uploads/2008/10/complemese.jpg)
+Oggi è il primo complemese di Margherita!E lei si sta chiedendo chi è questo capellone che la sbaciucchia![![]({{baseurl}}/uploads/2008/10/complemese.jpg)
 
 
 ](http://None)

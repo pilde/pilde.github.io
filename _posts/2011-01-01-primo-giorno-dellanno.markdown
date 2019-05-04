@@ -13,19 +13,19 @@ categories:
 
 ... siamo andati al porto di ostia con M&P e abbiamo passato una bellissima giornata!
 
-![](http://pilde.net/blog/wp-content/uploads/2011/01/bimbe.jpg)
+![]({{baseurl}}/uploads/2011/01/bimbe.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2011/01/papy_mati.jpg)
+![]({{baseurl}}/uploads/2011/01/papy_mati.jpg)
 
 
 
 
 "M come è grande grande questo mare!"
 
-![](http://pilde.net/blog/wp-content/uploads/2011/01/mare2.jpg)
+![]({{baseurl}}/uploads/2011/01/mare2.jpg)
 
 
 

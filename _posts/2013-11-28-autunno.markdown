@@ -14,50 +14,50 @@ categories:
 
 Novembre è stato un mese di riposo dopo i tanti we trascorsi in giro! E' iniziato il freddo e si sta bene a casa! Ci siamo goduti le micine
 
-[![micie](http://pilde.net/blog/wp-content/uploads/2013/12/micie.jpg)
+[![micie]({{baseurl}}/uploads/2013/12/micie.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/12/micie.jpg)
+]({{baseurl}}/uploads/2013/12/micie.jpg)
 
 
-e abbiamo fatto tanti dolci e lavoretti![![cuore](http://pilde.net/blog/wp-content/uploads/2013/12/cuore.jpg)
+e abbiamo fatto tanti dolci e lavoretti![![cuore]({{baseurl}}/uploads/2013/12/cuore.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/12/cuore.jpg)
+]({{baseurl}}/uploads/2013/12/cuore.jpg)
 
 
-[![poli2](http://pilde.net/blog/wp-content/uploads/2013/12/poli2.jpg)
+[![poli2]({{baseurl}}/uploads/2013/12/poli2.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/12/poli2.jpg)
+]({{baseurl}}/uploads/2013/12/poli2.jpg)
 
 
-[![poli1](http://pilde.net/blog/wp-content/uploads/2013/12/poli1.jpg)
+[![poli1]({{baseurl}}/uploads/2013/12/poli1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/12/poli1.jpg)
+]({{baseurl}}/uploads/2013/12/poli1.jpg)
 
 
 e poi la sera una bella lettura
 
-[![lettura_serale](http://pilde.net/blog/wp-content/uploads/2013/12/lettura_serale.jpg)
+[![lettura_serale]({{baseurl}}/uploads/2013/12/lettura_serale.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/12/lettura_serale.jpg)
+]({{baseurl}}/uploads/2013/12/lettura_serale.jpg)
 
 
 Ci siamo anche vestite da streghette per Halloween insieme a Sara e abbiamo fatto 'dolcetto scherzetto' per il palazzo!
 
-[![hallo_3](http://pilde.net/blog/wp-content/uploads/2013/12/hallo_3.jpg)
+[![hallo_3]({{baseurl}}/uploads/2013/12/hallo_3.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/12/hallo_3.jpg)
+]({{baseurl}}/uploads/2013/12/hallo_3.jpg)
 
 
-e siamo andate a vedere il Cirque du Soleil con zia e Cate[![sorelle](http://pilde.net/blog/wp-content/uploads/2013/12/sorelle.jpg)
+e siamo andate a vedere il Cirque du Soleil con zia e Cate[![sorelle]({{baseurl}}/uploads/2013/12/sorelle.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/12/sorelle.jpg)
+]({{baseurl}}/uploads/2013/12/sorelle.jpg)
 
 
 

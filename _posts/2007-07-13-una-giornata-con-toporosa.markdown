@@ -12,14 +12,14 @@ categories:
 ---
 
 Ho trascorso una bellissima giornata con la mia gemellina.In realtà dopo esserci alternate nelle ninne siamo riuscite finalmente a giocare un po' insieme al parco.Ha dei giochini fantastici Toporosa e una palmetta in testa irresistibile!
-![toporosa1.jpg](http://pilde.net/blog/wp-content/uploads/2007/07/toporosa1.jpg)
+![toporosa1.jpg]({{baseurl}}/uploads/2007/07/toporosa1.jpg)
 
 
 
 
 Siamo anche andate insieme sulle giostrine, io guidavo il delfino e lei stava aggrappata a me!
 
-![delf.jpg](http://pilde.net/blog/wp-content/uploads/2007/07/delf.jpg)
+![delf.jpg]({{baseurl}}/uploads/2007/07/delf.jpg)
 
 
 

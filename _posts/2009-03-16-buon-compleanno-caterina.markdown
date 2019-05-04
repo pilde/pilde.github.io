@@ -16,7 +16,7 @@ categories:
 
 Tanti auguri alla cuginetta Cate per il suo primo anno!!
 
-![](http://pilde.net/blog/wp-content/uploads/2009/03/caterina2.jpg)
+![]({{baseurl}}/uploads/2009/03/caterina2.jpg)
 
 
 

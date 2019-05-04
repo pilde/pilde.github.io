@@ -14,10 +14,10 @@ categories:
 Ecco uno dei miei segreti... MeP si sposeranno in Sicilia il 31 Maggio.
 Per l'occasione sarò la damigella d'onore e porterò le fedi! WOW che compito importante!Non vedo l'ora di partire!
 
-[![duecuori.jpg](http://pilde.net/blog/wp-content/uploads/2008/05/duecuori.jpg)
+[![duecuori.jpg]({{baseurl}}/uploads/2008/05/duecuori.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2008/05/duecuori.jpg)
+]({{baseurl}}/uploads/2008/05/duecuori.jpg)
 
 
 

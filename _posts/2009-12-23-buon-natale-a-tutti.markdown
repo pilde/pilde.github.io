@@ -11,7 +11,7 @@ categories:
 - Eventi
 ---
 
-![](http://pilde.net/blog/wp-content/uploads/2009/12/buon_natale_blog.jpg)
+![]({{baseurl}}/uploads/2009/12/buon_natale_blog.jpg)
 
 
 

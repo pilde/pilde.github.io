@@ -13,7 +13,7 @@ categories:
 
 E' proprio vero che mangiare in compagnia è più divertente!
 
-![tavola.jpg](http://pilde.net/blog/wp-content/uploads/2008/01/tavola.jpg)
+![tavola.jpg]({{baseurl}}/uploads/2008/01/tavola.jpg)
 
 
 

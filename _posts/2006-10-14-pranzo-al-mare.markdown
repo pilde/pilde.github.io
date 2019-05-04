@@ -13,7 +13,7 @@ categories:
 
 La mia amica Popi ed io, siamo andate a pranzo al mare. Volevamo andare da sole, ma le mamme non ci lasciano mai... si sa... mamme italiane. Splendida giornata.
 
-![copia-di-dscn2425.JPG](http://pilde.net/blog/wp-content/uploads/2006/10/copia-di-dscn2425.JPG)
+![copia-di-dscn2425.JPG]({{baseurl}}/uploads/2006/10/copia-di-dscn2425.JPG)
 
 
 

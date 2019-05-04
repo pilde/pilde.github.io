@@ -18,7 +18,7 @@ categories:
 
 forza piccolina che siamo tutti curiosi di conoscerti!
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/04/mara.jpg)
+[![]({{baseurl}}/uploads/2009/04/mara.jpg)
 
 
 ](http://None)

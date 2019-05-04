@@ -13,18 +13,18 @@ categories:
 
 La piccola Marghe oggi è stata operata di ernia inguinale bilaterale, o come dice lei "c'ho l'ermia".
 
-[![ospedale](http://pilde.net/blog/wp-content/uploads/2013/12/ospedale.jpg)
+[![ospedale]({{baseurl}}/uploads/2013/12/ospedale.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/12/ospedale.jpg)
+]({{baseurl}}/uploads/2013/12/ospedale.jpg)
 
 
 Si è svegiata molto arrabbiata ancora sotto effetto dell'anestesia ma poi dopo altre tre ore di sonno era come nuova! Ha sorriso, mangiato, giocato con Giulia, una bimba ricoverata con lei, e poi si è messa a correre per i corridoi del reparto! La sera stessa ci hanno dimesse! E' stata ricoperta di regali ...  anche il completo da fatina!
 
-[![marghe_fatina](http://pilde.net/blog/wp-content/uploads/2013/12/marghe_fatina1.jpg)
+[![marghe_fatina]({{baseurl}}/uploads/2013/12/marghe_fatina1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/12/marghe_fatina1.jpg)
+]({{baseurl}}/uploads/2013/12/marghe_fatina1.jpg)
 
 
 

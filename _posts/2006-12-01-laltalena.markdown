@@ -16,15 +16,15 @@ L'altro giorno ho conosciuto un nuovo gioco... l'altalena! Non ho ancora capito 
 
 
 
-Se [cliccate](http://pilde.net/blog/wp-content/uploads/2006/12/movie.wmv)
+Se [cliccate]({{baseurl}}/uploads/2006/12/movie.wmv)
 
 
  sull'immagine c'è pure un piccolo filmino... sempre più tecnologica CYBERMATILDE.
 
-[![alta.JPG](http://pilde.net/blog/wp-content/uploads/2006/12/alta.JPG)
+[![alta.JPG]({{baseurl}}/uploads/2006/12/alta.JPG)
 
 
-](http://pilde.net/blog/wp-content/uploads/2006/12/movie.wmv)
+]({{baseurl}}/uploads/2006/12/movie.wmv)
 
 
 

@@ -11,7 +11,7 @@ categories:
 - Eventi
 ---
 
-![blog2.jpg](http://pilde.net/blog/wp-content/uploads/2007/02/blog2.jpg)
+![blog2.jpg]({{baseurl}}/uploads/2007/02/blog2.jpg)
 
 
 

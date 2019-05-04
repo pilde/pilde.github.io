@@ -14,18 +14,18 @@ categories:
 
 From India .... a big kiss!
 
-[![ray_hubel_ivan](http://pilde.net/blog/wp-content/uploads/2013/05/ray_hubel_ivan.jpg)
+[![ray_hubel_ivan]({{baseurl}}/uploads/2013/05/ray_hubel_ivan.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/05/ray_hubel_ivan.jpg)
+]({{baseurl}}/uploads/2013/05/ray_hubel_ivan.jpg)
 
 
 Evan ... a very horse rider!!!
 
-[![ivan_cavallo](http://pilde.net/blog/wp-content/uploads/2013/05/ivan_cavallo.jpg)
+[![ivan_cavallo]({{baseurl}}/uploads/2013/05/ivan_cavallo.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/05/ivan_cavallo.jpg)
+]({{baseurl}}/uploads/2013/05/ivan_cavallo.jpg)
 
 
 

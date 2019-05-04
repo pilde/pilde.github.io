@@ -13,19 +13,19 @@ categories:
 
 Lago di Bracciano!
 Ci svegliamo in camper con vista panoramica e andiamo a fare una bella colazione al sole sul lungo lago di Trevignano con Bruno e Noemi.
-![lago1.jpg](http://pilde.net/blog/wp-content/uploads/2007/04/lago1.jpg)
+![lago1.jpg]({{baseurl}}/uploads/2007/04/lago1.jpg)
 
 
 
 
 Mentre i maschietti fanno un pò di lavori per rimettere a posto la barca io mi godo il sole!
-![lago3.JPG](http://pilde.net/blog/wp-content/uploads/2007/04/lago3.JPG)
+![lago3.JPG]({{baseurl}}/uploads/2007/04/lago3.JPG)
 
 
 
 E' tutto pronto per il varo di Rolabagna! Finalmente dopo mesi tra gli ulivi la mia povera barchetta rivede l'acqua!
 
-![lago5.JPG](http://pilde.net/blog/wp-content/uploads/2007/04/lago5.JPG)
+![lago5.JPG]({{baseurl}}/uploads/2007/04/lago5.JPG)
 
 
 
@@ -35,7 +35,7 @@ La prossima volta però vado a fare un giro anche io! ;)
 
 
 
-![lago6.JPG](http://pilde.net/blog/wp-content/uploads/2007/04/lago6.JPG)
+![lago6.JPG]({{baseurl}}/uploads/2007/04/lago6.JPG)
 
 
 

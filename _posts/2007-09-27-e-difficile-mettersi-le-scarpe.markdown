@@ -12,7 +12,7 @@ categories:
 ---
 
 Io ci provo sempre...ma forse sbaglio qualcosa?
-![scarpe.jpg](http://pilde.net/blog/wp-content/uploads/2007/09/scarpe.jpg)
+![scarpe.jpg]({{baseurl}}/uploads/2007/09/scarpe.jpg)
 
 
 

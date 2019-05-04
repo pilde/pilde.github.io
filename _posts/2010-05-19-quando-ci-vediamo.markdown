@@ -13,7 +13,7 @@ categories:
 
 un saluto da zia Giorgia e Morgan alle due monellette...
 
-![](http://pilde.net/blog/wp-content/uploads/2010/05/zia.jpg)
+![]({{baseurl}}/uploads/2010/05/zia.jpg)
 
 
 

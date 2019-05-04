@@ -16,7 +16,7 @@ Mille e mille auguroni di buon compleanno a Francesca (meglio nota come Cicia!)
 
 
 
-![cicia.jpg](http://pilde.net/blog/wp-content/uploads/2007/10/cicia.jpg)
+![cicia.jpg]({{baseurl}}/uploads/2007/10/cicia.jpg)
 
 
 

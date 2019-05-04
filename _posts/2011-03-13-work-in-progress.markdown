@@ -13,10 +13,10 @@ categories:
 
 M ha portato P allo splendido concerto di Dalla e De Gregori, e conoscendo M l'ha fatto proprio per P!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/03/dalladeg-1_small.jpg)
+[![]({{baseurl}}/uploads/2011/03/dalladeg-1_small.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2011/03/dalladeg-1_small.jpg)
+]({{baseurl}}/uploads/2011/03/dalladeg-1_small.jpg)
 
 
 

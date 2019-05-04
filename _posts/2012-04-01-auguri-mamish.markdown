@@ -13,12 +13,12 @@ categories:
 
 Per il tuo compleanno ti portiamo a spasso tra le peonie di Vitorchiano!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/04/peonia.jpg)
+![]({{baseurl}}/uploads/2012/04/peonia.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2012/04/bimbe.jpg)
+![]({{baseurl}}/uploads/2012/04/bimbe.jpg)
 
 
 

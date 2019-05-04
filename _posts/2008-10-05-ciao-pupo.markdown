@@ -14,7 +14,7 @@ categories:
 
 Che bellissima giornata a Norma! Sono venuti tanti amici da tutta italia a far volare i loro parapendio in ricordo di una persona speciale! Hanno aspettato pazienti che ci fossero le condizioni giuste
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/10/aterra1.jpg)
+[![]({{baseurl}}/uploads/2008/10/aterra1.jpg)
 
 
 ](http://None)
@@ -24,7 +24,7 @@ Che bellissima giornata a Norma! Sono venuti tanti amici da tutta italia a far v
 
 e poi sono volati tutti via! Che spettacolo il cielo così colorato
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/10/involo.jpg)
+[![]({{baseurl}}/uploads/2008/10/involo.jpg)
 
 
 ](http://None)
@@ -37,7 +37,7 @@ e poi sono volati tutti via! Che spettacolo il cielo così colorato
 
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/10/podio.jpg)
+[![]({{baseurl}}/uploads/2008/10/podio.jpg)
 
 
 ](http://None)
@@ -47,7 +47,7 @@ e poi sono volati tutti via! Che spettacolo il cielo così colorato
 
 Arriveduar
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/10/arriveduar.jpg)
+[![]({{baseurl}}/uploads/2008/10/arriveduar.jpg)
 
 
 ](http://None)

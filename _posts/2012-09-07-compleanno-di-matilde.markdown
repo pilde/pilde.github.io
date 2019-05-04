@@ -13,26 +13,26 @@ categories:
 
 Auguri cucciola! E che sia un anno pieno di novità e di avventure!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/09/compl_redux.jpg)
+![]({{baseurl}}/uploads/2012/09/compl_redux.jpg)
 
 
 
 
 Si festeggia con qualche amico, una cosa improvvisata, e per torta un tiramisù alle fragole
 
-![](http://pilde.net/blog/wp-content/uploads/2012/09/torta_mati.jpg)
+![]({{baseurl}}/uploads/2012/09/torta_mati.jpg)
 
 
 
 
 e il giorno dopo con la famiglia e Ray a Magicland!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/09/magicland_gommone.jpg)
+![]({{baseurl}}/uploads/2012/09/magicland_gommone.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2012/09/magicland_ray.jpg)
+![]({{baseurl}}/uploads/2012/09/magicland_ray.jpg)
 
 
 
@@ -42,52 +42,52 @@ Mapy e Ray fanno anche il pauroso gioco Mystica (eccoli nel cerchietto rosso)
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2012/09/magicland_mystica.jpg)
+![]({{baseurl}}/uploads/2012/09/magicland_mystica.jpg)
 
 
 
 
 e le bimbe la versione light!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/09/magicland_mystica_maggy1.jpg)
+![]({{baseurl}}/uploads/2012/09/magicland_mystica_maggy1.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2012/09/magicland_mystica_maty.jpg)
+![]({{baseurl}}/uploads/2012/09/magicland_mystica_maty.jpg)
 
 
 
 
 Poi altri giochi
 
-![](http://pilde.net/blog/wp-content/uploads/2012/09/magicland_martello.jpg)
+![]({{baseurl}}/uploads/2012/09/magicland_martello.jpg)
 
 
 
 
 e gli spettacoli di Gattobaleno, I Gladiatori, le Winxs e gli stuntman!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/09/mati_ray_mamy.jpg)
+![]({{baseurl}}/uploads/2012/09/mati_ray_mamy.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2012/09/matiray.jpg)
+![]({{baseurl}}/uploads/2012/09/matiray.jpg)
 
 
 
 
 Ray è riuscito anche a prenderci un mega winnie pooh!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/09/matimapy.jpg)
+![]({{baseurl}}/uploads/2012/09/matimapy.jpg)
 
 
 
 
 C'era tantissima gente ma alla fine ci siamo divertiti tutti lo stesso!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/09/magicland_ippo.jpg)
+![]({{baseurl}}/uploads/2012/09/magicland_ippo.jpg)
 
 
 
@@ -97,7 +97,7 @@ Ciao ciao :)
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2012/09/magicland_leonesse.jpg)
+![]({{baseurl}}/uploads/2012/09/magicland_leonesse.jpg)
 
 
 

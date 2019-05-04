@@ -15,12 +15,12 @@ Sembra proprio che qualche olivetta alla fine ci sia!
 
 12 litri d'olio....pensavamo 0!!!
 
-![olive](http://pilde.net/blog/wp-content/uploads/2018/12/olive.jpg)
+![olive]({{baseurl}}/uploads/2018/12/olive.jpg)
 
 
 e tanti cachi
 
-![cachi](http://pilde.net/blog/wp-content/uploads/2018/12/cachi.jpg)
+![cachi]({{baseurl}}/uploads/2018/12/cachi.jpg)
 
 
 

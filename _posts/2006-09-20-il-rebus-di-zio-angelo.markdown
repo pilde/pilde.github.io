@@ -11,7 +11,7 @@ categories:
 - Giochi
 ---
 
-![rebus](http://pilde.net/blog/wp-content/uploads/2006/09/zioangelo.JPG)
+![rebus]({{baseurl}}/uploads/2006/09/zioangelo.JPG)
 
 
 

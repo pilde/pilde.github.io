@@ -16,7 +16,7 @@ categories:
 
 Màrghere non piangere che i nonni tornano presto....sono andati in India...dai che la prossima volta ci andiamo anche noi!
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/01/nonni.jpg)
+[![]({{baseurl}}/uploads/2009/01/nonni.jpg)
 
 
 ](http://None)

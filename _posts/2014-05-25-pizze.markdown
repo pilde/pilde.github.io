@@ -13,36 +13,36 @@ categories:
 
 Una bella giornata ... e allora tutti dai nonni a fare le pizze al forno a legna!
 
-[![pizze](http://pilde.net/blog/wp-content/uploads/2014/06/pizze.jpg)
+[![pizze]({{baseurl}}/uploads/2014/06/pizze.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/06/pizze.jpg)
+]({{baseurl}}/uploads/2014/06/pizze.jpg)
 
 
-[![pizze_mati&emma](http://pilde.net/blog/wp-content/uploads/2014/06/pizze_matiemma.jpg)
+[![pizze_mati&emma]({{baseurl}}/uploads/2014/06/pizze_matiemma.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/06/pizze_matiemma.jpg)
+]({{baseurl}}/uploads/2014/06/pizze_matiemma.jpg)
 
 
 e dopo una gran mangiata un pò di relax ....
 
-[![pizze_amaca](http://pilde.net/blog/wp-content/uploads/2014/06/pizze_amaca.jpg)
+[![pizze_amaca]({{baseurl}}/uploads/2014/06/pizze_amaca.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/06/pizze_amaca.jpg)
+]({{baseurl}}/uploads/2014/06/pizze_amaca.jpg)
 
 
-[![pizze_amaca_m&m&f](http://pilde.net/blog/wp-content/uploads/2014/06/pizze_amaca_mmf.jpg)
+[![pizze_amaca_m&m&f]({{baseurl}}/uploads/2014/06/pizze_amaca_mmf.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/06/pizze_amaca_mmf.jpg)
+]({{baseurl}}/uploads/2014/06/pizze_amaca_mmf.jpg)
 
 
-[![pizze_amaca_M&L](http://pilde.net/blog/wp-content/uploads/2014/06/pizze_amaca_ML.jpg)
+[![pizze_amaca_M&L]({{baseurl}}/uploads/2014/06/pizze_amaca_ML.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/06/pizze_amaca_ML.jpg)
+]({{baseurl}}/uploads/2014/06/pizze_amaca_ML.jpg)
 
 
 per poi dedicarci alla caccia (al serpente!!!)
@@ -50,22 +50,22 @@ per poi dedicarci alla caccia (al serpente!!!)
 
  ... muniti di archi, frecce, spade e bastoni...
 
-[![pizze_cacciatori2](http://pilde.net/blog/wp-content/uploads/2014/06/pizze_cacciatori2.jpg)
+[![pizze_cacciatori2]({{baseurl}}/uploads/2014/06/pizze_cacciatori2.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/06/pizze_cacciatori2.jpg)
+]({{baseurl}}/uploads/2014/06/pizze_cacciatori2.jpg)
 
 
-[![pizze_cacciatori_guado](http://pilde.net/blog/wp-content/uploads/2014/06/pizze_cacciatori_guado.jpg)
+[![pizze_cacciatori_guado]({{baseurl}}/uploads/2014/06/pizze_cacciatori_guado.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/06/pizze_cacciatori_guado.jpg)
+]({{baseurl}}/uploads/2014/06/pizze_cacciatori_guado.jpg)
 
 
-[![pizze_cacciatori1](http://pilde.net/blog/wp-content/uploads/2014/06/pizze_cacciatori1.jpg)
+[![pizze_cacciatori1]({{baseurl}}/uploads/2014/06/pizze_cacciatori1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/06/pizze_cacciatori1.jpg)
+]({{baseurl}}/uploads/2014/06/pizze_cacciatori1.jpg)
 
 
 Per fortuna nessuno ha avvistato il serpente....solo Ale (il solito fortunato)

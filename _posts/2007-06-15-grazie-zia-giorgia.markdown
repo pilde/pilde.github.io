@@ -20,7 +20,7 @@ Ci vediamo presto! :D
 
 scuffu di zia
 
-![amaca_zia.JPG](http://pilde.net/blog/wp-content/uploads/2007/06/amaca_zia.JPG)
+![amaca_zia.JPG]({{baseurl}}/uploads/2007/06/amaca_zia.JPG)
 
 
 

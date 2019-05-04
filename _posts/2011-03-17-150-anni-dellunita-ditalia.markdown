@@ -14,7 +14,7 @@ categories:
 
 Auguri ITALIA!!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/03/unita_italia1.jpg)
+[![]({{baseurl}}/uploads/2011/03/unita_italia1.jpg)
 
 
 ](http://None)
@@ -24,7 +24,7 @@ Auguri ITALIA!!
 
 Due gambette si aggirano sotto la pioggia...
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/03/sotto_la_pioggia.jpg)
+[![]({{baseurl}}/uploads/2011/03/sotto_la_pioggia.jpg)
 
 
 ](http://None)
@@ -34,7 +34,7 @@ Due gambette si aggirano sotto la pioggia...
 
 ... ma dove andranno?? ... alla mostra di Chagall!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/03/chagal_1.jpg)
+[![]({{baseurl}}/uploads/2011/03/chagal_1.jpg)
 
 
 ](http://None)
@@ -44,7 +44,7 @@ Due gambette si aggirano sotto la pioggia...
 
 Matilde che è molto artista apprezza tutto
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/03/chagal_2.jpg)
+[![]({{baseurl}}/uploads/2011/03/chagal_2.jpg)
 
 
 ](http://None)
@@ -54,7 +54,7 @@ Matilde che è molto artista apprezza tutto
 
 .. a Margherita sono piaciute le mucche verdi e da buona 'lettrice' il libro di fiabe illustrate dal pittore...ma anche l'Ara Pacis in spalla a papy!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/03/chagal_3.jpg)
+[![]({{baseurl}}/uploads/2011/03/chagal_3.jpg)
 
 
 ](http://None)

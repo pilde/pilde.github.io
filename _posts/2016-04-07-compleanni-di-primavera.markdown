@@ -13,24 +13,24 @@ categories:
 
 Auguri nonno Mario
 
-![nonno_mario](http://pilde.net/blog/wp-content/uploads/2016/06/nonno_mario.png)
+![nonno_mario]({{baseurl}}/uploads/2016/06/nonno_mario.png)
 
 
 nonno Gianni
 
-![nonno_gianni](http://pilde.net/blog/wp-content/uploads/2016/06/nonno_gianni.jpg)
+![nonno_gianni]({{baseurl}}/uploads/2016/06/nonno_gianni.jpg)
 
 
 
 
-![gianni](http://pilde.net/blog/wp-content/uploads/2016/03/gianni.jpg)
+![gianni]({{baseurl}}/uploads/2016/03/gianni.jpg)
 
 
 
 
 e nonna Franca
 
-![nonna_Franca](http://pilde.net/blog/wp-content/uploads/2016/06/nonna_Franca-1.jpg)
+![nonna_Franca]({{baseurl}}/uploads/2016/06/nonna_Franca-1.jpg)
 
 
 

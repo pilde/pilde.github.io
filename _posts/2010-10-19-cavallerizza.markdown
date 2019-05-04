@@ -14,7 +14,7 @@ categories:
 
 Sono temeraria, spericolata ma romantica ....e mi piacciono gli animali...di qualunque dimensione!!
 
-![](http://pilde.net/blog/wp-content/uploads/2010/10/marghe_cavallo_blog.jpg)
+![]({{baseurl}}/uploads/2010/10/marghe_cavallo_blog.jpg)
 
 
 

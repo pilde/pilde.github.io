@@ -14,24 +14,24 @@ categories:
 Con i miei 80 cm di altezza e 10 Kg di peso sono una modella perfetta!
 M si diverte a vestirmi come una signorina
 
-![kilt.jpg](http://pilde.net/blog/wp-content/uploads/2007/11/kilt.jpg)
+![kilt.jpg]({{baseurl}}/uploads/2007/11/kilt.jpg)
 
 
 
 
-![lilla.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/lilla.jpg)
+![lilla.jpg]({{baseurl}}/uploads/2007/12/lilla.jpg)
 
 
 
 
  e nonna Franca la aiuta creando dei vestiti bellissimi per me! 
 
-![giuditta2.jpg](http://pilde.net/blog/wp-content/uploads/2007/11/giuditta2.jpg)
+![giuditta2.jpg]({{baseurl}}/uploads/2007/11/giuditta2.jpg)
 
 
 
 
-![poncho.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/poncho.jpg)
+![poncho.jpg]({{baseurl}}/uploads/2007/12/poncho.jpg)
 
 
 
@@ -41,7 +41,7 @@ M si diverte a vestirmi come una signorina
 
 
 
-![timida.jpg](http://pilde.net/blog/wp-content/uploads/2007/11/timida.jpg)
+![timida.jpg]({{baseurl}}/uploads/2007/11/timida.jpg)
 
 
 

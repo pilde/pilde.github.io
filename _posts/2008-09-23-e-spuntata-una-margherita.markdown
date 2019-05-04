@@ -13,10 +13,10 @@ categories:
 
 Stanotte è spuntata una Margherita. Sta benissimo e "c'ha 'l grugno", mi sa che sarebbe rimasta volentieri con mamma Carlotta ancora un pochino.
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/09/margherita_small.jpg)
+[![]({{baseurl}}/uploads/2008/09/margherita_small.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2008/09/margherita_small.jpg)
+]({{baseurl}}/uploads/2008/09/margherita_small.jpg)
 
 
 

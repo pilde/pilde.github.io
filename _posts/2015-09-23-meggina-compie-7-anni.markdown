@@ -11,16 +11,16 @@ categories:
 - Compleanni
 ---
 
-[![compl_meggy1](http://pilde.net/blog/wp-content/uploads/2016/01/compl_meggy1.jpg)
+[![compl_meggy1]({{baseurl}}/uploads/2016/01/compl_meggy1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2016/01/compl_meggy1.jpg)
+]({{baseurl}}/uploads/2016/01/compl_meggy1.jpg)
 
 
- [![compl_meggy2](http://pilde.net/blog/wp-content/uploads/2016/01/compl_meggy2.jpg)
+ [![compl_meggy2]({{baseurl}}/uploads/2016/01/compl_meggy2.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2016/01/compl_meggy2.jpg)
+]({{baseurl}}/uploads/2016/01/compl_meggy2.jpg)
 
 
 

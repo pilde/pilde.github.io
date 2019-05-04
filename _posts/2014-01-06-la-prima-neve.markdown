@@ -16,100 +16,100 @@ Andiamo sulla neve a Campo Catino per la Befana!!
 
 Matilde scia
 
-[![mati_skilift](http://pilde.net/blog/wp-content/uploads/2014/01/mati_skilift.jpg)
+[![mati_skilift]({{baseurl}}/uploads/2014/01/mati_skilift.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/01/mati_skilift.jpg)
+]({{baseurl}}/uploads/2014/01/mati_skilift.jpg)
 
 
 Margherita gioca nella neve
 
-[![marghe_alce](http://pilde.net/blog/wp-content/uploads/2014/01/marghe_alce.jpg)
+[![marghe_alce]({{baseurl}}/uploads/2014/01/marghe_alce.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/01/marghe_alce.jpg)
+]({{baseurl}}/uploads/2014/01/marghe_alce.jpg)
 
 
 Caterina fa la farfallina
 
-[![cate](http://pilde.net/blog/wp-content/uploads/2014/01/cate.jpg)
+[![cate]({{baseurl}}/uploads/2014/01/cate.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/01/cate.jpg)
+]({{baseurl}}/uploads/2014/01/cate.jpg)
 
 
 M&P chiaccherano e sciano
 
-[![m&p](http://pilde.net/blog/wp-content/uploads/2014/01/mp.jpg)
+[![m&p]({{baseurl}}/uploads/2014/01/mp.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/01/mp.jpg)
+]({{baseurl}}/uploads/2014/01/mp.jpg)
 
 
 
 
 Catia fa le foto
 
-[![catia](http://pilde.net/blog/wp-content/uploads/2014/01/catia.jpg)
+[![catia]({{baseurl}}/uploads/2014/01/catia.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/01/catia.jpg)
+]({{baseurl}}/uploads/2014/01/catia.jpg)
 
 
 zia Betta è fighissima con il suo snowboard
 
-[![betta](http://pilde.net/blog/wp-content/uploads/2014/01/betta.jpg)
+[![betta]({{baseurl}}/uploads/2014/01/betta.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/01/betta.jpg)
+]({{baseurl}}/uploads/2014/01/betta.jpg)
 
 
 e Ray prova gli sci per la prima volta!
 
-[![ray](http://pilde.net/blog/wp-content/uploads/2014/01/ray.jpg)
+[![ray]({{baseurl}}/uploads/2014/01/ray.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/01/ray.jpg)
+]({{baseurl}}/uploads/2014/01/ray.jpg)
 
 
 .... ma il divertimento più grande è sempre con lo slittino!!!
 
-[![betta&cate](http://pilde.net/blog/wp-content/uploads/2014/01/bettacate.jpg)
+[![betta&cate]({{baseurl}}/uploads/2014/01/bettacate.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/01/bettacate.jpg)
-
-
-
-
-
-
-[![slittino3](http://pilde.net/blog/wp-content/uploads/2014/01/slittino3.jpg)
-
-
-](http://pilde.net/blog/wp-content/uploads/2014/01/slittino3.jpg)
+]({{baseurl}}/uploads/2014/01/bettacate.jpg)
 
 
 
 
 
 
-[![slittini](http://pilde.net/blog/wp-content/uploads/2014/01/slittini.jpg)
+[![slittino3]({{baseurl}}/uploads/2014/01/slittino3.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/01/slittini.jpg)
+]({{baseurl}}/uploads/2014/01/slittino3.jpg)
 
 
-[![ray_slittino](http://pilde.net/blog/wp-content/uploads/2014/01/ray_slittino.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/01/ray_slittino.jpg)
 
 
-[![slittone](http://pilde.net/blog/wp-content/uploads/2014/01/slittone.jpg)
+[![slittini]({{baseurl}}/uploads/2014/01/slittini.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/01/slittone.jpg)
+]({{baseurl}}/uploads/2014/01/slittini.jpg)
+
+
+[![ray_slittino]({{baseurl}}/uploads/2014/01/ray_slittino.jpg)
+
+
+]({{baseurl}}/uploads/2014/01/ray_slittino.jpg)
+
+
+[![slittone]({{baseurl}}/uploads/2014/01/slittone.jpg)
+
+
+]({{baseurl}}/uploads/2014/01/slittone.jpg)
 
 
 

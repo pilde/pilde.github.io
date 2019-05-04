@@ -15,14 +15,14 @@ Oggi è il 31 dicembre, l'ultimo giorno di questo bel 2007!
 Abbiamo deciso di regalarci una giornata sulla neve a Ovindoli. 
 Appena sono scesa dalla macchina ho visto gli alberi "grandi"...un bosco e tanta neve. E' buffa la neve, fredda e morbida.
 
-![neve1.jpg](http://pilde.net/blog/wp-content/uploads/2008/01/neve1.jpg)
+![neve1.jpg]({{baseurl}}/uploads/2008/01/neve1.jpg)
 
 
 
 
 Con P abbiamo fatto una discesa sulla paletta!
 
-![scivolo.jpg](http://pilde.net/blog/wp-content/uploads/2008/01/scivolo.jpg)
+![scivolo.jpg]({{baseurl}}/uploads/2008/01/scivolo.jpg)
 
 
 
@@ -32,21 +32,21 @@ Poi con i fuoristrada, insieme a Noemi, Bruno, Selene, Ettore, Luca e Federica a
 
 
  
-![grupponeve.jpg](http://pilde.net/blog/wp-content/uploads/2008/01/grupponeve.jpg)
+![grupponeve.jpg]({{baseurl}}/uploads/2008/01/grupponeve.jpg)
 
 
 
 
 e io ho mangiato tanto ghiaccio
 
-![ghiaccio.jpg](http://pilde.net/blog/wp-content/uploads/2008/01/ghiaccio.jpg)
+![ghiaccio.jpg]({{baseurl}}/uploads/2008/01/ghiaccio.jpg)
 
 
 
 
 Bruno mi ha portata dai "cacalli" e sono anche salita sopra a quello bianco reggendomi alla criniera.Che bello!
 
-![cavalli.jpg](http://pilde.net/blog/wp-content/uploads/2008/01/cavalli.jpg)
+![cavalli.jpg]({{baseurl}}/uploads/2008/01/cavalli.jpg)
 
 
 

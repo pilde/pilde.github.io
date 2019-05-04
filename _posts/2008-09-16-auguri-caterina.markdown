@@ -16,7 +16,7 @@ Oggi la mia cuginetta compie mezzo anno! E guardate come ce ne andiamo già in g
 
 
 
-![mezzoanno.jpg](http://pilde.net/blog/wp-content/uploads/2008/09/mezzoanno.jpg)
+![mezzoanno.jpg]({{baseurl}}/uploads/2008/09/mezzoanno.jpg)
 
 
 

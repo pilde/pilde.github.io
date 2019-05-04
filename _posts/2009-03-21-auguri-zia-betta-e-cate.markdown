@@ -13,7 +13,7 @@ categories:
 
 Buon compleanno zia e buona festa di Cate!
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/03/betta.jpg)
+[![]({{baseurl}}/uploads/2009/03/betta.jpg)
 
 
 ](http://None)

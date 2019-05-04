@@ -11,10 +11,10 @@ categories:
 - Eventi
 ---
 
-[![christmas](http://pilde.net/blog/wp-content/uploads/2014/12/christmas.jpg)
+[![christmas]({{baseurl}}/uploads/2014/12/christmas.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/12/christmas.jpg)
+]({{baseurl}}/uploads/2014/12/christmas.jpg)
 
 
 

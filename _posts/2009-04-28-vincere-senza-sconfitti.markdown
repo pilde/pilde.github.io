@@ -21,10 +21,10 @@ categories:
 <td > 
 </td>
 
-<td >[![](http://pilde.net/blog/wp-content/uploads/2009/04/convinti-225x300.jpg)
+<td >[![]({{baseurl}}/uploads/2009/04/convinti-225x300.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2009/04/convinti.jpg)
+]({{baseurl}}/uploads/2009/04/convinti.jpg)
 
 
 

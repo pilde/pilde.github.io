@@ -15,14 +15,14 @@ Il 7 ha un significato particolare per noi.
 
 Io sono nata il 7, MeP sono 7 dipendenti eppoi... i nani sono 7...
 
-![7nani.jpg](http://pilde.net/blog/wp-content/uploads/2007/07/7nani.jpg)
+![7nani.jpg]({{baseurl}}/uploads/2007/07/7nani.jpg)
 
 
 
 
 anche io sono una nanetta, ma crescerò!
 
-![nana.JPG](http://pilde.net/blog/wp-content/uploads/2007/07/nana.JPG)
+![nana.JPG]({{baseurl}}/uploads/2007/07/nana.JPG)
 
 
 

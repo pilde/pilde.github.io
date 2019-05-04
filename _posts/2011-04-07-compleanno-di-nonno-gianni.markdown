@@ -13,7 +13,7 @@ categories:
 
 Auguri nonno!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/04/compleanno_nonno1.jpg)
+[![]({{baseurl}}/uploads/2011/04/compleanno_nonno1.jpg)
 
 
 ](http://None)
@@ -23,7 +23,7 @@ Auguri nonno!
 
 e guarda che vallette a soffiare sulla tua torta!!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/04/compleanno_nonno2.jpg)
+[![]({{baseurl}}/uploads/2011/04/compleanno_nonno2.jpg)
 
 
 ](http://None)

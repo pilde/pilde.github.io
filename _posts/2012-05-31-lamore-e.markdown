@@ -13,17 +13,17 @@ categories:
 
 .. una sorella che ti aiuta nei momenti difficili ...
 
-![](http://pilde.net/blog/wp-content/uploads/2012/05/giochi_1.jpg)
+![]({{baseurl}}/uploads/2012/05/giochi_1.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2012/05/giochi_2.jpg)
+![]({{baseurl}}/uploads/2012/05/giochi_2.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2012/05/giochi_3.jpg)
+![]({{baseurl}}/uploads/2012/05/giochi_3.jpg)
 
 
 

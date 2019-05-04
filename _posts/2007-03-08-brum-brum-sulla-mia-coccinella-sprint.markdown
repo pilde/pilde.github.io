@@ -13,7 +13,7 @@ categories:
 
 Oggi si va in moto sulla mia coccinella sprint
 
-![coccinella.jpg](http://pilde.net/blog/wp-content/uploads/2007/03/coccinella.jpg)
+![coccinella.jpg]({{baseurl}}/uploads/2007/03/coccinella.jpg)
 
 
 

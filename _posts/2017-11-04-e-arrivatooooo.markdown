@@ -16,15 +16,15 @@ finalmente il nostro i'cookin :)
 
 
 
-![icookin](http://pilde.net/blog/wp-content/uploads/2017/12/icookin.png)
+![icookin]({{baseurl}}/uploads/2017/12/icookin.png)
 
 
 
 
-Maggy si mette subito all'opera....prima cosa una bella cioccolata calda!![meggy_cookin](http://pilde.net/blog/wp-content/uploads/2017/12/meggy_cookin.png)
+Maggy si mette subito all'opera....prima cosa una bella cioccolata calda!![meggy_cookin]({{baseurl}}/uploads/2017/12/meggy_cookin.png)
 
 
- ![cioccolata](http://pilde.net/blog/wp-content/uploads/2017/12/cioccolata.png)
+ ![cioccolata]({{baseurl}}/uploads/2017/12/cioccolata.png)
 
 
 

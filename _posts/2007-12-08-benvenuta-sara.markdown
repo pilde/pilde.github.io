@@ -11,7 +11,7 @@ categories:
 - Presentazione
 ---
 
-![sara.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/sara.jpg)
+![sara.jpg]({{baseurl}}/uploads/2007/12/sara.jpg)
 
 
 

@@ -13,7 +13,7 @@ categories:
 
 Oggi sono tornate a casa mamma e Margherita! Ho aiutato P a portarla dentro..mi ha regalato una bellissima renna a dondolo....però guardando Margherita ho chiesto a P "quella cos'è?"
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/09/acasa1.jpg)
+[![]({{baseurl}}/uploads/2008/09/acasa1.jpg)
 
 
 ](http://None)
@@ -23,7 +23,7 @@ Oggi sono tornate a casa mamma e Margherita! Ho aiutato P a portarla dentro..mi 
 
 L'ho presa in braccio...ha dei piedini minuscoli
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/09/piedini.jpg)
+[![]({{baseurl}}/uploads/2008/09/piedini.jpg)
 
 
 ](http://None)
@@ -33,7 +33,7 @@ L'ho presa in braccio...ha dei piedini minuscoli
 
 Ci siamo sedute con Caterina e Margherita sul mio letto...Margherita secondo me avrà pensato "ma chi sono ste due?"
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/09/chisonostedue.jpg)
+[![]({{baseurl}}/uploads/2008/09/chisonostedue.jpg)
 
 
 ](http://None)

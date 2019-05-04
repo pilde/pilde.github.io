@@ -11,7 +11,7 @@ categories:
 - Presentazione
 ---
 
-![](http://pilde.net/blog/wp-content/uploads/2009/07/sonno.jpg)
+![]({{baseurl}}/uploads/2009/07/sonno.jpg)
 
 
 

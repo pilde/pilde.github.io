@@ -14,7 +14,7 @@ categories:
 
 Stamattina si parte con i nonni per andare da zia Giorgia e Morgan! Ciao M&P fate i bravi!
 
-![noi_tre](http://pilde.net/blog/wp-content/uploads/2017/06/noi_tre.png)
+![noi_tre]({{baseurl}}/uploads/2017/06/noi_tre.png)
 
 
 

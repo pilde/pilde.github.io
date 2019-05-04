@@ -14,7 +14,7 @@ categories:
 
 L'altra sera Antonella ed Andrea mi hanno fatto un'altra torta ed io ho addirittura provato a spegnere la candelina, ma insomma, ancora ho qualche difficolta ...
 
-![test1.JPG](http://pilde.net/blog/wp-content/uploads/2007/09/test1.JPG)
+![test1.JPG]({{baseurl}}/uploads/2007/09/test1.JPG)
 
 
 

@@ -13,49 +13,49 @@ categories:
 
 .... biciclette
 
-![](http://pilde.net/blog/wp-content/uploads/2010/02/bici1.jpg)
+![]({{baseurl}}/uploads/2010/02/bici1.jpg)
 
 
 
 
 ... succhi di frutta
 
-![](http://pilde.net/blog/wp-content/uploads/2010/02/succhi.jpg)
+![]({{baseurl}}/uploads/2010/02/succhi.jpg)
 
 
 
 
 ... palle
 
-![](http://pilde.net/blog/wp-content/uploads/2010/02/caterina_palla.jpg)
+![]({{baseurl}}/uploads/2010/02/caterina_palla.jpg)
 
 
 
 
 ... coccole di nonno
 
-![](http://pilde.net/blog/wp-content/uploads/2010/02/coccolenonno.jpg)
+![]({{baseurl}}/uploads/2010/02/coccolenonno.jpg)
 
 
 
 
 ... adesivi sulle scarpe
 
-![](http://pilde.net/blog/wp-content/uploads/2010/02/adesivi.jpg)
+![]({{baseurl}}/uploads/2010/02/adesivi.jpg)
 
 
 
 
 ... salti sul tappetone elastico
 
-![](http://pilde.net/blog/wp-content/uploads/2010/02/tappetone.jpg)
+![]({{baseurl}}/uploads/2010/02/tappetone.jpg)
 
 
 
 
 e di mamme che esagerano!
 
-![](http://pilde.net/blog/wp-content/uploads/2010/02/tappetone_mamma.jpg)
+![]({{baseurl}}/uploads/2010/02/tappetone_mamma.jpg)
 
 
 

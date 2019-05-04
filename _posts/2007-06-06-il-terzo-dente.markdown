@@ -16,7 +16,7 @@ Evviva!Ieri è uscito il mio terzo dente!E che dente!Finalmente posso addentare 
 
 
 
-![dentino.jpg](http://pilde.net/blog/wp-content/uploads/2007/06/dentino.jpg)
+![dentino.jpg]({{baseurl}}/uploads/2007/06/dentino.jpg)
 
 
 

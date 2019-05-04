@@ -11,17 +11,17 @@ categories:
 - Eventi
 ---
 
-Guardate un po' il nostro giardino ... [![](http://pilde.net/blog/wp-content/uploads/2010/02/neve1.jpg)
+Guardate un po' il nostro giardino ... [![]({{baseurl}}/uploads/2010/02/neve1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2010/02/neve1.jpg)
+]({{baseurl}}/uploads/2010/02/neve1.jpg)
 
 
 
 
 che bello tutto bianco!
 
-![](http://pilde.net/blog/wp-content/uploads/2010/02/neve2.jpg)
+![]({{baseurl}}/uploads/2010/02/neve2.jpg)
 
 
 

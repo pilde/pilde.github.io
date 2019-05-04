@@ -16,35 +16,35 @@ categories:
 
 Non ci siamo fatti mancare niente! Un pò di mare a Pescia ... al Chiarone
 
-![](http://pilde.net/blog/wp-content/uploads/2010/07/mare_pescia.jpg)
+![]({{baseurl}}/uploads/2010/07/mare_pescia.jpg)
 
 
 
 
 qualche gelato per rinfrescarsi
 
-![](http://pilde.net/blog/wp-content/uploads/2010/07/ghiacciolo.jpg)
+![]({{baseurl}}/uploads/2010/07/ghiacciolo.jpg)
 
 
 
 
 un pò di lago di Bolsena con le amichette Anna e  Nina
 
-![](http://pilde.net/blog/wp-content/uploads/2010/07/materassone.jpg)
+![]({{baseurl}}/uploads/2010/07/materassone.jpg)
 
 
 
 
 e allegri pranzetti
 
-![](http://pilde.net/blog/wp-content/uploads/2010/07/pranzo_bimbe.jpg)
+![]({{baseurl}}/uploads/2010/07/pranzo_bimbe.jpg)
 
 
 
 
 e infine le terme con nonno Gianni
 
-![](http://pilde.net/blog/wp-content/uploads/2010/07/terme.jpg)
+![]({{baseurl}}/uploads/2010/07/terme.jpg)
 
 
 

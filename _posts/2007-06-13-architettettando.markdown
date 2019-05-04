@@ -13,7 +13,7 @@ categories:
 
 Zia Betta stava già architettando qualcosa, d'altronde è la sua professione...
 
-![architettando.jpg](http://pilde.net/blog/wp-content/uploads/2007/06/architettando.jpg)
+![architettando.jpg]({{baseurl}}/uploads/2007/06/architettando.jpg)
 
 
 

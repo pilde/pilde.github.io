@@ -13,7 +13,7 @@ categories:
 
 .... e siamo al mare ??
 
-![](http://pilde.net/blog/wp-content/uploads/2012/11/colazione.jpg)
+![]({{baseurl}}/uploads/2012/11/colazione.jpg)
 
 
 
@@ -23,26 +23,26 @@ prima a goderci il sole caldo, un pò di biciclette e 'guarda c'è Melma' (che s
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2012/11/melma1.jpg)
+![]({{baseurl}}/uploads/2012/11/melma1.jpg)
 
 
 
 
 e poi direttamente in acqua a cercare granchietti e paguri
 
-![](http://pilde.net/blog/wp-content/uploads/2012/11/granchietti.jpg)
+![]({{baseurl}}/uploads/2012/11/granchietti.jpg)
 
 
 
 
 a fare i salti
 
-![](http://pilde.net/blog/wp-content/uploads/2012/11/salti.jpg)
+![]({{baseurl}}/uploads/2012/11/salti.jpg)
 
 
 e infine un bel pranzetto salutare!!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/11/pranzo.jpg)
+![]({{baseurl}}/uploads/2012/11/pranzo.jpg)
 
 
 

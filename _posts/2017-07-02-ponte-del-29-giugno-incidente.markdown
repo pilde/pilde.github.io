@@ -20,58 +20,58 @@ Corsa al pronto soccorso e una lunga fila di punti di sutura (più di 20 dice il
 
 . Tra M che sviene e P che sembra un cadavere, la più serena e forte è prorio Mati! Sei una roccia amore mio!
 
-![morso](http://pilde.net/blog/wp-content/uploads/2017/07/morso.jpg)
+![morso]({{baseurl}}/uploads/2017/07/morso.jpg)
 
 
 
 
 Flavio e Meggy ti mandano questo dalla spiaggia
 
-![saluto](http://pilde.net/blog/wp-content/uploads/2017/07/saluto.png)
+![saluto]({{baseurl}}/uploads/2017/07/saluto.png)
 
 
 
 
 Nonostante tutto ci siamo goduti questo bel ponte con passeggiate panoramiche
 
-![panorama](http://pilde.net/blog/wp-content/uploads/2017/07/panorama.jpg)
+![panorama]({{baseurl}}/uploads/2017/07/panorama.jpg)
 
 
- ![cava](http://pilde.net/blog/wp-content/uploads/2017/07/cava.png)
+ ![cava]({{baseurl}}/uploads/2017/07/cava.png)
 
 
- ![noi](http://pilde.net/blog/wp-content/uploads/2017/07/noi.png)
+ ![noi]({{baseurl}}/uploads/2017/07/noi.png)
 
 
 una visita all'acquario con Flavio, Matteo, Andrea, Emma e Laura....
 
-![acquario](http://pilde.net/blog/wp-content/uploads/2017/07/acquario.jpg)
+![acquario]({{baseurl}}/uploads/2017/07/acquario.jpg)
 
 
 
 
-![acquario_meggy](http://pilde.net/blog/wp-content/uploads/2017/07/acquario_meggy.jpg)
+![acquario_meggy]({{baseurl}}/uploads/2017/07/acquario_meggy.jpg)
 
 
- ![amiche](http://pilde.net/blog/wp-content/uploads/2017/07/amiche.jpg)
+ ![amiche]({{baseurl}}/uploads/2017/07/amiche.jpg)
 
 
 e qui P ha scoperto il lavoro che vorrebbe fare da grande .. "il pulitore di lamantini" !!!
 
-![lamantino](http://pilde.net/blog/wp-content/uploads/2017/07/lamantino.jpg)
+![lamantino]({{baseurl}}/uploads/2017/07/lamantino.jpg)
 
 
 
 
 Le cene sul terrazzo sono sempre bellissime!
 
-![terrazzo_1](http://pilde.net/blog/wp-content/uploads/2017/07/terrazzo_1.png)
+![terrazzo_1]({{baseurl}}/uploads/2017/07/terrazzo_1.png)
 
 
- ![terrazzo_2](http://pilde.net/blog/wp-content/uploads/2017/07/terrazzo_2.png)
+ ![terrazzo_2]({{baseurl}}/uploads/2017/07/terrazzo_2.png)
 
 
- ![noi3](http://pilde.net/blog/wp-content/uploads/2017/07/noi3.jpg)
+ ![noi3]({{baseurl}}/uploads/2017/07/noi3.jpg)
 
 
 

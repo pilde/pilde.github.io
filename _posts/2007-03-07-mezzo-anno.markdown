@@ -13,7 +13,7 @@ categories:
 
 Oggi compio 6 mesi! Ne ho fatte di cose in questo mezzo anno eh?
 
-![6mesi.jpg](http://pilde.net/blog/wp-content/uploads/2007/03/6mesi.jpg)
+![6mesi.jpg]({{baseurl}}/uploads/2007/03/6mesi.jpg)
 
 
 

@@ -15,19 +15,19 @@ Le piccolette si sono fatte casa-metro-villa borghese-centro storico-viale manzo
 
 Mitica matilde che non si è stancata!!!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/05/mmati_bici.jpg)
+![]({{baseurl}}/uploads/2012/05/mmati_bici.jpg)
 
 
 E brava marghe che non ha mai fatto la lagna!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/05/pmarghe_bici.jpg)
+![]({{baseurl}}/uploads/2012/05/pmarghe_bici.jpg)
 
 
 
 
 Ciao ciao!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/05/leone.jpg)
+![]({{baseurl}}/uploads/2012/05/leone.jpg)
 
 
 

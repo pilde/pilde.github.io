@@ -24,7 +24,7 @@ Sarà stata la presenza di zia Giorgia? :)
 
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/06/zia.jpg)
+[![]({{baseurl}}/uploads/2009/06/zia.jpg)
 
 
 ](http://None)

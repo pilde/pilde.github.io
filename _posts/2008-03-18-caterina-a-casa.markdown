@@ -14,7 +14,7 @@ categories:
 Stasera è arrivata a casa Caterina, benvenuta cuginetta! Lei e zia Betta stanno benissimo.
 Le ho dato tanti bacini sulla testolina....come è piccola...ma quanti capelli profumati che ha, e come se le ciuccia quelle manine!
 
-![caterina_casa.jpg](http://pilde.net/blog/wp-content/uploads/2008/03/caterina_casa.jpg)
+![caterina_casa.jpg]({{baseurl}}/uploads/2008/03/caterina_casa.jpg)
 
 
 
@@ -24,7 +24,7 @@ Per la gioia di zio Daniele sei arrivata proprio in tempo per il derby e la fest
 
 
 
-![papa_daniele.jpg](http://pilde.net/blog/wp-content/uploads/2008/03/papa_daniele.jpg)
+![papa_daniele.jpg]({{baseurl}}/uploads/2008/03/papa_daniele.jpg)
 
 
 

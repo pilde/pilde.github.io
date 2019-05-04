@@ -13,7 +13,7 @@ categories:
 
 Per entrare nella mia cameretta, dovete bussare la coccinella di Nathalie... dicono mi somigli. Ciao
 
-![coccinella.JPG](http://pilde.net/blog/wp-content/uploads/2007/05/coccinella.JPG)
+![coccinella.JPG]({{baseurl}}/uploads/2007/05/coccinella.JPG)
 
 
 

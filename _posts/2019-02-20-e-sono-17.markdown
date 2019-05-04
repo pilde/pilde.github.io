@@ -13,7 +13,7 @@ categories:
 
 Auguri M&P per i vostri 17 anni insieme!
 
-![20-02](http://pilde.net/blog/wp-content/uploads/2019/03/20-02.png)
+![20-02]({{baseurl}}/uploads/2019/03/20-02.png)
 
 
 

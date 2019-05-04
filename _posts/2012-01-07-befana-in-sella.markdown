@@ -13,7 +13,7 @@ categories:
 
 Mitica giornata! La prima vera passeggiata tutti e 4 in bici ... anche Margherita con le sue rotelle ...
 
-![](http://pilde.net/blog/wp-content/uploads/2012/01/bici_colosseo.jpg)
+![]({{baseurl}}/uploads/2012/01/bici_colosseo.jpg)
 
 
 

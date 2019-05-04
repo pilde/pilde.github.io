@@ -13,18 +13,18 @@ categories:
 
 E per la seconda volta da quando siamo nate....la neve a Roma!! Il nostro giardino sembra magico
 
-![roma1](http://pilde.net/blog/wp-content/uploads/2018/02/roma1.jpg)
+![roma1]({{baseurl}}/uploads/2018/02/roma1.jpg)
 
 
-E la caffarella è tutta innevata ![roma2](http://pilde.net/blog/wp-content/uploads/2018/02/roma2.jpg)
+E la caffarella è tutta innevata ![roma2]({{baseurl}}/uploads/2018/02/roma2.jpg)
 
 
- ![roma3](http://pilde.net/blog/wp-content/uploads/2018/02/roma3.jpg)
+ ![roma3]({{baseurl}}/uploads/2018/02/roma3.jpg)
 
 
 
 
-![pupazzo](http://pilde.net/blog/wp-content/uploads/2018/02/pupazzo.png)
+![pupazzo]({{baseurl}}/uploads/2018/02/pupazzo.png)
 
 
 

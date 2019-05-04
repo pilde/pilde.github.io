@@ -13,14 +13,14 @@ categories:
 
 Sabato abbiamo festeggiato il mio compleanno e quello di Enea con tanti amici:abbiamo disegnato, incollato fiorellini, giocato con le bolle di sapone, gonfiato e scoppiato palloncini, raccolto le mele dall'albero.... le solite piccole canaglie!!
 
-![mix_bimbi.jpg](http://pilde.net/blog/wp-content/uploads/2008/09/mix_bimbi.jpg)
+![mix_bimbi.jpg]({{baseurl}}/uploads/2008/09/mix_bimbi.jpg)
 
 
 
 
 e infine abbiamo mangiato la torta!
 
-![torta11.jpg](http://pilde.net/blog/wp-content/uploads/2008/09/torta11.jpg)
+![torta11.jpg]({{baseurl}}/uploads/2008/09/torta11.jpg)
 
 
 

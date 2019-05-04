@@ -19,31 +19,31 @@ Quale vi piace di più? Lasciate il vostro commento e alla fine vi dirò quale �
 <table >
 <tr >
 
-<td >![scarpe1.jpg](http://pilde.net/blog/wp-content/uploads/2007/02/scarpe1.jpg)
+<td >![scarpe1.jpg]({{baseurl}}/uploads/2007/02/scarpe1.jpg)
 
 
 
 </td>
 
-<td >![scarpe2.jpg](http://pilde.net/blog/wp-content/uploads/2007/02/scarpe2.jpg)
+<td >![scarpe2.jpg]({{baseurl}}/uploads/2007/02/scarpe2.jpg)
 
 
 
 </td>
 
-<td >![scarpe3.jpg](http://pilde.net/blog/wp-content/uploads/2007/02/scarpe3.jpg)
+<td >![scarpe3.jpg]({{baseurl}}/uploads/2007/02/scarpe3.jpg)
 
 
 
 </td>
 
-<td >![scarpe4.jpg](http://pilde.net/blog/wp-content/uploads/2007/02/scarpe4.jpg)
+<td >![scarpe4.jpg]({{baseurl}}/uploads/2007/02/scarpe4.jpg)
 
 
 
 </td>
 
-<td >![scarpe5.jpg](http://pilde.net/blog/wp-content/uploads/2007/02/scarpe5.jpg)
+<td >![scarpe5.jpg]({{baseurl}}/uploads/2007/02/scarpe5.jpg)
 
 
 
@@ -68,31 +68,31 @@ Quale vi piace di più? Lasciate il vostro commento e alla fine vi dirò quale �
 </tr>
 <tr >
 
-<td >![scarpe6.jpg](http://pilde.net/blog/wp-content/uploads/2007/02/scarpe6.jpg)
+<td >![scarpe6.jpg]({{baseurl}}/uploads/2007/02/scarpe6.jpg)
 
 
 
 </td>
 
-<td >![scarpe8.jpg](http://pilde.net/blog/wp-content/uploads/2007/02/scarpe8.jpg)
+<td >![scarpe8.jpg]({{baseurl}}/uploads/2007/02/scarpe8.jpg)
 
 
 
 </td>
 
-<td >![scarpe7.jpg](http://pilde.net/blog/wp-content/uploads/2007/02/scarpe7.jpg)
+<td >![scarpe7.jpg]({{baseurl}}/uploads/2007/02/scarpe7.jpg)
 
 
 
 </td>
 
-<td >![scarpe9.jpg](http://pilde.net/blog/wp-content/uploads/2007/02/scarpe9.jpg)
+<td >![scarpe9.jpg]({{baseurl}}/uploads/2007/02/scarpe9.jpg)
 
 
 
 </td>
 
-<td >![scarpe10.jpg](http://pilde.net/blog/wp-content/uploads/2007/02/scarpe10.jpg)
+<td >![scarpe10.jpg]({{baseurl}}/uploads/2007/02/scarpe10.jpg)
 
 
 

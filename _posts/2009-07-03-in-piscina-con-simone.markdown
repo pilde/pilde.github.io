@@ -13,7 +13,7 @@ categories:
 
 In piscina ho incontrato Simone e abbiamo fatto insieme tanti tuffi!
 
-![](http://pilde.net/blog/wp-content/uploads/2009/07/simone.jpg)
+![]({{baseurl}}/uploads/2009/07/simone.jpg)
 
 
 

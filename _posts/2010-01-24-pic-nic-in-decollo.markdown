@@ -14,14 +14,14 @@ categories:
 
 Oggi siamo stati a Norma a fare un pic-nic in decollo, ma non volava nessuno, anzi è arrivato pure un elicottero!Che bello l'abbiamo visto da vicino quando è atterrato!
 
-![](http://pilde.net/blog/wp-content/uploads/2010/01/decollo.jpg)
+![]({{baseurl}}/uploads/2010/01/decollo.jpg)
 
 
 
 
 poi siamo stati a fare una passeggiata a Sermoneta e Marghe ha spiaccicato tutto il gelato sul giacchetto di P!
 
-![](http://pilde.net/blog/wp-content/uploads/2010/01/gelato.jpg)
+![]({{baseurl}}/uploads/2010/01/gelato.jpg)
 
 
 

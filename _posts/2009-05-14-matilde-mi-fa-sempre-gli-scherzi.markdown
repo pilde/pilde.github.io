@@ -13,7 +13,7 @@ categories:
 
 Ma dove è matilde?
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/05/matilde1.jpg)
+[![]({{baseurl}}/uploads/2009/05/matilde1.jpg)
 
 
 ](http://None)
@@ -23,7 +23,7 @@ Ma dove è matilde?
 
 eccola!!!
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/05/matilde2.jpg)
+[![]({{baseurl}}/uploads/2009/05/matilde2.jpg)
 
 
 ](http://None)

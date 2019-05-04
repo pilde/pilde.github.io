@@ -13,7 +13,7 @@ categories:
 
 Ciao piccolino benvenuto! Un abbraccio grande a mamma Anna Gloria, papà Nicola e al fratellino Matteo.
 
-![cicogna4](http://pilde.net/blog/wp-content/uploads/2013/01/cicogna4.jpg)
+![cicogna4]({{baseurl}}/uploads/2013/01/cicogna4.jpg)
 
 
 

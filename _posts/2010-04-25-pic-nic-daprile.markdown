@@ -14,21 +14,21 @@ categories:
 
 Nicole ci ha invitati a questo bel pic-nic al parco della Pace. Sono venuti anche Lara e Tommy.
 
-![](http://pilde.net/blog/wp-content/uploads/2010/04/bimbi.jpg)
+![]({{baseurl}}/uploads/2010/04/bimbi.jpg)
 
 
 
 
 Ci siamo divertiti moltissimo, con le biciclette, gli aquiloni
 
-![](http://pilde.net/blog/wp-content/uploads/2010/04/aquilone.jpg)
+![]({{baseurl}}/uploads/2010/04/aquilone.jpg)
 
 
 
 
 Marghe era sempre in giro per i prati...
 
-![](http://pilde.net/blog/wp-content/uploads/2010/04/marghe.jpg)
+![]({{baseurl}}/uploads/2010/04/marghe.jpg)
 
 
 

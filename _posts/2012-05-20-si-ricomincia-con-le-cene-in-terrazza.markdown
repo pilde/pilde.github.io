@@ -13,7 +13,7 @@ categories:
 
 Tra le varie piogge riusciamo a strappare una serata per cenare fuori con un pò di amici!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/05/cena_terrazza.jpg)
+![]({{baseurl}}/uploads/2012/05/cena_terrazza.jpg)
 
 
 

@@ -11,10 +11,10 @@ categories:
 - Giochi
 ---
 
-[![nicole_s.jpg](http://pilde.net/blog/wp-content/uploads/2008/09/nicole_s.jpg)
+[![nicole_s.jpg]({{baseurl}}/uploads/2008/09/nicole_s.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2008/09/nicole_s.jpg)
+]({{baseurl}}/uploads/2008/09/nicole_s.jpg)
 
 
 

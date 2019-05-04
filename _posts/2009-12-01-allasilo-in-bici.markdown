@@ -13,7 +13,7 @@ categories:
 
 Marghe, quando non è raffreddata, va a scuola in bici con P
 
-![](http://pilde.net/blog/wp-content/uploads/2009/12/bici_papa.jpg)
+![]({{baseurl}}/uploads/2009/12/bici_papa.jpg)
 
 
 

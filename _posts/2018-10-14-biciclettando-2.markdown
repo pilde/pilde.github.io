@@ -13,15 +13,15 @@ categories:
 
 Domenica sulle due ruote! Bella biciclettata tra Caffarella
 
-![bici_1](http://pilde.net/blog/wp-content/uploads/2018/11/bici_1.png)
+![bici_1]({{baseurl}}/uploads/2018/11/bici_1.png)
 
 
 Catacombe di San Callisto
 
-![bici_2](http://pilde.net/blog/wp-content/uploads/2018/11/bici_2.png)
+![bici_2]({{baseurl}}/uploads/2018/11/bici_2.png)
 
 
- ![bici_3](http://pilde.net/blog/wp-content/uploads/2018/11/bici_3.png)
+ ![bici_3]({{baseurl}}/uploads/2018/11/bici_3.png)
 
 
 Appia Antica e Parco degli Acquedotti!

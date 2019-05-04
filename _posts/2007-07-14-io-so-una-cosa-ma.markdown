@@ -11,7 +11,7 @@ categories:
 - Giochi
 ---
 
-![monk3.gif](http://pilde.net/blog/wp-content/uploads/2007/07/monk3.gif)
+![monk3.gif]({{baseurl}}/uploads/2007/07/monk3.gif)
 
 
 

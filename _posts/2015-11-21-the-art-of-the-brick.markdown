@@ -14,28 +14,28 @@ categories:
 
 Oggi andiamo a vedere la Lego in mostra, con le opere di Nathan Sawaya
 
-[![brick_2](http://pilde.net/blog/wp-content/uploads/2016/01/brick_2.jpg)
+[![brick_2]({{baseurl}}/uploads/2016/01/brick_2.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2016/01/brick_2.jpg)
+]({{baseurl}}/uploads/2016/01/brick_2.jpg)
 
 
- [![brick1](http://pilde.net/blog/wp-content/uploads/2016/01/brick1.jpg)
+ [![brick1]({{baseurl}}/uploads/2016/01/brick1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2016/01/brick1.jpg)
+]({{baseurl}}/uploads/2016/01/brick1.jpg)
 
 
- [![brick3](http://pilde.net/blog/wp-content/uploads/2016/01/brick3.jpg)
+ [![brick3]({{baseurl}}/uploads/2016/01/brick3.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2016/01/brick3.jpg)
+]({{baseurl}}/uploads/2016/01/brick3.jpg)
 
 
-[![brick4](http://pilde.net/blog/wp-content/uploads/2015/11/brick4.jpg)
+[![brick4]({{baseurl}}/uploads/2015/11/brick4.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/11/brick4.jpg)
+]({{baseurl}}/uploads/2015/11/brick4.jpg)
 
 
 

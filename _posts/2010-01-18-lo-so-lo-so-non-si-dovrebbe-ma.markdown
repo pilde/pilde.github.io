@@ -14,10 +14,10 @@ categories:
 a papà piacerebbe tanto che fossi un'artista, e allora io faccio del mio meglio!
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2010/01/20100112094106373_0001-212x300.jpg)
+[![]({{baseurl}}/uploads/2010/01/20100112094106373_0001-212x300.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2010/01/20100112094106373_0001.jpg)
+]({{baseurl}}/uploads/2010/01/20100112094106373_0001.jpg)
 
 
 

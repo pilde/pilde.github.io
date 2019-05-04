@@ -16,12 +16,12 @@ Eccomi qui ancora a passeggiare in una bellissima giornata di sole con la mia am
 
 Poi insieme a zia Giorgia e Chicca sono stata a vedere la mostra del teatro delle ombre dedicata a Lele Luzzati, che divertenti quei giochi di luci e marionette!
 
-![villa.jpg](http://pilde.net/blog/wp-content/uploads/2007/01/villa.jpg)
+![villa.jpg]({{baseurl}}/uploads/2007/01/villa.jpg)
 
 
 
 
-![luzzati.jpg](http://pilde.net/blog/wp-content/uploads/2007/01/luzzati.jpg)
+![luzzati.jpg]({{baseurl}}/uploads/2007/01/luzzati.jpg)
 
 
 

@@ -13,7 +13,7 @@ categories:
 
 Oggi finalmente gioco il mio primo torneo di tennis. L'emozione mi fa tremare come una foglia!
 
-![torneo_1](http://pilde.net/blog/wp-content/uploads/2018/02/torneo_1.jpg)
+![torneo_1]({{baseurl}}/uploads/2018/02/torneo_1.jpg)
 
 
 
@@ -22,12 +22,12 @@ Entro in campo per due partite di seguito e alla fine mi manca il fiato! Fortuna
 
 Le altre bambine sono davvero carine, Giorgia e Margherita.
 
-![torneo_2](http://pilde.net/blog/wp-content/uploads/2018/02/torneo_2.jpg)
+![torneo_2]({{baseurl}}/uploads/2018/02/torneo_2.jpg)
 
 
 Alla fine ho vinto tutte e due le partite e anche il girone e porto a casa 20 punti!!
 
-![torneo_3](http://pilde.net/blog/wp-content/uploads/2018/02/torneo_3.jpg)
+![torneo_3]({{baseurl}}/uploads/2018/02/torneo_3.jpg)
 
 
 

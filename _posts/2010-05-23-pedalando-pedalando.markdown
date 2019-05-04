@@ -16,7 +16,7 @@ ci siamo fatti mezzo giro del lago di castello!! :)
 
  forza bimbe che ci aspettano tante belle passeggiate in bici!
 
-![](http://pilde.net/blog/wp-content/uploads/2010/05/biciclette_scrap_blog.jpg)
+![]({{baseurl}}/uploads/2010/05/biciclette_scrap_blog.jpg)
 
 
 

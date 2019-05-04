@@ -13,19 +13,19 @@ categories:
 
 disse la nostra amica in quel di Verezzi.... e in effetti ...
 
-passeggiata al mercato di Porta Portese e poi pranzo sul lungo Tevere...![roma](http://pilde.net/blog/wp-content/uploads/2019/03/roma.jpg)
+passeggiata al mercato di Porta Portese e poi pranzo sul lungo Tevere...![roma]({{baseurl}}/uploads/2019/03/roma.jpg)
 
 
- ![roma_0](http://pilde.net/blog/wp-content/uploads/2019/03/roma_0.jpg)
+ ![roma_0]({{baseurl}}/uploads/2019/03/roma_0.jpg)
 
 
- ![roma_1](http://pilde.net/blog/wp-content/uploads/2019/03/roma_1.jpg)
+ ![roma_1]({{baseurl}}/uploads/2019/03/roma_1.jpg)
 
 
- ![roma_3](http://pilde.net/blog/wp-content/uploads/2019/03/roma_3.jpg)
+ ![roma_3]({{baseurl}}/uploads/2019/03/roma_3.jpg)
 
 
- ![roma_2](http://pilde.net/blog/wp-content/uploads/2019/03/roma_2.jpg)
+ ![roma_2]({{baseurl}}/uploads/2019/03/roma_2.jpg)
 
 
 

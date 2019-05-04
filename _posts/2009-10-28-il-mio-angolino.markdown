@@ -13,7 +13,7 @@ categories:
 
 questa casa nuova mi piace tanto e ho anche trovato un angolino per la lettura!
 
-![](http://pilde.net/blog/wp-content/uploads/2009/10/angoletto.jpg)
+![]({{baseurl}}/uploads/2009/10/angoletto.jpg)
 
 
 

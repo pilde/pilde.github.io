@@ -13,40 +13,40 @@ categories:
 
 ... in metropolitana con Alessia
 
-![metro](http://pilde.net/blog/wp-content/uploads/2012/12/metro.jpg)
+![metro]({{baseurl}}/uploads/2012/12/metro.jpg)
 
 
 
 
 a passeggio per il centro
 
-![scuderie](http://pilde.net/blog/wp-content/uploads/2012/12/scuderie.jpg)
+![scuderie]({{baseurl}}/uploads/2012/12/scuderie.jpg)
 
 
 
 
 con le rose
 
-![fontanella](http://pilde.net/blog/wp-content/uploads/2012/12/fontanella.jpg)
+![fontanella]({{baseurl}}/uploads/2012/12/fontanella.jpg)
 
 
 e poi le mele caramellate
 
-![mela](http://pilde.net/blog/wp-content/uploads/2012/12/mela.jpg)
+![mela]({{baseurl}}/uploads/2012/12/mela.jpg)
 
 
 
 
 ma come si fa a mordere???
 
-![mela_mamma](http://pilde.net/blog/wp-content/uploads/2012/12/mela_mamma.jpg)
+![mela_mamma]({{baseurl}}/uploads/2012/12/mela_mamma.jpg)
 
 
 
 
 babbo natale che fa le magie
 
-![babbonatale](http://pilde.net/blog/wp-content/uploads/2012/12/babbonatale.jpg)
+![babbonatale]({{baseurl}}/uploads/2012/12/babbonatale.jpg)
 
 
 
@@ -56,14 +56,14 @@ e la piccola Anita che, nel breve intervallo in cui non ha dormito, si guarda in
 
 
 
-![anita](http://pilde.net/blog/wp-content/uploads/2012/12/anita.jpg)
+![anita]({{baseurl}}/uploads/2012/12/anita.jpg)
 
 
 
 
 ... meglio in braccio a Mati!!
 
-![mati&anita](http://pilde.net/blog/wp-content/uploads/2012/12/matianita.jpg)
+![mati&anita]({{baseurl}}/uploads/2012/12/matianita.jpg)
 
 
 

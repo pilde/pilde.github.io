@@ -15,10 +15,10 @@ Finalmente dopo 18 giorni il chirurgo ha detto che sono guarita! Ho tolto tutti 
 
 Adesso posso giocare con il mio pulcino Jack!
 
-![pulcino](http://pilde.net/blog/wp-content/uploads/2017/07/pulcino.png)
+![pulcino]({{baseurl}}/uploads/2017/07/pulcino.png)
 
 
- ![pulcino_2](http://pilde.net/blog/wp-content/uploads/2017/07/pulcino_2.png)
+ ![pulcino_2]({{baseurl}}/uploads/2017/07/pulcino_2.png)
 
 
 

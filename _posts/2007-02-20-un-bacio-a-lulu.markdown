@@ -15,7 +15,7 @@ ciao lulù,
 
 anche io ho lo stesso struzzo verde....a me piace un sacco mordergli il collo!
 
-![struzzo.jpg](http://pilde.net/blog/wp-content/uploads/2007/02/struzzo.jpg)
+![struzzo.jpg]({{baseurl}}/uploads/2007/02/struzzo.jpg)
 
 
 

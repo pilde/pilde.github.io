@@ -20,7 +20,7 @@ categories:
 
 L'armata Brancaleone dei camper è partita! Direzione nord alla ricerca del sole cercando di schivare i temporali!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/06/cartina_redux.jpg)
+[![]({{baseurl}}/uploads/2011/06/cartina_redux.jpg)
 
 
 ](http://None)
@@ -30,7 +30,7 @@ L'armata Brancaleone dei camper è partita! Direzione nord alla ricerca del sole
 
 Eccoli tutti i bimbi finalmente al mare!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/06/gruppo.jpg)
+[![]({{baseurl}}/uploads/2011/06/gruppo.jpg)
 
 
 ](http://None)
@@ -40,7 +40,7 @@ Eccoli tutti i bimbi finalmente al mare!
 
 Un pò di salti tra le onde
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/06/onde.jpg)
+[![]({{baseurl}}/uploads/2011/06/onde.jpg)
 
 
 ](http://None)
@@ -50,14 +50,14 @@ Un pò di salti tra le onde
 
 tanti tanti giochi..
 
-![](http://pilde.net/blog/wp-content/uploads/2011/06/mati_sn.jpg)
+![]({{baseurl}}/uploads/2011/06/mati_sn.jpg)
 
 
 
 
 la passione per le bocce ...
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/06/mati_sabbia.jpg)
+[![]({{baseurl}}/uploads/2011/06/mati_sabbia.jpg)
 
 
 ](http://None)
@@ -67,7 +67,7 @@ la passione per le bocce ...
 
 un pò di relax alle terme di Venturina
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/06/annarelax.jpg)
+[![]({{baseurl}}/uploads/2011/06/annarelax.jpg)
 
 
 ](http://None)
@@ -77,7 +77,7 @@ un pò di relax alle terme di Venturina
 
 qualche tuffo spettacolare
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/06/mati_tuffo.jpg)
+[![]({{baseurl}}/uploads/2011/06/mati_tuffo.jpg)
 
 
 ](http://None)
@@ -87,14 +87,14 @@ qualche tuffo spettacolare
 
 un bel pezzo di pizza all'ombra ...
 
-![](http://pilde.net/blog/wp-content/uploads/2011/06/marghe_anna_ombra.jpg)
+![]({{baseurl}}/uploads/2011/06/marghe_anna_ombra.jpg)
 
 
 
 
 e una foto di gruppo sul pattino!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/06/pattino.jpg)
+[![]({{baseurl}}/uploads/2011/06/pattino.jpg)
 
 
 ](http://None)

@@ -14,21 +14,21 @@ categories:
 
 Un bel weekend al castello di S. Severa. fa caldo e il mare è pieno di onde divertenti
 
-![](http://pilde.net/blog/wp-content/uploads/2012/06/castello.jpg)
+![]({{baseurl}}/uploads/2012/06/castello.jpg)
 
 
 
 
 e facciamo anche dei bei tuffi con papy!! hahahaha
 
-![](http://pilde.net/blog/wp-content/uploads/2012/06/flavio_vola.jpg)
+![]({{baseurl}}/uploads/2012/06/flavio_vola.jpg)
 
 
 
 
 e con la nuova macchinetta subacquea ... che smorfie!!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/06/sottacqua1.jpg)
+![]({{baseurl}}/uploads/2012/06/sottacqua1.jpg)
 
 
 
@@ -38,21 +38,21 @@ Poi una panzanella al fresco degli alberi (con sorriso ammaliatore)
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2012/06/pm.jpg)
+![]({{baseurl}}/uploads/2012/06/pm.jpg)
 
 
 
 
 e tre gnomi FLUO
 
-![](http://pilde.net/blog/wp-content/uploads/2012/06/scimmie.jpg)
+![]({{baseurl}}/uploads/2012/06/scimmie.jpg)
 
 
 
 
 Un bel bacio fuxia
 
-![](http://pilde.net/blog/wp-content/uploads/2012/06/kiss.jpg)
+![]({{baseurl}}/uploads/2012/06/kiss.jpg)
 
 
 
@@ -63,7 +63,7 @@ e di nuovo in acqua!!
 
 Alla fine della giornata un bel BBQ al tramonto
 
-![](http://pilde.net/blog/wp-content/uploads/2012/06/bbq.jpg)
+![]({{baseurl}}/uploads/2012/06/bbq.jpg)
 
 
 

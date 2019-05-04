@@ -14,7 +14,7 @@ categories:
 ciao nonna Lilly e nonno Gianni buon anniversario di matrimonio!
 Godetevi questo bel week end a Londra! 
 
-![anniv.jpg](http://pilde.net/blog/wp-content/uploads/2007/10/anniv.jpg)
+![anniv.jpg]({{baseurl}}/uploads/2007/10/anniv.jpg)
 
 
 

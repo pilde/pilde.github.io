@@ -13,10 +13,10 @@ categories:
 
 ... dalle tue bis nipotine!!!
 
-[![maria](http://pilde.net/blog/wp-content/uploads/2013/12/maria.jpg)
+[![maria]({{baseurl}}/uploads/2013/12/maria.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/12/maria.jpg)
+]({{baseurl}}/uploads/2013/12/maria.jpg)
 
 
 

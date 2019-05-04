@@ -12,7 +12,7 @@ categories:
 ---
 
 Ciao a tutti. Ieri gita fuoriporta con Nicole, Sophie e i loro MeP. Siamo stati a Calcata, un paesotto molto grazioso arroccato su uno sperone. Ci siamo accomodati sulle sedie di pietra all'ingresso, abbiamo fatto un giretto per il paese, giocato a 1,2,3 stella e poi l'immancabile panino con le salsicce. Nel tornare a Roma siamo passati alle cascate di Monte Gelato.
-![cascate.jpg](http://pilde.net/blog/wp-content/uploads/2006/12/cascate.jpg)
+![cascate.jpg]({{baseurl}}/uploads/2006/12/cascate.jpg)
 
 
 

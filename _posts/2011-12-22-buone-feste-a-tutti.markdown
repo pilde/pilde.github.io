@@ -11,7 +11,7 @@ categories:
 - Eventi
 ---
 
-![](http://pilde.net/blog/wp-content/uploads/2011/12/natale11_blog.png)
+![]({{baseurl}}/uploads/2011/12/natale11_blog.png)
 
 
 

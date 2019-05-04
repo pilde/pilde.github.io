@@ -13,7 +13,7 @@ categories:
 
 Cristina, la mamma di Toporosa, mi ha fatto un bellissimo regalino... eccolo. Grazie Cri.
 
-![matilde_livello-3.gif](http://pilde.net/blog/wp-content/uploads/2006/12/matilde_livello-3.gif)
+![matilde_livello-3.gif]({{baseurl}}/uploads/2006/12/matilde_livello-3.gif)
 
 
 

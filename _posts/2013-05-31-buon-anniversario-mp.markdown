@@ -11,10 +11,10 @@ categories:
 - Eventi
 ---
 
-[![five](http://pilde.net/blog/wp-content/uploads/2013/05/five.jpg)
+[![five]({{baseurl}}/uploads/2013/05/five.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/05/five.jpg)
+]({{baseurl}}/uploads/2013/05/five.jpg)
 
 
 

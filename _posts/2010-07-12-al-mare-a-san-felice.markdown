@@ -14,26 +14,26 @@ categories:
 
 ... in vacanza con i nonni, Caterina e Leda ...
 
-![](http://pilde.net/blog/wp-content/uploads/2010/07/bimbe1_blog.jpg)
+![]({{baseurl}}/uploads/2010/07/bimbe1_blog.jpg)
 
 
 
 
 tanti giochi e pasticci
 
-![](http://pilde.net/blog/wp-content/uploads/2010/09/torta.jpg)
+![]({{baseurl}}/uploads/2010/09/torta.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2010/09/pittura2.jpg)
+![]({{baseurl}}/uploads/2010/09/pittura2.jpg)
 
 
 
 
 e infine i lati B!
 
-![](http://pilde.net/blog/wp-content/uploads/2010/09/bimbe2_blog.jpg)
+![]({{baseurl}}/uploads/2010/09/bimbe2_blog.jpg)
 
 
 

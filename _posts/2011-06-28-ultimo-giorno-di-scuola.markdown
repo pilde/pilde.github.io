@@ -16,7 +16,7 @@ Ormai siamo proprio esausti!! Finalmente è finita la scuola!!
 
 Buone vacanze a tutti!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/06/ultimo_giorno_scuola.jpg)
+[![]({{baseurl}}/uploads/2011/06/ultimo_giorno_scuola.jpg)
 
 
 ](http://None)

@@ -11,7 +11,7 @@ categories:
 - Giochi
 ---
 
-[![piscina.jpg](http://pilde.net/blog/wp-content/uploads/2007/04/piscina.jpg)
+[![piscina.jpg]({{baseurl}}/uploads/2007/04/piscina.jpg)
 
 
 ](http://pilde.net/blog/?attachment_id=259)

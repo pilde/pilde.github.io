@@ -13,7 +13,7 @@ categories:
 
 Dalla panciona di Mara è venuta fuori la piccola Alessia e a me piace tanto! Le ho dato tanti bacini....
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/06/alessia.jpg)
+[![]({{baseurl}}/uploads/2009/06/alessia.jpg)
 
 
 ](http://None)
@@ -23,7 +23,7 @@ Dalla panciona di Mara è venuta fuori la piccola Alessia e a me piace tanto! Le
 
 ...ma mai quanti gliene dà il suo papà Lorenzo!
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/06/alessia_lory.jpg)
+[![]({{baseurl}}/uploads/2009/06/alessia_lory.jpg)
 
 
 ](http://None)

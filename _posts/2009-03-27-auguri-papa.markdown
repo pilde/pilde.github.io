@@ -13,7 +13,7 @@ categories:
 
 Buon compleanno dalle tue donne!
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/03/compleanno_papa.jpg)
+[![]({{baseurl}}/uploads/2009/03/compleanno_papa.jpg)
 
 
 ](http://None)

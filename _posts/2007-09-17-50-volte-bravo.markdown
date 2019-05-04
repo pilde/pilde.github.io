@@ -15,13 +15,13 @@ categories:
 - Compleanni
 ---
 
-[](http://pilde.net/blog/wp-content/uploads/2007/09/bravo.jpg)
+[]({{baseurl}}/uploads/2007/09/bravo.jpg)
 
 
-[![bravo.jpg](http://pilde.net/blog/wp-content/uploads/2007/09/bravo.jpg)
+[![bravo.jpg]({{baseurl}}/uploads/2007/09/bravo.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2007/09/bravo.jpg)
+]({{baseurl}}/uploads/2007/09/bravo.jpg)
 
 
 

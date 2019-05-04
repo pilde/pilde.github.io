@@ -11,7 +11,7 @@ categories:
 - Amici
 ---
 
-![dscn3060w.jpg](http://pilde.net/blog/wp-content/uploads/2007/05/dscn3060w.jpg)
+![dscn3060w.jpg]({{baseurl}}/uploads/2007/05/dscn3060w.jpg)
 
 
 

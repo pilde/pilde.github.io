@@ -13,7 +13,7 @@ categories:
 
 Finalmente è nata la bellissima Alessia!
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/05/girasole.jpg)
+[![]({{baseurl}}/uploads/2009/05/girasole.jpg)
 
 
 ](http://None)

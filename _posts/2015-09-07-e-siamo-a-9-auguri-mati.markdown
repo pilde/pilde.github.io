@@ -13,22 +13,22 @@ categories:
 
 Buon compleanno bimba selvaggia!
 
-[![compl_mati](http://pilde.net/blog/wp-content/uploads/2016/01/compl_mati.jpg)
+[![compl_mati]({{baseurl}}/uploads/2016/01/compl_mati.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2016/01/compl_mati.jpg)
+]({{baseurl}}/uploads/2016/01/compl_mati.jpg)
 
 
-[![mati_birth1](http://pilde.net/blog/wp-content/uploads/2015/09/mati_birth1.png)
+[![mati_birth1]({{baseurl}}/uploads/2015/09/mati_birth1.png)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/mati_birth1.png)
+]({{baseurl}}/uploads/2015/09/mati_birth1.png)
 
 
- [![torta_amti](http://pilde.net/blog/wp-content/uploads/2015/09/torta_amti.png)
+ [![torta_amti]({{baseurl}}/uploads/2015/09/torta_amti.png)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/torta_amti.png)
+]({{baseurl}}/uploads/2015/09/torta_amti.png)
 
 
 

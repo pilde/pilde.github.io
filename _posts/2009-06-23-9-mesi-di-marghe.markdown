@@ -16,7 +16,7 @@ Marghe ha scoperto che le piace tanto l'albicocca....anche se ha qualche piccol
 
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/06/9mesi.jpg)
+[![]({{baseurl}}/uploads/2009/06/9mesi.jpg)
 
 
 ](http://None)
@@ -26,10 +26,10 @@ Marghe ha scoperto che le piace tanto l'albicocca....anche se ha qualche piccol
 
 per il suo complemese abbiamo organizzato un Pizza Party insieme agli amici 'australiani'
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/06/pizzaparty.jpg)
+[![]({{baseurl}}/uploads/2009/06/pizzaparty.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2009/06/pizzaparty.jpg)
+]({{baseurl}}/uploads/2009/06/pizzaparty.jpg)
 
 
 

@@ -13,7 +13,7 @@ categories:
 
 Domani torna zio Nicola. Non vedo l'ora di conoscervi zia Annagloria e te... comunque la prossima volta che vai in "vacanza", porta pure la zia. Quetti uomini!!! :-D
 
-![copia-di-dscn1454.JPG](http://pilde.net/blog/wp-content/uploads/2006/10/copia-di-dscn1454.JPG)
+![copia-di-dscn1454.JPG]({{baseurl}}/uploads/2006/10/copia-di-dscn1454.JPG)
 
 
 

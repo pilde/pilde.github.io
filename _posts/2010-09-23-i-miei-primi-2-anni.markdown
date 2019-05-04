@@ -11,7 +11,7 @@ categories:
 - Compleanni
 ---
 
-![](http://pilde.net/blog/wp-content/uploads/2010/09/margherita2.jpg)
+![]({{baseurl}}/uploads/2010/09/margherita2.jpg)
 
 
 

@@ -15,26 +15,26 @@ Meggina si da al canto...e partecipa ad un'iniziativa del Conservatorio di Santa
 
 Così il sabato mattina abbiamo la scusa per passeggiare per Roma!
 
-![mati&mamma](http://pilde.net/blog/wp-content/uploads/2016/04/matimamma.jpg)
+![mati&mamma]({{baseurl}}/uploads/2016/04/matimamma.jpg)
 
 
- ![passeggiate1](http://pilde.net/blog/wp-content/uploads/2016/04/passeggiate1.jpg)
+ ![passeggiate1]({{baseurl}}/uploads/2016/04/passeggiate1.jpg)
 
 
- ![passeggiate2](http://pilde.net/blog/wp-content/uploads/2016/04/passeggiate2.jpg)
-
-
-
-
-![nonni](http://pilde.net/blog/wp-content/uploads/2016/02/nonni.png)
+ ![passeggiate2]({{baseurl}}/uploads/2016/04/passeggiate2.jpg)
 
 
 
 
-![passeggiate3](http://pilde.net/blog/wp-content/uploads/2016/04/passeggiate3.jpg)
+![nonni]({{baseurl}}/uploads/2016/02/nonni.png)
 
 
-![tigre](http://pilde.net/blog/wp-content/uploads/2016/02/tigre.jpg)
+
+
+![passeggiate3]({{baseurl}}/uploads/2016/04/passeggiate3.jpg)
+
+
+![tigre]({{baseurl}}/uploads/2016/02/tigre.jpg)
 
 
 

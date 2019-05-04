@@ -14,14 +14,14 @@ categories:
 
 Marghe è stata a casa due settimane con la tosse poverina. Così per distrarla mentre fa l'aereosol abbiamo iniziato a guardare i cartoni dei Barbapapà.
 
-![](http://pilde.net/blog/wp-content/uploads/2009/11/barbapapa.jpg)
+![]({{baseurl}}/uploads/2009/11/barbapapa.jpg)
 
 
 
 
 e Leda le ha insegnato a giocare con la fattoria e a battere le mani quando sente la musica
 
-![](http://pilde.net/blog/wp-content/uploads/2009/11/fattoria.jpg)
+![]({{baseurl}}/uploads/2009/11/fattoria.jpg)
 
 
 

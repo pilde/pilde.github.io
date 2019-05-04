@@ -13,18 +13,18 @@ categories:
 
 il bello di Roma è che all'improvviso scappa fuori una giornata stupenda anche in pieno inverno....
 
-![villa_giulia](http://pilde.net/blog/wp-content/uploads/2017/02/villa_giulia.jpg)
+![villa_giulia]({{baseurl}}/uploads/2017/02/villa_giulia.jpg)
 
 
- ![villa_giulia2](http://pilde.net/blog/wp-content/uploads/2017/02/villa_giulia2.jpg)
+ ![villa_giulia2]({{baseurl}}/uploads/2017/02/villa_giulia2.jpg)
 
 
 e anche al lago di castel Gandolfo non è niente male
 
-![lago1](http://pilde.net/blog/wp-content/uploads/2017/02/lago1.jpg)
+![lago1]({{baseurl}}/uploads/2017/02/lago1.jpg)
 
 
- ![lago2](http://pilde.net/blog/wp-content/uploads/2017/02/lago2.jpg)
+ ![lago2]({{baseurl}}/uploads/2017/02/lago2.jpg)
 
 
 

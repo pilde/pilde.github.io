@@ -21,7 +21,7 @@ Benvenuta Caterina, sei arrivata di pomeriggio, ma per il resto combacia tutto.
 
 Zio Andrea, zia Carlotta e la tua cuginetta Matilde
 
-![caterina.jpg](http://pilde.net/blog/wp-content/uploads/2008/03/caterina.jpg)
+![caterina.jpg]({{baseurl}}/uploads/2008/03/caterina.jpg)
 
 
 

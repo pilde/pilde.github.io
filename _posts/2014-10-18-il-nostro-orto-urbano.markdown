@@ -19,48 +19,48 @@ L'associazione [Terra!](http://www.terraonlus.it/)
 
 All'inizio era un pò incolto....
 
-[![orto1](http://pilde.net/blog/wp-content/uploads/2014/12/orto1.jpg)
+[![orto1]({{baseurl}}/uploads/2014/12/orto1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/12/orto1.jpg)
+]({{baseurl}}/uploads/2014/12/orto1.jpg)
 
 
 ma lavorandoci sodo...
 
-[![orto2](http://pilde.net/blog/wp-content/uploads/2014/12/orto2.jpg)
+[![orto2]({{baseurl}}/uploads/2014/12/orto2.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/12/orto2.jpg)
+]({{baseurl}}/uploads/2014/12/orto2.jpg)
 
 
 e sotto il sole ancora cocente di ottobre
 
-[![orto3](http://pilde.net/blog/wp-content/uploads/2014/12/orto3.jpg)
+[![orto3]({{baseurl}}/uploads/2014/12/orto3.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/12/orto3.jpg)
+]({{baseurl}}/uploads/2014/12/orto3.jpg)
 
 
 siamo riusciti a dissodare il terreno e fare i primi solchi per piantare le nostre piantine
 
-[![orto4](http://pilde.net/blog/wp-content/uploads/2014/12/orto4.jpg)
+[![orto4]({{baseurl}}/uploads/2014/12/orto4.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/12/orto4.jpg)
+]({{baseurl}}/uploads/2014/12/orto4.jpg)
 
 
-[![orto5](http://pilde.net/blog/wp-content/uploads/2014/12/orto5.jpg)
+[![orto5]({{baseurl}}/uploads/2014/12/orto5.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/12/orto5.jpg)
+]({{baseurl}}/uploads/2014/12/orto5.jpg)
 
 
 E poi alla fine un pò di riposo! Brave!!!
 
-[![orto0](http://pilde.net/blog/wp-content/uploads/2014/12/orto0.jpg)
+[![orto0]({{baseurl}}/uploads/2014/12/orto0.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/12/orto0.jpg)
+]({{baseurl}}/uploads/2014/12/orto0.jpg)
 
 
 

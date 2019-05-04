@@ -13,7 +13,7 @@ categories:
 
 In Svizzera fa freddo, ma noi sappiamo come riscaldarci in Italia... con l'acqua calda.
 
-![termesilvia.jpg](http://pilde.net/blog/wp-content/uploads/2007/03/termesilvia.jpg)
+![termesilvia.jpg]({{baseurl}}/uploads/2007/03/termesilvia.jpg)
 
 
 

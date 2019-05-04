@@ -13,7 +13,7 @@ categories:
 
 Parco della Caffarella, ore 20.30 tutti in bici e pic-nic cinese. Poi ci sediamo a terra sul prato intorno agli **Acustimantico**
 
-![](http://pilde.net/blog/wp-content/uploads/2012/06/acustimantico.jpg)
+![]({{baseurl}}/uploads/2012/06/acustimantico.jpg)
 
 
 

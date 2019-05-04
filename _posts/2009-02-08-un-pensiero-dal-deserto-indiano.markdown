@@ -11,7 +11,7 @@ categories:
 - Presentazione
 ---
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/02/deserto_rid.jpg)
+[![]({{baseurl}}/uploads/2009/02/deserto_rid.jpg)
 
 
 ](http://None)
@@ -19,7 +19,7 @@ categories:
 
 nonna Lilli, nonno Gianni e zia Maria
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/02/tutti_e_tre.jpg)
+[![]({{baseurl}}/uploads/2009/02/tutti_e_tre.jpg)
 
 
 ](http://None)

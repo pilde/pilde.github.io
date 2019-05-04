@@ -14,19 +14,19 @@ categories:
 
 e come al solito i creativi di famiglia si scatenano....
 
-![](http://pilde.net/blog/wp-content/uploads/2012/11/labortorio1.jpg)
+![]({{baseurl}}/uploads/2012/11/labortorio1.jpg)
 
 
 P fa un vasetto a forma di elefante, Mati fa giulio coniglio e poi le palline per una collana
 
-![](http://pilde.net/blog/wp-content/uploads/2012/11/mati_ceramica.jpg)
+![]({{baseurl}}/uploads/2012/11/mati_ceramica.jpg)
 
 
 
 
 mentre Marghe, dopo aver mangiato la pasta che serviva da decorazione, essersi sciacquata le mani nella ciotola e aver fatto un paio di macchie alla giraffa,
 
-![](http://pilde.net/blog/wp-content/uploads/2012/11/marghe_ceramica.jpg)
+![]({{baseurl}}/uploads/2012/11/marghe_ceramica.jpg)
 
 
 

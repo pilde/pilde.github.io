@@ -16,7 +16,7 @@ categories:
 
 , non sento e non parlo!
 
-![occhiali.jpg](http://pilde.net/blog/wp-content/uploads/2008/02/occhiali.jpg)
+![occhiali.jpg]({{baseurl}}/uploads/2008/02/occhiali.jpg)
 
 
 

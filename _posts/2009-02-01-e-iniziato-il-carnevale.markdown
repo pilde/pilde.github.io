@@ -16,7 +16,7 @@ Stavamo facendo una bella passeggata al mare....bhè la novità è che Caterina 
 
  ...
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/02/caterinaezia.jpg)
+[![]({{baseurl}}/uploads/2009/02/caterinaezia.jpg)
 
 
 ](http://None)
@@ -26,7 +26,7 @@ Stavamo facendo una bella passeggata al mare....bhè la novità è che Caterina 
 
 quando abbiamo visto tanti bambini vestiti in maschera! Ho tirato tanti coriandoli
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/02/coriandoli2.jpg)
+[![]({{baseurl}}/uploads/2009/02/coriandoli2.jpg)
 
 
 ](http://None)
@@ -36,7 +36,7 @@ quando abbiamo visto tanti bambini vestiti in maschera! Ho tirato tanti coriando
 
 e poi frugando tra i miei giochi a casa ho trovato un bel vestitino da Trilli che ho subito sfoggiato!
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/02/trilli.jpg)
+[![]({{baseurl}}/uploads/2009/02/trilli.jpg)
 
 
 ](http://None)
@@ -46,7 +46,7 @@ e poi frugando tra i miei giochi a casa ho trovato un bel vestitino da Trilli c
 
 Come sto?Sono convincente come fatina?
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/02/trilli2.jpg)
+[![]({{baseurl}}/uploads/2009/02/trilli2.jpg)
 
 
 ](http://None)

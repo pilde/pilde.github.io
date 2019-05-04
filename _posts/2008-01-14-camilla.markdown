@@ -18,7 +18,7 @@ Quando zia si sente triste e le manco si consola con Camilla (io sono un pò gel
 . 
 Spero tanto di conoscerla quest'estate!
 
-![camilla.jpg](http://pilde.net/blog/wp-content/uploads/2008/01/camilla.jpg)
+![camilla.jpg]({{baseurl}}/uploads/2008/01/camilla.jpg)
 
 
 

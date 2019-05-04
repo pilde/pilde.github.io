@@ -17,13 +17,13 @@ categories:
 
 Serata di musica ai Pini Spettinati con la fantastica band degli FM3! Balli scatenati fino a tarda ora!
 
-![dance_1](http://pilde.net/blog/wp-content/uploads/2018/11/dance_1.jpg)
+![dance_1]({{baseurl}}/uploads/2018/11/dance_1.jpg)
 
 
- ![dance_2](http://pilde.net/blog/wp-content/uploads/2018/11/dance_2.jpg)
+ ![dance_2]({{baseurl}}/uploads/2018/11/dance_2.jpg)
 
 
- ![dance_3](http://pilde.net/blog/wp-content/uploads/2018/11/dance_3.jpg)
+ ![dance_3]({{baseurl}}/uploads/2018/11/dance_3.jpg)
 
 
 e tornata a casa a notte fonda con una busta di cornetti ..... i ragazzini affamati mi assalgono (erano tutti svegli !!)

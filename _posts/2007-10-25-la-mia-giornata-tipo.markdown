@@ -24,35 +24,35 @@ Qui al nido la giornata trascorre veloce, tra musica, teatrini, giochi. Io vado 
 Andiamo al parco a giocare se il tempo è bello, faccio merenda e poi quando sono un pò stanca torniamo a casa. Qui mi aspettano tutti i giochi della mia cameretta....
 c'è Tatoio da spingere su e giù per il corridoio, prendendo tutti gli spigoli ovviamente....
 
-![tatoio.jpg](http://pilde.net/blog/wp-content/uploads/2007/10/tatoio.jpg)
+![tatoio.jpg]({{baseurl}}/uploads/2007/10/tatoio.jpg)
 
 
 
 
 ....ci sono i miei libri da leggere...
 
-![leggo.jpg](http://pilde.net/blog/wp-content/uploads/2007/10/leggo.jpg)
+![leggo.jpg]({{baseurl}}/uploads/2007/10/leggo.jpg)
 
 
 
 
 ...ci sono palle e palloncini....e ogni tanto qualche strano esperimento..
 
-![farina.jpg](http://pilde.net/blog/wp-content/uploads/2007/10/farina.jpg)
+![farina.jpg]({{baseurl}}/uploads/2007/10/farina.jpg)
 
 
 
 
 Poi tornano M e/o P e gioco anche un pò con loro, fino alle 19 quando generalmente faccio il bagnetto, con tanto di phon finale!
 
-![accapp.jpg](http://pilde.net/blog/wp-content/uploads/2007/10/accapp.jpg)
+![accapp.jpg]({{baseurl}}/uploads/2007/10/accapp.jpg)
 
 
 
 
 Nel frattempo è pronta la pappa. Ultimamente mi piace provare a mangiare da sola, ma faccio un disastro!
 
-![pappa.jpg](http://pilde.net/blog/wp-content/uploads/2007/10/pappa.jpg)
+![pappa.jpg]({{baseurl}}/uploads/2007/10/pappa.jpg)
 
 
 

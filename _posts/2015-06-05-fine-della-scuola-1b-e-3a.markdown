@@ -11,16 +11,16 @@ categories:
 - Scuola
 ---
 
-[![1B](http://pilde.net/blog/wp-content/uploads/2015/09/1B.jpg)
+[![1B]({{baseurl}}/uploads/2015/09/1B.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/1B.jpg)
+]({{baseurl}}/uploads/2015/09/1B.jpg)
 
 
- [![3A](http://pilde.net/blog/wp-content/uploads/2015/09/3A.jpg)
+ [![3A]({{baseurl}}/uploads/2015/09/3A.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2015/09/3A.jpg)
+]({{baseurl}}/uploads/2015/09/3A.jpg)
 
 
 

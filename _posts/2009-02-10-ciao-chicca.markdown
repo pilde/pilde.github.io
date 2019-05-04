@@ -13,7 +13,7 @@ categories:
 
 Oggi Chicchina è andata nel paradiso dei cagnetti. In questo momento starà correndo felice tra i fiori. Addio cucciola e grazie per averci dato 17 anni di felicità!
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/02/chicca.jpg)
+[![]({{baseurl}}/uploads/2009/02/chicca.jpg)
 
 
 ](http://None)

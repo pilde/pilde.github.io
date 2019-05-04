@@ -14,7 +14,7 @@ categories:
 Oggi vi presento i miei bambolotti.
 Stamattina li ho riuniti tutti insieme per cambiarli, visto che avevano fatto una 'cacca puzzulente'....
 
-![balotti.jpg](http://pilde.net/blog/wp-content/uploads/2008/04/balotti.jpg)
+![balotti.jpg]({{baseurl}}/uploads/2008/04/balotti.jpg)
 
 
 

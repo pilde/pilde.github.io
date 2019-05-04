@@ -14,10 +14,10 @@ categories:
 
 Tanti auguri da tutti noi ... e un abbraccio forte forte da Margherita!
 
-[![marghe_alessia2](http://pilde.net/blog/wp-content/uploads/2013/05/marghe_alessia2.jpg)
+[![marghe_alessia2]({{baseurl}}/uploads/2013/05/marghe_alessia2.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/05/marghe_alessia2.jpg)
+]({{baseurl}}/uploads/2013/05/marghe_alessia2.jpg)
 
 
 

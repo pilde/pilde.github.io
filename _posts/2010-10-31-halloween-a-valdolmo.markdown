@@ -15,7 +15,7 @@ categories:
 
 Anche se a P non piace questa festa ci ha aiutati a fare una bellissima zucca!!
 
-![](http://pilde.net/blog/wp-content/uploads/2010/11/halloween_blog1.jpg)
+![]({{baseurl}}/uploads/2010/11/halloween_blog1.jpg)
 
 
 

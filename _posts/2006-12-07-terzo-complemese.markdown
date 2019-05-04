@@ -18,7 +18,7 @@ invece di ricevere regali voglio fare un regalo speciale al mio papà che è lon
 
 
 
-![sveglia.jpg](http://pilde.net/blog/wp-content/uploads/2006/12/sveglia.jpg)
+![sveglia.jpg]({{baseurl}}/uploads/2006/12/sveglia.jpg)
 
 
 

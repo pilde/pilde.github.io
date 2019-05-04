@@ -17,35 +17,35 @@ Oggi festeggiamo due eventi importanti: l'arrivo della piccola (si fa per dire)
 
  Emma e il compleanno del suo mitico papà Bruno, per gli amici BravoBravo!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/09/be.jpg)
+![]({{baseurl}}/uploads/2012/09/be.jpg)
 
 
 
 
 e ovviamente la supermamy Noemi che li sopporta entrambi!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/09/bne.jpg)
+![]({{baseurl}}/uploads/2012/09/bne.jpg)
 
 
 
 
 Una bella festa in giardino
 
-![](http://pilde.net/blog/wp-content/uploads/2012/09/mm.jpg)
+![]({{baseurl}}/uploads/2012/09/mm.jpg)
 
 
 
 
 con tanto relax
 
-![](http://pilde.net/blog/wp-content/uploads/2012/09/marghep.jpg)
+![]({{baseurl}}/uploads/2012/09/marghep.jpg)
 
 
 
 
 e l'immancabile volo in elicottero!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/09/elicottero.jpg)
+![]({{baseurl}}/uploads/2012/09/elicottero.jpg)
 
 
 

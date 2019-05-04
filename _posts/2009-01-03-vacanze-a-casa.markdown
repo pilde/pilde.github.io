@@ -19,7 +19,7 @@ Queste vacanze di Natale purtroppo sono state un pò sfortunate....Margherita si
 
  Però a casa ho fatto tanti lavoretti con papà..abbiamo ritagliato il cartone e fatto le maschere, abbiamo cucinato, fatto la carta pesta
 
-![](http://pilde.net/blog/wp-content/uploads/2009/01/maschera.jpg)
+![]({{baseurl}}/uploads/2009/01/maschera.jpg)
 
 
 
@@ -29,7 +29,7 @@ Queste vacanze di Natale purtroppo sono state un pò sfortunate....Margherita si
 
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/01/cartapesta.jpg)
+[![]({{baseurl}}/uploads/2009/01/cartapesta.jpg)
 
 
 ](http://None)
@@ -39,7 +39,7 @@ Queste vacanze di Natale purtroppo sono state un pò sfortunate....Margherita si
 
 abbiamo suonato il piano
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/01/piano.jpg)
+[![]({{baseurl}}/uploads/2009/01/piano.jpg)
 
 
 ](http://None)
@@ -49,7 +49,7 @@ abbiamo suonato il piano
 
  e ci siamo coccolate con Marghe
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/01/sdraietta.jpg)
+[![]({{baseurl}}/uploads/2009/01/sdraietta.jpg)
 
 
 ](http://None)
@@ -57,7 +57,7 @@ abbiamo suonato il piano
 
 
 
-e ogni tanto lei ci guardava ciucciandosi le manine!![](http://pilde.net/blog/wp-content/uploads/2009/01/marghe.jpg)
+e ogni tanto lei ci guardava ciucciandosi le manine!![]({{baseurl}}/uploads/2009/01/marghe.jpg)
 
 
 

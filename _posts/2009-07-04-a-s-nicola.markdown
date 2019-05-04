@@ -16,31 +16,31 @@ Le mie amichette si sono trasferite a S.Nicola in vacanza e Marghe ed io siamo a
 <tbody >
 <tr >
 
-<td >![](http://pilde.net/blog/wp-content/uploads/2009/07/sophie1.jpg)
+<td >![]({{baseurl}}/uploads/2009/07/sophie1.jpg)
 
 
 
 </td>
 
-<td >![](http://pilde.net/blog/wp-content/uploads/2009/07/matilde1.jpg)
+<td >![]({{baseurl}}/uploads/2009/07/matilde1.jpg)
 
 
 
 </td>
 
-<td >![](http://pilde.net/blog/wp-content/uploads/2009/07/nicole.jpg)
+<td >![]({{baseurl}}/uploads/2009/07/nicole.jpg)
 
 
 
 </td>
 </tr>
 </tbody></table>
-![](http://pilde.net/blog/wp-content/uploads/2009/07/tregrazie.jpg)
+![]({{baseurl}}/uploads/2009/07/tregrazie.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2009/07/aspasso.jpg)
+![]({{baseurl}}/uploads/2009/07/aspasso.jpg)
 
 
 

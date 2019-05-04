@@ -14,7 +14,7 @@ categories:
 Finalmente l'inaugurazione del locale di Roberto e Francesco che zia Betta ha 'architettato'.
 E' proprio bello, complimenti zia!
 
-![santamaura1.jpg](http://pilde.net/blog/wp-content/uploads/2008/01/santamaura1.jpg)
+![santamaura1.jpg]({{baseurl}}/uploads/2008/01/santamaura1.jpg)
 
 
 
@@ -24,7 +24,7 @@ A proposito...è proprio vero che le donne incinta sono bellissime.....i papà m
 
  
 
-![santamaura2.jpg](http://pilde.net/blog/wp-content/uploads/2008/01/santamaura2.jpg)
+![santamaura2.jpg]({{baseurl}}/uploads/2008/01/santamaura2.jpg)
 
 
 

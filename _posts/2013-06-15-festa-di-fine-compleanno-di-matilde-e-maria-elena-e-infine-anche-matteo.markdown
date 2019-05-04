@@ -15,52 +15,52 @@ Matilde, Maria Elena e Matteo fanno i compleanni quando la scuola è chiusa per 
 
 I bimbi hanno giocato tantissimo con l'animatore Andrea
 
-![gioco_uovo](http://pilde.net/blog/wp-content/uploads/2013/06/gioco_uovo.jpg)
+![gioco_uovo]({{baseurl}}/uploads/2013/06/gioco_uovo.jpg)
 
 
 
 che poi si è trasformato in mago e ha creato i papà volanti!
 
-![papa_volanti](http://pilde.net/blog/wp-content/uploads/2013/06/papa_volanti.jpg)
+![papa_volanti]({{baseurl}}/uploads/2013/06/papa_volanti.jpg)
 
 
 
 
 ha fatto tante magie misteriose
 
-![mago](http://pilde.net/blog/wp-content/uploads/2013/06/mago.jpg)
+![mago]({{baseurl}}/uploads/2013/06/mago.jpg)
 
 
 
 e poi ha anche fatto apparire un coniglio bellissimo!
 
-![mati_coniglio](http://pilde.net/blog/wp-content/uploads/2013/06/mati_coniglio.jpg)
+![mati_coniglio]({{baseurl}}/uploads/2013/06/mati_coniglio.jpg)
 
 
 
-![maria_elena_coniglio](http://pilde.net/blog/wp-content/uploads/2013/06/maria_elena_coniglio.jpg)
+![maria_elena_coniglio]({{baseurl}}/uploads/2013/06/maria_elena_coniglio.jpg)
 
 
 
 
 Infine le torte
 
-![torte](http://pilde.net/blog/wp-content/uploads/2013/06/torte.jpg)
+![torte]({{baseurl}}/uploads/2013/06/torte.jpg)
 
 e un bel pò di regali!
 
 Il povero Matteo, causa bronchite, ha dovuto fare un'altra festa che è andata benissimo lo stesso!
 
-![torta_matteo](http://pilde.net/blog/wp-content/uploads/2013/06/torta_matteo.jpg)
+![torta_matteo]({{baseurl}}/uploads/2013/06/torta_matteo.jpg)
 
 
 E che belle principessine a questa festa!! Terribilmente eleganti....quasi irriconoscibili!!!
 
-![mati_p](http://pilde.net/blog/wp-content/uploads/2013/06/mati_p.jpg)
+![mati_p]({{baseurl}}/uploads/2013/06/mati_p.jpg)
 
 
 
-![marghe_p](http://pilde.net/blog/wp-content/uploads/2013/06/marghe_p.jpg)
+![marghe_p]({{baseurl}}/uploads/2013/06/marghe_p.jpg)
 
 
 

@@ -13,10 +13,10 @@ categories:
 
 Evviva gli sposi....e noi tutti eleganti per l'occasione!
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/04/mat_alberto.jpg)
+[![]({{baseurl}}/uploads/2009/04/mat_alberto.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2009/04/mat_alberto.jpg)
+]({{baseurl}}/uploads/2009/04/mat_alberto.jpg)
 
 
 

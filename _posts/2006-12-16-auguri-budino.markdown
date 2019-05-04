@@ -13,13 +13,13 @@ categories:
 
 Oggi vi voglio raccontare di mio fratello Budino.
 
-![budino_res.jpg](http://pilde.net/blog/wp-content/uploads/2006/12/budino_res.jpg)
+![budino_res.jpg]({{baseurl}}/uploads/2006/12/budino_res.jpg)
 
 
 
 
 Budino è un bambino Brasiliano, la cosa magica è che non è solo fratello mio, ma anche di Nicole, Sophie, Ascanio e Francesco eppoi non è solo figlio di Mep, ma anche di Mara, Lorenzo, Nospa, Simona, Nathalie, Enrico, Lampadina, Paperoga, Bravo Bravo, Noemi, Valvola, Trota, Valentina, Fracassa, Nep, Fenomeno, Geppa, Cipolla, Venturi, Cristina, Nonno, Peppe, Luciana, Tre Minuti, Follevento e .... bello vero.
-![auguri_res.jpg](http://pilde.net/blog/wp-content/uploads/2006/12/auguri_res.jpg)
+![auguri_res.jpg]({{baseurl}}/uploads/2006/12/auguri_res.jpg)
 
 
 

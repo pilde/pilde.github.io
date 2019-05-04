@@ -13,7 +13,7 @@ categories:
 ---
 
 Ragazzi, lo scorso fine settimana è stato fantastico... mille novità . La sera siamo arrivati a Sabaudia in camper... eravamo MeP ed io, Bruno e Noemi. Bello dormire col rumore delle onde.
-![](http://pilde.net/blog/wp-content/uploads/2006/10/copia-di-dscn2316.JPG)
+![]({{baseurl}}/uploads/2006/10/copia-di-dscn2316.JPG)
 
 
 
@@ -22,14 +22,14 @@ Poi l'indomani c'hanno raggiunto in tantissimi Nicole, Sophie, Nathalie, Enrico,
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2006/10/copia-di-dscn2348.JPG)
+![]({{baseurl}}/uploads/2006/10/copia-di-dscn2348.JPG)
 
 
 
 
 Abbiamo giocato, mangiato, scherzato, fatto il bagno, qualcuno ha anche volato, ma soprattutto ho visto il mare più da vicino. Che bello!!!
 
-![](http://pilde.net/blog/wp-content/uploads/2006/10/copia-di-dscn2329.JPG)
+![]({{baseurl}}/uploads/2006/10/copia-di-dscn2329.JPG)
 
 
 

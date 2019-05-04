@@ -13,7 +13,7 @@ categories:
 
 ...è proprio vero! Sofia ed io ci stavamo preparando una bella cenetta, sugo di pomodoro,
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/01/pomodori.jpg)
+[![]({{baseurl}}/uploads/2009/01/pomodori.jpg)
 
 
 ](http://None)
@@ -21,7 +21,7 @@ categories:
 
 quando abbiamo sentito un rumore provenire dal caminetto....allora siamo salite su e abbiamo trovato due calze appese e un grosso regalo....era passata la befana!!
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/01/calza.jpg)
+[![]({{baseurl}}/uploads/2009/01/calza.jpg)
 
 
 ](http://None)
@@ -29,7 +29,7 @@ quando abbiamo sentito un rumore provenire dal caminetto....allora siamo salite 
 
 
 
-nelle calze c'erano un pò di dolcetti, e niente carbone, mentre il regalo erano i 'chiodini'![![](http://pilde.net/blog/wp-content/uploads/2009/01/chiodini.jpg)
+nelle calze c'erano un pò di dolcetti, e niente carbone, mentre il regalo erano i 'chiodini'![![]({{baseurl}}/uploads/2009/01/chiodini.jpg)
 
 
 ](http://None)

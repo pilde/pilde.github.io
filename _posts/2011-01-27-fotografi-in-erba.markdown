@@ -16,7 +16,7 @@ Alcune prove...ben riuscite....(grazie Enrico!)
 
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/02/marghe_palo.jpg)
+[![]({{baseurl}}/uploads/2011/02/marghe_palo.jpg)
 
 
 ](http://None)
@@ -24,7 +24,7 @@ Alcune prove...ben riuscite....(grazie Enrico!)
 
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/02/matimamma.jpg)
+[![]({{baseurl}}/uploads/2011/02/matimamma.jpg)
 
 
 ](http://None)

@@ -16,21 +16,21 @@ Questo we sono stata in campeggio con Sofia a Montalto Marina
 
 abbiamo fatto tante cose insieme: abbiamo giocato sulla spiaggia, siamo state in bicicletta in giro per il campeggio, abbiamo fatto il bagno in piscina
 
-![](http://pilde.net/blog/wp-content/uploads/2009/07/sofia4.jpg)
+![]({{baseurl}}/uploads/2009/07/sofia4.jpg)
 
 
 
 
 siamo state a ballare la sera, e ci hanno anche scambiate per gemelline!
 
-![](http://pilde.net/blog/wp-content/uploads/2009/07/sofia3.jpg)
+![]({{baseurl}}/uploads/2009/07/sofia3.jpg)
 
 
 
 
 Sofia è un pesciolino spericolato!
 
-![](http://pilde.net/blog/wp-content/uploads/2009/07/sofia2.jpg)
+![]({{baseurl}}/uploads/2009/07/sofia2.jpg)
 
 
 

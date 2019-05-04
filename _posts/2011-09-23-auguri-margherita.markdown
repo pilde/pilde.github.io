@@ -11,7 +11,7 @@ categories:
 - Compleanni
 ---
 
-![](http://pilde.net/blog/wp-content/uploads/2011/10/buon-compleanno-maggi.jpg)
+![]({{baseurl}}/uploads/2011/10/buon-compleanno-maggi.jpg)
 
 
 

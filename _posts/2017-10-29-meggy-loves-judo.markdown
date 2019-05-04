@@ -14,14 +14,14 @@ categories:
 
 Quest'anno ho deciso di fare Judo! E mi piace tantissimo!
 
-![judo1](http://pilde.net/blog/wp-content/uploads/2017/11/judo1.png)
+![judo1]({{baseurl}}/uploads/2017/11/judo1.png)
 
 
 
 
 Nel we ho fatto anche uno stage di tre giorni con una squadra di corsi....chissà se a maggio andrò in Corsica a trovarli....
 
-![judo2](http://pilde.net/blog/wp-content/uploads/2017/11/judo2.png)
+![judo2]({{baseurl}}/uploads/2017/11/judo2.png)
 
 
 

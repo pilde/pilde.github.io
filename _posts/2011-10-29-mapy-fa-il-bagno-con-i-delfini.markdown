@@ -13,7 +13,7 @@ categories:
 
 Eccoci qui, di nuovo a Zoomarine, ad accompagnare mapy a fare il bagno con i delfini! Che giornata bellissima e che caldo!
 
-![](http://pilde.net/blog/wp-content/uploads/2011/11/zoomarine_delfini.jpg)
+![]({{baseurl}}/uploads/2011/11/zoomarine_delfini.jpg)
 
 
 
@@ -30,19 +30,19 @@ BRAVO PAPY!!!!
 
 E noi ci godiamo il parco... girando fra gli amati dinosauri
 
-![](http://pilde.net/blog/wp-content/uploads/2011/11/zoomarine_dino.jpg)
+![]({{baseurl}}/uploads/2011/11/zoomarine_dino.jpg)
 
 
 
 
 e l'atmosfera di Halloween!
 
-![](http://pilde.net/blog/wp-content/uploads/2011/11/bimbe1.jpg)
+![]({{baseurl}}/uploads/2011/11/bimbe1.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2011/11/zoomarine_fantasmi.jpg)
+![]({{baseurl}}/uploads/2011/11/zoomarine_fantasmi.jpg)
 
 
 

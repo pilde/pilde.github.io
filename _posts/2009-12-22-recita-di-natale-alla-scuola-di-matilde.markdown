@@ -16,7 +16,7 @@ Finalmente il gran giorno della recita (anche se non sono molto entusiasta, fors
 
 ... ma alla fine ecco tutti i genitori seduti....si apre il sipario....
 
-![](http://pilde.net/blog/wp-content/uploads/2009/12/recita1.jpg)
+![]({{baseurl}}/uploads/2009/12/recita1.jpg)
 
 
 
@@ -28,14 +28,14 @@ ed eccoci qui a rappresentare la nascita di Gesù con tanto di capanna e pastor
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2009/12/pastorella.jpg)
+![]({{baseurl}}/uploads/2009/12/pastorella.jpg)
 
 
 
 
 poi un veloce cambio di scenografia e costumi, tra le lacrime emozionate dei genitori, e si riapre il sipario per i canti di natale!
 
-![](http://pilde.net/blog/wp-content/uploads/2009/12/recita2.jpg)
+![]({{baseurl}}/uploads/2009/12/recita2.jpg)
 
 
 

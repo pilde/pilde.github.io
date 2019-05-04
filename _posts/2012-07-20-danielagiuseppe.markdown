@@ -14,21 +14,21 @@ categories:
 
 Finalmente! Ecco lo sposo molto fashion
 
-![](http://pilde.net/blog/wp-content/uploads/2012/07/giuseppe.jpg)
+![]({{baseurl}}/uploads/2012/07/giuseppe.jpg)
 
 
 
 
 e Danielina bellissima come sempre!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/07/daniela.jpg)
+![]({{baseurl}}/uploads/2012/07/daniela.jpg)
 
 
 
 
 E un nutrito gruppo di fan sfegatate, piccole e grandi!
 
-![](http://pilde.net/blog/wp-content/uploads/2012/07/amici.jpg)
+![]({{baseurl}}/uploads/2012/07/amici.jpg)
 
 
 

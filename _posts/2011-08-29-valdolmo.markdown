@@ -13,42 +13,42 @@ categories:
 
 La seconda metà di agosto la passiamo a Valdolmo. Ci sono tantissimi amici e ci devertiamo tra passeggiate sul monte
 
-![](http://pilde.net/blog/wp-content/uploads/2011/09/passeggiata.jpg)
+![]({{baseurl}}/uploads/2011/09/passeggiata.jpg)
 
 
 
 
 con defaticamento
 
-![](http://pilde.net/blog/wp-content/uploads/2011/09/prati.jpg)
+![]({{baseurl}}/uploads/2011/09/prati.jpg)
 
 
 
 
 bagni nei laghetti
 
-![](http://pilde.net/blog/wp-content/uploads/2011/09/laghetti.jpg)
+![]({{baseurl}}/uploads/2011/09/laghetti.jpg)
 
 
 
 
 pranzi e cene
 
-![](http://pilde.net/blog/wp-content/uploads/2011/09/pranzi.jpg)
+![]({{baseurl}}/uploads/2011/09/pranzi.jpg)
 
 
 
 
 con amici e parenti
 
-![](http://pilde.net/blog/wp-content/uploads/2011/09/manufra.jpg)
+![]({{baseurl}}/uploads/2011/09/manufra.jpg)
 
 
 
 
 e nottate a suon di musica e risate
 
-![](http://pilde.net/blog/wp-content/uploads/2011/09/andy_chitarra.jpg)
+![]({{baseurl}}/uploads/2011/09/andy_chitarra.jpg)
 
 
 

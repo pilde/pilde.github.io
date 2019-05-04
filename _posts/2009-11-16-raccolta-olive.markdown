@@ -14,49 +14,49 @@ categories:
 
 Quest'anno per l'annuale raccolta delle olive è venuta anche zia Giorgia insieme a Max e Morgan
 
-![](http://pilde.net/blog/wp-content/uploads/2009/11/zia.jpg)
+![]({{baseurl}}/uploads/2009/11/zia.jpg)
 
 
 
 
 ognuno con il suo rastrellino e al lavoro! Sofia è stata bravissima
 
-![](http://pilde.net/blog/wp-content/uploads/2009/11/sofia_olive.jpg)
+![]({{baseurl}}/uploads/2009/11/sofia_olive.jpg)
 
 
 
 
 mentre Morgan, nonostante il rastrello, le mangiava le olive!!  
 
-![](http://pilde.net/blog/wp-content/uploads/2009/11/morgan.jpg)
+![]({{baseurl}}/uploads/2009/11/morgan.jpg)
 
 
 
 
 poi stanche del lavoro io, Marghe e Morgan ci siamo riposati un pò
 
-![](http://pilde.net/blog/wp-content/uploads/2009/11/relax.jpg)
+![]({{baseurl}}/uploads/2009/11/relax.jpg)
 
 
 
 
 in attesa del pranzo..ai fuochi c'è P.. e all'intrattenimento c'è Max!!
 
-![](http://pilde.net/blog/wp-content/uploads/2009/11/pappa.jpg)
+![]({{baseurl}}/uploads/2009/11/pappa.jpg)
 
 
 
 
 e dopo pranzo ancora relax sull'amaca per i piccoli
 
-![](http://pilde.net/blog/wp-content/uploads/2009/11/amaca.jpg)
+![]({{baseurl}}/uploads/2009/11/amaca.jpg)
 
 
 
 
 e il defogliatore anti-tress per i grandi!!
 
-![](http://pilde.net/blog/wp-content/uploads/2009/11/attrezzo.jpg)
+![]({{baseurl}}/uploads/2009/11/attrezzo.jpg)
 
 
 
@@ -65,7 +65,7 @@ e il defogliatore anti-tress per i grandi!!
 
 Nicole,Chiara, Davide, Ludvica ed Emilia e un arrivederci alla prossima raccolta!
 
-![](http://pilde.net/blog/wp-content/uploads/2009/11/passeggiata.jpg)
+![]({{baseurl}}/uploads/2009/11/passeggiata.jpg)
 
 
 

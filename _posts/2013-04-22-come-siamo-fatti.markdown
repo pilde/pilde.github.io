@@ -16,20 +16,20 @@ categories:
 
  sono questi
 
-[![come siamo fatti marghe](http://pilde.net/blog/wp-content/uploads/2013/04/come-siamo-fatti-marghe-e1366622446773.png)
+[![come siamo fatti marghe]({{baseurl}}/uploads/2013/04/come-siamo-fatti-marghe-e1366622446773.png)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/04/come-siamo-fatti-marghe-e1366622446773.png)
+]({{baseurl}}/uploads/2013/04/come-siamo-fatti-marghe-e1366622446773.png)
 
 
 
 
 Poi ha collaborato anche Mati ... ed anche l'elefante è stato messo sotto osservazione
 
-[![come siamo fatti mati](http://pilde.net/blog/wp-content/uploads/2013/04/come-siamo-fatti-mati-e1366622655341.png)
+[![come siamo fatti mati]({{baseurl}}/uploads/2013/04/come-siamo-fatti-mati-e1366622655341.png)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/04/come-siamo-fatti-mati-e1366622655341.png)
+]({{baseurl}}/uploads/2013/04/come-siamo-fatti-mati-e1366622655341.png)
 
 
 

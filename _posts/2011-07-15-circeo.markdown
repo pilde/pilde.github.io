@@ -16,56 +16,56 @@ Anche quest'anno (grazie zia)
 
  passaimo un paio di settimane nella bellissima casa di zia Aldina al Circeo con nonno Mario, nonna Franca, Caterina e Raymond!!
 
-![](http://pilde.net/blog/wp-content/uploads/2011/09/circeo_tavolo.jpg)
+![]({{baseurl}}/uploads/2011/09/circeo_tavolo.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2011/09/ghiaccioli.jpg)
+![]({{baseurl}}/uploads/2011/09/ghiaccioli.jpg)
 
 
 
 
 Ci divertiamo in giardino, al mare
 
-![](http://pilde.net/blog/wp-content/uploads/2011/09/bimbe_in_acqua.jpg)
+![]({{baseurl}}/uploads/2011/09/bimbe_in_acqua.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2011/09/giochi_sabbia.jpg)
+![]({{baseurl}}/uploads/2011/09/giochi_sabbia.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2011/09/mare_nonno.jpg)
+![]({{baseurl}}/uploads/2011/09/mare_nonno.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2011/09/circeo_mati.jpg)
+![]({{baseurl}}/uploads/2011/09/circeo_mati.jpg)
 
 
 
 
 al parco
 
-![](http://pilde.net/blog/wp-content/uploads/2011/09/altalena_ray.jpg)
+![]({{baseurl}}/uploads/2011/09/altalena_ray.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2011/09/carrucola.jpg)
+![]({{baseurl}}/uploads/2011/09/carrucola.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2011/09/piedi_scalzi_e_cani.jpg)
+![]({{baseurl}}/uploads/2011/09/piedi_scalzi_e_cani.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2011/09/asinello1.jpg)
+![]({{baseurl}}/uploads/2011/09/asinello1.jpg)
 
 
 
@@ -77,7 +77,7 @@ al circo
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2011/09/mati1.jpg)
+![]({{baseurl}}/uploads/2011/09/mati1.jpg)
 
 
 

@@ -13,7 +13,7 @@ categories:
 
 A Matilde piacciono tanto le bimbe, e Marta è davvero una cucciola!!!
 
-![marta](http://pilde.net/blog/wp-content/uploads/2013/01/marta.jpg)
+![marta]({{baseurl}}/uploads/2013/01/marta.jpg)
 
 
 

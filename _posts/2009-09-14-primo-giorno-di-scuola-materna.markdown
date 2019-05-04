@@ -16,7 +16,7 @@ categories:
 
 Oggi inizio la scuola materna!
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/09/scuola2.jpg)
+[![]({{baseurl}}/uploads/2009/09/scuola2.jpg)
 
 
 ](http://None)
@@ -28,7 +28,7 @@ mi piacciono sia le maestre, a cui stranamente ho anche dato un bacio, e anche i
 
 e poi c'è una cucina bellissima nella mia classe! La sezione D
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/09/scuola3.jpg)
+[![]({{baseurl}}/uploads/2009/09/scuola3.jpg)
 
 
 ](http://None)

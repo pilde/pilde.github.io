@@ -14,19 +14,19 @@ categories:
 
 Ho trascorso due bellissimi giorni al centro elioterapico della Marina in mezzo a vecchi ammiragli e giovani ufficiali....ma per fortuna c'erano la zia Anna Gloria, lo zio Nic e Camilla.
 
-![anni.jpg](http://pilde.net/blog/wp-content/uploads/2007/07/anni.jpg)
+![anni.jpg]({{baseurl}}/uploads/2007/07/anni.jpg)
 
 
 
 
 Ho fatto tanti bagni anche se l'acqua era un pò freddina e ho imparato a salire le scale!
 
-![nic.jpg](http://pilde.net/blog/wp-content/uploads/2007/07/nic.jpg)
+![nic.jpg]({{baseurl}}/uploads/2007/07/nic.jpg)
 
 
 
 
-![pannolino.jpg](http://pilde.net/blog/wp-content/uploads/2007/07/pannolino.jpg)
+![pannolino.jpg]({{baseurl}}/uploads/2007/07/pannolino.jpg)
 
 
 

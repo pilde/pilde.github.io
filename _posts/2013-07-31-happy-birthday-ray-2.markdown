@@ -14,10 +14,10 @@ categories:
 
 a big kiss from Italy
 
-[![HB_ray](http://pilde.net/blog/wp-content/uploads/2013/07/HB_ray.jpg)
+[![HB_ray]({{baseurl}}/uploads/2013/07/HB_ray.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/07/HB_ray.jpg)
+]({{baseurl}}/uploads/2013/07/HB_ray.jpg)
 
 
 

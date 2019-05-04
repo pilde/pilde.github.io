@@ -13,12 +13,12 @@ categories:
 
 Chi sulla poltrona massaggiante
 
-![massaggio](http://pilde.net/blog/wp-content/uploads/2019/03/massaggio.png)
+![massaggio]({{baseurl}}/uploads/2019/03/massaggio.png)
 
 
 chi ovunque
 
-![relax](http://pilde.net/blog/wp-content/uploads/2019/03/relax.png)
+![relax]({{baseurl}}/uploads/2019/03/relax.png)
 
 
 

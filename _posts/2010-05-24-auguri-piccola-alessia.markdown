@@ -12,7 +12,7 @@ categories:
 - Compleanni
 ---
 
-![](http://pilde.net/blog/wp-content/uploads/2010/05/alessia_nuovo_blog.jpg)
+![]({{baseurl}}/uploads/2010/05/alessia_nuovo_blog.jpg)
 
 
 

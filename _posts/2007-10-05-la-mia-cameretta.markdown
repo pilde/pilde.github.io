@@ -18,7 +18,7 @@ Questo è l'angolo dove passo più tempo (quando piove e sono costretta a stare 
 
 , un tappetone morbido e colorato e tantissimi giochi....
 
-![angolo.jpg](http://pilde.net/blog/wp-content/uploads/2007/10/angolo.jpg)
+![angolo.jpg]({{baseurl}}/uploads/2007/10/angolo.jpg)
 
 
 
@@ -34,7 +34,7 @@ Questo è l'angolo dove passo più tempo (quando piove e sono costretta a stare 
 
  e gli uccellini blu
 
-![elmer.jpg](http://pilde.net/blog/wp-content/uploads/2007/10/elmer.jpg)
+![elmer.jpg]({{baseurl}}/uploads/2007/10/elmer.jpg)
 
 
 
@@ -44,7 +44,7 @@ e poi c'è il mio lettino dove faccio delle ninne fantastiche, la poltrona dove 
 
 , e il metro-giraffa.
 
-![lettino.jpg](http://pilde.net/blog/wp-content/uploads/2007/10/lettino.jpg)
+![lettino.jpg]({{baseurl}}/uploads/2007/10/lettino.jpg)
 
 
 

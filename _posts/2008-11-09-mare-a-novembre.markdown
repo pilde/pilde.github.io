@@ -13,7 +13,7 @@ categories:
 
 Sempre più incredibile questo tempo....oggi siamo al mare ai cancelli...è vero non ho fatto il bagno...ma mi sono divertita con Sophie!
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/11/mare_comics.jpg)
+[![]({{baseurl}}/uploads/2008/11/mare_comics.jpg)
 
 
 ](http://None)

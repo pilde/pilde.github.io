@@ -13,7 +13,7 @@ categories:
 
 Stamattina sono stata a fare due chiacchere col mio barista preferito, Stefano, che ogni volta che mi vede mi sorride e mi prende in braccio. Quando sto dietro il bancone con lui dice sempre che finalmente ha una bella aiutante!
 
-![stefano.jpg](http://pilde.net/blog/wp-content/uploads/2007/11/stefano.jpg)
+![stefano.jpg]({{baseurl}}/uploads/2007/11/stefano.jpg)
 
 
 
@@ -23,21 +23,21 @@ Poi con MeP siamo andati al matrimonio di Piotre e Ula, due amici polacchi di P 
 
  non ero affatto male! Le ho portato un girasole gigante!
 
-![matrimonio.jpg](http://pilde.net/blog/wp-content/uploads/2007/11/matrimonio.jpg)
+![matrimonio.jpg]({{baseurl}}/uploads/2007/11/matrimonio.jpg)
 
 
 
 
 Poi, insieme ai miei 4 nonni e zia Giorgia, sono stata a vedere l'istituto agrario sull'Ardeatina. Ho visto le mucche e i vitellini, e li ho anche accarezzati, che teneri!
 
-![mucca.jpg](http://pilde.net/blog/wp-content/uploads/2007/11/mucca.jpg)
+![mucca.jpg]({{baseurl}}/uploads/2007/11/mucca.jpg)
 
 
 
 
 E c'era anche una vecchissima mietitrebbia in legno degli inizi del 900 con delle ruote enormi.
 
-![trebbia.jpg](http://pilde.net/blog/wp-content/uploads/2007/11/trebbia.jpg)
+![trebbia.jpg]({{baseurl}}/uploads/2007/11/trebbia.jpg)
 
 
 

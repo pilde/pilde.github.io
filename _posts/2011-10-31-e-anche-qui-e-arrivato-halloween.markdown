@@ -13,21 +13,21 @@ categories:
 
 Le zucche non le abbiamo ma ce le facciamo da sole....
 
-![](http://pilde.net/blog/wp-content/uploads/2011/11/halloween1.jpg)
+![]({{baseurl}}/uploads/2011/11/halloween1.jpg)
 
 
 
 
 poi Mapy mi trucca per la festa...
 
-![](http://pilde.net/blog/wp-content/uploads/2011/11/halloween2.jpg)
+![]({{baseurl}}/uploads/2011/11/halloween2.jpg)
 
 
 
 
 eccomi sono la strega dei ragni!! Che paura!!
 
-![](http://pilde.net/blog/wp-content/uploads/2011/11/halloween3.jpg)
+![]({{baseurl}}/uploads/2011/11/halloween3.jpg)
 
 
 

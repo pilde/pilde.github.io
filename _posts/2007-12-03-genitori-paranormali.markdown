@@ -13,7 +13,7 @@ categories:
 
 Questo fine settimana sono stata con MeP a Norma. C'era la festa del club di volo 'Paranormali' e ho fatto la mascotte!
 
-![logo_paranormali.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/logo_paranormali.jpg)
+![logo_paranormali.jpg]({{baseurl}}/uploads/2007/12/logo_paranormali.jpg)
 
 
 
@@ -27,21 +27,21 @@ Sono salita su in decollo sulle spalle di P che già portava un sacco enorme mol
 
 
 
-![norma1.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/norma1.jpg)
+![norma1.jpg]({{baseurl}}/uploads/2007/12/norma1.jpg)
 
 
 
 
 Poi ho visto decollare P 
 
-![norma2.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/norma2.jpg)
+![norma2.jpg]({{baseurl}}/uploads/2007/12/norma2.jpg)
 
 
 
 
 e insieme a M l'abbiamo guardato volare.
 
-![norma3.jpg](http://pilde.net/blog/wp-content/uploads/2007/12/norma3.jpg)
+![norma3.jpg]({{baseurl}}/uploads/2007/12/norma3.jpg)
 
 
 

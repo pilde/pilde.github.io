@@ -17,7 +17,7 @@ Ho una passione per le mollete, anche perchè M me le mette da quando ero piccol
 
 Ne ho accumulate un bel pò....queste sono le mie preferite!
 
-![mollette.jpg](http://pilde.net/blog/wp-content/uploads/2007/10/mollette.jpg)
+![mollette.jpg]({{baseurl}}/uploads/2007/10/mollette.jpg)
 
 
 

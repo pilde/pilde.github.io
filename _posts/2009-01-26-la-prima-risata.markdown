@@ -13,12 +13,12 @@ categories:
 
 Oggi Màrghere ha fatto la sua prima vera risata sonora....che carina!
 
-![](http://pilde.net/blog/wp-content/uploads/2009/01/marghere1.jpg)
+![]({{baseurl}}/uploads/2009/01/marghere1.jpg)
 
 
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/01/marghere2.jpg)
+[![]({{baseurl}}/uploads/2009/01/marghere2.jpg)
 
 
 ](http://None)

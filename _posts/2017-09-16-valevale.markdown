@@ -14,60 +14,60 @@ categories:
 
 Partenza venerdì sera con i camper alla volta del campeggio di Capalbio. Bella braciolata tra amici. La notte tanto vento e la mattina alle 8 pioggia e tromba d'aria
 
-![tromba](http://pilde.net/blog/wp-content/uploads/2017/09/tromba.jpg)
+![tromba]({{baseurl}}/uploads/2017/09/tromba.jpg)
 
 
 Poi, come per miracolo, esce il primo raggio di sole....questo matrimonio s'ha da fare!!!! Tutti diamo una mano.... altare pronto
 
-![altare](http://pilde.net/blog/wp-content/uploads/2017/09/altare.jpg)
+![altare]({{baseurl}}/uploads/2017/09/altare.jpg)
 
 
 location pronta
 
-![location](http://pilde.net/blog/wp-content/uploads/2017/09/location.jpg)
+![location]({{baseurl}}/uploads/2017/09/location.jpg)
 
 
 catering ... quasi pronto
 
-![roulotte](http://pilde.net/blog/wp-content/uploads/2017/09/roulotte.png)
+![roulotte]({{baseurl}}/uploads/2017/09/roulotte.png)
 
 
 damigelle prontissime!!!
 
-![damigelle](http://pilde.net/blog/wp-content/uploads/2017/09/damigelle.jpg)
+![damigelle]({{baseurl}}/uploads/2017/09/damigelle.jpg)
 
 
 
 
 Tutti a cambiarci.... noi siamo bellissimi...metà eleganti ... metà look da spiaggia
 
-![noi2](http://pilde.net/blog/wp-content/uploads/2017/09/noi2.jpg)
+![noi2]({{baseurl}}/uploads/2017/09/noi2.jpg)
 
 
 
 
 e pronti ad accogliere lo sposo, che ballando a ritmo di musica arriva insieme a Caterina
 
-![sposo](http://pilde.net/blog/wp-content/uploads/2017/09/sposo.jpg)
+![sposo]({{baseurl}}/uploads/2017/09/sposo.jpg)
 
 
 
 
 e poi la sposa stupenda ed emozionatissima insieme a Sebastiano sulle note della marcia nuziale suonata da Caterina al violino
 
-![sposa](http://pilde.net/blog/wp-content/uploads/2017/09/sposa.jpg)
+![sposa]({{baseurl}}/uploads/2017/09/sposa.jpg)
 
 
 Il sindaco di Tor Fiscale celebra le nozze, emozianato al punto di bloccarsi e poi scoppiare a ridere....grande Marci! Poi le promesse, il rito della sabbia e le dediche degli amici
 
-![sabbia](http://pilde.net/blog/wp-content/uploads/2017/09/sabbia.jpg)
+![sabbia]({{baseurl}}/uploads/2017/09/sabbia.jpg)
 
 
 
 
 e finalmente lo sposo può baciare la sposa!!!!
 
-![sposi](http://pilde.net/blog/wp-content/uploads/2017/09/sposi.png)
+![sposi]({{baseurl}}/uploads/2017/09/sposi.png)
 
 
 
@@ -75,24 +75,24 @@ e finalmente lo sposo può baciare la sposa!!!!
 Ragazzi..... che la vita vi conservi così, allegri, spensierati, incasinati!!!! Siete meravigliosi!
 Asciugate le lacrime la giornata prosegue a suon di gnocco fritto e tigelle, di buffe foto polaroid
 
-![donne](http://pilde.net/blog/wp-content/uploads/2017/09/donne.jpg)
+![donne]({{baseurl}}/uploads/2017/09/donne.jpg)
 
 
 di bagno in mare e ruba bandiera sulla siaggia
 
-![ruba_bandiera](http://pilde.net/blog/wp-content/uploads/2017/09/ruba_bandiera.jpg)
+![ruba_bandiera]({{baseurl}}/uploads/2017/09/ruba_bandiera.jpg)
 
 
 
 
 di dolcetti in barattolo con i Vales sopra!
 
-![lego](http://pilde.net/blog/wp-content/uploads/2017/09/lego.png)
+![lego]({{baseurl}}/uploads/2017/09/lego.png)
 
 
 
 
-![tutti](http://pilde.net/blog/wp-content/uploads/2017/09/tutti.png)
+![tutti]({{baseurl}}/uploads/2017/09/tutti.png)
 
 
 
@@ -103,7 +103,7 @@ La domenica ci fermiamo ancora in campeggio. Giornata di sole con bagni e partit
 
 Un we stupendo! Grazie a tutti!
 
-![noi4](http://pilde.net/blog/wp-content/uploads/2017/09/noi4.jpg)
+![noi4]({{baseurl}}/uploads/2017/09/noi4.jpg)
 
 
 

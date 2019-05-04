@@ -11,7 +11,7 @@ categories:
 - Compleanni
 ---
 
-![compleanno.jpg](http://pilde.net/blog/wp-content/uploads/2008/09/compleanno.jpg)
+![compleanno.jpg]({{baseurl}}/uploads/2008/09/compleanno.jpg)
 
 
 

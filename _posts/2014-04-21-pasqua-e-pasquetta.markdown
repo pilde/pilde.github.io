@@ -13,54 +13,54 @@ categories:
 
 Una bella giornata di pasqua in famiglia...con tante cose buone da mangiare
 
-[![pasqua](http://pilde.net/blog/wp-content/uploads/2014/04/pasqua.jpg)
+[![pasqua]({{baseurl}}/uploads/2014/04/pasqua.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/04/pasqua.jpg)
+]({{baseurl}}/uploads/2014/04/pasqua.jpg)
 
 
 e tanta tanta cioccolata!!!
 
-[![pasqua_uova](http://pilde.net/blog/wp-content/uploads/2014/04/pasqua_uova.jpg)
+[![pasqua_uova]({{baseurl}}/uploads/2014/04/pasqua_uova.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/04/pasqua_uova.jpg)
+]({{baseurl}}/uploads/2014/04/pasqua_uova.jpg)
 
 
 E a pasquetta giro in bici lungo l'argine del tevere da porta portese a castel sant'angelo
 
-[![pasquetta1](http://pilde.net/blog/wp-content/uploads/2014/04/pasquetta1.jpg)
+[![pasquetta1]({{baseurl}}/uploads/2014/04/pasquetta1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/04/pasquetta1.jpg)
+]({{baseurl}}/uploads/2014/04/pasquetta1.jpg)
 
 
-[![pasquetta_marghe](http://pilde.net/blog/wp-content/uploads/2014/04/pasquetta_marghe.jpg)
+[![pasquetta_marghe]({{baseurl}}/uploads/2014/04/pasquetta_marghe.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/04/pasquetta_marghe.jpg)
+]({{baseurl}}/uploads/2014/04/pasquetta_marghe.jpg)
 
 
 Grattachecca ....e pizza di pasqua col salame! Ottimo no??
 
-[![mati](http://pilde.net/blog/wp-content/uploads/2014/04/mati.jpg)
+[![mati]({{baseurl}}/uploads/2014/04/mati.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/04/mati.jpg)
+]({{baseurl}}/uploads/2014/04/mati.jpg)
 
 
-[![pasquetta_2](http://pilde.net/blog/wp-content/uploads/2014/04/pasquetta_2.jpg)
+[![pasquetta_2]({{baseurl}}/uploads/2014/04/pasquetta_2.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/04/pasquetta_2.jpg)
+]({{baseurl}}/uploads/2014/04/pasquetta_2.jpg)
 
 
 E poi relax a casa!
 
-[![m&m](http://pilde.net/blog/wp-content/uploads/2014/04/mm.jpg)
+[![m&m]({{baseurl}}/uploads/2014/04/mm.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/04/mm.jpg)
+]({{baseurl}}/uploads/2014/04/mm.jpg)
 
 
 

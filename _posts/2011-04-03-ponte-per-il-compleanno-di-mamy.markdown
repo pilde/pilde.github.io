@@ -19,7 +19,7 @@ Meta Sabaudia, obiettivo mare e relax!
 
 Però SGRUNT .. c'è vento in riva al mare oggi ....
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/04/sgrunt.jpg)
+[![]({{baseurl}}/uploads/2011/04/sgrunt.jpg)
 
 
 ](http://None)
@@ -31,7 +31,7 @@ Però SGRUNT .. c'è vento in riva al mare oggi ....
 
 Poi una bella cenetta in camper e infine anche la torta! Auguri mamy!!!!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/04/compleanno_mamma.jpg)
+[![]({{baseurl}}/uploads/2011/04/compleanno_mamma.jpg)
 
 
 ](http://None)
@@ -41,7 +41,7 @@ Poi una bella cenetta in camper e infine anche la torta! Auguri mamy!!!!
 
 E dopo una bella dormita coccolati dal rumore del mare la colazione ... e che vista!!!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/04/colazione_camper.jpg)
+[![]({{baseurl}}/uploads/2011/04/colazione_camper.jpg)
 
 
 ](http://None)
@@ -51,7 +51,7 @@ E dopo una bella dormita coccolati dal rumore del mare la colazione ... e che vi
 
 Oggi invece sembra proprio estate!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/04/scala2.jpg)
+[![]({{baseurl}}/uploads/2011/04/scala2.jpg)
 
 
 ](http://None)
@@ -64,7 +64,7 @@ e stiamo insieme ai nostri amici.... 'che vita de stenti' ... come direbbe mapy,
 
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/04/bbque.jpg)
+[![]({{baseurl}}/uploads/2011/04/bbque.jpg)
 
 
 ](http://None)
@@ -77,7 +77,7 @@ e stiamo insieme ai nostri amici.... 'che vita de stenti' ... come direbbe mapy,
 
  e tanti giochi!!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/04/racchettoni.jpg)
+[![]({{baseurl}}/uploads/2011/04/racchettoni.jpg)
 
 
 ](http://None)

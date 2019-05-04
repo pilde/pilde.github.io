@@ -13,28 +13,28 @@ categories:
 
 ...di danze...
 
-![festa.JPG](http://pilde.net/blog/wp-content/uploads/2007/09/festa.JPG)
+![festa.JPG]({{baseurl}}/uploads/2007/09/festa.JPG)
 
 
 
 
 ....di amache....
 
-![amaca.jpg](http://pilde.net/blog/wp-content/uploads/2007/09/amaca.jpg)
+![amaca.jpg]({{baseurl}}/uploads/2007/09/amaca.jpg)
 
 
 
 
 ... di cappellini....
 
-![cappellini.jpg](http://pilde.net/blog/wp-content/uploads/2007/09/cappellini.jpg)
+![cappellini.jpg]({{baseurl}}/uploads/2007/09/cappellini.jpg)
 
 
 
 
 ....di torte...
 
-![torte2.jpg](http://pilde.net/blog/wp-content/uploads/2007/09/torte2.jpg)
+![torte2.jpg]({{baseurl}}/uploads/2007/09/torte2.jpg)
 
 
 

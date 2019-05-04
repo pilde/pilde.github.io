@@ -12,12 +12,12 @@ categories:
 - Presentazione
 ---
 
-![](http://pilde.net/blog/wp-content/uploads/2010/01/smorfia_marghe.jpg)
+![]({{baseurl}}/uploads/2010/01/smorfia_marghe.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2010/01/mati_trav.jpg)
+![]({{baseurl}}/uploads/2010/01/mati_trav.jpg)
 
 
 

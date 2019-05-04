@@ -33,7 +33,7 @@ So dire scendo (dal seggiolone)
  e molti altri ...
 Mi piace cantare canzoncine buffe e ripeto tutto quello che mi dicono.
 
-![sorriso.jpg](http://pilde.net/blog/wp-content/uploads/2008/01/sorriso.jpg)
+![sorriso.jpg]({{baseurl}}/uploads/2008/01/sorriso.jpg)
 
 
 

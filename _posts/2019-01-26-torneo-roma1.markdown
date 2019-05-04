@@ -13,10 +13,10 @@ categories:
 
 Siamo alla 4 tappa del torneo di tennis PIA Roma1, e con la vittoria del girone di oggi passo in 12 posizione nella graduatoria!
 
-![torneo_tennis](http://pilde.net/blog/wp-content/uploads/2019/03/torneo_tennis.png)
+![torneo_tennis]({{baseurl}}/uploads/2019/03/torneo_tennis.png)
 
 
- ![torneo_2](http://pilde.net/blog/wp-content/uploads/2019/03/torneo_2.png)
+ ![torneo_2]({{baseurl}}/uploads/2019/03/torneo_2.png)
 
 
 

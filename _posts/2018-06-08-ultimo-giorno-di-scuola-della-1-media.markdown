@@ -14,17 +14,17 @@ categories:
 
 La 1N FOREVER dovrà cambiare nome!!
 
-![fine_scuola_0](http://pilde.net/blog/wp-content/uploads/2018/06/fine_scuola_0.png)
+![fine_scuola_0]({{baseurl}}/uploads/2018/06/fine_scuola_0.png)
 
 
 
 
 Finalmente è finita la scuola....e tutti a mangiare da Mc Donald's....anzi "mamma possiamo venire a mangiare a casa che qui non c'è posto?"
 
-![fine_scuola_1](http://pilde.net/blog/wp-content/uploads/2018/06/fine_scuola_1.png)
+![fine_scuola_1]({{baseurl}}/uploads/2018/06/fine_scuola_1.png)
 
 
- e poi tutti in Caffarella a farsi i gavettoni ![fine_scuola_2](http://pilde.net/blog/wp-content/uploads/2018/06/fine_scuola_2.png)
+ e poi tutti in Caffarella a farsi i gavettoni ![fine_scuola_2]({{baseurl}}/uploads/2018/06/fine_scuola_2.png)
 
 
 ma da noi è più divertente però!! :)

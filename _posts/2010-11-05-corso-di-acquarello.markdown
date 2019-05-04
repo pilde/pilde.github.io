@@ -14,14 +14,14 @@ categories:
 
 Oggi sono andata al corso di acquarello insieme alle mie amiche! Cristina ci ha insegnato le tecniche dell'asciutto su bagnato e bagnato su bagnato e abbiamo fatto anche un cielo stellato!
 
-![](http://pilde.net/blog/wp-content/uploads/2010/11/acquarello1.jpg)
+![]({{baseurl}}/uploads/2010/11/acquarello1.jpg)
 
 
 
 
 E infine un disegno con le casette con la nebbia e una piccola magia!
 
-![](http://pilde.net/blog/wp-content/uploads/2010/11/acquarello2.jpg)
+![]({{baseurl}}/uploads/2010/11/acquarello2.jpg)
 
 
 

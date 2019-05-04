@@ -12,7 +12,7 @@ categories:
 - Eventi
 ---
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/10/logo_explora.gif)
+[![]({{baseurl}}/uploads/2008/10/logo_explora.gif)
 
 
 ](http://None)
@@ -22,7 +22,7 @@ categories:
 
 Oggi sono stata con Caterina e Sofia al museo Explora...è bellissimo, pieno di giochi e divertimenti. A Caterina è piaciuto... e tanto per cambiare rideva ....
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/10/risate.jpg)
+[![]({{baseurl}}/uploads/2008/10/risate.jpg)
 
 
 ](http://None)
@@ -32,7 +32,7 @@ Oggi sono stata con Caterina e Sofia al museo Explora...è bellissimo, pieno di 
 
 e Sofia ed io abbiamo partecipato all'installazione di Bruno Munari, dove c'erano delle scatole misteriose, dei libri strani, la foresta di libri...
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/10/foresta.jpg)
+[![]({{baseurl}}/uploads/2008/10/foresta.jpg)
 
 
 ](http://None)
@@ -45,7 +45,7 @@ le tane degli animaletti da provare.... (P era un pò grosso ma è entrato in t
 
  
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/10/tane1.jpg)
+[![]({{baseurl}}/uploads/2008/10/tane1.jpg)
 
 
 ](http://None)
@@ -55,7 +55,7 @@ le tane degli animaletti da provare.... (P era un pò grosso ma è entrato in t
 
 la più bella e comoda era quella rossa...moolto chic!!
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/10/tane2.jpg)
+[![]({{baseurl}}/uploads/2008/10/tane2.jpg)
 
 
 ](http://None)
@@ -68,7 +68,7 @@ e le mattonelle 'buffe' per creare tanti disegni ... non so se sono piaciute pi�
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2008/10/scrap.jpg)
+![]({{baseurl}}/uploads/2008/10/scrap.jpg)
 
 
 

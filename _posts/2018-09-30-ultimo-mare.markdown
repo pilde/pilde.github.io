@@ -13,19 +13,19 @@ categories:
 
 E' proprio la fine di settembre, ma ancora riusciamo a passare una giornata al mare....facendo anche il bagno, un pò di acrobazie....brava Prischina!
 
-![giuly&prisca](http://pilde.net/blog/wp-content/uploads/2018/11/giulyprisca.jpg)
+![giuly&prisca]({{baseurl}}/uploads/2018/11/giulyprisca.jpg)
 
 
- e una veleggiata![vela1](http://pilde.net/blog/wp-content/uploads/2018/11/vela1.jpg)
+ e una veleggiata![vela1]({{baseurl}}/uploads/2018/11/vela1.jpg)
 
 
 .... ancora stanca il mare!!! :)
 
 
- ![stanchi](http://pilde.net/blog/wp-content/uploads/2018/11/stanchi.jpg)
+ ![stanchi]({{baseurl}}/uploads/2018/11/stanchi.jpg)
 
 
- un pò di relax a fine giornata ci sta tutto!![relax](http://pilde.net/blog/wp-content/uploads/2018/11/relax.jpg)
+ un pò di relax a fine giornata ci sta tutto!![relax]({{baseurl}}/uploads/2018/11/relax.jpg)
 
 
 

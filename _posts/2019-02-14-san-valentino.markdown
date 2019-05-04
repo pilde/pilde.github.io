@@ -13,7 +13,7 @@ categories:
 
 ... e poi realizzi che l'amore più grande è quello che i figli hanno per te!
 
-![sanvalentino](http://pilde.net/blog/wp-content/uploads/2019/03/sanvalentino.jpg)
+![sanvalentino]({{baseurl}}/uploads/2019/03/sanvalentino.jpg)
 
 
 

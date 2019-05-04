@@ -13,58 +13,58 @@ categories:
 
 Iniziamo dall'addio al nubilato! Una bella cenetta su un barcone sul tevere ....con qualche accessorio divertente....
 
-[![ele](http://pilde.net/blog/wp-content/uploads/2013/10/ele.jpg)
+[![ele]({{baseurl}}/uploads/2013/10/ele.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/ele.jpg)
+]({{baseurl}}/uploads/2013/10/ele.jpg)
 
 
 
 
-[![nubilato1](http://pilde.net/blog/wp-content/uploads/2013/10/nubilato1.jpg)
+[![nubilato1]({{baseurl}}/uploads/2013/10/nubilato1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/nubilato1.jpg)
+]({{baseurl}}/uploads/2013/10/nubilato1.jpg)
 
 
 e un pò di scrap per fare i biglietti di auguri agli sposini!
 
-[![scrap](http://pilde.net/blog/wp-content/uploads/2013/10/scrap.jpg)
+[![scrap]({{baseurl}}/uploads/2013/10/scrap.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/scrap.jpg)
+]({{baseurl}}/uploads/2013/10/scrap.jpg)
 
 
 Poi il grande giorno.... due coccole a Marta per rilassarsi un pò ..
 
-[![marta](http://pilde.net/blog/wp-content/uploads/2013/10/marta.jpg)
+[![marta]({{baseurl}}/uploads/2013/10/marta.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/marta.jpg)
+]({{baseurl}}/uploads/2013/10/marta.jpg)
 
 
 due colpi di spazzola....et voilà!
 
-[![capelli](http://pilde.net/blog/wp-content/uploads/2013/10/capelli.jpg)
+[![capelli]({{baseurl}}/uploads/2013/10/capelli.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/capelli.jpg)
+]({{baseurl}}/uploads/2013/10/capelli.jpg)
 
 
 ... manca solo il vestito... ah ....eccolo!
 
-[![vestito](http://pilde.net/blog/wp-content/uploads/2013/10/vestito.jpg)
+[![vestito]({{baseurl}}/uploads/2013/10/vestito.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/vestito.jpg)
+]({{baseurl}}/uploads/2013/10/vestito.jpg)
 
 
 Ele...lo devi indossare! OK adesso sei perfetta!
 
-[![vestito2](http://pilde.net/blog/wp-content/uploads/2013/10/vestito2.jpg)
+[![vestito2]({{baseurl}}/uploads/2013/10/vestito2.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/vestito2.jpg)
+]({{baseurl}}/uploads/2013/10/vestito2.jpg)
 
 
  Facciamo il taglio del nastro (da cantiere)
@@ -72,76 +72,76 @@ Ele...lo devi indossare! OK adesso sei perfetta!
 
 
 
-[![taglio_nastro](http://pilde.net/blog/wp-content/uploads/2013/10/taglio_nastro.jpg)
+[![taglio_nastro]({{baseurl}}/uploads/2013/10/taglio_nastro.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/taglio_nastro.jpg)
+]({{baseurl}}/uploads/2013/10/taglio_nastro.jpg)
 
 
 e poi tutti i tuoi nipotini intorno
 
-[![bimbi](http://pilde.net/blog/wp-content/uploads/2013/10/bimbi.jpg)
+[![bimbi]({{baseurl}}/uploads/2013/10/bimbi.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/bimbi.jpg)
+]({{baseurl}}/uploads/2013/10/bimbi.jpg)
 
 
 che non vedevano l'ora di portarti il velo!
 
-[![velo](http://pilde.net/blog/wp-content/uploads/2013/10/velo.jpg)
+[![velo]({{baseurl}}/uploads/2013/10/velo.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/velo.jpg)
+]({{baseurl}}/uploads/2013/10/velo.jpg)
 
 
 Si va in chiesa .... e si esce sposati! Facile no??
 
 Evviva gli sposi!
 
-[![mati_salto](http://pilde.net/blog/wp-content/uploads/2013/10/mati_salto.jpg)
+[![mati_salto]({{baseurl}}/uploads/2013/10/mati_salto.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/mati_salto.jpg)
+]({{baseurl}}/uploads/2013/10/mati_salto.jpg)
 
 
 pronta con il riso Cate?
 
-[![cate_riso](http://pilde.net/blog/wp-content/uploads/2013/10/cate_riso.jpg)
+[![cate_riso]({{baseurl}}/uploads/2013/10/cate_riso.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/cate_riso.jpg)
+]({{baseurl}}/uploads/2013/10/cate_riso.jpg)
 
 
 Eccoli!!
 
-[![bacio](http://pilde.net/blog/wp-content/uploads/2013/10/bacio.jpg)
+[![bacio]({{baseurl}}/uploads/2013/10/bacio.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/bacio.jpg)
+]({{baseurl}}/uploads/2013/10/bacio.jpg)
 
 
 Tantissimi auguri ragazzi!!
 
-[![io&mati](http://pilde.net/blog/wp-content/uploads/2013/10/iomati1.jpg)
+[![io&mati]({{baseurl}}/uploads/2013/10/iomati1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/iomati1.jpg)
+]({{baseurl}}/uploads/2013/10/iomati1.jpg)
 
 
 Da tutti noi!
 
-[![noi2](http://pilde.net/blog/wp-content/uploads/2013/10/noi2.jpg)
+[![noi2]({{baseurl}}/uploads/2013/10/noi2.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/10/noi2.jpg)
+]({{baseurl}}/uploads/2013/10/noi2.jpg)
 
 
 E per regalo un oggetto speciale fatto da andrea, il cavatappiano!!
 
-[![cavatappiano](http://pilde.net/blog/wp-content/uploads/2013/09/cavatappiano.jpg)
+[![cavatappiano]({{baseurl}}/uploads/2013/09/cavatappiano.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/09/cavatappiano.jpg)
+]({{baseurl}}/uploads/2013/09/cavatappiano.jpg)
 
 
 

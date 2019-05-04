@@ -12,92 +12,92 @@ categories:
 - Giochi
 ---
 
-C'è da stare tranquilli ovviamente!! La banda è organizzata: Matteo, Matilde, Caterina,  Margherita[![banda](http://pilde.net/blog/wp-content/uploads/2014/08/banda.jpg)
+C'è da stare tranquilli ovviamente!! La banda è organizzata: Matteo, Matilde, Caterina,  Margherita[![banda]({{baseurl}}/uploads/2014/08/banda.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/08/banda.jpg)
+]({{baseurl}}/uploads/2014/08/banda.jpg)
 
 
 e le due mascotte Emma e Laura
 
-[![emma&laura](http://pilde.net/blog/wp-content/uploads/2014/08/emmalaura.jpg)
+[![emma&laura]({{baseurl}}/uploads/2014/08/emmalaura.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/08/emmalaura.jpg)
+]({{baseurl}}/uploads/2014/08/emmalaura.jpg)
 
 
 I grandi, Mati e Matti, fanno il corso di vela
 
-[![corso_vela](http://pilde.net/blog/wp-content/uploads/2014/08/corso_vela.jpg)
+[![corso_vela]({{baseurl}}/uploads/2014/08/corso_vela.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/08/corso_vela.jpg)
+]({{baseurl}}/uploads/2014/08/corso_vela.jpg)
 
 
-[![brevetto](http://pilde.net/blog/wp-content/uploads/2014/08/brevetto.jpg)
+[![brevetto]({{baseurl}}/uploads/2014/08/brevetto.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/08/brevetto.jpg)
+]({{baseurl}}/uploads/2014/08/brevetto.jpg)
 
 
- [![mati](http://pilde.net/blog/wp-content/uploads/2014/08/mati.jpg)
+ [![mati]({{baseurl}}/uploads/2014/08/mati.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/08/mati.jpg)
+]({{baseurl}}/uploads/2014/08/mati.jpg)
 
 
 e si divertono tantissimo.... ma soprattutto stringono un'amicizia forte basata sul calcio!! :D
 
-[![m&matt_guantone](http://pilde.net/blog/wp-content/uploads/2014/08/mmatt_guantone.jpg)
+[![m&matt_guantone]({{baseurl}}/uploads/2014/08/mmatt_guantone.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/08/mmatt_guantone.jpg)
+]({{baseurl}}/uploads/2014/08/mmatt_guantone.jpg)
 
 
- [![m&matt_sorriso](http://pilde.net/blog/wp-content/uploads/2014/08/mmatt_sorriso.jpg)
+ [![m&matt_sorriso]({{baseurl}}/uploads/2014/08/mmatt_sorriso.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/08/mmatt_sorriso.jpg)
+]({{baseurl}}/uploads/2014/08/mmatt_sorriso.jpg)
 
 
- [![m&matt1](http://pilde.net/blog/wp-content/uploads/2014/08/mmatt1.jpg)
+ [![m&matt1]({{baseurl}}/uploads/2014/08/mmatt1.jpg)
 
 
-![andrea_pallone](http://pilde.net/blog/wp-content/uploads/2014/08/andrea_pallone.jpg)
+![andrea_pallone]({{baseurl}}/uploads/2014/08/andrea_pallone.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/08/andrea_pallone.jpg)
+]({{baseurl}}/uploads/2014/08/andrea_pallone.jpg)
 
 
 e tutte le altre si divertono in spiaggia!!
 
-[![marghe_cate](http://pilde.net/blog/wp-content/uploads/2014/08/marghe_cate.jpg)
+[![marghe_cate]({{baseurl}}/uploads/2014/08/marghe_cate.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/08/marghe_cate.jpg)
+]({{baseurl}}/uploads/2014/08/marghe_cate.jpg)
 
 
- [![mati_cate](http://pilde.net/blog/wp-content/uploads/2014/08/mati_cate.jpg)
+ [![mati_cate]({{baseurl}}/uploads/2014/08/mati_cate.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/08/mati_cate.jpg)
+]({{baseurl}}/uploads/2014/08/mati_cate.jpg)
 
 
 Mitici papà ... dall'alba
 
-[![luca](http://pilde.net/blog/wp-content/uploads/2014/08/luca.jpg)
+[![luca]({{baseurl}}/uploads/2014/08/luca.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/08/luca.jpg)
+]({{baseurl}}/uploads/2014/08/luca.jpg)
 
 
  al tramonto (birretta inclusa)
 
 
-!!![![andrea_tramonto](http://pilde.net/blog/wp-content/uploads/2014/08/andrea_tramonto.jpg)
+!!![![andrea_tramonto]({{baseurl}}/uploads/2014/08/andrea_tramonto.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/08/andrea_tramonto.jpg)
+]({{baseurl}}/uploads/2014/08/andrea_tramonto.jpg)
 
 
 

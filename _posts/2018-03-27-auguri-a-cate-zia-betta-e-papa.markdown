@@ -15,17 +15,17 @@ categories:
 
 Sotto l'attenta guida di Mati....si producono slime di tutti i tipi
 
-![cate1](http://pilde.net/blog/wp-content/uploads/2018/03/cate1.png)
+![cate1]({{baseurl}}/uploads/2018/03/cate1.png)
 
 
-e poi una torta di marschmallow ![cate2](http://pilde.net/blog/wp-content/uploads/2018/03/cate2.png)
+e poi una torta di marschmallow ![cate2]({{baseurl}}/uploads/2018/03/cate2.png)
 
 
 
 
 **21 marzo**: compleanno di zia Betta....ma lei povera era un pò influenzata!
 
-![betta](http://pilde.net/blog/wp-content/uploads/2018/03/betta.png)
+![betta]({{baseurl}}/uploads/2018/03/betta.png)
 
 
 **27 marzo**: colazione a sorpresa per papone con un pò di amici (che facce addormentate!!!)
@@ -33,10 +33,10 @@ e poi una torta di marschmallow ![cate2](http://pilde.net/blog/wp-content/upload
 
 
 
-![papo](http://pilde.net/blog/wp-content/uploads/2018/03/papo.png)
+![papo]({{baseurl}}/uploads/2018/03/papo.png)
 
 
- ![papo2](http://pilde.net/blog/wp-content/uploads/2018/03/papo2.png)
+ ![papo2]({{baseurl}}/uploads/2018/03/papo2.png)
 
 
 

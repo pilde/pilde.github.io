@@ -13,10 +13,10 @@ categories:
 
 Appuntamento a via dei fori imperiali e poi partenza per la maratona stracittadina di 5Km....
 
-![fun_run](http://pilde.net/blog/wp-content/uploads/2017/05/fun_run.jpg)
+![fun_run]({{baseurl}}/uploads/2017/05/fun_run.jpg)
 
 
-tutta sotto la pioggia ....  ![fun_run_2](http://pilde.net/blog/wp-content/uploads/2017/05/fun_run_2.jpg)
+tutta sotto la pioggia ....  ![fun_run_2]({{baseurl}}/uploads/2017/05/fun_run_2.jpg)
 
 
 grandi i ragazzi che non si sono mai fermati insieme a Federica e Andrea !!!! (mamma e meggy hanno barato un pochino)
@@ -24,4 +24,4 @@ grandi i ragazzi che non si sono mai fermati insieme a Federica e Andrea !!!! (m
 
 
 
-[video width="1920" height="1088" mp4="http://pilde.net/blog/wp-content/uploads/2017/05/VID_20170402_092218.mp4"][/video]
+[video width="1920" height="1088" mp4="{{baseurl}}/uploads/2017/05/VID_20170402_092218.mp4"][/video]

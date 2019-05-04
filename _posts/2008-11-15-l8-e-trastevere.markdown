@@ -13,7 +13,7 @@ categories:
 
 Oggi ho preso il tram, l'8, con sophie e nicole e siamo andate a fare una passeggiata al centro!
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/11/tram1.jpg)
+[![]({{baseurl}}/uploads/2008/11/tram1.jpg)
 
 
 ](http://None)
@@ -24,7 +24,7 @@ Oggi ho preso il tram, l'8, con sophie e nicole e siamo andate a fare una passeg
 
  c'era una bellissima fontana
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/11/fontana.jpg)
+[![]({{baseurl}}/uploads/2008/11/fontana.jpg)
 
 
 ](http://None)

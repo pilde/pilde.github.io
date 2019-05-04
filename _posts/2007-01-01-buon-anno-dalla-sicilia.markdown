@@ -17,7 +17,7 @@ Con Mep siamo in Sicilia da zio Nicola e zia Annagloria. Siamo partiti da Napoli
 
 P.S. Oggi si lavora...
 
-![annag.jpg](http://pilde.net/blog/wp-content/uploads/2007/01/annag.jpg)
+![annag.jpg]({{baseurl}}/uploads/2007/01/annag.jpg)
 
 
 

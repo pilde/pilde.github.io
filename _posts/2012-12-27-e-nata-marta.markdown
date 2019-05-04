@@ -16,7 +16,7 @@ Benvenuta piccola e tanti auguri a mamma Francesca (Cicia)
 
  e papà Emanuele!!
 
-![cicogna3](http://pilde.net/blog/wp-content/uploads/2012/12/cicogna3.jpg)
+![cicogna3]({{baseurl}}/uploads/2012/12/cicogna3.jpg)
 
 
 

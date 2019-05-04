@@ -13,14 +13,14 @@ categories:
 
 Come cresce questa sorellina....adesso sta seduta da sola sul tappeto....
 
-![](http://pilde.net/blog/wp-content/uploads/2009/03/seduta.jpg)
+![]({{baseurl}}/uploads/2009/03/seduta.jpg)
 
 
 
 
 sul seggiolone....
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/03/seggiolone.jpg)
+[![]({{baseurl}}/uploads/2009/03/seggiolone.jpg)
 
 
 ](http://None)
@@ -30,7 +30,7 @@ sul seggiolone....
 
 e ha anche iniziato a fare le pappe! Non ama molto la sbobba che le da mamma ma se ci mette anche la frutta la mangia di gusto!
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/03/pappa.jpg)
+[![]({{baseurl}}/uploads/2009/03/pappa.jpg)
 
 
 ](http://None)
@@ -44,7 +44,7 @@ e ha anche iniziato a fare le pappe! Non ama molto la sbobba che le da mamma ma 
 
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2009/03/bagnetto.jpg)
+[![]({{baseurl}}/uploads/2009/03/bagnetto.jpg)
 
 
 ](http://None)

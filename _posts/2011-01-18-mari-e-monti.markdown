@@ -14,7 +14,7 @@ categories:
 
 In questo we di belle giornate abbiamo organizzato con la truppa una gita sulla neve a Campofelice sabato ...neve non ce ne era tantissima, ma con lo slittino si andava benissimo!!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/01/slittino.jpg)
+[![]({{baseurl}}/uploads/2011/01/slittino.jpg)
 
 
 ](http://None)
@@ -22,7 +22,7 @@ In questo we di belle giornate abbiamo organizzato con la truppa una gita sulla 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2011/01/marghe_p_neve.jpg)
+![]({{baseurl}}/uploads/2011/01/marghe_p_neve.jpg)
 
 
 
@@ -32,7 +32,7 @@ La reginetta della neve però è sempre lei!!! Alessietta!![](http://None)
 
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/01/reginetta_neve.jpg)
+[![]({{baseurl}}/uploads/2011/01/reginetta_neve.jpg)
 
 
 ](http://None)
@@ -42,7 +42,7 @@ La reginetta della neve però è sempre lei!!! Alessietta!![](http://None)
 
 Stanchi e infreddoliti ci siamo scaldati con un'ottima polenta, vero Chiara??
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/01/polenta.jpg)
+[![]({{baseurl}}/uploads/2011/01/polenta.jpg)
 
 
 ](http://None)
@@ -52,7 +52,7 @@ Stanchi e infreddoliti ci siamo scaldati con un'ottima polenta, vero Chiara??
 
 Poi con un'escursione termica di circa 15 gradi domenica la truppa si è spostata a Marina di San Nicola a fare un disordinato e sabbioso picnic in riva al mare!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/01/picnic_spiaggia.jpg)
+[![]({{baseurl}}/uploads/2011/01/picnic_spiaggia.jpg)
 
 
 ](http://None)
@@ -62,7 +62,7 @@ Poi con un'escursione termica di circa 15 gradi domenica la truppa si è spostat
 
 I bimbi hanno costruito il loro parco giochi
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/01/parco_giochi.jpg)
+[![]({{baseurl}}/uploads/2011/01/parco_giochi.jpg)
 
 
 ](http://None)
@@ -72,7 +72,7 @@ I bimbi hanno costruito il loro parco giochi
 
 Matilde ha fatto un pò la solitaria sul tronco
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/01/mati_spiaggia.jpg)
+[![]({{baseurl}}/uploads/2011/01/mati_spiaggia.jpg)
 
 
 ](http://None)
@@ -82,7 +82,7 @@ Matilde ha fatto un pò la solitaria sul tronco
 
 e Marghe dopo aver magiato un bel pò di sabbia ed averla infilata nel body si è sdraiata e ha detto 'papy mi coccoli?'
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/01/coccole_papy.jpg)
+[![]({{baseurl}}/uploads/2011/01/coccole_papy.jpg)
 
 
 ](http://None)

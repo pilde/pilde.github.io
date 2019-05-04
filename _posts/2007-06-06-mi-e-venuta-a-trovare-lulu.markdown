@@ -13,7 +13,7 @@ categories:
 
 Qualche giorno fa mi è venuta a trovare Lulù e si è ciucciata tutti i miei pupazzetti!
 
-![lulu.jpg](http://pilde.net/blog/wp-content/uploads/2007/06/lulu.jpg)
+![lulu.jpg]({{baseurl}}/uploads/2007/06/lulu.jpg)
 
 
 

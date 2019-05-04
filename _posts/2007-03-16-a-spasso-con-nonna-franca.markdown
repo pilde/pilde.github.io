@@ -15,7 +15,7 @@ Oggi ho inaugurato il passeggino che useranno i nonni per portarmi a spasso.
 
 Sono stata con nonna Franca in un bel posto pieno di alberi e un verdissimo prato.
 
-![nonnaf.jpg](http://pilde.net/blog/wp-content/uploads/2007/03/nonnaf.jpg)
+![nonnaf.jpg]({{baseurl}}/uploads/2007/03/nonnaf.jpg)
 
 
 

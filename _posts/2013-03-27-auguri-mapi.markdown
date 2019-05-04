@@ -11,10 +11,10 @@ categories:
 - Compleanni
 ---
 
-[![compleanno_andrea](http://pilde.net/blog/wp-content/uploads/2013/03/compleanno_andrea.jpg)
+[![compleanno_andrea]({{baseurl}}/uploads/2013/03/compleanno_andrea.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2013/03/compleanno_andrea.jpg)
+]({{baseurl}}/uploads/2013/03/compleanno_andrea.jpg)
 
 
 

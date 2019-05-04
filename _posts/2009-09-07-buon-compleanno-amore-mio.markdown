@@ -13,7 +13,7 @@ categories:
 
 Oggi compi 3 anni cucciola di mamma!Auguri per un nuovo anno meraviglioso ricco di avventure, di amici e di serenità!
 
-![](http://pilde.net/blog/wp-content/uploads/2009/09/compleanno.jpg)
+![]({{baseurl}}/uploads/2009/09/compleanno.jpg)
 
 
 

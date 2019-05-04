@@ -13,14 +13,14 @@ categories:
 
 Ieri sera sono andata a cena dalla mia gemellina Toporosa.
 
-![topo4.jpg](http://pilde.net/blog/wp-content/uploads/2007/10/topo4.jpg)
+![topo4.jpg]({{baseurl}}/uploads/2007/10/topo4.jpg)
 
 
 
 
 E' stata una serata divertente e movimentata! All'inizio le levavo e le rimettevo il ciuccio...
 
-![topo1.jpg](http://pilde.net/blog/wp-content/uploads/2007/10/topo1.jpg)
+![topo1.jpg]({{baseurl}}/uploads/2007/10/topo1.jpg)
 
 
 
@@ -33,7 +33,7 @@ Poi mentre i grandi mangiavano ci siamo messe a giocare per conto nostro e quand
 
 
 
-![topo3.jpg](http://pilde.net/blog/wp-content/uploads/2007/10/topo3.jpg)
+![topo3.jpg]({{baseurl}}/uploads/2007/10/topo3.jpg)
 
 
 

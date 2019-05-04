@@ -15,36 +15,36 @@ categories:
 
 All'asilo di Marghe hanno organizzato una bellissima festa di fine anno! Tutti i genitori e i bambini sono stati invitati a cena....
 
-![](http://pilde.net/blog/wp-content/uploads/2010/06/invito.jpg)
+![]({{baseurl}}/uploads/2010/06/invito.jpg)
 
 
 
 
 ... nella terrazza festosamente addobbata.
 
-![](http://pilde.net/blog/wp-content/uploads/2010/06/terrazza.jpg)
+![]({{baseurl}}/uploads/2010/06/terrazza.jpg)
 
 
 Abbiamo gustato le prelibatezze del mitico cuoco Angelo e la magnifica organizzazione di tutte le maestre e lo staff insieme agli altri genitori
 
-![](http://pilde.net/blog/wp-content/uploads/2010/06/cena.jpg)
+![]({{baseurl}}/uploads/2010/06/cena.jpg)
 
 
 
 
 Noi bimbi invece abbiamo giocato...chi sulle molle
 
-![](http://pilde.net/blog/wp-content/uploads/2010/06/marghe_diego.jpg)
+![]({{baseurl}}/uploads/2010/06/marghe_diego.jpg)
 
 
 chi arrampicandosi...
 
-![](http://pilde.net/blog/wp-content/uploads/2010/06/mati_arrampica.jpg)
+![]({{baseurl}}/uploads/2010/06/mati_arrampica.jpg)
 
 
 E' stata proprio una bella serata. Le sorelline ringraziano!
 
-![](http://pilde.net/blog/wp-content/uploads/2010/06/sorelline.jpg)
+![]({{baseurl}}/uploads/2010/06/sorelline.jpg)
 
 
 

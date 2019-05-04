@@ -13,10 +13,10 @@ categories:
 
 Cari amici, oggi una giornata speciale. Finalemnte è caduto l'utlimo pezzetto di cordone ombelicale di Margherita e abbiamo deciso di farci il bagnetto insieme.
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/10/bagnetto.jpg)
+[![]({{baseurl}}/uploads/2008/10/bagnetto.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2008/10/bagnetto.jpg)
+]({{baseurl}}/uploads/2008/10/bagnetto.jpg)
 
 
 

@@ -13,7 +13,7 @@ categories:
 
 Auguri cuginetta!!!
 
-![](http://pilde.net/blog/wp-content/uploads/2010/03/comple_cate_blog.jpg)
+![]({{baseurl}}/uploads/2010/03/comple_cate_blog.jpg)
 
 
 

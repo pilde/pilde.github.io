@@ -15,36 +15,36 @@ Atterriamo a roma e chi ci viene a prendere all'aereoporto facendoci una belliss
 
 Il we lo trascorriamo con lei senza staccarci mai ... Matilde nemmeno per dormire!!! Sabato andiamo a vedere la mostra del National Geographic e domenica andiamo in campagna dai nonni
 
-[![passeggiata](http://pilde.net/blog/wp-content/uploads/2014/05/passeggiata.jpg)
+[![passeggiata]({{baseurl}}/uploads/2014/05/passeggiata.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/05/passeggiata.jpg)
+]({{baseurl}}/uploads/2014/05/passeggiata.jpg)
 
 
- [![ponticello](http://pilde.net/blog/wp-content/uploads/2014/05/ponticello.jpg)
+ [![ponticello]({{baseurl}}/uploads/2014/05/ponticello.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/05/ponticello.jpg)
+]({{baseurl}}/uploads/2014/05/ponticello.jpg)
 
 
- [![fango](http://pilde.net/blog/wp-content/uploads/2014/05/fango.jpg)
+ [![fango]({{baseurl}}/uploads/2014/05/fango.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/05/fango.jpg)
+]({{baseurl}}/uploads/2014/05/fango.jpg)
 
 
- [![altalena](http://pilde.net/blog/wp-content/uploads/2014/05/altalena.jpg)
+ [![altalena]({{baseurl}}/uploads/2014/05/altalena.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/05/altalena.jpg)
+]({{baseurl}}/uploads/2014/05/altalena.jpg)
 
 
 Che bello stare con zia!!!
 
-[![marghe_fiori](http://pilde.net/blog/wp-content/uploads/2014/05/marghe_fiori.jpg)
+[![marghe_fiori]({{baseurl}}/uploads/2014/05/marghe_fiori.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/05/marghe_fiori.jpg)
+]({{baseurl}}/uploads/2014/05/marghe_fiori.jpg)
 
 
 

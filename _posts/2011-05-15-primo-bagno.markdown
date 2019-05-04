@@ -14,7 +14,7 @@ categories:
 
 Il we promette bene così ce ne andiamo tutti al mare a Sabaudia.
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/05/primo_bagno.jpg)
+[![]({{baseurl}}/uploads/2011/05/primo_bagno.jpg)
 
 
 ](http://None)
@@ -27,7 +27,7 @@ C'è molto vento ma anche un bel sole caldo, e anche se l'acqua è gelata faccia
 
 
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/05/primo_bagno_mati.jpg)
+[![]({{baseurl}}/uploads/2011/05/primo_bagno_mati.jpg)
 
 
 ](http://None)
@@ -37,7 +37,7 @@ C'è molto vento ma anche un bel sole caldo, e anche se l'acqua è gelata faccia
 
 Abbiamo anche trovato dell'ottimo pesce fresco in cassetta!
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/05/cassetta.jpg)
+[![]({{baseurl}}/uploads/2011/05/cassetta.jpg)
 
 
 ](http://None)

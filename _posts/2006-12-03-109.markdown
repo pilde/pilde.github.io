@@ -11,7 +11,7 @@ categories:
 - Amici
 ---
 
-![alessia-3-dicembre-2006-002_bis.jpg](http://pilde.net/blog/wp-content/uploads/2006/12/alessia-3-dicembre-2006-002_bis.jpg)
+![alessia-3-dicembre-2006-002_bis.jpg]({{baseurl}}/uploads/2006/12/alessia-3-dicembre-2006-002_bis.jpg)
 
 
 

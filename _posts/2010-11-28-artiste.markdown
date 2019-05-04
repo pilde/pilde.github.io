@@ -12,7 +12,7 @@ categories:
 - Giochi
 ---
 
-Nelle giornate di pioggia ci piace colorare...![](http://pilde.net/blog/wp-content/uploads/2010/12/cuginette.jpg)
+Nelle giornate di pioggia ci piace colorare...![]({{baseurl}}/uploads/2010/12/cuginette.jpg)
 
 
 
@@ -22,7 +22,7 @@ siamo proprio delle piccole artiste (un pò pasticcione ma moooolto creative!)
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2010/12/piccola_artista.jpg)
+![]({{baseurl}}/uploads/2010/12/piccola_artista.jpg)
 
 
 

@@ -14,14 +14,14 @@ categories:
 
 Oggi all'asilo di Marghe c'è stata la festa in maschera! Erano bellissimi tutti i bimbi!
 
-![](http://pilde.net/blog/wp-content/uploads/2010/02/carnevale2.jpg)
+![]({{baseurl}}/uploads/2010/02/carnevale2.jpg)
 
 
 
 
 e c'era anche il mago!
 
-![](http://pilde.net/blog/wp-content/uploads/2010/02/mago.jpg)
+![]({{baseurl}}/uploads/2010/02/mago.jpg)
 
 
 

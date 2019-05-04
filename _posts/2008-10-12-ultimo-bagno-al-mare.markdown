@@ -16,7 +16,7 @@ categories:
 
 Wow che bagnetto speciale che ho fatto a Sabaudia sabato! Io e P e pochi altri...ma l'acqua era caldissima!
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/10/bagno.jpg)
+[![]({{baseurl}}/uploads/2008/10/bagno.jpg)
 
 
 ](http://None)
@@ -26,7 +26,7 @@ Wow che bagnetto speciale che ho fatto a Sabaudia sabato! Io e P e pochi altri..
 
 M e Margherita invece ci guardavano....non sono per niente temerarie!
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/10/marghespiaggia.jpg)
+[![]({{baseurl}}/uploads/2008/10/marghespiaggia.jpg)
 
 
 ](http://None)
@@ -36,7 +36,7 @@ M e Margherita invece ci guardavano....non sono per niente temerarie!
 
 esauste per la giornata di mare io e Margherita ci siamo sdraiate e io le ho fatto le coccole!
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/10/sonnetto.jpg)
+[![]({{baseurl}}/uploads/2008/10/sonnetto.jpg)
 
 
 ](http://None)
@@ -46,7 +46,7 @@ esauste per la giornata di mare io e Margherita ci siamo sdraiate e io le ho fat
 
 Poi quel romanticone di P ci ha portate tutte e 3 a vedere il tramonto sul mare! Evviva Ronzinante!
 
-[![](http://pilde.net/blog/wp-content/uploads/2008/10/tramonto.jpg)
+[![]({{baseurl}}/uploads/2008/10/tramonto.jpg)
 
 
 ](http://None)

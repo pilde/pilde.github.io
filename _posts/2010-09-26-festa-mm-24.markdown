@@ -13,14 +13,14 @@ categories:
 
 M&P hanno organizzato per me e Marghe una bellissima festa a casa! Per l'occasione il terrazzo è stato trasformato in un parco giochi dove tutti i bimbi si sono divertiti!
 
-![](http://pilde.net/blog/wp-content/uploads/2010/09/festa_scrap.jpg)
+![]({{baseurl}}/uploads/2010/09/festa_scrap.jpg)
 
 
 
 
 P ci ha anche dato il permesso di infilare il dito nella torta!!!
 
-![](http://pilde.net/blog/wp-content/uploads/2010/10/torte.jpg)
+![]({{baseurl}}/uploads/2010/10/torte.jpg)
 
 
 

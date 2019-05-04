@@ -13,16 +13,16 @@ categories:
 
 Ricomincia la scuola! Matilde in 3 elementare e Margherita inizia la prima elementare....che emozione!!!
 
-[![marghe_scuola](http://pilde.net/blog/wp-content/uploads/2014/12/marghe_scuola.jpg)
+[![marghe_scuola]({{baseurl}}/uploads/2014/12/marghe_scuola.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/12/marghe_scuola.jpg)
+]({{baseurl}}/uploads/2014/12/marghe_scuola.jpg)
 
 
-[![mati_scuola](http://pilde.net/blog/wp-content/uploads/2014/12/mati_scuola.jpg)
+[![mati_scuola]({{baseurl}}/uploads/2014/12/mati_scuola.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/12/mati_scuola.jpg)
+]({{baseurl}}/uploads/2014/12/mati_scuola.jpg)
 
 
 

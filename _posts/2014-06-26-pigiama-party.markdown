@@ -15,18 +15,18 @@ Queste bimbe sono proprio cresciute ... e vanno a dormire dalle loro amichette!
 
 Mati da Sophie
 
-[![mati&sophie1](http://pilde.net/blog/wp-content/uploads/2014/07/matisophie1.jpg)
+[![mati&sophie1]({{baseurl}}/uploads/2014/07/matisophie1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/07/matisophie1.jpg)
+]({{baseurl}}/uploads/2014/07/matisophie1.jpg)
 
 
 e Marghe da Alessia
 
-[![marghe&alessia1](http://pilde.net/blog/wp-content/uploads/2014/07/marghealessia1.jpg)
+[![marghe&alessia1]({{baseurl}}/uploads/2014/07/marghealessia1.jpg)
 
 
-](http://pilde.net/blog/wp-content/uploads/2014/07/marghealessia1.jpg)
+]({{baseurl}}/uploads/2014/07/marghealessia1.jpg)
 
 
 

@@ -13,21 +13,21 @@ categories:
 
 Oggi sono stata al mare con i nonni
 
-![mare1.jpg](http://pilde.net/blog/wp-content/uploads/2008/03/mare1.jpg)
+![mare1.jpg]({{baseurl}}/uploads/2008/03/mare1.jpg)
 
 
 
 
 Si stava benissimo. Con nonno Gianni ho fatto le buche nella sabbia e poi ci ho infilato i piedini
 
-![mare_tilla.jpg](http://pilde.net/blog/wp-content/uploads/2008/03/mare_tilla.jpg)
+![mare_tilla.jpg]({{baseurl}}/uploads/2008/03/mare_tilla.jpg)
 
 
 
 
 e con nonna Lilli ho guardato i kite
 
-![mare_nonna.jpg](http://pilde.net/blog/wp-content/uploads/2008/03/mare_nonna.jpg)
+![mare_nonna.jpg]({{baseurl}}/uploads/2008/03/mare_nonna.jpg)
 
 
 

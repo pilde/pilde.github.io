@@ -13,7 +13,7 @@ categories:
 
 è ufficiale...Marghe sa dire consapevolmente sia mamma che papà, sa battere le manine, sa fare il leone e sa tirare la palla!!Brava sorellina!
 
-![](http://pilde.net/blog/wp-content/uploads/2009/07/arance.jpg)
+![]({{baseurl}}/uploads/2009/07/arance.jpg)
 
 
 

@@ -13,12 +13,12 @@ categories:
 
 Black&Wite
 
-![pimpa](http://pilde.net/blog/wp-content/uploads/2017/06/pimpa.png)
+![pimpa]({{baseurl}}/uploads/2017/06/pimpa.png)
 
 
 Colors
 
-![quit](http://pilde.net/blog/wp-content/uploads/2017/06/quit.png)
+![quit]({{baseurl}}/uploads/2017/06/quit.png)
 
 
 

@@ -11,7 +11,7 @@ categories:
 - Presentazione
 ---
 
-![martufello.jpg](http://pilde.net/blog/wp-content/uploads/2006/11/martufello.jpg)
+![martufello.jpg]({{baseurl}}/uploads/2006/11/martufello.jpg)
 
 
 

@@ -14,7 +14,7 @@ categories:
 
 Ho visto il teatrino di 'fagiolino' a villa Scipioni insieme a Sofia e Sonia... la trama era un pò complicata ma ci è piaciuto!
 
-![](http://pilde.net/blog/wp-content/uploads/2009/07/teatro12.jpg)
+![]({{baseurl}}/uploads/2009/07/teatro12.jpg)
 
 
 

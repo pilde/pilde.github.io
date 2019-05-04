@@ -12,7 +12,7 @@ categories:
 ---
 
 Per il compleanno di papà me so fatta 'na birretta .... mica male!
-![birretta.jpg](http://pilde.net/blog/wp-content/uploads/2007/03/birretta.jpg)
+![birretta.jpg]({{baseurl}}/uploads/2007/03/birretta.jpg)
 
 
 

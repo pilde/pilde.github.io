@@ -16,7 +16,7 @@ Margherita la peste si è catapultata dal divanetto del camper (so' proprio peri
 
  e CRAC si è rotta la clavicola destra! :(
 
-[![](http://pilde.net/blog/wp-content/uploads/2011/06/marghe_mare1.jpg)
+[![]({{baseurl}}/uploads/2011/06/marghe_mare1.jpg)
 
 
 ](http://None)

@@ -11,7 +11,7 @@ categories:
 - Giochi
 ---
 
-![](http://pilde.net/blog/wp-content/uploads/2006/09/matilde4.jpg)
+![]({{baseurl}}/uploads/2006/09/matilde4.jpg)
 
 
 

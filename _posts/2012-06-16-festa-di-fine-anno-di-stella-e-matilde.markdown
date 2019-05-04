@@ -16,33 +16,33 @@ In questa giornata di calura estiva festeggiamo la fine della scuola e il comple
 
 Le bimbe si divertono a fare tante cose: il pallone nell'acqua
 
-![](http://pilde.net/blog/wp-content/uploads/2012/06/stella_palla.jpg)
+![]({{baseurl}}/uploads/2012/06/stella_palla.jpg)
 
 
 
 
 il tappeto elastico
 
-![](http://pilde.net/blog/wp-content/uploads/2012/06/tapp_elastico.jpg)
+![]({{baseurl}}/uploads/2012/06/tapp_elastico.jpg)
 
 
 
 
 ma dove si fanno davvero tante risate è l'autoscontro
 
-![](http://pilde.net/blog/wp-content/uploads/2012/06/autoscontri_tutte.jpg)
+![]({{baseurl}}/uploads/2012/06/autoscontri_tutte.jpg)
 
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2012/06/autoscontro.jpg)
+![]({{baseurl}}/uploads/2012/06/autoscontro.jpg)
 
 
 
 
 Poi infine le torte
 
-![](http://pilde.net/blog/wp-content/uploads/2012/06/torta.jpg)
+![]({{baseurl}}/uploads/2012/06/torta.jpg)
 
 
 
@@ -52,7 +52,7 @@ e le nostre famiglie (con il solito Falvio imbucato!!!)
 
 
 
-![](http://pilde.net/blog/wp-content/uploads/2012/06/torta_genitori.jpg)
+![]({{baseurl}}/uploads/2012/06/torta_genitori.jpg)
 
 
 

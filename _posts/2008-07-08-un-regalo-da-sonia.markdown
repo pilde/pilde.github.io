@@ -16,7 +16,7 @@ Sonia mi ha regalato questo bellissimo digital scrap! Sei bravissima,grazie! :)
 
 
 
-![principessa_scrap.JPG](http://pilde.net/blog/wp-content/uploads/2008/07/principessa_scrap.JPG)
+![principessa_scrap.JPG]({{baseurl}}/uploads/2008/07/principessa_scrap.JPG)
 
 
 
