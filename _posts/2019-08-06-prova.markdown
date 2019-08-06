@@ -4,6 +4,8 @@ title: Prova
 categories: blog
 ---
 
-Prova pubblicazione post [moochuu](https://pilde.github.io/uploads/2019/01/moochuu.jpg) 
+Prova pubblicazione post 
+
+![moochuu]({{baseurl}}/uploads/2019/01/moochuu.jpg)
 
 con foto
