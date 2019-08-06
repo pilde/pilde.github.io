@@ -6,6 +6,6 @@ categories: blog
 
 Prova pubblicazione post 
 
-con foto
+con foto !!
 
 ![moochuu](https://github.com/pilde/pilde.github.io/blob/master/uploads/2019/01/moochuu.jpg)
