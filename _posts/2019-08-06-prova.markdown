@@ -4,6 +4,6 @@ title: Prova
 categories: blog
 ---
 
-Prova pubblicazione post [moochuu](moochuu.jpg) 
+Prova pubblicazione post [moochuu](uploads/2019/01/moochuu.jpg) 
 
 con foto
