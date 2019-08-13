@@ -172,6 +172,9 @@ locales:
 
 ### your Blogroll info, only name can shown on the page.
 
+prose:
+	media: 'uploads'
+
 Blogroll:
       - name: Freshman
         href: http://yulijia.net/freshman
