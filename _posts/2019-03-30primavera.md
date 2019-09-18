@@ -1,8 +1,8 @@
 ---
-published: true
+published: false
 author: carlotta
 comments: true
-date: 2019-03-26T00:00:00.000Z
+date: {}
 layout: post
 categories: Amici
 ---
@@ -35,3 +35,15 @@ Non possono mancare i compleanni di papà e mamma
 ![compl1]({{site.baseurl}}//uploads/2019/03/papone.jpg)
 
 ![mamma]({{site.baseurl}}/uploads/2019/03/mamma.png)
+
+e quello di nonno Gianni festeggiato in un locale mooooolto fashion 
+
+
+
+... e per la serie ... l'originalità di Meggy 
+
+![auguri]({{site.baseurl}}/uploads/2019/04/auguri.png)
+
+
+
+
