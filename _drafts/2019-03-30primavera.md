@@ -29,3 +29,14 @@ Non possono mancare i compleanni di papà e mamma :)
 ![compl1]({{site.baseurl}}//uploads/2019/03/papone.jpg)
 
 ![mamma]({{site.baseurl}}/uploads/2019/03/mamma.png)
+
+e di nonno Gianni in un locale moooolto fashion
+
+![nonno1]({{site.baseurl}}/uploads/2019/04/nonno1.jpg)
+
+![nonno2]({{site.baseurl}}/uploads/2019/04/nonno2.jpg)
+
+e comunque il regalo più bello è l'originalità di Meggy
+
+![auguri]({{site.baseurl}}/uploads/2019/04/auguri.jpg)
+
