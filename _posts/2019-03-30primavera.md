@@ -38,6 +38,9 @@ Non possono mancare i compleanni di papà e mamma
 
 e quello di nonno Gianni festeggiato in un locale mooooolto fashion 
 
+![nonno1]({{site.baseurl}}/uploads/2019/04/nonno1.png)
+
+![nonno2]({{site.baseurl}}/uploads/2019/04/nonno2.png)
 
 
 ... e per la serie ... l'originalità di Meggy 
