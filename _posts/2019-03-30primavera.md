@@ -15,25 +15,18 @@ e si va in bici
 
 ![bici]({{site.baseurl}}//uploads/2019/03/bici.jpg)
 
-E poi si va al mare a fare il primo bagno (freddina l'acqua)
+E poi si va al mare a fare il primo bagno (acqua freddina)
+
 ![mare1]({{site.baseurl}}//uploads/2019/03/mare1.jpg)
 
 ![mare2]({{site.baseurl}}//uploads/2019/03/mare2.jpg)
 
-e un aperitivo in barca!
+e un aperitivo in barca
 
 ![barca]({{site.baseurl}}//uploads/2019/03/barca1.jpg)
 
-Non possono mancare i compleanni di papà e mamma :)
+Non possono mancare i compleanni di papà e mamma 
 
 ![compl1]({{site.baseurl}}//uploads/2019/03/papone.jpg)
 
 ![mamma]({{site.baseurl}}/uploads/2019/03/mamma.png)
-
-
-
-
-
-
-
-
