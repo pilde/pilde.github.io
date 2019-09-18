@@ -29,11 +29,3 @@ Non possono mancare i compleanni di papà e mamma :)
 ![compl1]({{site.baseurl}}//uploads/2019/03/papone.jpg)
 
 ![mamma]({{site.baseurl}}/uploads/2019/03/mamma.png)
-
-
-
-
-
-
-
-
