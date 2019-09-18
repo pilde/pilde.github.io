@@ -2,7 +2,7 @@
 published: false
 author: carlotta
 comments: true
-date: {}
+date: 2019-03-26T00:00:00.000Z
 layout: post
 categories: Amici
 ---
@@ -20,33 +20,28 @@ e si va in bici
 
 ![bici]({{site.baseurl}}//uploads/2019/03/bici.jpg)
 
-E poi si va al mare a fare il primo bagno (acqua freddina)
-
+E poi si va al mare a fare il primo bagno (freddina l'acqua)
 ![mare1]({{site.baseurl}}//uploads/2019/03/mare1.jpg)
 
 ![mare2]({{site.baseurl}}//uploads/2019/03/mare2.jpg)
 
-e un aperitivo in barca
+e un aperitivo in barca!
 
 ![barca]({{site.baseurl}}//uploads/2019/03/barca1.jpg)
 
-Non possono mancare i compleanni di papà e mamma 
+Non possono mancare i compleanni di papà e mamma :)
 
 ![compl1]({{site.baseurl}}//uploads/2019/03/papone.jpg)
 
 ![mamma]({{site.baseurl}}/uploads/2019/03/mamma.png)
 
-e quello di nonno Gianni festeggiato in un locale mooooolto fashion 
+e di nonno Gianni in un locale moooolto fashion
 
-![nonno1]({{site.baseurl}}/uploads/2019/04/nonno1.png)
+![nonno1]({{site.baseurl}}/uploads/2019/04/nonno1.jpg)
 
-![nonno2]({{site.baseurl}}/uploads/2019/04/nonno2.png)
+![nonno2]({{site.baseurl}}/uploads/2019/04/nonno2.jpg)
 
+e comunque il regalo più bello è l'originalità di Meggy
 
-... e per la serie ... l'originalità di Meggy 
-
-![auguri]({{site.baseurl}}/uploads/2019/04/auguri.png)
-
-
-
+![auguri]({{site.baseurl}}/uploads/2019/04/auguri.jpg)
 
