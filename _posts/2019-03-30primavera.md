@@ -1,10 +1,5 @@
 ---
-published: true
-author: carlotta
-comments: true
-date: 2019-03-26T00:00:00.000Z
-layout: post
-categories: Amici
+published: false
 ---
 ## Primavera
 
@@ -37,11 +32,12 @@ Non possono mancare i compleanni di papà e mamma :)
 
 e di nonno Gianni in un locale moooolto fashion
 
-![nonno1]({{site.baseurl}}/uploads/2019/04/nonno1.jpg)
+![nonno1]({{site.baseurl}}/uploads/2019/04/nonno1.png)
 
-![nonno2]({{site.baseurl}}/uploads/2019/04/nonno2.jpg)
+![nonno2]({{site.baseurl}}/uploads/2019/04/nonno2.png)
+
 
 e comunque il regalo più bello è l'originalità di Meggy
 
-![auguri]({{site.baseurl}}/uploads/2019/04/auguri.jpg)
+![auguri]({{site.baseurl}}/uploads/2019/04/auguri.png)
 
