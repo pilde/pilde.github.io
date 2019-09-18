@@ -40,4 +40,3 @@ e di nonno Gianni in un locale moooolto fashion
 e comunque il regalo più bello è l'originalità di Meggy
 
 ![auguri]({{site.baseurl}}/uploads/2019/04/auguri.png)
-
