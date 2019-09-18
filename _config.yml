@@ -115,24 +115,6 @@ locales:
       About: "소개"
       Guestbook: "방명록"
       Subscribe: "구독하기"
-    ru:
-      Aboutme: "Обо мне" # = 'About me'
-      Archives: "Архив"
-      Blogroll: "Ссылки" # = 'Links'
-      Categories: "Разделы"
-      Copyright_Notice: "Авторские права"
-      Recent_Posts: "Свежие посты"
-      Tags: "Теги"
-      Previous: "Предыдущий пост"          # = 'Previous post'
-      Next: "Следующий пост"               # = 'Next post'
-      PostedInCategories: "Опубликовано в" # = 'Posted in'
-      Taggedwith: "с тегами"
-      PostDate: ""
-      Google_search: "Поиск на Google"
-      Home: "Домой"
-      About: "О блоге"            # = 'About blog'
-      Guestbook: "Гостевая книга"
-      Subscribe: "Подписаться"
     tr:
       Aboutme: "Hakkımda"
       Archives: "Arşivler"
